@@ -989,7 +989,7 @@ public class StepImpl extends HookImpl {
 
         }
         else {
-            System.out.println(key + " element bulunamadi, sıradaki step devam ediyor.");
+            System.out.println(key + " element yuklenmedi");
 
         }}
 
