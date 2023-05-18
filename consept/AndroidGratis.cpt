@@ -31,10 +31,12 @@ This is a concept file with following syntax for each concept.
 
 # Urun listeleme sayfasinda urun favorilere eklenir.
 * Elementine tıkla "favBtn"
+* Elementin yüklenmesini bekle "favKaydetBtn"
 * Elementine tıkla "favKaydetBtn"
 
 # Urun detay sayfasina gecilir ardından urun sepete eklenir.
 
+* Elementin yüklenmesini bekle "sepeteEkle"
 * "sepeteEkle" elementine sayacli tikla "alisveriseDevamEt" value degerini bekle
 * "alisveriseDevamEt" elementine sayacli tikla "geriBtn" value degerini bekle
 
