@@ -8,9 +8,9 @@
 
 # Giris yapilir
 //* "digerSekmesi" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
-* "IOSmail" csv dosyasindan rastgele kullanici sec
-*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
-* "girisYapBtn" elementine sayacli tikla "profilim" value degerini bekle
+//* "IOSmail" csv dosyasindan rastgele kullanici sec
+//*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+//* "girisYapBtn" elementine sayacli tikla "profilim" value degerini bekle
 
 # Kategoriler sayfasina gecilir
 * "kategorilerSekmesi" elementine sayacli tikla "kategorilerNavbar" value degerini bekle
