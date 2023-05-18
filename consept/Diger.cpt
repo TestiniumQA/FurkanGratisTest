@@ -26,8 +26,6 @@
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 //* "urunDetaySayfasiSepeteEkleBtn" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
 //* "urunDetaySepeteEklePopUpSepeteGit" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
 
@@ -54,7 +52,6 @@
 
 # Sepette bulunan urunler silinir
 * "digerSepetIcon" elementine sayacli tikla "sepetiKapatmaTitle" value degerini bekle
-* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
