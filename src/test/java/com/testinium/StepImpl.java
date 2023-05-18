@@ -621,7 +621,6 @@ public class StepImpl extends HookImpl {
     public void waitBySecond(int seconds) {
         try {
             TimeUnit.SECONDS.sleep(seconds);
-            logger.info( seconds + "saniye elementin yüklenmesi beklendi ");
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

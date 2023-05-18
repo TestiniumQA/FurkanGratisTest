@@ -36,7 +36,7 @@ This is a concept file with following syntax for each concept.
 
 # Urun detay sayfasina gecilir ardından urun sepete eklenir.
 
-* "3" saniye bekle
+* "5" saniye bekle
 * "sepeteEkle" elementine sayacli tikla "alisveriseDevamEt" value degerini bekle
 * "alisveriseDevamEt" elementine sayacli tikla "geriBtn" value degerini bekle
 
