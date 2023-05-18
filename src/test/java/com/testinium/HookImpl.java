@@ -139,6 +139,7 @@ public class HookImpl {
                 capabilities.setCapability("appium:[skipDeviceInitialization]",true);
                 capabilities.setCapability("appium:[skipServerInstallation]",true);
                 capabilities.setCapability("appium:[ignoreUnimportantViews]",true);
+                capabilities.setCapability("appium:settings[waitForIdleTimeout]",10);
                 appiumDriver = new IOSDriver(new URL(hubURL), capabilities);
             }
         }
