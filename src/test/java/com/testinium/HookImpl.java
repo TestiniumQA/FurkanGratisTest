@@ -137,11 +137,11 @@ public class HookImpl {
                 capabilities.setCapability("usePrebuiltWDA",true);
                 capabilities.setCapability("useNewWDA", true);
                 capabilities.setCapability("autoAcceptAlerts",false);
-                capabilities.setCapability("appium:[waitForIdleTimeout]",3);
-                capabilities.setCapability("appium:settings[animationCoolOffTimeout]",10);
+                capabilities.setCapability("appium:[waitForIdleTimeout]",10);
+                capabilities.setCapability("appium:settings[animationCoolOffTimeout]",30);
                 capabilities.setCapability("appium:[waitForQuiescence]",false);
                 capabilities.setCapability("appium:[skipServerInstallation]",true);
-                capabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 3);
+                capabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 5);
                 appiumDriver = new IOSDriver(new URL(hubURL), capabilities);
             }
         }

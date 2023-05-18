@@ -1897,7 +1897,7 @@ public class StepImpl extends HookImpl {
         element = findElementByKeyWithoutAssert("digerProfilimSekmesi");
         if (element != null) {
             swipe(1);
-            waitBySecond(2);
+            waitBySecond(5);
             System.out.println("Cikis yapilacak");
             clickByKeyWithCounter("cikisYapBtn","cikisYapPopUpCikisBtn");
             waitBySecond(3);
