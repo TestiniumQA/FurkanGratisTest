@@ -3,8 +3,8 @@
 
 # Login sayfasina gecilir
 * "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
-* IOS icin login ise logout olunur
-* "uyeOlVeyaGirisYap" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
+//* IOS icin login ise logout olunur
+//* "uyeOlVeyaGirisYap" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
 
 # Giris yapilir
 * "digerSekmesi" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
@@ -55,8 +55,9 @@
 
 # Sepette bulunan urunler silinir
 * "digerSepetIcon" elementine sayacli tikla "sepetiKapatmaTitle" value degerini bekle
-* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* "sepetimSilBtn" li element varsa tıkla
+* "sepetimSilBtn" li element varsa tıkla
+* "sepetimSilBtn" li element varsa tıkla
 * "sepetimAlisveriseDevamEt" elementine sayacli tikla "kategorilerSekmesi" value degerini bekle
 
 
