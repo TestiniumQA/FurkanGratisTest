@@ -19,25 +19,14 @@
 * "kategorilerListesi" listesinden rastgele bir elemente sayacla tikla ve "kategorilerListesiTumUrunler" bekle
 * "kategorilerListesiTumUrunler" elementine sayacli tikla "urunListelemeSayfasiFiltreleBtn" value degerini bekle
 
-# Urun filtrelemeye girilir markaya gore filtreleme yapilir
-* "urunListelemeSayfasiFiltreleBtn" elementine sayacli tikla "urunFiltrelemeMarkayaGore" value degerini bekle
-* "urunFiltrelemeMarkayaGore" elementine sayacli tikla "filtrelemeMarkalarIlkMarkaSecenegi" value degerini bekle
-* "urunFiltrelemeMarkayaGore" elementine sayacli tikla "filtreSeciliIconTik" value degerini bekle
-* "filtreleriUygulaBtn" elementine sayacli tikla "urunListelemeIlkUrun" value degerini bekle
-
-# Urun listeleme sayfasinda urun favorilere eklenir
-* "urunListelemeSayfasindaFavorilereEkleIcon" elementine sayacli tikla "urunFavorilereKaydetBtn" value degerini bekle
-* Elementine tıkla "urunFavorilereKaydetBtn"
-
 # Urun detay sayfasina gecilir ardindan urun sepete eklenir
 * "urunListelemeIlkUrun" elementine sayacli tikla "urunDetaySayfasiSepeteEkleBtn" value degerini bekle
-* Elementine tıkla "urunDetaySayfasiSepeteEkleBtn"
-* "sepetimSilBtn" li element varsa tıkla
-* "sepetimSilBtn" li element varsa tıkla
-* "sepetimSilBtn" li element varsa tıkla
-* "sepetimSilBtn" li element varsa tıkla
-* "sepetimSilBtn" li element varsa tıkla
-* "sepetimSilBtn" li element varsa tıkla
+* "urunDetaySayfasiSepeteEkleBtn" elementine sayacli tikla "urunDetaySepeteEklePopUpSepeteGit" value degerini bekle
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 //* "urunDetaySayfasiSepeteEkleBtn" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
 //* "urunDetaySepeteEklePopUpSepeteGit" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
 
@@ -64,9 +53,10 @@
 
 # Sepette bulunan urunler silinir
 * "digerSepetIcon" elementine sayacli tikla "sepetiKapatmaTitle" value degerini bekle
-* "sepetimSilBtn" li element varsa tıkla
-* "sepetimSilBtn" li element varsa tıkla
-* "sepetimSilBtn" li element varsa tıkla
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimAlisveriseDevamEt" elementine sayacli tikla "kategorilerSekmesi" value degerini bekle
 
 
