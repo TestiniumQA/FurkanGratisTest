@@ -115,6 +115,7 @@ public class HookImpl {
                 capabilities.setCapability("unicodeKeyboard", true);
                 capabilities.setCapability("resetKeyboard", true);
                 //capabilities.setCapability("appium:settings[waitForIdleTimeout]",5000);
+
                 capabilities.setCapability("appium:[skipDeviceInitialization]",true);
                 capabilities.setCapability("appium:[skipServerInstallation]",true);
                 capabilities.setCapability("appium:[ignoreUnimportantViews]",true);
