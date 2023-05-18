@@ -45,6 +45,8 @@
 
 # Kampanyalar sekmesine gecilir ardindan magazalara gidilir
 * "kampanyalarSekmesi" elementine sayacli tikla "kampanyalarMagazaIcon" value degerini bekle
+* Elementine tıkla "kampanyalarMagazaIcon"
+* "uygulamaIzinver" li element varsa tıkla
 * "kampanyalarMagazaIcon" elementine sayacli tikla "kampanyalarMagazaAdana" value degerini bekle
 * "kampanyalarMagazaAdana" elementine sayacli tikla "kampanyalarMagazaAdanaCukurova" value degerini bekle
 

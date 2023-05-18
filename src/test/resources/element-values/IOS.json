@@ -306,8 +306,15 @@
     "androidType": "",
     "iosValue": "**/XCUIElementTypeStaticText[`label == \"ÇUKUROVA\"`]",
     "iosType": "classChain"
-  }
+  },
 
+  {
+    "key": "uygulamaIzinver",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"Uygulamayı Kullanırken İzin Ver\"`]",
+    "iosType": "classChain"
+  }
 
 
 
