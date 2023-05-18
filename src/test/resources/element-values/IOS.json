@@ -1,0 +1,252 @@
+[
+  {
+  "key": "anasayfa",
+  "androidValue": "",
+  "androidType": "",
+  "iosValue": "//XCUIElementTypeButton[@name=\"Diğer\"]",
+  "iosType": "xpath"
+  },
+  {
+    "key": "digerSekmesi",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name=\"Diğer\"]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "kampanyalarSekmesi",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name=\"Kampanyalar\"]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "markalarSekmesi",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name=\"Markalar\"]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "kategorilerSekmesi",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name=\"Kategoriler\"]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "uyeOlVeyaGirisYap",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\"Üye Ol veya Giriş Yap\"]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "EpostaInputAlani",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeTextField[`value == \"E-Posta adresinizi giriniz\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "sifreInputAlani",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeSecureTextField[`value == \"Şifrenizi giriniz\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "girisYapBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"Giriş Yap\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "profilim",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == \"Profilim\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "kategorilerNavbar",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeNavigationBar[@name=\"Kategoriler\"]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "kategorilerListesi",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeCell/XCUIElementTypeStaticText",
+    "iosType": "xpath"
+  },
+  {
+    "key": "kategorilerListesiTumUrunler",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//XCUIElementTypeCell/XCUIElementTypeStaticText)[1]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "urunSepeteEkleBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == \"SEPETE EKLE\"`][1]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "urunListelemeSayfasiFiltreleBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton",
+    "iosType": "classChain"
+  },
+  {
+    "key": "urunFiltrelemeMarkayaGore",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\"Marka\"]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "filtrelemeMarkalarIlkMarkaSecenegi",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//XCUIElementTypeCell/XCUIElementTypeStaticText)[1]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "filtreSeciliIconTik",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeImage[`name == \"tickIcon\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "filtreleriUygulaBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[contains(@name,\"Filtrele\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "urunListelemeIlkUrun",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//XCUIElementTypeCollectionView//XCUIElementTypeOther/XCUIElementTypeStaticText)[1]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "urunDetaySayfasiSepeteEkleBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"SEPETE EKLE\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "urunListelemeSayfasindaFavorilereEkleIcon",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"favoriteOffPurpleIcon\"`][1]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "urunFavorilereKaydetBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"Kaydet\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "urunDetaySepeteEklePopUpSepeteGit",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"Sepete Git\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "sepetPopUpKapatBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"navigationCrossIcon\"`][2]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "sepetiKapatmaBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"navigationCrossIcon\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "kategorilerSearchBox",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeNavigationBar[@name=\"Ürün Detay\"]/XCUIElementTypeButton[2]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "searchBoxOnerilenArama",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[1]//XCUIElementTypeStaticText[@name]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "kampanyalarIlkKampanyaSlider",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeScrollView/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeImage",
+    "iosType": "classChain"
+  },
+  {
+    "key": "markalarListesiIlkMarka",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeScrollView/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeImage",
+    "iosType": "classChain"
+  },
+  {
+    "key": "geriBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeNavigationBar/XCUIElementTypeButton",
+    "iosType": "xpath"
+  },
+  {
+    "key": "digerSepetIcon",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeNavigationBar[`name == \"Diğer\"`]/XCUIElementTypeButton[3]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "sepetimSilBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"cartItemDeleteIcon\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "sepetimSilPopUpSil",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"Sil\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "sepetimAlisveriseDevamEt",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == \"Alışverişe Devam Et\"`]",
+    "iosType": "classChain"
+  }
+]
+
+
+
+
+
