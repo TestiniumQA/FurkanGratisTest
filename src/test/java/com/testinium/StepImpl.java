@@ -283,6 +283,7 @@ public class StepImpl extends HookImpl {
     @Step({"<key> elementine sayacli tikla <key2> value degerini bekle"})
     public void clickByKeyWithCounter(String key,String key2) {
         if (findElementByKey(key).isDisplayed()) {
+            System.out.println("Dongeye girdi");
             findElementByKey(key).click();
         }
         logger.info(key + " elementine tiklandi");
@@ -1899,7 +1900,7 @@ public class StepImpl extends HookImpl {
             swipe(1);
             waitBySecond(5);
             System.out.println("Cikis yapilacak");
-            clickByKeyWithCounter("cikisYapBtn","cikisYapPopUpCikisBtn");
+            clickByKeyWithCounter("cikisYapBtnn","cikisYapPopUpCikisBtn");
             waitBySecond(3);
             clickByKey("cikisYapPopUpCikisBtn");
             swipeUP(1);
