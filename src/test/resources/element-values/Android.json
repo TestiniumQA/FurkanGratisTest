@@ -111,6 +111,7 @@
     "iosValue": "",
     "iosType": ""
   },
+
   {
     "key": "alisveriseDevamEt",
     "androidValue": "(//android.widget.Button[@text='Alışverişe Devam Et'])[1]",
