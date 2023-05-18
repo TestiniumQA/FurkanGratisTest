@@ -30,9 +30,7 @@ This is a concept file with following syntax for each concept.
 * "tumMakyajUrunleriTab" elementine sayacli tikla "urunDetay" value degerini bekle
 
 # Urun listeleme sayfasinda urun favorilere eklenir.
-* Elementine tıkla "favBtn"
-* Elementin yüklenmesini bekle "favKaydetBtn"
-* Elementine tıkla "favKaydetBtn"
+* Element var mı kontrol et "favBtn"
 
 # Urun detay sayfasina gecilir ardından urun sepete eklenir.
 * "sepeteEkle" elementine sayacli tikla "alisveriseDevamEt" value degerini bekle
