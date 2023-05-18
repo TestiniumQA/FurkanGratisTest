@@ -31,7 +31,11 @@
 
 # Urun detay sayfasina gecilir ardindan urun sepete eklenir
 * "urunListelemeIlkUrun" elementine sayacli tikla "urunDetaySayfasiSepeteEkleBtn" value degerini bekle
-* "urunDetaySayfasiSepeteEkleBtn" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
+* Elementine tıkla "urunDetaySayfasiSepeteEkleBtn"
+* "sepetimSilBtn" li element varsa tıkla
+* "sepetimSilBtn" li element varsa tıkla
+* "sepetimSilBtn" li element varsa tıkla
+//* "urunDetaySayfasiSepeteEkleBtn" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
 //* "urunDetaySepeteEklePopUpSepeteGit" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
 
 # Urun arama sayfasina gecilir onerilen arama yapilir
@@ -47,7 +51,7 @@
 * "kampanyalarSekmesi" elementine sayacli tikla "kampanyalarMagazaIcon" value degerini bekle
 * Elementine tıkla "kampanyalarMagazaIcon"
 * "uygulamaIzinver" li element varsa tıkla
-* "kampanyalarMagazaIcon" elementine sayacli tikla "kampanyalarMagazaAdana" value degerini bekle
+ //* "kampanyalarMagazaIcon" elementine sayacli tikla "kampanyalarMagazaAdana" value degerini bekle
 * "kampanyalarMagazaAdana" elementine sayacli tikla "kampanyalarMagazaAdanaCukurova" value degerini bekle
 
 
