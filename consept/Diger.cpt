@@ -43,9 +43,11 @@
 * Wait "2" seconds
 * Elementine tıkla "geriBtn"
 
-# Kampanyalar sekmesine gecilir kampanyaya ait urun geldigi kontrol edilir
-* "kampanyalarSekmesi" elementine sayacli tikla "kampanyalarIlkKampanyaSlider" value degerini bekle
-* "kampanyalarIlkKampanyaSlider" elementine sayacli tikla "urunListelemeIlkUrun" value degerini bekle
+# Kampanyalar sekmesine gecilir ardindan magazalara gidilir
+* "kampanyalarSekmesi" elementine sayacli tikla "kampanyalarMagazaIcon" value degerini bekle
+* "kampanyalarMagazaIcon" elementine sayacli tikla "kampanyalarMagazaAdana" value degerini bekle
+* "kampanyalarMagazaAdana" elementine sayacli tikla "kampanyalarMagazaAdanaCukurova" value degerini bekle
+
 
 # Markalar sekmesine gecilir bir marka secilir markaya ait urun geldigi kontrol edilir
 * "markalarSekmesi" elementine sayacli tikla "kampanyalarIlkKampanyaSlider" value degerini bekle

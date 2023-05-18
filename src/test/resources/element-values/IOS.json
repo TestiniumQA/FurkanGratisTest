@@ -271,7 +271,39 @@
     "androidType": "",
     "iosValue": "**/XCUIElementTypeNavigationBar[`name == \"Diğer\"`]",
     "iosType": "classChain"
+  },
+  {
+    "key": "kampanyalarMagazaIcon",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeNavigationBar[`name == \"Kampanyalar\"`]/XCUIElementTypeButton[2]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "kampanyalarMagazaAdana",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == \"ADANA\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "kampanyalarMagazaAdanaCukurova",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == \"ÇUKUROVA\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "kampanyalarMagazaAdanaCukurova",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == \"ÇUKUROVA\"`]",
+    "iosType": "classChain"
   }
+
+
+
+
 ]
 
 
