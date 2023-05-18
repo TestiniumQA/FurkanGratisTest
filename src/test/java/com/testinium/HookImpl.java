@@ -136,6 +136,9 @@ public class HookImpl {
                 capabilities.setCapability("usePrebuiltWDA",true);
                 capabilities.setCapability("useNewWDA", true);
                 capabilities.setCapability("autoAcceptAlerts",false);
+                capabilities.setCapability("appium:[skipDeviceInitialization]",true);
+                capabilities.setCapability("appium:[skipServerInstallation]",true);
+                capabilities.setCapability("appium:[ignoreUnimportantViews]",true);
                 appiumDriver = new IOSDriver(new URL(hubURL), capabilities);
             }
         }
