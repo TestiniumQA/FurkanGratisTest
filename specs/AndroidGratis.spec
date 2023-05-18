@@ -7,6 +7,8 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 
 Gratis E2E Test
 ----------------
+tags:Gratis_AndroidSc1
+
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Login olunur
