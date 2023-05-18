@@ -1885,7 +1885,7 @@ public class StepImpl extends HookImpl {
             System.out.println("Cikis yapilacak");
             clickByKeyWithCounter("cikisYapBtn","cikisYapPopUpCikisBtn");
             waitBySecond(3);
-            clickByKey("cikisYapBtn");
+            clickByKey("cikisYapPopUpCikisBtn");
             swipeUP(1);
         }
         System.out.println("Uygulama logout durumda");
