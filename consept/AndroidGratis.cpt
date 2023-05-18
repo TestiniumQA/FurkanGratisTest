@@ -35,8 +35,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "favKaydetBtn"
 
 # Urun detay sayfasina gecilir ardından urun sepete eklenir.
-* "30" saniye bekle
-* Elementine tıkla "sepeteEkle"
+* "sepeteEkle" elementine sayacli tikla "alisveriseDevamEt" value degerini bekle
 * "alisveriseDevamEt" elementine sayacli tikla "geriBtn" value degerini bekle
 
 # Urun arama sayfasina gecilir onerilen arama yapilir.

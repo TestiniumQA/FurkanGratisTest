@@ -15,7 +15,6 @@ tags:Gratis_AndroidSc1
 * Sepet kontrol edilerek temizlenir.
 * Kategoriler sayfasina gecilir.
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
-* Urun listeleme sayfasinda urun favorilere eklenir.
 * Urun detay sayfasina gecilir ardından urun sepete eklenir.
 * Urun arama sayfasina gecilir onerilen arama yapilir.
 * Kampanyalar sekmesine geicilir kampanyaya ait urun geldigi kontrol edilir.
