@@ -939,6 +939,8 @@ public class StepImpl extends HookImpl {
         logger.info("element varsa verilen tıkla girdi");
         MobileElement mobileElement;
 
+        waitBySecond(2);
+
         mobileElement = findElementByKeyWithoutAssert(key);
 
         if (mobileElement != null) {

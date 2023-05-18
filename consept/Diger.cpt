@@ -53,8 +53,8 @@
 
 # Sepette bulunan urunler silinir
 * "digerSepetIcon" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
-//* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-//* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimAlisveriseDevamEt" elementine sayacli tikla "kategorilerSekmesi" value degerini bekle
 
 
