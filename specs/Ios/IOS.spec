@@ -16,6 +16,6 @@ tags:MTC-1 IOS Scenario
 * Kategorilerden rastgele biri secilirek urun listeleme sayfasina gecilir
 * Urun detay sayfasina gecilir ardindan urun sepete eklenir
 * Urun arama sayfasina gecilir onerilen arama yapilir
-* Kampanyalar sekmesine gecilir kampanyaya ait urun geldigi kontrol edilir
+* Kampanyalar sekmesine gecilir ardindan magazalara gidilir
 
 
