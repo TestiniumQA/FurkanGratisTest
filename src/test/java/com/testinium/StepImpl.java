@@ -257,6 +257,21 @@ public class StepImpl extends HookImpl {
         logger.info(key + " elemente tıkladı");
     }
 
+    @Step({"Check if element <key> exists",
+            "Wait for element to load with key <key>",
+            "Element var mı kontrol et <key>",
+            "Elementin yüklenmesini bekle <key>"})
+    public MobileElement getElementWithKeyIfExists(String key) throws InterruptedException {
+        MobileElement element;
+        try {
+            element = findElementByKey(key);
+            logger.info(key + " elementi bulundu.");
+        } catch (Exception ex) {
+            logger.info("Element: '" + key + "' doesn't exist.");
+            return null;
+        }
+        return element;
+    }
     @Step({"Rastgele secilen kullanici adi <key> elementine, sifre <key> elementine yazilir"})
     public void existElementt(String key,String key2) {
         findElementByKey(key).sendKeys(accountUser);
@@ -363,6 +378,7 @@ public class StepImpl extends HookImpl {
     public void sendKeysByKeyNotClear(String t, String k) {
         doesElementExistByKey(k, 5);
         findElementByKey(k).sendKeys(t);
+        logger.info(t+" texti"+k+" key elementine yazildi");
     }
 
     public int createRandomNumber(int max) {

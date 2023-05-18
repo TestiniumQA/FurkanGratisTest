@@ -218,8 +218,8 @@
   },
   {
     "key": "geriBtn",
-    "androidValue": "",
-    "androidType": "",
+    "androidValue": "com.gratis.android:id/btnBack",
+    "androidType": "id",
     "iosValue": "//XCUIElementTypeNavigationBar/XCUIElementTypeButton",
     "iosType": "xpath"
   },

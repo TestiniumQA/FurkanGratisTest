@@ -1,0 +1,260 @@
+[
+  {
+    "key": "uygulamaAnasayfa",
+    "androidValue": "com.gratis.android:id/btnBeauty",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+  "key": "digerTab",
+  "androidValue": "com.gratis.android:id/nav_graph_other",
+  "androidType": "id",
+  "iosValue": "",
+  "iosType": ""
+},
+  {
+    "key": "loginTab",
+    "androidValue": "com.gratis.android:id/profile_txt",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "emailInput",
+    "androidValue": "com.gratis.android:id/email_et",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "passwordInput",
+    "androidValue": "com.gratis.android:id/password_et",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "loginBtn",
+    "androidValue": "//android.widget.Button[@text='GİRİŞ YAP']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "kategorilerTab",
+    "androidValue": "com.gratis.android:id/nav_graph_categories",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "makyajTab",
+    "androidValue": "//android.widget.TextView[@text='Makyaj']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "tumMakyajUrunleriTab",
+    "androidValue": "//android.widget.TextView[@text='Tüm Makyaj Ürünleri']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "favBtn",
+    "androidValue": "(//android.widget.ImageView[@resource-id='com.gratis.android:id/fav_btn'])[1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "favKaydetBtn",
+    "androidValue": "//android.widget.Button[@text='KAYDET']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "urunDetay",
+    "androidValue": "(//android.widget.RelativeLayout[@resource-id='com.gratis.android:id/itemProductRoot'])[1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "urunDetayy",
+    "androidValue": "(//android.widget.RelativeLayout[@resource-id='com.gratis.android:id/itemProductRoot'])[2]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "sıralaBtn",
+    "androidValue": "com.gratis.android:id/desc_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "cokSatanlar",
+    "androidValue": "//android.widget.TextView[@text='Çok Satanlar']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "sepeteEkle",
+    "androidValue": "(//android.widget.Button[@text='SEPETE EKLE'])[1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "alisveriseDevamEt",
+    "androidValue": "(//android.widget.Button[@text='Alışverişe Devam Et'])[1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "anasayfaTab",
+    "androidValue": "com.gratis.android:id/nav_graph_home",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "urunSearchBox",
+    "androidValue": "com.gratis.android:id/main_page_search_text",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "urunSearchTxt",
+    "androidValue": "com.gratis.android:id/search_src_text",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "urunSearchEnter",
+    "androidValue": "(//android.widget.FrameLayout[@resource-id='com.gratis.android:id/search_trademark_root'])[1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "kampanyalarTab",
+    "androidValue": "com.gratis.android:id/nav_graph_campaign",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "kampanyaSec",
+    "androidValue": "com.gratis.android:id/ripple",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "markalarTab",
+    "androidValue": "com.gratis.android:id/nav_graph_trademarks",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "markaSec",
+    "androidValue": "(//android.widget.TextView[@resource-id='com.gratis.android:id/trademark_name'])[3]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "profilTab",
+    "androidValue": "com.gratis.android:id/profile_txt",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "favoriListesi",
+    "androidValue": "com.gratis.android:id/favorite_txt",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "favCikar",
+    "androidValue": "com.gratis.android:id/favorite_checkbox",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "bosFavoriListesi",
+    "androidValue": "com.gratis.android:id/fav_empty_view",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "favoriListesiTitle",
+    "androidValue": "com.gratis.android:id/toolbar_title",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "sepetBtn",
+    "androidValue": "com.gratis.android:id/btnBasket",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "sepetReklamKapat",
+    "androidValue": "com.gratis.android:id/close_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "sepetTemizleBtn",
+    "androidValue": "com.gratis.android:id/shopping_item_delete_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "sepetTemizleOnay",
+    "androidValue": "//android.widget.Button[@text='SİL']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "bosSepetListesi",
+    "androidValue": "com.gratis.android:id/empty_view_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "cikisYapButon",
+    "androidValue": "com.gratis.android:id/sign_out_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "cikisYapOnay",
+    "androidValue": "//android.widget.Button[@text='EVET']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  }]

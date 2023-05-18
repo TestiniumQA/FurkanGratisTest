@@ -1,0 +1,71 @@
+Created by testinium on 17.05.2023
+
+This is a concept file with following syntax for each concept.
+# Uygulama baslatilir.
+* "uygulamaAnasayfa" icin sayac tut
+
+# Login sayfasina gecilir.
+* "digerTab" elementine sayacli tikla "loginTab" value degerini bekle
+* "loginTab" elementine sayacli tikla "emailInput" value degerini bekle
+
+
+# Login olunur
+* "AndroidMail" csv dosyasindan rastgele kullanici sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "anasayfaTab"
+
+
+# Sepet kontrol edilerek temizlenir.
+* "sepetBtn" elementine sayacli tikla "sepetTemizleBtn" value degerini bekle
+* "sepetTemizleBtn" li elementi bul ve varsa tıkla
+* "sepetTemizleOnay" li elementi bul ve varsa tıkla
+* "bosSepetListesi" icin sayac tut
+
+# Kategoriler sayfasina gecilir.
+* "kategorilerTab" elementine sayacli tikla "makyajTab" value degerini bekle
+
+# Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
+* "makyajTab" elementine sayacli tikla "tumMakyajUrunleriTab" value degerini bekle
+* "tumMakyajUrunleriTab" elementine sayacli tikla "urunDetay" value degerini bekle
+
+# Urun listeleme sayfasinda urun favorilere eklenir.
+* Elementine tıkla "favBtn"
+* Elementine tıkla "favKaydetBtn"
+
+# Urun detay sayfasina gecilir ardından urun sepete eklenir.
+
+* "sepeteEkle" elementine sayacli tikla "alisveriseDevamEt" value degerini bekle
+* "alisveriseDevamEt" elementine sayacli tikla "geriBtn" value degerini bekle
+
+# Urun arama sayfasina gecilir onerilen arama yapilir.
+* "geriBtn" elementine sayacli tikla "anasayfaTab" value degerini bekle
+* Elementine tıkla "anasayfaTab"
+* "anasayfaTab" elementine sayacli tikla "urunSearchBox" value degerini bekle
+* "urunSearchBox" elementine sayacli tikla "urunSearchTxt" value degerini bekle
+* "ruj" textini "urunSearchTxt" elemente yaz
+* "urunSearchEnter" elementine sayacli tikla "urunDetay" value degerini bekle
+
+# Kampanyalar sekmesine geicilir kampanyaya ait urun geldigi kontrol edilir.
+* "kampanyalarTab" elementine sayacli tikla "kampanyaSec" value degerini bekle
+* "kampanyaSec" elementine sayacli tikla "urunDetay" value degerini bekle
+* Element var mı kontrol et "urunDetay"
+
+
+# Markalar sekmesine gecilir bir marka secilir markaya ait urun geldigi kontrol edilir.
+* "markalarTab" elementine sayacli tikla "markaSec" value degerini bekle
+* "markaSec" elementine sayacli tikla "urunDetay" value degerini bekle
+
+
+# Favori listesi kontrol edilerek temizlenir.
+* "digerTab" elementine sayacli tikla "profilTab" value degerini bekle
+* "profilTab" elementine sayacli tikla "favoriListesi" value degerini bekle
+* "favoriListesi" elementine sayacli tikla "favoriListesiTitle" value degerini bekle
+* "favCikar" li elementi bul ve varsa tıkla
+* Element var mı kontrol et "bosFavoriListesi"
+
+# Uygulamadan cikis yapilir.
+* "digerTab" elementine sayacli tikla "profilTab" value degerini bekle
+* "2" kere aşağıya kaydır
+* Elementine tıkla "cikisYapButon"
+* Elementine tıkla "cikisYapOnay"

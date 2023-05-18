@@ -34,8 +34,8 @@ public class HookImpl {
     protected static AppiumDriver<MobileElement> appiumDriver;
     static EventFiringWebDriver eventDriver;
     protected static FluentWait<AppiumDriver<MobileElement>> appiumFluentWait;
-    protected boolean localAndroid = false;
-    public static boolean isDeviceAnd=false;
+    protected boolean localAndroid = true;
+    public static boolean isDeviceAnd=true;
     protected static Selector selector ;
 
     @BeforeScenario
@@ -57,10 +57,10 @@ public class HookImpl {
                 desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "device");
                 desiredCapabilities
                         .setCapability(AndroidMobileCapabilityType.APP_PACKAGE,
-                                "com.mobisoft.beymen");
+                                "com.gratis.android");
                 desiredCapabilities
                         .setCapability(AndroidMobileCapabilityType.APP_ACTIVITY,
-                                "com.mobisoft.beymen.activity.SplashActivity");
+                                "com.app.gratis.ui.splash.SplashActivity");
                 desiredCapabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "uiautomator2");
                 desiredCapabilities
                       .setCapability(MobileCapabilityType.NO_RESET, true);
@@ -106,14 +106,15 @@ public class HookImpl {
                 capabilities.setCapability("key", System.getenv("key"));
                 capabilities
                         .setCapability(AndroidMobileCapabilityType.APP_PACKAGE,
-                                "com.mobisoft.beymen");
+                                "com.gratis.android");
 
                 capabilities
                         .setCapability(AndroidMobileCapabilityType.APP_ACTIVITY,
-                                "com.mobisoft.beymen.activity.SplashActivity");
+                                "com.app.gratis.ui.splash.SplashActivity");
                 capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME,"uiautomator2");
                 capabilities.setCapability(MobileCapabilityType.NO_RESET, false);
                 capabilities.setCapability(MobileCapabilityType.FULL_RESET, false);
+                capabilities.setCapability(AndroidMobileCapabilityType.AUTO_GRANT_PERMISSIONS, true);
                 capabilities.setCapability("unicodeKeyboard", true);
                 capabilities.setCapability("resetKeyboard", true);
                 capabilities.setCapability("appium:settings[waitForIdleTimeout]",150);
