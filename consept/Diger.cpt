@@ -26,11 +26,9 @@
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-//* "urunDetaySayfasiSepeteEkleBtn" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
-//* "urunDetaySepeteEklePopUpSepeteGit" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
+
 
 # Urun arama sayfasina gecilir onerilen arama yapilir
-//* "sepetPopUpKapatBtn" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
 * "sepetiKapatmaBtn" elementine sayacli tikla "urunDetaySayfasiSepeteEkleBtn" value degerini bekle
 * "kategorilerSearchBox" elementine sayacli tikla "searchBoxOnerilenArama" value degerini bekle
 * "searchBoxOnerilenArama" elementine sayacli tikla "urunListelemeIlkUrun" value degerini bekle
@@ -42,7 +40,6 @@
 * "kampanyalarSekmesi" elementine sayacli tikla "kampanyalarMagazaIcon" value degerini bekle
 * Elementine tıkla "kampanyalarMagazaIcon"
 * "uygulamaIzinver" li element varsa tıkla
- //* "kampanyalarMagazaIcon" elementine sayacli tikla "kampanyalarMagazaAdana" value degerini bekle
 * "kampanyalarMagazaAdana" elementine sayacli tikla "kampanyalarMagazaAdanaCukurova" value degerini bekle
 
 
