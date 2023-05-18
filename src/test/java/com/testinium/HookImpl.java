@@ -35,7 +35,7 @@ public class HookImpl {
     static EventFiringWebDriver eventDriver;
     protected static FluentWait<AppiumDriver<MobileElement>> appiumFluentWait;
     protected boolean localAndroid = false;
-    public static boolean isDeviceAnd=true;
+    public static boolean isDeviceAnd=false;
     protected static Selector selector ;
 
     @BeforeScenario
@@ -85,11 +85,8 @@ public class HookImpl {
                   desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "14.7.1");
                 desiredCapabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 300);
 
-
                 URL url = new URL("http://127.0.0.1:4723/wd/hub");
                 appiumDriver = new IOSDriver(url, desiredCapabilities);
-
-
 
 
             }
@@ -137,10 +134,6 @@ public class HookImpl {
                 capabilities.setCapability("usePrebuiltWDA",true);
                 capabilities.setCapability("useNewWDA", true);
                 capabilities.setCapability("autoAcceptAlerts",false);
-                capabilities.setCapability("appium:[waitForIdleTimeout]",10);
-                capabilities.setCapability("appium:settings[animationCoolOffTimeout]",30);
-                capabilities.setCapability("appium:[waitForQuiescence]",false);
-                capabilities.setCapability("appium:[skipServerInstallation]",true);
                 capabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 5);
                 appiumDriver = new IOSDriver(new URL(hubURL), capabilities);
             }
