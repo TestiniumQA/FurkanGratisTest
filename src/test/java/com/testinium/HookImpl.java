@@ -132,10 +132,10 @@ public class HookImpl {
                 capabilities.setCapability("usePrebuiltWDA", true); //changed
                 capabilities.setCapability("key", System.getenv("key"));
                 capabilities.setCapability("waitForAppScript", "$.delay(1000);");
-                capabilities.setCapability("bundleId", "com.beymen.ecommerce");
+                capabilities.setCapability("bundleId", "com.pharos.Gratis");
                 capabilities.setCapability("usePrebuiltWDA",true);
                 capabilities.setCapability("useNewWDA", true);
-                capabilities.setCapability("autoAcceptAlerts",false);
+                capabilities.setCapability("autoAcceptAlerts",true);
                 appiumDriver = new IOSDriver(new URL(hubURL), capabilities);
             }
         }
