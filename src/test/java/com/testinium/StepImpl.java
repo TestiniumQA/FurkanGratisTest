@@ -286,6 +286,7 @@ public class StepImpl extends HookImpl {
             System.out.println("Dongeye girdi");
             findElementByKey(key).click();
         }
+        waitBySecond(1);
         logger.info(key + " elementine tiklandi");
         clickExistElement(key,key2);
     }
