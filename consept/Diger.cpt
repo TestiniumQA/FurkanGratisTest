@@ -54,7 +54,7 @@
 * "kampanyalarIlkKampanyaSlider" elementine sayacli tikla "urunListelemeIlkUrun" value degerini bekle
 
 # Sepette bulunan urunler silinir
-* "digerSepetIcon" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
+* "digerSepetIcon" elementine sayacli tikla "sepetiKapatmaTitle" value degerini bekle
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimAlisveriseDevamEt" elementine sayacli tikla "kategorilerSekmesi" value degerini bekle
