@@ -189,6 +189,13 @@
     "iosType": "classChain"
   },
   {
+    "key": "sepetiKapatmaTitle",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\"Sepet\"]",
+    "iosType": "xpath"
+  },
+  {
     "key": "kategorilerSearchBox",
     "androidValue": "",
     "androidType": "",
