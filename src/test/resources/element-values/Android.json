@@ -106,8 +106,8 @@
   },
   {
     "key": "sepeteEkle",
-    "androidValue": "(//android.widget.Button[@text='SEPETE EKLE'])[1]",
-    "androidType": "xpath",
+    "androidValue": "com.gratis.android:id/product_add_button",
+    "androidType": "id",
     "iosValue": "",
     "iosType": ""
   },
