@@ -255,7 +255,7 @@
     "key": "cikisYapBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeStaticText[`label == \"Çıkış Yap\"`]",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeButton",
     "iosType": "classChain"
   },
   {
