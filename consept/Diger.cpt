@@ -25,7 +25,6 @@
 * Elementine tıkla "urunDetaySepeteEklePopUpSepeteGit"
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 
 
 # Urun arama sayfasina gecilir onerilen arama yapilir
@@ -49,7 +48,6 @@
 
 # Sepette bulunan urunler silinir
 * "digerSepetIcon" elementine sayacli tikla "sepetiKapatmaTitle" value degerini bekle
-* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimAlisveriseDevamEt" elementine sayacli tikla "kategorilerSekmesi" value degerini bekle
