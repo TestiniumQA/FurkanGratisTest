@@ -21,8 +21,12 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
+import java.util.Random;
 import javax.annotation.Nullable;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.sql.Timestamp;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -40,8 +44,10 @@ public class StepImpl extends HookImpl {
     private Logger logger = LoggerFactory.getLogger(getClass());
     private static String staticVariable;
     long startTime= 0;
-
-
+    static List <String> user = new ArrayList<>();
+    static List <String> password = new ArrayList<>();
+    String accountUser;
+    String accountpassword;
 
     public StepImpl() {
 
@@ -193,6 +199,41 @@ public class StepImpl extends HookImpl {
         findElementWithAssertion(MobileBy.xpath(".//*[contains(@value,'" + value + "')]")).click();
     }
 
+    @Step("<key> csv dosyasindan rastgele kullanici sec")
+    public void csvReader(String value) {
+        try {
+            String line = "";
+            String splitBy = ",";
+
+            BufferedReader br = new BufferedReader(new FileReader("data/"+value+".csv"));
+            while ((line = br.readLine()) != null)
+            {
+                String[] keyValue = line.split(splitBy,2);
+                user.add(keyValue[0]);
+                password.add(keyValue[1]);
+            }
+
+            System.out.println("Maillere ait csv okundu");
+
+            int number = createRandomNumber(user.size());
+
+            accountUser = user.get(number);
+            accountpassword = password.get(number);
+
+            System.out.println("Kullanilacak Kullanici adi :" + accountUser);
+            System.out.println("Kullanilacak Sifre :" + accountpassword);
+
+        }catch (Exception e){
+            System.out.println("Csv dosyasi oluşturulurken hatayla karsilasildi");
+            System.out.println(user);
+            System.out.println(password);
+        }
+    }
+
+
+
+
+
     @Step({"Değeri <text> e eşit olan <index>. elementi bul ve tıkla"})
     public void clickByText(String text, int index) {
         findElementWithAssertion(By.xpath("(.//*[contains(@text,'" + text + "')])[" + index + "]")).click();
@@ -214,6 +255,12 @@ public class StepImpl extends HookImpl {
         doesElementExistByKey(key, 5);
         findElementByKey(key).click();
         logger.info(key + " elemente tıkladı");
+    }
+
+    @Step({"Rastgele secilen kullanici adi <key> elementine, sifre <key> elementine yazilir"})
+    public void existElementt(String key,String key2) {
+        findElementByKey(key).sendKeys(accountUser);
+        findElementByKey(key2).sendKeys(accountpassword);
     }
 
 
@@ -316,8 +363,16 @@ public class StepImpl extends HookImpl {
     public void sendKeysByKeyNotClear(String t, String k) {
         doesElementExistByKey(k, 5);
         findElementByKey(k).sendKeys(t);
-
     }
+
+    public int createRandomNumber(int max) {
+        Random rand = new Random();
+
+        int randomNumber = rand.nextInt(max);
+
+        return randomNumber;
+    }
+
 
     @Step({"<key> li elementi bul ve değerini <saveKey> olarak sakla",
             "Find element by <key> and save text <saveKey>"})
@@ -966,7 +1021,7 @@ public class StepImpl extends HookImpl {
     public void chooseRandomProduct(String key,String key2) {
         List<MobileElement> list = findElemenstByKey(key);
         startTime = System.currentTimeMillis();
-        list.get(0).click();
+        list.get(createRandomNumber(list.size()-1)).click();
         finishCounter(key);
     }
 
@@ -1818,22 +1873,20 @@ public class StepImpl extends HookImpl {
         assertTrue(compareResult);
     }
 
-    @Step({"login ise logout olunur"})
+    @Step({"IOS icin login ise logout olunur"})
     public void ifLoginDoLogout() throws InterruptedException {
         MobileElement element;
-        element = findElementByKeyWithoutAssert("girisYapBtn");
-        if (element == null) {
-            System.out.println("Element nulll");
-            existElement("loginMailText");
+        element = findElementByKeyWithoutAssert("digerProfilimSekmesi");
+        if (element != null) {
             swipe(1);
             waitBySecond(2);
-            findTextXpath("Çıkış");
-            clickWithText("Çıkış");
-            waitBySecond(2);
-            existElement("popUpCikisBtn");
-            clickByKey("popUpCikisBtn");
+            System.out.println("Cikis yapilacak");
+            clickByKeyWithCounter("cikisYapBtn","cikisYapPopUpCikisBtn");
+            waitBySecond(3);
+            clickByKey("cikisYapPopUpCikisBtn");
+            swipeUP(1);
         }
-        waitBySecond(4);
+        System.out.println("Uygulama logout durumda");
     }
 
     @Step({"login ise logout olunur And"})

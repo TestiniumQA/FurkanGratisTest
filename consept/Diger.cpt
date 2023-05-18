@@ -2,19 +2,20 @@
 * "anasayfa" icin sayac tut
 
 # Login sayfasina gecilir
-* "digerSekmesi" elementine sayacli tikla "uyeOlVeyaGirisYap" value degerini bekle
+* "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
+* IOS icin login ise logout olunur
 * "uyeOlVeyaGirisYap" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
 
 # Giris yapilir
-//logout yazilacak
-* "cengizhan.once@testinium.com" textini "EpostaInputAlani" elemente yaz
-* "123456Aa." textini "sifreInputAlani" elemente yaz
+//* "digerSekmesi" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
+* "IOSmail" csv dosyasindan rastgele kullanici sec
+*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * "girisYapBtn" elementine sayacli tikla "profilim" value degerini bekle
 
 # Kategoriler sayfasina gecilir
 * "kategorilerSekmesi" elementine sayacli tikla "kategorilerNavbar" value degerini bekle
 
-# Kategorilerden biri secilirek urun listeleme sayfasina gecilir
+# Kategorilerden rastgele biri secilirek urun listeleme sayfasina gecilir
 * "kategorilerListesi" listesinden rastgele bir elemente sayacla tikla ve "kategorilerListesiTumUrunler" bekle
 * "kategorilerListesiTumUrunler" elementine sayacli tikla "urunListelemeSayfasiFiltreleBtn" value degerini bekle
 
@@ -31,10 +32,10 @@
 # Urun detay sayfasina gecilir ardindan urun sepete eklenir
 * "urunListelemeIlkUrun" elementine sayacli tikla "urunDetaySayfasiSepeteEkleBtn" value degerini bekle
 * "urunDetaySayfasiSepeteEkleBtn" elementine sayacli tikla "urunDetaySepeteEklePopUpSepeteGit" value degerini bekle
-* "urunDetaySepeteEklePopUpSepeteGit" elementine sayacli tikla "sepetPopUpKapatBtn" value degerini bekle
+* "urunDetaySepeteEklePopUpSepeteGit" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
 
 # Urun arama sayfasina gecilir onerilen arama yapilir
-* "sepetPopUpKapatBtn" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
+//* "sepetPopUpKapatBtn" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
 * "sepetiKapatmaBtn" elementine sayacli tikla "urunDetaySayfasiSepeteEkleBtn" value degerini bekle
 * "kategorilerSearchBox" elementine sayacli tikla "searchBoxOnerilenArama" value degerini bekle
 * "searchBoxOnerilenArama" elementine sayacli tikla "urunListelemeIlkUrun" value degerini bekle
@@ -51,10 +52,9 @@
 * "kampanyalarIlkKampanyaSlider" elementine sayacli tikla "urunListelemeIlkUrun" value degerini bekle
 
 # Sepette bulunan urunler silinir
-* "digerSepetIcon" elementine sayacli tikla "sepetPopUpKapatBtn" value degerini bekle
-* Elementine tıkla "sepetPopUpKapatBtn"
-* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* "digerSepetIcon" elementine sayacli tikla "sepetiKapatmaBtn" value degerini bekle
+//* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+//* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimAlisveriseDevamEt" elementine sayacli tikla "kategorilerSekmesi" value degerini bekle
 
 

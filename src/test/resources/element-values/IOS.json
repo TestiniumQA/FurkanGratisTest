@@ -42,6 +42,13 @@
     "iosType": "xpath"
   },
   {
+    "key": "digerProfilimSekmesi",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\"Profilim\"]",
+    "iosType": "xpath"
+  },
+  {
     "key": "EpostaInputAlani",
     "androidValue": "",
     "androidType": "",
@@ -243,8 +250,30 @@
     "androidType": "",
     "iosValue": "**/XCUIElementTypeStaticText[`label == \"Alışverişe Devam Et\"`]",
     "iosType": "classChain"
+  },
+  {
+    "key": "cikisYapBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeButton",
+    "iosType": "classChain"
+  },
+  {
+    "key": "cikisYapPopUpCikisBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"Çıkış Yap\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "navbarDigerTitle",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeNavigationBar[`name == \"Diğer\"`]",
+    "iosType": "classChain"
   }
 ]
+
 
 
 
