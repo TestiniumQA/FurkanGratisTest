@@ -22,6 +22,7 @@
 # Urun detay sayfasina gecilir ardindan urun sepete eklenir
 * "urunListelemeIlkUrun" elementine sayacli tikla "urunDetaySayfasiSepeteEkleBtn" value degerini bekle
 * "urunDetaySayfasiSepeteEkleBtn" elementine sayacli tikla "urunDetaySepeteEklePopUpSepeteGit" value degerini bekle
+* Elementine tıkla "urunDetaySepeteEklePopUpSepeteGit"
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
