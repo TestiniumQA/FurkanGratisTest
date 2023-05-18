@@ -10,7 +10,7 @@ MTC-1 IOS Scenario
 tags:MTC-1 IOS Scenario
 * Uygulama baslatilir
 * Login sayfasina gecilir
-//* Giris yapilir
+* Giris yapilir
 * Sepette bulunan urunler silinir
 * Kategoriler sayfasina gecilir
 * Kategorilerden rastgele biri secilirek urun listeleme sayfasina gecilir

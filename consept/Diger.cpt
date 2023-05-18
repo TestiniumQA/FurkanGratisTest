@@ -3,8 +3,8 @@
 
 # Login sayfasina gecilir
 * "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
-//* IOS icin login ise logout olunur
-//* "uyeOlVeyaGirisYap" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
+* IOS icin login ise logout olunur
+* "uyeOlVeyaGirisYap" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
 
 # Giris yapilir
 * "digerSekmesi" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
