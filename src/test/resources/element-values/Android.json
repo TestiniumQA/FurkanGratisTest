@@ -50,7 +50,7 @@
   },
   {
     "key": "makyajTab",
-    "androidValue": "//android.widget.TextView[@text='Makyaj']",
+    "androidValue": "//android.widget.TextView[@text='MAKYAJ']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
