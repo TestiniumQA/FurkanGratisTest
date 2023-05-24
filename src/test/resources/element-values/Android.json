@@ -50,14 +50,14 @@
   },
   {
     "key": "makyajTab",
-    "androidValue": "//android.widget.TextView[@text='MAKYAJ']",
+    "androidValue": "//android.widget.TextView[@text='Makyaj']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
   },
   {
     "key": "tumMakyajUrunleriTab",
-    "androidValue": "//android.widget.TextView[@text='Tüm MAKYAJ Ürünleri']",
+    "androidValue": "//android.widget.TextView[@text='Tüm Makyaj Ürünleri']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
