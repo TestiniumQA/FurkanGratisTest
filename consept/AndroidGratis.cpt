@@ -39,6 +39,7 @@ This is a concept file with following syntax for each concept.
 # Urun arama sayfasina gecilir onerilen arama yapilir.
 * "geriBtn" elementine sayacli tikla "anasayfaTab" value degerini bekle
 * Elementine tıkla "anasayfaTab"
+* Elementine tıkla "sepetReklamKapat"
 * "anasayfaTab" elementine sayacli tikla "urunSearchBox" value degerini bekle
 * "urunSearchBox" elementine sayacli tikla "urunSearchTxt" value degerini bekle
 * "ruj" textini "urunSearchTxt" elemente yaz
