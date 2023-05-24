@@ -18,6 +18,7 @@ This is a concept file with following syntax for each concept.
 
 # Sepet kontrol edilerek temizlenir.
 * Elementine tıkla "sepetBtn"
+* "sepetReklamKapat" li element varsa tıkla yoksa devam et
 * "sepetTemizleBtn" li elementi bul ve varsa tıkla
 * "sepetTemizleOnay" li elementi bul ve varsa tıkla
 * "bosSepetListesi" icin sayac tut
@@ -39,7 +40,7 @@ This is a concept file with following syntax for each concept.
 # Urun arama sayfasina gecilir onerilen arama yapilir.
 * "geriBtn" elementine sayacli tikla "anasayfaTab" value degerini bekle
 * Elementine tıkla "anasayfaTab"
-* Elementine tıkla "sepetReklamKapat"
+* "sepetReklamKapat" li element varsa tıkla yoksa devam et
 * "anasayfaTab" elementine sayacli tikla "urunSearchBox" value degerini bekle
 * "urunSearchBox" elementine sayacli tikla "urunSearchTxt" value degerini bekle
 * "ruj" textini "urunSearchTxt" elemente yaz
