@@ -22,7 +22,9 @@
 # Urun detay sayfasina gecilir ardindan urun sepete eklenir
 * "urunListelemeIlkUrun" elementine sayacli tikla "urunDetaySayfasiSepeteEkleBtn" value degerini bekle
 * "urunDetaySayfasiSepeteEkleBtn" elementine sayacli tikla "urunDetaySepeteEklePopUpSepeteGit" value degerini bekle
-* Elementine tıkla "urunDetaySepeteEklePopUpSepeteGit"
+* "urunDetaySepeteEklePopUpSepeteGit" elementine sayacli tikla "sepetPopUpKapatBtn" value degerini bekle
+//* Elementine tıkla "urunDetaySepeteEklePopUpSepeteGit"
+* Elementine tıkla "sepetPopUpKapatBtn"
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 
@@ -48,9 +50,11 @@
 
 # Sepette bulunan urunler silinir
 * "digerSepetIcon" elementine sayacli tikla "sepetiKapatmaTitle" value degerini bekle
+* Elementine tıkla "sepetPopUpKapatBtn"
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimAlisveriseDevamEt" elementine sayacli tikla "kategorilerSekmesi" value degerini bekle
+
 
 
 
