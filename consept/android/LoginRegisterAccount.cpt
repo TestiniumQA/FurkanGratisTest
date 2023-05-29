@@ -1,0 +1,132 @@
+Created by testinium on 23.05.2023
+
+This is a concept file with following syntax for each concept.
+
+// ****************************************** LOGIN STEPS ***********************************************************
+
+# Uygulama baslatilir.
+* "uygulamaAnasayfa" icin sayac tut
+
+# Login sayfasina gecilir.
+* "digerTab" elementine sayacli tikla "loginTab" value degerini bekle
+* "loginTab" elementine sayacli tikla "emailInput" value degerini bekle
+
+
+# Login olunur
+* "AndroidMail" csv dosyasindan rastgele kullanici sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "anasayfaTab"
+
+// ****************************************** REGISTER STEPS ***********************************************************
+
+# Register'a tıklanır ve kullanıcı seçilir
+* "registerBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
+
+# Kullanıcı bilgileri girilir
+* Rastgele secilen kullanici adi "registerName" elementine, soyadi "registerSurname" elementine, mail "registerMail" elementine yazilir
+* Rastgele secilen telefon "registerPhone" elementine, doğum tarihi "registerBirth"  elementine yazilir
+* "registerGender" li element varsa tıkla
+* Rastgele secilen şifre "registerPassword" elementine, şifre tekrar "registerPasswordAgain"  elementine yazilir
+*  "registerButton"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+
+# Kullanıcı şartlarına tıklanır ve üye olunur
+* "registerMembershipAgreement" li elementi bul ve varsa tıkla
+* "registerOtherAgreement" li elementi bul ve varsa tıkla
+* "registerPersonalInfo" li elementi bul ve varsa tıkla
+* "registerButton" li elementi bul ve varsa tıkla
+
+
+// ***************************************** FORGET PASSWORD STEPS *****************************************************
+
+# Sifremi Unuttum ikonuna tiklanir.
+* Element var mı kontrol et "forgotPassword"
+* "forgotPassword" elementine sayacli tikla "passwordResetPage" value degerini bekle
+
+# E-posta alanina <eposta> girilir.
+* <eposta> textini "emailInput" elemente yaz
+
+# Sifremi unuttum Gonder butonuna tiklanir.
+* Element var mı kontrol et "forgotPasswordSendButton"
+* "forgotPasswordSendButton" elementine sayacli tikla "alertSuccessfulPopup" value degerini bekle
+
+# Popup Tamam butonuna tiklanir.
+* Element var mı kontrol et "popupOkayButton"
+* "popupOkayButton" elementine sayacli tikla "pageToolbarTitle" value degerini bekle
+
+// ***************************************** CHANGE PASSWORD STEPS *****************************************************
+
+# Sifre basarili sekilde degistirilir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Sifrem'e tiklanir sifre yenileme sayfasinin acildigi gorulur.
+* "AndroidPassword" csv dosyasindan rastgele sifre sec
+* Eski sifre "myPasswordOldPassword" elementine, yeni sifre "myPasswordNewPassword" elementine, tekrar yeni sifre "myPasswordAgainNewPassword" elementine yazilir
+//* Kaydet ikonuna tiklanir.
+//* Duzenlemeleriniz basariyla kaydedilmistir uyarisi gorulmelidir.
+
+# Sifrem'e tiklanir sifre yenileme sayfasinin acildigi gorulur.
+* Element var mı kontrol et "profilePageMyPassword"
+* "profilePageMyPassword" elementine sayacli tikla "pageToolbarTitle" value degerini bekle
+
+# Kaydet ikonuna tiklanir.
+* Element var mı kontrol et "myPasswordSavedIcon"
+* Elementine tıkla "myPasswordSavedIcon"
+//* "myPasswordSavedIcon" elementine sayacli tikla "myPasswordChangesEditDone" value degerini bekle
+
+# Duzenlemeleriniz basariyla kaydedilmistir uyarisi gorulmelidir.
+* Element var mı kontrol et "pageToolbarTitle"
+* Element var mı kontrol et "myPasswordChangesEditDone"
+
+// ******************************************* NEW ADDRESS STEPS *******************************************************
+
+# Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Element var mı kontrol et "digerTab"
+* Elementine tıkla "digerTab"
+* Element var mı kontrol et "profileRoot"
+* "profileRoot" elementine sayacli tikla "pageToolbarTitle" value degerini bekle
+
+# Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
+* Element var mı kontrol et "profilePageMyAddress"
+* "profilePageMyAddress" elementine sayacli tikla "pageToolbarTitle" value degerini bekle
+
+# Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur.
+* "2" saniye bekle
+* "1" kere aşağıya kaydır
+* Element var mı kontrol et "myAddressNewAddAddress"
+* "myAddressNewAddAddress" elementine sayacli tikla "pageToolbarTitle" value degerini bekle
+
+# Yeni Adres Ekleme icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
+* Klavyeyi kapat
+* "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
+* Yeni Adres Ekleme icin Ad "newAddressCustomerName" elementine, Soyad "newAddressCustomerSurname" elementine, Telefon "newAddressCustomerPhone" elementine, Adres Ismi "newAddressCustomerAddressTitle" elementine yazilir
+
+# Yeni Adres Ekle Sehir ismi secilir.
+* "2" kere aşağıya kaydır
+* Element var mı kontrol et "newAddressAddCityDropdown"
+* Elementine tıkla "newAddressAddCityDropdown"
+* "1" saniye bekle
+* sayfadaki "20" "60" alana dokun
+* "2" saniye bekle
+
+# Yeni Adres Ekle Ilce ismi secilir.
+* Element var mı kontrol et "newAddressAddDistrictDropdown"
+* Elementine tıkla "newAddressAddDistrictDropdown"
+* "1" saniye bekle
+* sayfadaki "20" "60" alana dokun
+* "2" saniye bekle
+
+# Yeni Adres Ekle Mahalle ismi secilir.
+* Element var mı kontrol et "newAddressAddNeighbourhoodDropdown"
+* Elementine tıkla "newAddressAddNeighbourhoodDropdown"
+* "1" saniye bekle
+* sayfadaki "20" "60" alana dokun
+* "2" saniye bekle
+
+# Yeni Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
+* "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
+* Yeni Adres Ekleme icin Adres Detay "newAddressCustomerAddressDetail" elementine, Posta Kodu "newAddressCustomerPostcode" elementine yazilir
+
+# Kaydet ikonuna tiklanir yeni eklenen adresin adreslerim alanina geldigi gorulur.
+* Element var mı kontrol et "newAddressSavedBtn"
+* "newAddressSavedBtn" elementine sayacli tikla "pageToolbarTitle" value degerini bekle
