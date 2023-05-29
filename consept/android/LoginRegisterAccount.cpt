@@ -4,19 +4,6 @@ This is a concept file with following syntax for each concept.
 
 // ****************************************** LOGIN STEPS ***********************************************************
 
-# Uygulama baslatilir.
-* "uygulamaAnasayfa" icin sayac tut
-
-# Login sayfasina gecilir.
-* "digerTab" elementine sayacli tikla "loginTab" value degerini bekle
-* "loginTab" elementine sayacli tikla "emailInput" value degerini bekle
-
-
-# Login olunur
-* "AndroidMail" csv dosyasindan rastgele kullanici sec
-* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
-* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
-* Elementine tıkla "anasayfaTab"
 
 // ****************************************** REGISTER STEPS ***********************************************************
 

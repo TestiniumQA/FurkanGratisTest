@@ -21,6 +21,8 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import java.sql.SQLOutput;
 import java.util.Random;
 import javax.annotation.Nullable;
 import java.io.BufferedReader;
@@ -46,8 +48,52 @@ public class StepImpl extends HookImpl {
     long startTime= 0;
     static List <String> user = new ArrayList<>();
     static List <String> password = new ArrayList<>();
+    static List <String> name = new ArrayList<>();
+    static List <String> surname = new ArrayList<>();
+    static List <String> email = new ArrayList<>();
+    static List <String> phoneNumber = new ArrayList<>();
+    static List <String> birthDate = new ArrayList<>();
+    static List <String> password1 = new ArrayList<>();
+    static List <String> password2 = new ArrayList<>();
+    static List <String> Old = new ArrayList<>();
+    static List <String> New = new ArrayList<>();
+    static List <String> Again = new ArrayList<>();
+    static List <String> CustomerName = new ArrayList<>();
+    static List <String> CustomerSurname = new ArrayList<>();
+    static List <String> CustomerPhone = new ArrayList<>();
+    static List <String> CustomerAddressTitle = new ArrayList<>();
+    static List <String> CustomerAddressDetail = new ArrayList<>();
+    static List <String> CustomerAddressPostCode = new ArrayList<>();
+
     String accountUser;
     String accountpassword;
+    String registerName;
+    String registerSurname;
+    String registerEmail;
+    String registerPhoneNumber;
+    String registerBirthDate;
+    String registerPassword1;
+    String registerPassword2;
+    String oldPassword;
+
+    String newPassword;
+
+    String againNewPassword;
+
+    String customerName;
+
+    String customerSurname;
+
+    String customerPhone;
+
+    String customerAddressTitle;
+
+    String customerAddressDetail;
+
+    String customerAddressPostCode;
+
+
+
 
     public StepImpl() {
 
@@ -230,9 +276,139 @@ public class StepImpl extends HookImpl {
         }
     }
 
+    @Step("<key> csv dosyasindan rastgele register kullanicisi sec")
+    public void csvRegisterReader(String value) {
+        try {
+            String line = "";
+            String splitBy = ",";
+
+            BufferedReader br = new BufferedReader(new FileReader("data/"+value+".csv"));
+            while ((line = br.readLine()) != null)
+            {
+                String[] keyValue = line.split(splitBy,7);
+                name.add(keyValue[0]);
+                surname.add(keyValue[1]);
+                email.add(keyValue[2]);
+                phoneNumber.add(keyValue[3]);
+                birthDate.add(keyValue[4]);
+                password1.add(keyValue[5]);
+                password2.add(keyValue[6]);
+            }
+
+            System.out.println("Ad, Soyad ve Maillere ait csv okundu");
+            System.out.println("Telefon ve Doğum Tarihine ait csv okundu");
+            System.out.println("Şifre ve Şifre Tekrar ait csv okundu");
+
+            int number = createRandomNumber(name.size());
+
+            registerName = name.get(number);
+            registerSurname = surname.get(number);
+            registerEmail = email.get(number);
+            registerPhoneNumber = phoneNumber.get(number);
+            registerBirthDate = birthDate.get(number);
+            registerPassword1 = password1.get(number);
+            registerPassword2 = password2.get(number);
+
+            System.out.println("Kullanilacak ad :" + registerName);
+            System.out.println("Kullanilacak soyad :" + registerSurname);
+            System.out.println("Kullanilacak email :" + registerEmail);
+            System.out.println("Kullanilacak Kullanici numarası :" + registerPhoneNumber);
+            System.out.println("Kullanilacak tarih :" + registerBirthDate);
+            System.out.println("Kullanilacak şifre :" + registerPassword1);
+            System.out.println("Kullanilacak şifre tekrar :" + registerPassword2);
+
+        }catch (Exception e){
+            System.out.println("Csv dosyasi oluşturulurken hatayla karsilasildi");
+            System.out.println(name);
+            System.out.println(surname);
+            System.out.println(email);
+            System.out.println(phoneNumber);
+            System.out.println(birthDate);
+            System.out.println(registerPassword1);
+            System.out.println(registerPassword2);
+        }
+    }
+    @Step("<key> csv dosyasindan rastgele adres bilgileri sec")
+    public void csvReaderAddress(String value) {
+        try {
+            String line = "";
+            String splitBy = ",";
+
+            BufferedReader br = new BufferedReader(new FileReader("data/"+value+".csv"));
+            while ((line = br.readLine()) != null)
+            {
+                String[] keyValue = line.split(splitBy,6);
+                CustomerName.add(keyValue[0]);
+                CustomerSurname.add(keyValue[1]);
+                CustomerPhone.add(keyValue[2]);
+                CustomerAddressTitle.add(keyValue[3]);
+                CustomerAddressDetail.add(keyValue[4]);
+                CustomerAddressPostCode.add(keyValue[5]);
+            }
+
+            System.out.println("Adres icin kisisel bilgilere ait csv okundu");
+
+            int number = createRandomNumber(CustomerName.size());
+
+            customerName = CustomerName.get(number);
+            customerSurname = CustomerSurname.get(number);
+            customerPhone = CustomerPhone.get(number);
+            customerAddressTitle = CustomerAddressTitle.get(number);
+            customerAddressDetail = CustomerAddressDetail.get(number);
+            customerAddressPostCode = CustomerAddressPostCode.get(number);
 
 
+            System.out.println("Kisisel Bilgiler icin Musteri Adi :" + customerName);
+            System.out.println("Kisisel Bilgiler icin Musteri Soyadi :" + customerSurname);
+            System.out.println("Kisisel Bilgiler icin Müsteri Telefon No :" + customerPhone);
+            System.out.println("Kisisel Bilgiler icin Müsteri Adres Ismi :" + customerAddressTitle);
+            System.out.println("Kisisel Bilgiler icin Müsteri Adres Detay :" + customerAddressDetail);
+            System.out.println("Kisisel Bilgiler icin Müsteri Adres Posta Kodu :" + customerAddressPostCode);
+        }catch (Exception e){
+            System.out.println("Csv dosyasi oluşturulurken hatayla karsilasildi");
+            System.out.println(customerName);
+            System.out.println(customerSurname);
+            System.out.println(customerPhone);
+            System.out.println(customerAddressTitle);
+            System.out.println(customerAddressDetail);
+            System.out.println(customerAddressPostCode);
+        }
+    }
 
+    @Step("<key> csv dosyasindan rastgele sifre sec")
+    public void csvReaderPassword(String value) {
+        try {
+            String line = "";
+            String splitBy = ",";
+
+            BufferedReader br = new BufferedReader(new FileReader("data/"+value+".csv"));
+            while ((line = br.readLine()) != null)
+            {
+                String[] keyValue = line.split(splitBy,3);
+                Old.add(keyValue[0]);
+                New.add(keyValue[1]);
+                Again.add(keyValue[2]);
+            }
+
+            System.out.println("Sifrelere ait csv okundu");
+
+            int number = createRandomNumber(Old.size());
+
+            oldPassword = Old.get(number);
+            newPassword = New.get(number);
+            againNewPassword = Again.get(number);
+
+            System.out.println("Kullanilacak Eski Sifre:" + oldPassword);
+            System.out.println("Kullanilacak Yeni Sifre :" + newPassword);
+            System.out.println("Kullanilacak Tekrar Yeni Sifre :" + againNewPassword);
+
+        }catch (Exception e){
+            System.out.println("Csv dosyasi oluşturulurken hatayla karsilasildi");
+            System.out.println(oldPassword);
+            System.out.println(newPassword);
+            System.out.println(againNewPassword);
+        }
+    }
 
     @Step({"Değeri <text> e eşit olan <index>. elementi bul ve tıkla"})
     public void clickByText(String text, int index) {
@@ -278,7 +454,44 @@ public class StepImpl extends HookImpl {
         findElementByKey(key2).sendKeys(accountpassword);
     }
 
+    @Step({"Rastgele secilen kullanici adi <key> elementine, soyadi <key> elementine, mail <key> elementine yazilir"})
+    public void personalInfo(String key,String key2,String key3) {
+        findElementByKey(key).sendKeys(registerName);
+        findElementByKey(key2).sendKeys(registerSurname);
+        findElementByKey(key3).sendKeys(registerEmail);
+    }
 
+    @Step({"Rastgele secilen telefon <key> elementine, doğum tarihi <key>  elementine yazilir"})
+    public void personalInfo2(String key,String key2) {
+        findElementByKey(key).sendKeys(registerPhoneNumber);
+        findElementByKey(key2).sendKeys(registerBirthDate);
+    }
+
+    @Step({"Rastgele secilen şifre <key> elementine, şifre tekrar <key>  elementine yazilir"})
+    public void registerPassword(String key,String key2) {
+        findElementByKey(key).sendKeys(registerPassword1);
+        findElementByKey(key2).sendKeys(registerPassword2);
+    }
+    @Step({"Eski sifre <key> elementine, yeni sifre <key> elementine, tekrar yeni sifre <key> elementine yazilir"})
+    public void existElementtPassword(String key,String key2,String key3) {
+        findElementByKey(key).sendKeys(oldPassword);
+        findElementByKey(key2).sendKeys(newPassword);
+        findElementByKey(key3).sendKeys(againNewPassword);
+    }
+
+    @Step({"Yeni Adres Ekleme icin Ad <key> elementine, Soyad <key> elementine, Telefon <key> elementine, Adres Ismi <key> elementine yazilir"})
+    public void existElementtAddAddress(String key,String key2,String key3,String key4) {
+        findElementByKey(key).sendKeys(customerName);
+        findElementByKey(key2).sendKeys(customerSurname);
+        findElementByKey(key3).sendKeys(customerPhone);
+        findElementByKey(key4).sendKeys(customerAddressTitle);
+    }
+
+    @Step({"Yeni Adres Ekleme icin Adres Detay <key> elementine, Posta Kodu <key> elementine yazilir"})
+    public void existElementtAddAddressContinue(String key,String key2) {
+        findElementByKey(key).sendKeys(customerAddressDetail);
+        findElementByKey(key2).sendKeys(customerAddressPostCode);
+    }
 
     @Step({"<key> elementine sayacli tikla <key2> value degerini bekle"})
     public void clickByKeyWithCounter(String key,String key2) {
@@ -288,6 +501,7 @@ public class StepImpl extends HookImpl {
         }
         logger.info(key + " elementine tiklandi");
         clickExistElement(key,key2);
+        logger.info(key2 + " uyarısı görüldü.");
     }
 
     public void clickExistElement(String key1,String key) {
@@ -348,7 +562,7 @@ public class StepImpl extends HookImpl {
         }
     }
 
-    @Step({"sayfadaki <X> <Y>  alana dokun"})
+    @Step({"sayfadaki <X> <Y> alana dokun"})
     public void coordinateTap(int X, int Y) {
         Dimension dimension = appiumDriver.manage().window().getSize();
         int width = dimension.width;
@@ -670,14 +884,13 @@ public class StepImpl extends HookImpl {
             int width = d.width;
 
             int swipeStartWidth = width / 2, swipeEndWidth = width / 2;
-            int swipeStartHeight = (height * 20) / 100;
-            int swipeEndHeight = (height * 70) / 100;
+            int swipeStartHeight = (height * 90) / 100;
+            int swipeEndHeight = (height * 50) / 100;
             //appiumDriver.swipe(swipeStartWidth, swipeStartHeight, swipeEndWidth, swipeEndHeight, 1000);
-            // System.out.println("Start width: " + swipeStartWidth + " - Start height: " + swipeStartHeight + " - End height: " + swipeEndHeight);
-            new TouchAction((AndroidDriver) appiumDriver)
-                    .press(PointOption.point(swipeStartWidth, swipeEndHeight))
-                    .waitAction(WaitOptions.waitOptions(ofMillis(2000)))
-                    .moveTo(PointOption.point(swipeEndWidth, swipeStartHeight))
+            new TouchAction(appiumDriver)
+                    .press(PointOption.point(swipeStartWidth, swipeStartHeight))
+                    .waitAction(WaitOptions.waitOptions(ofMillis(1000)))
+                    .moveTo(PointOption.point(swipeEndWidth, swipeEndHeight))
                     .release()
                     .perform();
         } else {
@@ -686,12 +899,12 @@ public class StepImpl extends HookImpl {
             int width = d.width;
 
             int swipeStartWidth = width / 2, swipeEndWidth = width / 2;
-            int swipeStartHeight = (height * 80) / 100;
-            int swipeEndHeight = (height * 15) / 100;
+            int swipeStartHeight = (height * 90) / 100;
+            int swipeEndHeight = (height * 40) / 100;
             // appiumDriver.swipe(swipeStartWidth, swipeStartHeight, swipeEndWidth, swipeEndHeight, 1000);
             new TouchAction(appiumDriver)
                     .press(PointOption.point(swipeStartWidth, swipeStartHeight))
-                    .waitAction(WaitOptions.waitOptions(ofMillis(2000)))
+                    .waitAction(WaitOptions.waitOptions(ofMillis(1000)))
                     .moveTo(PointOption.point(swipeEndWidth, swipeEndHeight))
                     .release()
                     .perform();
@@ -1951,28 +2164,28 @@ public class StepImpl extends HookImpl {
 
         if (element2!=null){
 
-        if (!Objects.equals(findElementByKey("andLoginMailText").getText(), mail)){
-            logger.info("****** Yanlis hepap ile login olunmus ******");
-            waitBySecond(2);
-            swipe(1);
-            waitBySecond(2);
-            clickByKey("cikisYapBtn");
-            waitBySecond(2);
-            existElement("popUpCikisBtn");
-            clickByKey("popUpCikisBtn");
-            waitBySecond(2);
-            existElement("profilSekmesi");
-            clickByKey("profilSekmesi");
-            existElement("girisYapBtn");
-            clickByKey("girisYapBtn");
-            existElement("andEpostaGirisInput");
-            sendKeysByKeyNotClear(mail,"andEpostaGirisInput");
-            sendKeysByKeyNotClear(sifre,"andGirisYapSifreInputArea");
-            clickByKey("andLoginBtn");
-            logger.info("****** Dogru hesapla login olundu ******");
-            waitBySecond(3);
-            existElement("andLoginMailText");
-        }
+            if (!Objects.equals(findElementByKey("andLoginMailText").getText(), mail)){
+                logger.info("****** Yanlis hepap ile login olunmus ******");
+                waitBySecond(2);
+                swipe(1);
+                waitBySecond(2);
+                clickByKey("cikisYapBtn");
+                waitBySecond(2);
+                existElement("popUpCikisBtn");
+                clickByKey("popUpCikisBtn");
+                waitBySecond(2);
+                existElement("profilSekmesi");
+                clickByKey("profilSekmesi");
+                existElement("girisYapBtn");
+                clickByKey("girisYapBtn");
+                existElement("andEpostaGirisInput");
+                sendKeysByKeyNotClear(mail,"andEpostaGirisInput");
+                sendKeysByKeyNotClear(sifre,"andGirisYapSifreInputArea");
+                clickByKey("andLoginBtn");
+                logger.info("****** Dogru hesapla login olundu ******");
+                waitBySecond(3);
+                existElement("andLoginMailText");
+            }
         }
 
     }
@@ -2029,41 +2242,41 @@ public class StepImpl extends HookImpl {
 //        List denemee =findElemenstByKeyWithoutAssert(key);
 
 
-            while (findElementByKeyWithoutAssert(key)!=null){
+        while (findElementByKeyWithoutAssert(key)!=null){
 
-                logger.info("Sepette urun bulundu");
-                waitBySecond(1);
-                Dimension elementSize = findElementByKey(key).getSize();
+            logger.info("Sepette urun bulundu");
+            waitBySecond(1);
+            Dimension elementSize = findElementByKey(key).getSize();
 
-                String yElementSize = String.valueOf(elementSize.height);
-                String xElementSize = String.valueOf(elementSize.width);
-                int elementY = Integer.parseInt(yElementSize);
-                int elementX = Integer.parseInt(xElementSize);
+            String yElementSize = String.valueOf(elementSize.height);
+            String xElementSize = String.valueOf(elementSize.width);
+            int elementY = Integer.parseInt(yElementSize);
+            int elementX = Integer.parseInt(xElementSize);
 
-                Point elementPoint = findElementByKey(key).getLocation();
-                String elementStartPointY = String.valueOf(elementPoint.y);
-                String elementStartPointX = String.valueOf(elementPoint.x);
-                int elementBottomY = Integer.parseInt(elementStartPointY);
-                int elementBottomX = Integer.parseInt(elementStartPointX);
+            Point elementPoint = findElementByKey(key).getLocation();
+            String elementStartPointY = String.valueOf(elementPoint.y);
+            String elementStartPointX = String.valueOf(elementPoint.x);
+            int elementBottomY = Integer.parseInt(elementStartPointY);
+            int elementBottomX = Integer.parseInt(elementStartPointX);
 
-                System.out.println("Başlangıç noktası X : " + elementBottomX);
-                System.out.println("Başlangıç noktası Y : " + (elementBottomY + (elementY / 2)));
-                System.out.println("Bitiş noktası X : " + elementX);
-                System.out.println("Bitiş noktası Y : " + (elementBottomY + (elementY / 2)));
-                System.out.println("Y1 : " + elementBottomY);
-                System.out.println("Y2 : " + elementY);
+            System.out.println("Başlangıç noktası X : " + elementBottomX);
+            System.out.println("Başlangıç noktası Y : " + (elementBottomY + (elementY / 2)));
+            System.out.println("Bitiş noktası X : " + elementX);
+            System.out.println("Bitiş noktası Y : " + (elementBottomY + (elementY / 2)));
+            System.out.println("Y1 : " + elementBottomY);
+            System.out.println("Y2 : " + elementY);
 
-                new TouchAction(appiumDriver)
-                        .press(PointOption.point(elementX, (elementBottomY + (elementY / 2))))
-                        .waitAction(WaitOptions.waitOptions(ofMillis(3000)))
-                        .moveTo(PointOption.point(elementBottomX, (elementBottomY + (elementY / 2))))
-                        .release()
-                        .perform();
-            }
+            new TouchAction(appiumDriver)
+                    .press(PointOption.point(elementX, (elementBottomY + (elementY / 2))))
+                    .waitAction(WaitOptions.waitOptions(ofMillis(3000)))
+                    .moveTo(PointOption.point(elementBottomX, (elementBottomY + (elementY / 2))))
+                    .release()
+                    .perform();
+        }
         logger.info("Sepette bulunan urun silindi");
         waitBySecond(1);
 
-        }
+    }
 
 
     @Step({"<key> elementine var oldukca tiklanir"})
