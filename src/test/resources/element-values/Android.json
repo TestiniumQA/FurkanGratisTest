@@ -36,7 +36,7 @@
   },
   {
     "key": "loginBtn",
-    "androidValue": "//android.widget.Button[@text='GİRİŞ YAP']",
+    "androidValue": "//android.widget.Button[@text='GIRIŞ YAP']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
@@ -258,4 +258,310 @@
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
-  }]
+  },
+  {
+    "key": "registerBtn",
+    "androidValue": "//android.widget.Button[@text='ÜYE OL']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "registerName",
+    "androidValue": "com.gratis.android:id/et_firstName",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "registerSurname",
+    "androidValue": "com.gratis.android:id/et_surName",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "registerMail",
+    "androidValue": "com.gratis.android:id/et_email",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "registerPhone",
+    "androidValue": "com.gratis.android:id/et_phoneNumber",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "registerBirth",
+    "androidValue": "com.gratis.android:id/et_date_of_birth",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "registerGender",
+    "androidValue": "com.gratis.android:id/man",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "registerPassword",
+    "androidValue": "com.gratis.android:id/et_password",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "registerPasswordAgain",
+    "androidValue": "com.gratis.android:id/et_password_again",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "registerMembershipAgreement",
+    "androidValue": "com.gratis.android:id/membership_agreement_checkbox",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "registerOtherAgreement",
+    "androidValue": "com.gratis.android:id/other_agreement_checkbox",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "registerPersonalInfo",
+    "androidValue": "//*[@text='Kişisel verilerimin hizmetin verilebilmesi için site altyapısını sağlayan Oracle firmasının yurtdışında(Almanya) bulunan bulut hizmeti sunucularına aktarılmasına açık rızamla onay veriyorum.']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "registerButton",
+    "androidValue": "com.gratis.android:id/register_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "failurePassword",
+    "androidValue": "com.gratis.android:id/textinput_error",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "forgotPassword",
+    "androidValue": "com.gratis.android:id/forgot_password_txt",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "passwordResetPage",
+    "androidValue": "toolbar_title",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "forgotPasswordSendButton",
+    "androidValue": "send_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "alertSuccessfulPopup",
+    "androidValue": "android:id/message",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "popupOkayButton",
+    "androidValue": "android:id/button1",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "pageToolbarTitle",
+    "androidValue": "toolbar_title",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "profilePageMyPassword",
+    "androidValue": "item_password_root",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "myPasswordOldPassword",
+    "androidValue": "old_password_et",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "myPasswordNewPassword",
+    "androidValue": "new_password_et",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "myPasswordAgainNewPassword",
+    "androidValue": "new_password_again_et",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "myPasswordSavedIcon",
+    "androidValue": "register_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "myPasswordChangesEditDone",
+    "androidValue": "//*[@text='Düzenlemeleriniz başarıyla kaydedilmiştir.']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "profileRoot",
+    "androidValue": "item_profile_root",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "profilePageMyAddress",
+    "androidValue": "item_adress_root",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "myAddressNewAddAddress",
+    "androidValue": "add_address_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "newAddressAddCityDropdown",
+    "androidValue": "city_spinner",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "profilePageMyPasswordSaved",
+    "androidValue": "com.gratis.android:id/save_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "newAddressAddDistrictDropdown",
+    "androidValue": "town_spinner",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "newAddressAddNeighbourhoodDropdown",
+    "androidValue": "district_spinner",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "newAddressCustomerName",
+    "androidValue": "et_firstName",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "newAddressCustomerSurname",
+    "androidValue": "et_surName",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "newAddressCustomerPhone",
+    "androidValue": "et_phoneNumber",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "newAddressCustomerAddressTitle",
+    "androidValue": "et_address_name",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "newAddressCustomerAddressDetail",
+    "androidValue": "et_address",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "newAddressCustomerPostcode",
+    "androidValue": "et_post_code",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "newAddressSavedBtn",
+    "androidValue": "save_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "newAddressCard",
+    "androidValue": "com.gratis.android:id/adress_card",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "gratisCardWindowCloseBtn",
+    "androidValue": "close_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  }
+]
