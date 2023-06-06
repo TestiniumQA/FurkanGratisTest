@@ -48,9 +48,24 @@ tags:Gratis_Android_YeniAdresEkleme
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
 * Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur.
-* Yeni Adres Ekleme icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
-* Yeni Adres Ekle Sehir ismi secilir.
-* Yeni Adres Ekle Ilce ismi secilir.
-* Yeni Adres Ekle Mahalle ismi secilir.
-* Yeni Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
-* Kaydet ikonuna tiklanir yeni eklenen adresin adreslerim alanina geldigi gorulur.
+* Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
+* Adres Ekle Sehir ismi secilir.
+* Adres Ekle Ilce ismi secilir.
+* Adres Ekle Mahalle ismi secilir.
+* Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
+* Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur.
+
+Updating Address
+----------------
+tags:Gratis_Android_AdresGüncelleme
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
+* Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
+* Adres Ekle Sehir ismi secilir.
+* Adres Ekle Ilce ismi secilir.
+* Adres Ekle Mahalle ismi secilir.
+* Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
+* Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur.

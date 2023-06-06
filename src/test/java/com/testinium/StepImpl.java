@@ -479,7 +479,7 @@ public class StepImpl extends HookImpl {
         findElementByKey(key3).sendKeys(againNewPassword);
     }
 
-    @Step({"Yeni Adres Ekleme icin Ad <key> elementine, Soyad <key> elementine, Telefon <key> elementine, Adres Ismi <key> elementine yazilir"})
+    @Step({"Adres icin Ad <key> elementine, Soyad <key> elementine, Telefon <key> elementine, Adres Ismi <key> elementine yazilir"})
     public void existElementtAddAddress(String key,String key2,String key3,String key4) {
         findElementByKey(key).sendKeys(customerName);
         findElementByKey(key2).sendKeys(customerSurname);

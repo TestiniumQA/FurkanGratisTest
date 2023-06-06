@@ -468,7 +468,7 @@
   },
   {
     "key": "myAddressNewAddAddress",
-    "androidValue": "//*[@text='+ Yeni Adres Ekle']",
+    "androidValue": "add_address_button",
     "androidType": "id",
     "iosValue": "",
     "iosType": ""
