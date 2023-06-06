@@ -10,18 +10,16 @@ Login
 tags:Gratis_Android_Login
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
-* Login olunur
-* "5" saniye bekle
+* Login olunur.
 
 Register
 --------
 tags:Gratis_Android_Register
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
-* Register'a tıklanır ve kullanıcı seçilir
-* Kullanıcı bilgileri girilir
-* Kullanıcı şartlarına tıklanır ve üye olunur
-* "5" saniye bekle
+* Register'a tıklanır ve kullanıcı seçilir.
+* Kullanıcı bilgileri girilir.
+* Kullanıcı şartlarına tıklanır ve üye olunur.
 
 Forget Password
 ---------------
@@ -32,23 +30,21 @@ tags:Gratis_Android_SifremiUnuttum
 * E-posta alanina "javaautomationtest@gmail.com" girilir.
 * Sifremi unuttum Gonder butonuna tiklanir.
 * Popup Tamam butonuna tiklanir.
-* "5" saniye bekle
 
 Changing Password
 ---------------
 tags:Gratis_Android_SifreDegistirme
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
-* Login olunur
+* Login olunur.
 * Sifre basarili sekilde degistirilir.
-* "5" saniye bekle
 
 Adding New Address
 ------------------
 tags:Gratis_Android_YeniAdresEkleme
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
-* Login olunur
+* Login olunur.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
 * Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur.
@@ -58,4 +54,3 @@ tags:Gratis_Android_YeniAdresEkleme
 * Yeni Adres Ekle Mahalle ismi secilir.
 * Yeni Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
 * Kaydet ikonuna tiklanir yeni eklenen adresin adreslerim alanina geldigi gorulur.
-* "3" saniye bekle

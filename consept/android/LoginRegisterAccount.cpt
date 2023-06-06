@@ -7,18 +7,18 @@ This is a concept file with following syntax for each concept.
 
 // ****************************************** REGISTER STEPS ***********************************************************
 
-# Register'a tıklanır ve kullanıcı seçilir
+# Register'a tıklanır ve kullanıcı seçilir.
 * "registerBtn" elementine sayacli tikla "digerTab" value degerini bekle
 * "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
 
-# Kullanıcı bilgileri girilir
+# Kullanıcı bilgileri girilir.
 * Rastgele secilen kullanici adi "registerName" elementine, soyadi "registerSurname" elementine, mail "registerMail" elementine yazilir
 * Rastgele secilen telefon "registerPhone" elementine, doğum tarihi "registerBirth"  elementine yazilir
 * "registerGender" li element varsa tıkla
 * Rastgele secilen şifre "registerPassword" elementine, şifre tekrar "registerPasswordAgain"  elementine yazilir
 *  "registerButton"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 
-# Kullanıcı şartlarına tıklanır ve üye olunur
+# Kullanıcı şartlarına tıklanır ve üye olunur.
 * "registerMembershipAgreement" li elementi bul ve varsa tıkla
 * "registerOtherAgreement" li elementi bul ve varsa tıkla
 * "registerPersonalInfo" li elementi bul ve varsa tıkla
