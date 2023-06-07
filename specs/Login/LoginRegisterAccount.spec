@@ -57,7 +57,7 @@ tags:Gratis_Android_YeniAdresEkleme
 
 Updating Address
 ----------------
-tags:Gratis_Android_AdresGüncelleme
+tags:Gratis_Android_AdresGuncelleme
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Login olunur.
