@@ -63,6 +63,7 @@ tags:Gratis_Android_AdresGüncelleme
 * Login olunur.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
+* Adres güncellemeye tıklanır.
 * Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
 * Adres Ekle Sehir ismi secilir.
 * Adres Ekle Ilce ismi secilir.

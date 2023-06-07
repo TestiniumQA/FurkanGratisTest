@@ -36,7 +36,7 @@
   },
   {
     "key": "loginBtn",
-    "androidValue": "//android.widget.Button[@text='GİRİŞ YAP']",
+    "androidValue": "//android.widget.Button[@text='GIRIŞ YAP']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
@@ -560,6 +560,13 @@
   {
     "key": "gratisCardWindowCloseBtn",
     "androidValue": "close_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "updateAddressButton",
+    "androidValue": "com.gratis.android:id/address_update_btn",
     "androidType": "id",
     "iosValue": "",
     "iosType": ""

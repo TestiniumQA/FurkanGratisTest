@@ -83,6 +83,9 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "myAddressNewAddAddress"
 * "myAddressNewAddAddress" elementine sayacli tikla "pageToolbarTitle" value degerini bekle
 
+# Adres güncellemeye tıklanır.
+* "updateAddressButton" li elementi bul ve varsa dokun
+
 # Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
 * Klavyeyi kapat
 * "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
@@ -108,7 +111,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "newAddressAddNeighbourhoodDropdown"
 * "1" saniye bekle
 * sayfadaki "20" "60" alana dokun
-* "2" saniye bekle
+* Elementin yüklenmesini bekle "newAddressCustomerAddressDetail"
 
 # Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
 * "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
@@ -117,3 +120,4 @@ This is a concept file with following syntax for each concept.
 # Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur.
 * Element var mı kontrol et "newAddressSavedBtn"
 * Elementine tıkla "newAddressSavedBtn"
+* Element var mı kontrol et "newAddressCard"
