@@ -110,7 +110,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "newAddressAddNeighbourhoodDropdown"
 * Elementine tıkla "newAddressAddNeighbourhoodDropdown"
 * "2" saniye bekle
-* sayfadaki "20" "60" alana dokun
+* sayfadaki "20" "80" alana dokun
 * Elementin yüklenmesini bekle "newAddressCustomerAddressDetail"
 
 # Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
