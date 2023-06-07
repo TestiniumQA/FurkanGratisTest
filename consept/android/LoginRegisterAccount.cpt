@@ -95,21 +95,21 @@ This is a concept file with following syntax for each concept.
 * "2" kere aşağıya kaydır
 * Element var mı kontrol et "newAddressAddCityDropdown"
 * Elementine tıkla "newAddressAddCityDropdown"
-* "1" saniye bekle
+* "2" saniye bekle
 * sayfadaki "20" "60" alana dokun
 * "2" saniye bekle
 
 # Adres Ekle Ilce ismi secilir.
 * Element var mı kontrol et "newAddressAddDistrictDropdown"
 * Elementine tıkla "newAddressAddDistrictDropdown"
-* "1" saniye bekle
+* "2" saniye bekle
 * sayfadaki "20" "60" alana dokun
 * "2" saniye bekle
 
 # Adres Ekle Mahalle ismi secilir.
 * Element var mı kontrol et "newAddressAddNeighbourhoodDropdown"
 * Elementine tıkla "newAddressAddNeighbourhoodDropdown"
-* "1" saniye bekle
+* "2" saniye bekle
 * sayfadaki "20" "60" alana dokun
 * Elementin yüklenmesini bekle "newAddressCustomerAddressDetail"
 
