@@ -36,7 +36,7 @@
   },
   {
     "key": "loginBtn",
-    "androidValue": "//android.widget.Button[@text='GIRIŞ YAP']",
+    "androidValue": "//android.widget.Button[@text='GİRİŞ YAP']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
