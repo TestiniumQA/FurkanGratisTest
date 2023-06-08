@@ -5,7 +5,7 @@ Created by testinium on 8.06.2023
 This is an executable specification file which follows markdown syntax.
 Every heading in this file denotes a scenario. Every bulleted point denotes a step.
      
-Adding New Address
+Deleting Address and Adding New Address
 ------------------
 tags:Gratis_Android_YeniAdresEkleme
 * Uygulama baslatilir.
@@ -13,6 +13,7 @@ tags:Gratis_Android_YeniAdresEkleme
 * Login olunur.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur.
 * Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
 * Adres Ekle Sehir ismi secilir.

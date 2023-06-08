@@ -468,7 +468,7 @@
   },
   {
     "key": "myAddressNewAddAddress",
-    "androidValue": "add_address_button",
+    "androidValue": "com.gratis.android:id/add_address_empty_button",
     "androidType": "id",
     "iosValue": "",
     "iosType": ""
@@ -567,6 +567,27 @@
   {
     "key": "updateAddressButton",
     "androidValue": "com.gratis.android:id/address_update_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "deleteAddressButton",
+    "androidValue": "com.gratis.android:id/address_delete_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "deleteAddressButton",
+    "androidValue": "com.gratis.android:id/address_delete_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "deleteAddressPopupButton",
+    "androidValue": "android:id/button1",
     "androidType": "id",
     "iosValue": "",
     "iosType": ""

@@ -38,5 +38,3 @@ tags:Gratis_Android_SifreDegistirme
 * Login sayfasina gecilir.
 * Login olunur.
 * Sifre basarili sekilde degistirilir.
-
-

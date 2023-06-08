@@ -2,11 +2,6 @@ Created by testinium on 23.05.2023
 
 This is a concept file with following syntax for each concept.
 
-// ****************************************** LOGIN STEPS ***********************************************************
-
-
-// ****************************************** REGISTER STEPS ***********************************************************
-
 # Register'a tıklanır ve kullanıcı seçilir.
 * "registerBtn" elementine sayacli tikla "digerTab" value degerini bekle
 * "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
@@ -24,9 +19,6 @@ This is a concept file with following syntax for each concept.
 * "registerPersonalInfo" li elementi bul ve varsa tıkla
 * "registerButton" li elementi bul ve varsa tıkla
 
-
-// ***************************************** FORGET PASSWORD STEPS *****************************************************
-
 # Sifremi Unuttum ikonuna tiklanir.
 * Element var mı kontrol et "forgotPassword"
 * "forgotPassword" elementine sayacli tikla "passwordResetPage" value degerini bekle
@@ -41,8 +33,6 @@ This is a concept file with following syntax for each concept.
 # Popup Tamam butonuna tiklanir.
 * Element var mı kontrol et "popupOkayButton"
 * "popupOkayButton" elementine sayacli tikla "registerBtn" value degerini bekle
-
-// ***************************************** CHANGE PASSWORD STEPS *****************************************************
 
 # Sifre basarili sekilde degistirilir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
@@ -65,8 +55,6 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "pageToolbarTitle"
 * Element var mı kontrol et "myPasswordChangesEditDone"
 
-// ******************************************* NEW ADDRESS STEPS *******************************************************
-
 # Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Element var mı kontrol et "digerTab"
 * Elementine tıkla "digerTab"
@@ -77,8 +65,12 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "profilePageMyAddress"
 * "profilePageMyAddress" elementine sayacli tikla "pageToolbarTitle" value degerini bekle
 
+# Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* "deleteAddressButton" li elementi bul ve varsa tıkla
+* "deleteAddressPopupButton" li elementi bul ve varsa tıkla
+* "newAddressCard" değerini sayfa üzerinde olmadıgını kontrol et
+
 # Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur.
-* "2" kere aşağıya kaydır
 * "1" saniye bekle
 * Element var mı kontrol et "myAddressNewAddAddress"
 * "myAddressNewAddAddress" elementine sayacli tikla "pageToolbarTitle" value degerini bekle
