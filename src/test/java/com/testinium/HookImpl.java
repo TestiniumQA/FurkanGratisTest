@@ -34,7 +34,7 @@ public class HookImpl {
     protected static AppiumDriver<MobileElement> appiumDriver;
     static EventFiringWebDriver eventDriver;
     protected static FluentWait<AppiumDriver<MobileElement>> appiumFluentWait;
-    protected boolean localAndroid = false;
+    protected boolean localAndroid=false;
     public static boolean isDeviceAnd=false;
     protected static Selector selector ;
 
@@ -63,7 +63,7 @@ public class HookImpl {
                                 "com.app.gratis.ui.splash.SplashActivity");
                 desiredCapabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "uiautomator2");
                 desiredCapabilities
-                      .setCapability(MobileCapabilityType.NO_RESET, true);
+                      .setCapability(MobileCapabilityType.NO_RESET, false);
                 desiredCapabilities
                        .setCapability(MobileCapabilityType.FULL_RESET, false);
                 desiredCapabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 3000);
@@ -78,11 +78,11 @@ public class HookImpl {
                 desiredCapabilities
                         .setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.IOS);
                 desiredCapabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "XCUITest");
-                 desiredCapabilities.setCapability(MobileCapabilityType.UDID, "6b8291f1ea4e4fb84cacc19bc6b7badc6d7f4381");
+                 desiredCapabilities.setCapability(MobileCapabilityType.UDID, "16c25ac125cf1ab8c197fbb1cea64a31c9039df9");
                 desiredCapabilities
                         .setCapability(IOSMobileCapabilityType.BUNDLE_ID, "com.pharos.Gratis");
-                desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "iPhone 6");
-                  desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "14.7.1");
+                desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "iPhone 6s");
+                  desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "13.6.1");
                 desiredCapabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 300);
 
                 URL url = new URL("http://127.0.0.1:4723/wd/hub");

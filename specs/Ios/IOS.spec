@@ -18,4 +18,11 @@ tags:MTC-1 IOS Scenario
 * Urun arama sayfasina gecilir onerilen arama yapilir
 * Kampanyalar sekmesine gecilir ardindan magazalara gidilir
 
+MTC-1 IOS Scenario Deneme
+-------------------------
+tags:MTC-1 IOS ScenarioDeneme
+* Uygulama baslatilirr
+* "8" saniye bekle
+* "digerSekmesi" li element varsa tıkla
+
 
