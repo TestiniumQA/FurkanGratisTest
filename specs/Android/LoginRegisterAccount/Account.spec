@@ -7,7 +7,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
      
 Deleting Address and Adding New Address
 ------------------
-tags:Gratis_Android_YeniAdresEkleme
+tags:Gratis_Android_YeniAdresEklemeVeSilme
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Login olunur.
