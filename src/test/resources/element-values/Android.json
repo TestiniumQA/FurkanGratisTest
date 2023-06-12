@@ -591,5 +591,54 @@
     "androidType": "id",
     "iosValue": "",
     "iosType": ""
+  },
+  {
+    "key": "forgetPasswordFailPopup",
+    "androidValue": "//*[@text='Lütfen girilen e-posta alanını kontrol ediniz.']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "emptyMailFailure",
+    "androidValue": "//*[@text='E-posta alanı boş bırakılamaz.']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "wrongMailFailure",
+    "androidValue": "//*[@text='Lütfen girilen e-posta adresinizi kontrol ediniz.']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "shortPasswordFailure",
+    "androidValue": "//*[@text='Girilen şifre en az 8 haneli olmalıdır.']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "emptyPasswordFailure",
+    "androidValue": "//*[@text='Şifre alanı boş bırakılamaz.']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "NotMemberFailure",
+    "androidValue": "//*[@text='Böyle bir üye kaydı bulunmamaktadır. Lütfen üye kaydı yapınız.']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "wrongPasswordFailure",
+    "androidValue": "//*[@text='Yanlış şifre veya email/cep telefonu.']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
   }
 ]

@@ -26,9 +26,44 @@ This is a concept file with following syntax for each concept.
 # E-posta alanina <eposta> girilir.
 * <eposta> textini "emailInput" elemente yaz
 
+# Sifre alanına <sifre> girilir.
+* <sifre> textini "passwordInput" elemente yaz
+
 # Sifremi unuttum Gonder butonuna tiklanir.
 * Element var mı kontrol et "forgotPasswordSendButton"
 * "forgotPasswordSendButton" elementine sayacli tikla "alertSuccessfulPopup" value degerini bekle
+
+# Sifremi unuttum bos mail uyarısı gorulur.
+* Element var mı kontrol et "forgetPasswordFailPopup"
+* Elementine tıkla "popupOkayButton"
+* Elementin yüklenmesini bekle "registerBtn"
+
+# Login icin bos mail ve sifre uyarısı gorulur.
+* Elementine tıkla "loginBtn"
+* Element var mı kontrol et "emptyMailFailure"
+* Element var mı kontrol et "emptyPasswordFailure"
+* "2" saniye bekle
+
+# Yanlıs eposta ve sifre uyarıları gorulur.
+* Elementine tıkla "loginBtn"
+* Element var mı kontrol et "wrongMailFailure"
+* Element var mı kontrol et "shortPasswordFailure"
+* "2" saniye bekle
+
+# Kayıtlı olmayan eposta ile login olma uyarısı gorulur.
+* Elementine tıkla "loginBtn"
+* Element var mı kontrol et "NotMemberFailure"
+* "2" saniye bekle
+* Elementine tıkla "popupOkayButton"
+* "1" saniye bekle
+
+
+# Yanlıs sifre veya email/cep telefonu uyarısı gorulur.
+* Elementine tıkla "loginBtn"
+* Element var mı kontrol et "wrongPasswordFailure"
+* "2" saniye bekle
+* Elementine tıkla "popupOkayButton"
+* "2" saniye bekle
 
 # Popup Tamam butonuna tiklanir.
 * Element var mı kontrol et "popupOkayButton"

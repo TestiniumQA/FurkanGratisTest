@@ -38,3 +38,23 @@ tags:Gratis_Android_SifreDegistirme
 * Login sayfasina gecilir.
 * Login olunur.
 * Sifre basarili sekilde degistirilir.
+
+Negative Login and Forget Password
+----------------------------------
+tags:Gratis_Android_NegativeLoginAndForgetPassword
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Sifremi Unuttum ikonuna tiklanir.
+* Sifremi unuttum Gonder butonuna tiklanir.
+* Sifremi unuttum bos mail uyarısı gorulur.
+* Login icin bos mail ve sifre uyarısı gorulur.
+* E-posta alanina "yanlış formatta eposta" girilir.
+* Sifre alanına "sifre" girilir.
+* Yanlıs eposta ve sifre uyarıları gorulur.
+* E-posta alanina "kayitliolmayaneposta@gmail.com" girilir.
+* Sifre alanına "sifresifre" girilir.
+* Kayıtlı olmayan eposta ile login olma uyarısı gorulur.
+* E-posta alanina "mehmtuldg@gmail.com" girilir.
+* Sifre alanına "sifresifre" girilir.
+* Yanlıs sifre veya email/cep telefonu uyarısı gorulur.
+
