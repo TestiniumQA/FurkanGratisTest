@@ -2,11 +2,38 @@ Created by testinium on 23.05.2023
 
 This is a concept file with following syntax for each concept.
 
-# Register'a tıklanır ve kullanıcı seçilir.
+# Register'a tıklanır.
+* Element var mı kontrol et "registerBtn"
 * "registerBtn" elementine sayacli tikla "digerTab" value degerini bekle
-* "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
+
+# Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur.
+* "Mehmet" textini "newAddressCustomerName" elemente yaz
+* "Uludağ" textini "newAddressCustomerSurname" elemente yaz
+* "javaautomationtest@gmail.com" textini "registerMail" elemente yaz
+* "5326637272" textini "registerPhone" elemente yaz
+* Elementine tıkla "registerBirth"
+* Element var mı kontrol et "popupOkayButton"
+* "190","440" coordinatından "190","680" coordinatına "2" kere swipe et
+* "350","440" coordinatından "350","680" coordinatına "2" kere swipe et
+* "515","440" coordinatından "520","680" coordinatına "3" kere swipe et
+* Elementine tıkla "popupOkayButton"
+* Elementine tıkla "registerGender"
+* "123456Asdf." textini "registerPassword" elemente yaz
+* "123456Asdf." textini "registerPasswordAgain" elemente yaz
+* "1" kere aşağıya kaydır
+* Elementine tıkla "SmsCheckbox"
+* Element var mı kontrol et "SmsCheckboxChecked"
+* Elementine tıkla "EmailCheckbox"
+* Element var mı kontrol et "EmailCheckboxChecked"
+* "1" kere aşağıya kaydır
+* "registerMembershipAgreement" li elementi bul ve varsa tıkla
+* "registerOtherAgreement" li elementi bul ve varsa tıkla
+* "registerPersonalInfo" li elementi bul ve varsa tıkla
+* "registerButton" li elementi bul ve varsa tıkla
+* Element var mı kontrol et "registerEmailErrorButton"
 
 # Kullanıcı bilgileri girilir.
+* "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
 * Rastgele secilen kullanici adi "registerName" elementine, soyadi "registerSurname" elementine, mail "registerMail" elementine yazilir
 * Rastgele secilen telefon "registerPhone" elementine, doğum tarihi "registerBirth"  elementine yazilir
 * "registerGender" li element varsa tıkla

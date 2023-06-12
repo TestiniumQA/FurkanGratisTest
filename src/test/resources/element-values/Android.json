@@ -36,7 +36,7 @@
   },
   {
     "key": "loginBtn",
-    "androidValue": "//android.widget.Button[@text='GİRİŞ YAP']",
+    "androidValue": "//android.widget.Button[@text='GiRiŞ YAP']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
@@ -637,6 +637,48 @@
   {
     "key": "wrongPasswordFailure",
     "androidValue": "//*[@text='Yanlış şifre veya email/cep telefonu.']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "SmsCheckbox",
+    "androidValue": "//android.widget.CheckBox",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "SmsCheckboxChecked",
+    "androidValue": "//android.widget.CheckBox[@checked='true']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "EmailCheckbox",
+    "androidValue": "//android.widget.CheckBox[2]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "EmailCheckboxChecked",
+    "androidValue": "//android.widget.CheckBox[2][@checked='true']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "registerSmsAcceptButton",
+    "androidValue": "//android.widget.TextView[@text='SMS ONAYI']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "registerEmailErrorButton",
+    "androidValue": "//android.widget.TextView[@text='Email adresi zaten var.']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""

@@ -17,9 +17,17 @@ Register
 tags:Gratis_Android_Register
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
-* Register'a tıklanır ve kullanıcı seçilir.
+* Register'a tıklanır.
 * Kullanıcı bilgileri girilir.
 * Kullanıcı şartlarına tıklanır ve üye olunur.
+
+Register Negative
+-----------------
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Register'a tıklanır.
+* Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur.
+
 
 Forget Password
 ---------------
@@ -54,7 +62,7 @@ tags:Gratis_Android_NegativeLoginAndForgetPassword
 * E-posta alanina "kayitliolmayaneposta@gmail.com" girilir.
 * Sifre alanına "sifresifre" girilir.
 * Kayıtlı olmayan eposta ile login olma uyarısı gorulur.
-* E-posta alanina "mehmtuldg@gmail.com" girilir.
+* E-posta alanina "javaautomationtest@gmail.com" girilir.
 * Sifre alanına "sifresifre" girilir.
 * Yanlıs sifre veya email/cep telefonu uyarısı gorulur.
 
