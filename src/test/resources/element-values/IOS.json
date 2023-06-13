@@ -312,7 +312,7 @@
     "key": "uygulamaIzinver",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeButton[`label == \"Uygulamayı Kullanırken İzin Ver\"`]",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"İzin Ver\"`]",
     "iosType": "classChain"
   }
 
