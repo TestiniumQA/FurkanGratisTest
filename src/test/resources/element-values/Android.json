@@ -696,5 +696,33 @@
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
+  },
+  {
+    "key": "registerMembershipText",
+    "androidValue": "com.gratis.android:id/membership_txt",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "registerAgreementText",
+    "androidValue": "com.gratis.android:id/agreement_text",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "register2AgreementText",
+    "androidValue": "com.gratis.android:id/agreement_text",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "registerOtherAgreementText",
+    "androidValue": "other_agreement_txt",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
   }
 ]

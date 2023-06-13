@@ -540,6 +540,15 @@ public class StepImpl extends HookImpl {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+    } @Step("<key> elementi <text> degerine esit mi")
+    public void checkTextEqualsByKey(String key, String text) {
+        try {
+            Thread.sleep(3000);
+            System.out.println("******"+findElementByKey(key).getText()+"******");
+            assertNotEquals(findElementByKey(key).getText(),text,"Elementi girilen text değerine eşit değil!");
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 
     @Step({"<key> li elementi bul ve varsa tıkla", "Click element by <key> if exist"})
