@@ -1,6 +1,6 @@
 # Uygulama baslatilir
-* "anasayfa" icin sayac tut
 * "uygulamaIzinver" li element varsa tıkla
+* "anasayfa" icin sayac tut
 
 # Login sayfasina gecilir
 * "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
