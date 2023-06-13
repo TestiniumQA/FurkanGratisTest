@@ -23,6 +23,7 @@ tags:Gratis_Android_Register
 
 Register Negative
 -----------------
+tags:Gratis_Android_Register_Negative
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Register'a tıklanır.
