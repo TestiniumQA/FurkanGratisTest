@@ -36,7 +36,7 @@
   },
   {
     "key": "loginBtn",
-    "androidValue": "//android.widget.Button[@text='GiRiŞ YAP']",
+    "androidValue": "//android.widget.Button",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
@@ -308,7 +308,7 @@
   },
 
   {
-    "key": "registerGender",
+    "key": "registerManGender",
     "androidValue": "com.gratis.android:id/man",
     "androidType": "id",
     "iosValue": "",
@@ -677,8 +677,22 @@
     "iosType": ""
   },
   {
-    "key": "registerEmailErrorButton",
+    "key": "registerEmailErrorPopup",
     "androidValue": "//android.widget.TextView[@text='Email adresi zaten var.']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "registerPhoneErrorPopup",
+    "androidValue": "//android.widget.TextView[@text='Telefon numarası zaten var.']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "registerAgeErrorPopup",
+    "androidValue": "//android.widget.TextView[@text='17 yaşından büyük olmalısınız.']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""

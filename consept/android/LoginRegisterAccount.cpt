@@ -6,18 +6,15 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "registerBtn"
 * "registerBtn" elementine sayacli tikla "digerTab" value degerini bekle
 
-# Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur.
+# 17 yasindan kucuk dogum tarihi secilir ve uyarı mesaji gorulur.
 * "Mehmet" textini "newAddressCustomerName" elemente yaz
 * "Uludağ" textini "newAddressCustomerSurname" elemente yaz
-* "javaautomationtest@gmail.com" textini "registerMail" elemente yaz
-* "5326637272" textini "registerPhone" elemente yaz
+* "mehmtuldg@gmail.com" textini "registerMail" elemente yaz
+* "5416412489" textini "registerPhone" elemente yaz
 * Elementine tıkla "registerBirth"
 * Element var mı kontrol et "popupOkayButton"
-* "190","440" coordinatından "190","680" coordinatına "2" kere swipe et
-* "350","440" coordinatından "350","680" coordinatına "2" kere swipe et
-* "515","440" coordinatından "520","680" coordinatına "3" kere swipe et
 * Elementine tıkla "popupOkayButton"
-* Elementine tıkla "registerGender"
+* Elementine tıkla "registerManGender"
 * "123456Asdf." textini "registerPassword" elemente yaz
 * "123456Asdf." textini "registerPasswordAgain" elemente yaz
 * "1" kere aşağıya kaydır
@@ -30,7 +27,28 @@ This is a concept file with following syntax for each concept.
 * "registerOtherAgreement" li elementi bul ve varsa tıkla
 * "registerPersonalInfo" li elementi bul ve varsa tıkla
 * "registerButton" li elementi bul ve varsa tıkla
-* Element var mı kontrol et "registerEmailErrorButton"
+* Element var mı kontrol et "registerAgeErrorPopup"
+* Elementine tıkla "popupOkayButton"
+
+# Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur.
+* "2" kere yukarı doğru kaydır
+* Elementine tıkla "registerBirth"
+* Element var mı kontrol et "popupOkayButton"
+* "190","440" coordinatından "190","680" coordinatına "2" kere swipe et
+* "350","440" coordinatından "350","680" coordinatına "2" kere swipe et
+* "515","440" coordinatından "520","680" coordinatına "3" kere swipe et
+* Elementine tıkla "popupOkayButton"
+* "2" kere aşağıya kaydır
+* "registerButton" li elementi bul ve varsa tıkla
+* Element var mı kontrol et "registerEmailErrorPopup"
+* Elementine tıkla "popupOkayButton"
+
+# Kayıtlı Telefon ile register olunur ve uyarı mesajı gorulur.
+* "2" kere yukarı doğru kaydır
+* "javatestautomation@gmail.com" textini "registerMail" elemente yaz
+* "2" kere aşağıya kaydır
+* "registerButton" li elementi bul ve varsa tıkla
+* Element var mı kontrol et "registerPhoneErrorPopup"
 
 # Kullanıcı bilgileri girilir.
 * "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
@@ -38,13 +56,19 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen telefon "registerPhone" elementine, doğum tarihi "registerBirth"  elementine yazilir
 * "registerGender" li element varsa tıkla
 * Rastgele secilen şifre "registerPassword" elementine, şifre tekrar "registerPasswordAgain"  elementine yazilir
-*  "registerButton"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* "1" kere aşağıya kaydır
 
 # Kullanıcı şartlarına tıklanır ve üye olunur.
+* Elementine tıkla "SmsCheckbox"
+* Element var mı kontrol et "SmsCheckboxChecked"
+* Elementine tıkla "EmailCheckbox"
+* Element var mı kontrol et "EmailCheckboxChecked"
+* "1" kere aşağıya kaydır
 * "registerMembershipAgreement" li elementi bul ve varsa tıkla
 * "registerOtherAgreement" li elementi bul ve varsa tıkla
 * "registerPersonalInfo" li elementi bul ve varsa tıkla
 * "registerButton" li elementi bul ve varsa tıkla
+* Element var mı kontrol et "registerSmsAcceptButton"
 
 # Sifremi Unuttum ikonuna tiklanir.
 * Element var mı kontrol et "forgotPassword"

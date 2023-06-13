@@ -26,8 +26,9 @@ Register Negative
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Register'a tıklanır.
+* 17 yasindan kucuk dogum tarihi secilir ve uyarı mesaji gorulur.
 * Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur.
-
+* Kayıtlı Telefon ile register olunur ve uyarı mesajı gorulur.
 
 Forget Password
 ---------------
