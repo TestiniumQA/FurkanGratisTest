@@ -34,8 +34,8 @@ This is a concept file with following syntax for each concept.
 * "2" kere yukarı doğru kaydır
 * Elementine tıkla "registerBirth"
 * Element var mı kontrol et "popupOkayButton"
-* "20","40" oranlarından "20","65" oranlarına "2" kere swipe et
-* "40","40" oranlarından "40","65" oranlarına "2" kere swipe et
+* "30","40" oranlarından "30","65" oranlarına "2" kere swipe et
+* "50","40" oranlarından "50","65" oranlarına "2" kere swipe et
 * "70","40" oranlarından "70","65" oranlarına "2" kere swipe et
 * Elementine tıkla "popupOkayButton"
 * "2" kere aşağıya kaydır
