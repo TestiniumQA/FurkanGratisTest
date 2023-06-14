@@ -54,6 +54,12 @@ This is a concept file with following syntax for each concept.
 * "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
 * Rastgele secilen kullanici adi "registerName" elementine, soyadi "registerSurname" elementine, mail "registerMail" elementine yazilir
 * Rastgele secilen telefon "registerPhone" elementine, doğum tarihi "registerBirth"  elementine yazilir
+* Elementine tıkla "registerBirth"
+* Element var mı kontrol et "popupOkayButton"
+* "30","40" oranlarından "30","65" oranlarına "2" kere swipe et
+* "50","40" oranlarından "50","65" oranlarına "2" kere swipe et
+* "70","40" oranlarından "70","65" oranlarına "2" kere swipe et
+* Elementine tıkla "popupOkayButton"
 * "registerManGender" li element varsa tıkla
 * Rastgele secilen şifre "registerPassword" elementine, şifre tekrar "registerPasswordAgain"  elementine yazilir
 * "1" kere aşağıya kaydır
