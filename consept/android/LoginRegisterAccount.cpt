@@ -214,3 +214,16 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "newAddressSavedBtn"
 * Elementine tıkla "newAddressSavedBtn"
 * Element var mı kontrol et "newAddressCard"
+
+# Profil sayfasındaki Favori butonuna tiklanir.
+* Element var mı kontrol et "profilepageFavoriteButton"
+* Elementine tıkla "profilepageFavoriteButton"
+
+# Favori sayfasindaki Liste Adini Duzenle butonuna tiklanir ve yeni isim girilir.
+* Element var mı kontrol et "editListNameButton"
+* Elementine tıkla "editListNameButton"
+* Element var mı kontrol et "editListPopupTitle"
+* "new list name" textini "editListTextbox" elemente yaz
+* "editListTextbox" elementinin "new list name" textini içerdiği kontrol edilir
+* Elementine tıkla "popupOkayButton"
+* Elementin yüklenmesini bekle "editListNameButton"

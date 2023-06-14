@@ -724,5 +724,33 @@
     "androidType": "id",
     "iosValue": "",
     "iosType": ""
+  },
+  {
+    "key": "profilepageFavoriteButton",
+    "androidValue": "com.gratis.android:id/favorite_txt",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "editListNameButton",
+    "androidValue": "com.gratis.android:id/edit_list_name_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "editListPopupTitle",
+    "androidValue": "//android.widget.TextView[@text='Liste Adını Düzenle']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "editListTextbox",
+    "androidValue": "//android.widget.EditText",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
   }
 ]

@@ -37,3 +37,13 @@ tags:Gratis_Android_AdresGuncelleme
 * Adres Ekle Mahalle ismi secilir.
 * Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
 * Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur.
+
+Favorite List Name Update
+--------------------
+tags:Gratis_Android_FavoriAdiListeDuzenleme
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Profil sayfasındaki Favori butonuna tiklanir.
+* Favori sayfasindaki Liste Adini Duzenle butonuna tiklanir ve yeni isim girilir.
