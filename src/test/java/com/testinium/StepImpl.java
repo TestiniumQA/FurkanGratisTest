@@ -2004,6 +2004,18 @@ public class StepImpl extends HookImpl {
         logger.info("Elementin width degeri : "+width+", Tiklanacak width degeri"+width);
         TouchAction action = new TouchAction(appiumDriver);
         action.tap(PointOption.point(width, height2)).perform();
+    }@Step("<key> li  elementin x ekseninde yukaridan %<int> deger, y ekseninde yukaridan %<int> deger kadar asagisina tikla")
+    public void clickIntXandIntY(String key, int x, int y) {
+
+        WebElement element = findElementByKey(key);
+        int height = element.getLocation().y + (element.getSize().height)/ 100;
+        int height2 = element.getLocation().y + (element.getSize().height*y)/ 100;
+        int width = element.getLocation().x + (element.getSize().width) / 100;
+        int width2 = element.getLocation().x + (element.getSize().width*x) / 100;
+        logger.info("Elementin height degeri : "+height+", Tiklanacak height degeri"+height2);
+        logger.info("Elementin width degeri : "+width+", Tiklanacak width degeri"+width2);
+        TouchAction action = new TouchAction(appiumDriver);
+        action.tap(PointOption.point(width2, height2)).perform();
     }
 
     @Step("<String> alt kategorisinin goruntulendigi kontrol edilir")
