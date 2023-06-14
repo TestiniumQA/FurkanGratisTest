@@ -70,11 +70,12 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "EmailCheckbox"
 * Element var mı kontrol et "EmailCheckboxChecked"
 * "1" kere aşağıya kaydır
-* "registerMembershipText" li  elementin x ekseninde merkezine, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "registerMembershipText" li  elementin x ekseninde merkezine, y ekseninde yukaridan %"5" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "registerAgreementText"
 * "registerAgreementText" elementi "" degerine esit mi
 * Elementine tıkla "popupOkayButton"
-* "registerOtherAgreementText" li  elementin x ekseninde merkezine, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "registerOtherAgreementText" li  elementin x ekseninde merkezine, y ekseninde yukaridan %"5" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "registerAgreementText"
 * "register2AgreementText" elementi "" degerine esit mi
 * Elementine tıkla "popupOkayButton"
