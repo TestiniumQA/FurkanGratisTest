@@ -34,8 +34,8 @@ public class HookImpl {
     protected static AppiumDriver<MobileElement> appiumDriver;
     static EventFiringWebDriver eventDriver;
     protected static FluentWait<AppiumDriver<MobileElement>> appiumFluentWait;
-    protected boolean localAndroid=false;
-    public static boolean isDeviceAnd=false;
+    protected boolean localAndroid=true;
+    public static boolean isDeviceAnd=true;
     protected static Selector selector ;
 
     @BeforeScenario
@@ -134,7 +134,7 @@ public class HookImpl {
                 capabilities.setCapability("bundleId", "com.pharos.Gratis");
                 capabilities.setCapability("usePrebuiltWDA",true);
                 capabilities.setCapability("useNewWDA", true);
-                capabilities.setCapability("autoAcceptAlerts",false);
+                capabilities.setCapability("autoAcceptAlerts",true);
                 capabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 5);
                 appiumDriver = new IOSDriver(new URL(hubURL), capabilities);
             }
