@@ -10,5 +10,6 @@
 * "ForgotPasswordSendBtnIos" elementine sayacli tikla "AlertSuccessfulPopupIos" value degerini bekle
 
 # Popup Tamam butonuna tiklanir
-* Element var mı kontrol et "PopupOkayBtnIos"
-* "PopupOkayBtnIos" elementine sayacli tikla "RegisterBtnIos" value degerini bekle
+//* Element var mı kontrol et "PopupOkayBtnIos"
+//* "PopupOkayBtnIos" elementine sayacli tikla "RegisterBtnIos" value degerini bekle
+* Element var mı kontrol et "RegisterBtnIos"
