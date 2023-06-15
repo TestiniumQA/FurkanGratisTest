@@ -6,7 +6,7 @@ This is an executable specification file which follows markdown syntax.
 Every heading in this file denotes a scenario. Every bulleted point denotes a step.
 
 MTC-1 IOS Scenario
-----------------
+------------------
 tags:MTC-1 IOS Scenario
 * Uygulama baslatilir
 * Login sayfasina gecilir
@@ -17,12 +17,5 @@ tags:MTC-1 IOS Scenario
 * Urun detay sayfasina gecilir ardindan urun sepete eklenir
 * Urun arama sayfasina gecilir onerilen arama yapilir
 * Kampanyalar sekmesine gecilir ardindan magazalara gidilir
-
-IOS Scenario Login
-------------------
-tags:Gratis_IOS_Login
-* Uygulama baslatilir
-* Login sayfasina gecilir
-* Giris yapilir
 
 
