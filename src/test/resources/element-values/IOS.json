@@ -307,17 +307,104 @@
     "iosValue": "**/XCUIElementTypeStaticText[`label == \"ÇUKUROVA\"`]",
     "iosType": "classChain"
   },
-
   {
     "key": "uygulamaIzinver",
     "androidValue": "",
     "androidType": "",
     "iosValue": "**/XCUIElementTypeButton[`label == \"İzin Ver\"`]",
     "iosType": "classChain"
+  },
+  {
+    "key": "ForgotPassword",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\"Şifremi Unuttum\"]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "PasswordResetPage",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\"Şifre Yenileme\"]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ForgotPasswordSendBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name=\"Gönder\"]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "AlertSuccessfulPopup",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\"İşlem Başarılı\"]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "PopupOkayButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name=\"Tamam\"]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name=\"Üye Ol\"]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xxxx"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xxxx"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xxxx"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xxxx"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xxxx"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xxxx"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xxxx"
   }
-
-
-
 ]
 
 

@@ -1,0 +1,14 @@
+# E-posta alanina <eposta> girilir
+* <eposta> textini "EpostaInputAlani" elemente yaz
+
+# Sifremi Unuttum ikonuna tiklanir
+* Element var mı kontrol et "ForgotPassword"
+* "ForgotPassword" elementine sayacli tikla "PasswordResetPage" value degerini bekle
+
+# Sifremi unuttum Gonder butonuna tiklanir
+* Element var mı kontrol et "ForgotPasswordSendBtn"
+* "ForgotPasswordSendBtn" elementine sayacli tikla "AlertSuccessfulPopup" value degerini bekle
+
+# Popup Tamam butonuna tiklanir
+* Element var mı kontrol et "PopupOkayButton"
+* "PopupOkayButton" elementine sayacli tikla "RegisterBtn" value degerini bekle
