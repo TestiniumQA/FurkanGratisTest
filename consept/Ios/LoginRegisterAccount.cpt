@@ -2,13 +2,13 @@
 * <eposta> textini "EpostaInputAlani" elemente yaz
 
 # Sifremi Unuttum ikonuna tiklanir
-* Element var mı kontrol et "ForgotPassword"
-* "ForgotPassword" elementine sayacli tikla "PasswordResetPage" value degerini bekle
+* Element var mı kontrol et "ForgotPasswordIos"
+* "ForgotPasswordIos" elementine sayacli tikla "PasswordResetPageIos" value degerini bekle
 
 # Sifremi unuttum Gonder butonuna tiklanir
-* Element var mı kontrol et "ForgotPasswordSendBtn"
-* "ForgotPasswordSendBtn" elementine sayacli tikla "AlertSuccessfulPopup" value degerini bekle
+* Element var mı kontrol et "ForgotPasswordSendBtnIos"
+* "ForgotPasswordSendBtnIos" elementine sayacli tikla "AlertSuccessfulPopupIos" value degerini bekle
 
 # Popup Tamam butonuna tiklanir
-* Element var mı kontrol et "PopupOkayButton"
-* "PopupOkayButton" elementine sayacli tikla "RegisterBtn" value degerini bekle
+* Element var mı kontrol et "PopupOkayBtnIos"
+* "PopupOkayBtnIos" elementine sayacli tikla "RegisterBtnIos" value degerini bekle

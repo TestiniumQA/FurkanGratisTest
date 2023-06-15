@@ -315,95 +315,46 @@
     "iosType": "classChain"
   },
   {
-    "key": "ForgotPassword",
+    "key": "ForgotPasswordIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeStaticText[`label == \"Şifremi Unuttum\"`]",
-    "iosType": "classChain"
+    "iosValue": "//*[@name='Şifremi Unuttum']",
+    "iosType": "xpath"
   },
   {
-    "key": "PasswordResetPage",
+    "key": "PasswordResetPageIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeStaticText[`label == \"Şifre Yenileme\"`]",
-    "iosType": "classChain"
+    "iosValue": "//*[@name='Şifre Yenileme']",
+    "iosType": "xpath"
   },
   {
-    "key": "ForgotPasswordSendBtn",
+    "key": "ForgotPasswordSendBtnIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeButton[`label == \"Gönder\"`]",
-    "iosType": "classChain"
+    "iosValue": "//*[@name='Gönder']",
+    "iosType": "xpath"
   },
   {
-    "key": "AlertSuccessfulPopup",
+    "key": "AlertSuccessfulPopupIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeStaticText[`label == \"İşlem Başarılı\"`]",
-    "iosType": "classChain"
+    "iosValue": "//*[@name='İşlem Başarılı']",
+    "iosType": "xpath"
   },
   {
-    "key": "PopupOkayButton",
+    "key": "PopupOkayBtnIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeButton[`label == \"Tamam\"`]",
-    "iosType": "classChain"
+    "iosValue": "//*[@name='Tamam']",
+    "iosType": "xpath"
   },
   {
-    "key": "RegisterBtn",
+    "key": "RegisterBtnIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeButton[`label == \"Üye Ol\"`]",
-    "iosType": "classChain"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xxxx"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xxxx"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xxxx"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xxxx"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xxxx"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xxxx"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xxxx"
+    "iosValue": "//*[@name='Üye Ol']",
+    "iosType": "xpath"
   }
 ]
 
