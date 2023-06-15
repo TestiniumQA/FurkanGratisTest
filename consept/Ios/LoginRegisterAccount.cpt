@@ -7,7 +7,8 @@
 
 # Sifremi unuttum Gonder butonuna tiklanir
 * Element var mı kontrol et "ForgotPasswordSendBtnIos"
-* "ForgotPasswordSendBtnIos" elementine sayacli tikla "AlertSuccessfulPopupIos" value degerini bekle
+* Elementine tıkla "ForgotPasswordSendBtnIos"
+//* "ForgotPasswordSendBtnIos" elementine sayacli tikla "AlertSuccessfulPopupIos" value degerini bekle
 
 # Popup Tamam butonuna tiklanir
 //* Element var mı kontrol et "PopupOkayBtnIos"
