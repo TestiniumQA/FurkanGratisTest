@@ -318,43 +318,43 @@
     "key": "ForgotPassword",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeStaticText[@name=\"Şifremi Unuttum\"]",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeStaticText[`label == \"Şifremi Unuttum\"`]",
+    "iosType": "classChain"
   },
   {
     "key": "PasswordResetPage",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeStaticText[@name=\"Şifre Yenileme\"]",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeStaticText[`label == \"Şifre Yenileme\"`]",
+    "iosType": "classChain"
   },
   {
     "key": "ForgotPasswordSendBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeButton[@name=\"Gönder\"]",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeButton[`label == \"Gönder\"`]",
+    "iosType": "classChain"
   },
   {
     "key": "AlertSuccessfulPopup",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeStaticText[@name=\"İşlem Başarılı\"]",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeStaticText[`label == \"İşlem Başarılı\"`]",
+    "iosType": "classChain"
   },
   {
     "key": "PopupOkayButton",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeButton[@name=\"Tamam\"]",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeButton[`label == \"Tamam\"`]",
+    "iosType": "classChain"
   },
   {
     "key": "RegisterBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeButton[@name=\"Üye Ol\"]",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeButton[`label == \"Üye Ol\"`]",
+    "iosType": "classChain"
   },
   {
     "key": "xxxx",
