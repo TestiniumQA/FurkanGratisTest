@@ -13,3 +13,28 @@
 //* Element var mı kontrol et "PopupOkayBtnIos"
 //* "PopupOkayBtnIos" elementine sayacli tikla "RegisterBtnIos" value degerini bekle
 * Element var mı kontrol et "RegisterBtnIos"
+
+# Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Element var mı kontrol et "ProfileRoot"
+* "ProfileRoot" elementine sayacli tikla "PageToolbarTitle" value degerini bekle
+
+# Sifrem'e tiklanir sifre yenileme sayfasinin acildigi gorulur
+* Element var mı kontrol et "ProfilePageMyPassword"
+* "ProfilePageMyPassword" elementine sayacli tikla "PageToolbarTitle" value degerini bekle
+
+# Sifre basarili sekilde degistirilir
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Sifrem'e tiklanir sifre yenileme sayfasinin acildigi gorulur
+* "AndroidPassword" csv dosyasindan rastgele sifre sec
+* Eski sifre "MyPasswordOldPassword" elementine, yeni sifre "MyPasswordNewPassword" elementine, tekrar yeni sifre "MyPasswordAgainNewPassword" elementine yazilir
+//* Kaydet ikonuna tiklanir
+//* Duzenlemeleriniz basariyla kaydedilmistir uyarisi gorulmelidir
+
+# Kaydet ikonuna tiklanir
+* Element var mı kontrol et "MyPasswordSavedIcon"
+* Elementine tıkla "MyPasswordSavedIcon"
+//* "MyPasswordSavedIcon" elementine sayacli tikla "MyPasswordChangesEditDone" value degerini bekle
+
+# Duzenlemeleriniz basariyla kaydedilmistir uyarisi gorulmelidir
+* Element var mı kontrol et "MyPasswordChangesEditDone"
+* Element var mı kontrol et "PageToolbarTitle"

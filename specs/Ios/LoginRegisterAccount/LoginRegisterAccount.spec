@@ -21,3 +21,11 @@ tags:Gratis_IOS_SifremiUnuttum
 * E-posta alanina "javaautomationtest@gmail.com" girilir
 * Sifremi unuttum Gonder butonuna tiklanir
 * Popup Tamam butonuna tiklanir
+
+IOS Scenario Changing Password
+------------------------------
+tags:Gratis_IOS_SifreDegistirme
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Giris yapilir
+* Sifre basarili sekilde degistirilir

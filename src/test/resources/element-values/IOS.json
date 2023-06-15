@@ -355,6 +355,174 @@
     "androidType": "",
     "iosValue": "//*[@name='Üye Ol']",
     "iosType": "xpath"
+  },
+  {
+    "key": "ProfileRoot",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Profilim']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ProfilePageMyPassword",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Şifrem']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "PageToolbarTitle",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@type='XCUIElementTypeNavigationBar']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "MyPasswordOldPassword",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@value='Eski şifrenizi giriniz']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "MyPasswordNewPassword",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@value='Yeni şifrenizi giriniz']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "MyPasswordAgainNewPassword",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@value='Yeni şifrenizi tekrar giriniz']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "MyPasswordSavedIcon",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Kaydet']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "MyPasswordChangesEditDone",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Şifreniz başarıyla değiştirilmiştir.']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
   }
 ]
 
