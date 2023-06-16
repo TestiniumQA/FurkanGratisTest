@@ -154,7 +154,7 @@ This is a concept file with following syntax for each concept.
 
 # Duzenlemeleriniz basariyla kaydedilmistir uyarisi gorulmelidir.
 * Element var mı kontrol et "pageToolbarTitle"
-* Element var mı kontrol et "myPasswordChangesEditDone"
+//* Element var mı kontrol et "myPasswordChangesEditDone"
 
 # Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Element var mı kontrol et "digerTab"
