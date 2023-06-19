@@ -228,7 +228,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "popupOkayButton"
 * Elementin yüklenmesini bekle "editListNameButton"
 
-# Ana sayfadan bir urunun favori butonuna tıklanir.
+# En Cok Satanlar alanindan bir urunun favori butonuna tıklanir.
 * Elementin yüklenmesini bekle "urunSearchBox"
 * "1" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "favBtn"
@@ -248,7 +248,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "popupOkayButton"
 * "2" saniye bekle
 
-# Urun favorilerden cikarilir.
+# Ana sayfadaki urun favorilerden cikarilir.
 * Elementine tıkla "favBtn"
 * "addFavoritePopup" değerini sayfa üzerinde olmadıgını kontrol et
 * "1" saniye bekle
@@ -265,3 +265,27 @@ This is a concept file with following syntax for each concept.
 * "favListDeletePopupButton" li element varsa tıkla
 * Elementin yüklenmesini bekle "favListSpinner"
 * "favListSpinner" elementinin "yeni liste adı" textini içermediği kontrol edilir
+
+# Favorilerdeki urun sepete eklenir ve alısverise devam edilir.
+* Elementin yüklenmesini bekle "favListSpinner"
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "favAddCartButton"
+* Elementine tıkla "favAddCartButton"
+* Element var mı kontrol et "AddedToCart"
+* Elementine tıkla "continueShoppingButton"
+* Elementin yüklenmesini bekle "favAddCartButton"
+* Elementin yüklenmesini bekle "1"
+
+# Favorilerdeki urun sepete eklenir ve sepete gidilir.
+* Elementine tıkla "favAddCartButton"
+* Elementin yüklenmesini bekle "goToCartButton"
+* Elementine tıkla "goToCartButton"
+* Elementin yüklenmesini bekle "2"
+
+# Urunlerin eklendigi kontrol edilir.
+* Elementin yüklenmesini bekle "sepetReklamKapat"
+* Elementine tıkla "sepetReklamKapat"
+* Element var mı kontrol et "favoriteAddToCartControl"
+* Elementine tıkla "sepetTemizleBtn"
+* Elementine tıkla "popupOkayButton"
+* Elementin yüklenmesini bekle "1"

@@ -54,18 +54,34 @@ tags:Gratis_Android_FavorilereUrunEkleme
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Login olunur.
-* Ana sayfadan bir urunun favori butonuna tıklanir.
+* En Cok Satanlar alanindan bir urunun favori butonuna tıklanir.
 * Urun favorilere eklenir.
-* Urun favorilerden cikarilir.
+* Ana sayfadaki urun favorilerden cikarilir.
 
 Add Select and Delete Favorite List
 ------------------------------------
+tags:Gratis_Android_ListeOluşturmaSeçmeVeSilme
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Login olunur.
-* Ana sayfadan bir urunun favori butonuna tıklanir.
+* En Cok Satanlar alanindan bir urunun favori butonuna tıklanir.
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
 * Listeden yeni eklenen favori listesi secilir.
 * Favori listesi silinir.
+
+Add To Cart From Favorite List
+------------------------------
+tags:Gratis_Android_FavoriListesindenSepeteEkleme
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* En Cok Satanlar alanindan bir urunun favori butonuna tıklanir.
+* Urun favorilere eklenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Profil sayfasındaki Favori butonuna tiklanir.
+* Favorilerdeki urun sepete eklenir ve alısverise devam edilir.
+* Favorilerdeki urun sepete eklenir ve sepete gidilir.
+* Urunlerin eklendigi kontrol edilir.
+* Favori listesi kontrol edilerek temizlenir.

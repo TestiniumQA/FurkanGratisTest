@@ -808,5 +808,40 @@
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
+  },
+  {
+    "key": "favAddCartButton",
+    "androidValue": "com.gratis.android:id/favorite_add_cart_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "AddedToCartText",
+    "androidValue": "//*[@text='Ürün sepetinize eklendi.']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "continueShoppingButton",
+    "androidValue": "//*[@text='Alışverişe Devam Et']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "goToCartButton",
+    "androidValue": "//*[@text='Sepete Git']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "favoriteAddToCartControl",
+    "androidValue": "//android.widget.TextView[@text='2']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
   }
 ]
