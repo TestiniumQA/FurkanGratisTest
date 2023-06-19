@@ -60,7 +60,7 @@ tags:Gratis_Android_FavorilereUrunEkleme
 
 Add Select and Delete Favorite List
 ------------------------------------
-tags:Gratis_Android_ListeOluşturmaSeçmeVeSilme
+tags:Gratis_Android_ListeOluşturmaSecmeVeSilme
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Login olunur.
