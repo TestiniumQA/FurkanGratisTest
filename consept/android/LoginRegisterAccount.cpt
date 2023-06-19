@@ -227,3 +227,41 @@ This is a concept file with following syntax for each concept.
 * "editListTextbox" elementinin "new list name" textini içerdiği kontrol edilir
 * Elementine tıkla "popupOkayButton"
 * Elementin yüklenmesini bekle "editListNameButton"
+
+# Ana sayfadan bir urunun favori butonuna tıklanir.
+* Elementin yüklenmesini bekle "urunSearchBox"
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "favBtn"
+* Elementine tıkla "favBtn"
+* Element var mı kontrol et "addFavoritePopup"
+
+# Yeni favori listesi olusturulur ve secilen urun favori eklenir.
+* Elementine tıkla "addListButton"
+* Element var mı kontrol et "addListPopupTitle"
+* Elementin yüklenmesini bekle "1"
+* "yeni liste adı" textini "addListTextbox" elemente yaz
+* Elementin yüklenmesini bekle "1"
+* Elementine tıkla "popupOkayButton"
+* Elementin yüklenmesini bekle "favBtn"
+
+# Urun favorilere eklenir.
+* Elementine tıkla "popupOkayButton"
+* "2" saniye bekle
+
+# Urun favorilerden cikarilir.
+* Elementine tıkla "favBtn"
+* "addFavoritePopup" değerini sayfa üzerinde olmadıgını kontrol et
+* "1" saniye bekle
+
+# Listeden yeni eklenen favori listesi secilir.
+* Element var mı kontrol et "editListNameButton"
+* Elementine tıkla "favListSpinner"
+* Element var mı kontrol et "newFavListElement"
+* Elementine tıkla "newFavListElement"
+* "favListSpinner" elementinin "yeni liste adı" textini içerdiği kontrol edilir
+
+# Favori listesi silinir.
+* Elementine tıkla "favListDeleteButton"
+* "favListDeletePopupButton" li element varsa tıkla
+* Elementin yüklenmesini bekle "favListSpinner"
+* "favListSpinner" elementinin "yeni liste adı" textini içermediği kontrol edilir

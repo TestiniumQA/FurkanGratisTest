@@ -47,3 +47,25 @@ tags:Gratis_Android_FavoriAdiListeDuzenleme
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
 * Favori sayfasindaki Liste Adini Duzenle butonuna tiklanir ve yeni isim girilir.
+
+Adding A Product To Favorite List
+---------------------------------
+tags:Gratis_Android_FavorilereUrunEkleme
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Ana sayfadan bir urunun favori butonuna tıklanir.
+* Urun favorilere eklenir.
+* Urun favorilerden cikarilir.
+
+Add Select and Delete Favorite List
+------------------------------------
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Ana sayfadan bir urunun favori butonuna tıklanir.
+* Yeni favori listesi olusturulur ve secilen urun favori eklenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Profil sayfasındaki Favori butonuna tiklanir.
+* Listeden yeni eklenen favori listesi secilir.
+* Favori listesi silinir.

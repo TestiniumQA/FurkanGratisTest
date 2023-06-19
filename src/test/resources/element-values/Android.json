@@ -64,8 +64,8 @@
   },
   {
     "key": "favBtn",
-    "androidValue": "(//android.widget.ImageView[@resource-id='com.gratis.android:id/fav_btn'])[1]",
-    "androidType": "xpath",
+    "androidValue": "fav_btn",
+    "androidType": "id",
     "iosValue": "",
     "iosType": ""
   },
@@ -749,6 +749,62 @@
   {
     "key": "editListTextbox",
     "androidValue": "//android.widget.EditText",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "addFavoritePopup",
+    "androidValue": "//*[@text='Listeye Ekle']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "addListButton",
+    "androidValue": "//*[@text='YENI LISTE OLUŞTUR']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "addListPopupTitle",
+    "androidValue": "//*[@text='Yeni Liste Oluştur']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "addListTextbox",
+    "androidValue": "//*[@text='Liste Adı']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "favListSpinner",
+    "androidValue": "com.gratis.android:id/fav_list_spinner",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "newFavListElement",
+    "androidValue": "com.gratis.android:id/tv_tinted_spinner",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "favListDeleteButton",
+    "androidValue": "com.gratis.android:id/delete_list_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "favListDeletePopupButton",
+    "androidValue": "//*[@text='SİL']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
