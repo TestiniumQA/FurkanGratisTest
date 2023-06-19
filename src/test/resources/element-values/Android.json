@@ -843,5 +843,12 @@
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
+  },
+  {
+    "key": "productDetailFromFavoriteList",
+    "androidValue": "com.gratis.android:id/favorite_desc_txt",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
   }
 ]

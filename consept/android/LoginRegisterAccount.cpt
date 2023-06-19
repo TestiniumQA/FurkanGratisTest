@@ -266,6 +266,12 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "favListSpinner"
 * "favListSpinner" elementinin "yeni liste adı" textini içermediği kontrol edilir
 
+# Favorilerden urun detay sayfasına gecilir.
+* Elementine tıkla "productDetailFromFavoriteList"
+* Elementin yüklenmesini bekle "1"
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+
 # Favorilerdeki urun sepete eklenir ve alısverise devam edilir.
 * Elementin yüklenmesini bekle "favListSpinner"
 * "1" kere aşağıya kaydır

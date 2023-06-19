@@ -81,6 +81,7 @@ tags:Gratis_Android_FavoriListesindenSepeteEkleme
 * Urun favorilere eklenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
+* Favorilerden urun detay sayfasına gecilir.
 * Favorilerdeki urun sepete eklenir ve alısverise devam edilir.
 * Favorilerdeki urun sepete eklenir ve sepete gidilir.
 * Urunlerin eklendigi kontrol edilir.
