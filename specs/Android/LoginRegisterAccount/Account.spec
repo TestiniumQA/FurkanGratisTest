@@ -50,7 +50,7 @@ tags:Gratis_Android_FavoriAdiListeDuzenleme
 
 Adding A Product To Favorite List
 ---------------------------------
-tags:Gratis_Android_FavorilereUrunEkleme
+tags:Gratis_Android_FavorilereUrunEklemeVeCikarma
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Login olunur.

@@ -762,7 +762,7 @@
   },
   {
     "key": "addListButton",
-    "androidValue": "//*[@text='YENI LISTE OLUŞTUR']",
+    "androidValue": "//*[@text='YENİ LİSTE OLUŞTUR']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
