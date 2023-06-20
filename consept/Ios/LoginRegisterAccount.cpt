@@ -1,6 +1,9 @@
 # E-posta alanina <eposta> girilir
 * <eposta> textini "EpostaInputAlani" elemente yaz
 
+# Sifre alanına <sifre> girilir
+* <sifre> textini "sifreInputAlani" elemente yaz
+
 # Sifremi Unuttum ikonuna tiklanir
 * Element var mı kontrol et "ForgotPasswordIos"
 * "ForgotPasswordIos" elementine sayacli tikla "PasswordResetPageIos" value degerini bekle
@@ -209,6 +212,34 @@
 * Element var mı kontrol et "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 * Elementin yüklenmesini bekle "EmptyPasswordFailure"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "2" saniye bekle
+
+# Yanlıs eposta ve sifre uyarıları gorulur
+* Element var mı kontrol et "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "WrongMailFailure"
+* Element var mı kontrol et "WrongMailFailure"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+//* Element var mı kontrol et "shortPasswordFailure"
+* "2" saniye bekle
+
+# Kayıtlı olmayan eposta ile login olma uyarısı gorulur
+* Element var mı kontrol et "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Element var mı kontrol et "NotMemberFailureIos"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "1" saniye bekle
+
+# Yanlıs sifre veya email/cep telefonu uyarısı gorulur
+* Element var mı kontrol et "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Element var mı kontrol et "WrongPasswordFailure"
+* "2" saniye bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * "2" saniye bekle

@@ -630,24 +630,24 @@
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "WrongMailFailure",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='Geçersiz giriş. Lütfen geçerli bir e-posta adresi girin; örneğin: john@smith.com']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NotMemberFailureIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='Böyle bir üye kaydı bulunmamaktadır. Lütfen üye kaydı yapınız.']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "WrongPasswordFailure",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='E-posta adresiniz ve/veya şifreniz hatalı!']",
     "iosType": "xpath"
   },
   {
