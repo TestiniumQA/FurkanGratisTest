@@ -52,7 +52,9 @@
 * "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
 * Rastgele secilen kullanici adi "RegisterName" elementine, soyadi "RegisterSurname" elementine, mail "RegisterMail" elementine yazilir
 * "326637272" textini "RegisterPhone" elemente yaz
-* Klavyeyi kapat
+* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
+* Element var mı kontrol et "KeyboardDismisserIcon"
+* Elementine tıkla "KeyboardDismisserIcon"
 //* "04-08-1994" textini "RegisterBirth" elemente yaz
 //* Rastgele secilen telefon "RegisterPhone" elementine, doğum tarihi "RegisterBirth"  elementine yazilir
 * Elementin yüklenmesini bekle "RegisterBirth"
@@ -94,7 +96,9 @@
 * "Aydın" textini "RegisterSurname" elemente yaz
 * "javaautomationtest@gmail.com" textini "RegisterMail" elemente yaz
 * "326637272" textini "RegisterPhone" elemente yaz
-* Klavyeyi kapat
+* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
+* Element var mı kontrol et "KeyboardDismisserIcon"
+* Elementine tıkla "KeyboardDismisserIcon"
 //* "19-06-2007" textini "RegisterBirth" elemente yaz
 * Elementin yüklenmesini bekle "RegisterBirth"
 * Elementine tıkla "RegisterBirth"
@@ -140,7 +144,9 @@
 * "2" kere yukarı doğru kaydır
 * "javatestautomation@gmail.com" textini "RegisterMail" elemente yaz
 * "555217475" textini "RegisterPhone" elemente yaz
-* Klavyeyi kapat
+* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
+* Element var mı kontrol et "KeyboardDismisserIcon"
+* Elementine tıkla "KeyboardDismisserIcon"
 * "2" kere aşağıya kaydır
 * "RegisterButton" li elementi bul ve varsa tıkla
 * Elementin yüklenmesini bekle "RegisterPhoneErrorPopup"

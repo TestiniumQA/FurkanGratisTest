@@ -595,10 +595,10 @@
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "KeyboardDismisserIcon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='KeyboardDismisserIcon']",
     "iosType": "xpath"
   },
   {
