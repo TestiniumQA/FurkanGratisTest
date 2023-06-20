@@ -8,11 +8,11 @@
 # Sifremi unuttum Gonder butonuna tiklanir
 * Element var mı kontrol et "ForgotPasswordSendBtnIos"
 * Elementine tıkla "ForgotPasswordSendBtnIos"
+
+# Popup Tamam butonuna tiklanir
 * Elementin yüklenmesini bekle "AlertSuccessfulPopupIos"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 //* "ForgotPasswordSendBtnIos" elementine sayacli tikla "AlertSuccessfulPopupIos" value degerini bekle
-
-# Popup Tamam butonuna tiklanir
 * Element var mı kontrol et "PopupOkayBtnIos"
 //* "PopupOkayBtnIos" elementine sayacli tikla "RegisterBtnIos" value degerini bekle
 * Elementine tıkla "PopupOkayBtnIos"
@@ -188,3 +188,27 @@
 * "RegisterButton" li elementi bul ve varsa tıkla
 * Elementin yüklenmesini bekle "RegisterPhoneErrorPopup"
 * Element var mı kontrol et "RegisterPhoneErrorPopup"
+
+# Sifremi unuttum bos mail uyarısı gorulur
+* Elementin yüklenmesini bekle "ForgetPasswordFailPopup"
+* Element var mı kontrol et "ForgetPasswordFailPopup"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Element var mı kontrol et "PageForgetPasswordBackBtn"
+* Elementine tıkla "PageForgetPasswordBackBtn"
+* Elementin yüklenmesini bekle "girisYapBtn"
+
+# Login icin bos mail ve sifre uyarısı gorulur
+* Element var mı kontrol et "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "EmptyMailFailure"
+* Element var mı kontrol et "EmptyMailFailure"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "javatestautomation@gmail.com" textini "EpostaInputAlani" elemente yaz
+* Element var mı kontrol et "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "EmptyPasswordFailure"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "2" saniye bekle

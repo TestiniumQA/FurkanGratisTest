@@ -602,31 +602,31 @@
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "ForgetPasswordFailPopup",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='Lütfen e-posta adresi giriniz.']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "PageForgetPasswordBackBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@label='Giriş Yap']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "EmptyPasswordFailure",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='E-posta adresiniz ve/veya şifreniz hatalı!']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "EmptyMailFailure",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='Lütfen e-posta adresi giriniz.']",
     "iosType": "xpath"
   },
   {

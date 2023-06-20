@@ -48,3 +48,13 @@ tags:Gratis_IOS_Register_Negatif
 * 17 yasindan kucuk dogum tarihi secilir ve uyarı mesaji gorulur
 * Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur
 * Kayıtlı Telefon ile register olunur ve uyarı mesajı gorulur
+
+IOS Scenario Negative Login and Forget Password
+-----------------------------------------------
+tags:Gratis_IOS_NegatifLoginVeSifremiUnuttum
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Sifremi Unuttum ikonuna tiklanir
+* Sifremi unuttum Gonder butonuna tiklanir
+* Sifremi unuttum bos mail uyarısı gorulur
+* Login icin bos mail ve sifre uyarısı gorulur
