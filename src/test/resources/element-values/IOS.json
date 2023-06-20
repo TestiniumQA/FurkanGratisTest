@@ -413,6 +413,489 @@
     "iosType": "xpath"
   },
   {
+    "key": "RegisterPageTitle",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Üye Ol']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterName",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@value='Adınızı giriniz']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterSurname",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@value='Soyadınızı giriniz']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterMail",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@value='E-Posta adresinizi giriniz']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterPhone",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@value='0(5__) ___ __ __']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterBirth",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@value='GG-AA-YYYY']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterGender",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//*[@name='genderUnselectedIcon'])[2]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterPassword",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@value='Şifrenizi giriniz']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterPasswordAgain",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//*[@value='Şifrenizi giriniz'])[2]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "SmsCheckboxIos",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='checkboxUnselectedIcon']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "SmsCheckboxCheckedIos",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='checkboxUnselectedIcon'][@enabled='true']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "EmailCheckboxIos",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//*[@name='checkboxUnselectedIcon'])[2]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "EmailCheckboxCheckedIos",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//*[@name='checkboxUnselectedIcon'][@enabled='true'])[2]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterMembershipText",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Üyelik Sözleşmesini okudum ve onaylıyorum.']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterAgreementTextOne",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Gratis Elektronik Ticaret Sitesi Üyelik Sözleşmesi']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "PageRegisterAgreementBackBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@label='Üye Ol']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterOtherAgreementText",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Aydınlatma Metnini okudum ve onaylıyorum.']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterAgreementTextTwo",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Veri Sorumlusu Tanımı ve Verilerin Toplanma Yöntemi']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterMembershipAgreement",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//*[@name='checkboxUnselectedIcon'][@enabled='true'])[3]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterOtherAgreement",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//*[@name='checkboxUnselectedIcon'][@enabled='true'])[4]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterPersonalInfo",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//*[@name='checkboxUnselectedIcon'][@enabled='true'])[5]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name='Üye Ol']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterSmsAcceptButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name='Gönder']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterAgeErrorPopup",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='17 yaşından büyük olmalısınız.']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterEmailErrorPopup",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Email adresi zaten var.']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterPhoneErrorPopup",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Telefon numarası zaten var.']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
     "key": "xxxx",
     "androidValue": "",
     "androidType": "",

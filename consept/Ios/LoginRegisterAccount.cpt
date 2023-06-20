@@ -8,11 +8,15 @@
 # Sifremi unuttum Gonder butonuna tiklanir
 * Element var mı kontrol et "ForgotPasswordSendBtnIos"
 * Elementine tıkla "ForgotPasswordSendBtnIos"
+* Elementin yüklenmesini bekle "AlertSuccessfulPopupIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 //* "ForgotPasswordSendBtnIos" elementine sayacli tikla "AlertSuccessfulPopupIos" value degerini bekle
 
 # Popup Tamam butonuna tiklanir
-//* Element var mı kontrol et "PopupOkayBtnIos"
+* Element var mı kontrol et "PopupOkayBtnIos"
 //* "PopupOkayBtnIos" elementine sayacli tikla "RegisterBtnIos" value degerini bekle
+* Elementine tıkla "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "RegisterBtnIos"
 * Element var mı kontrol et "RegisterBtnIos"
 
 # Profil'e tiklanir profilim sayfasinin acildigi gorulur
@@ -39,3 +43,92 @@
 # Duzenlemeleriniz basariyla kaydedilmistir uyarisi gorulmelidir
 * Element var mı kontrol et "MyPasswordChangesEditDone"
 * Element var mı kontrol et "PageToolbarTitle"
+
+# Register'a tıklanır
+* Element var mı kontrol et "RegisterBtnIos"
+* "RegisterBtnIos" elementine sayacli tikla "RegisterPageTitle" value degerini bekle
+
+# Kullanıcı bilgileri girilir
+* "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
+* Rastgele secilen kullanici adi "RegisterName" elementine, soyadi "RegisterSurname" elementine, mail "RegisterMail" elementine yazilir
+* "326637272" textini "RegisterPhone" elemente yaz
+* "04-08-1994" textini "RegisterBirth" elemente yaz
+//* Rastgele secilen telefon "RegisterPhone" elementine, doğum tarihi "RegisterBirth"  elementine yazilir
+* Elementine tıkla "RegisterBirth"
+* Element var mı kontrol et "PopupOkayBtnIos"
+//* "30","40" oranlarından "30","65" oranlarına "2" kere swipe et
+//* "50","40" oranlarından "50","65" oranlarına "2" kere swipe et
+//* "70","40" oranlarından "70","65" oranlarına "2" kere swipe et
+* Elementine tıkla "PopupOkayBtnIos"
+* "RegisterGender" li element varsa tıkla
+* Rastgele secilen şifre "RegisterPassword" elementine, şifre tekrar "RegisterPasswordAgain"  elementine yazilir
+* "1" kere aşağıya kaydır
+
+# Kullanıcı şartlarına tıklanır ve üye olunur
+* Elementine tıkla "SmsCheckboxIos"
+* Element var mı kontrol et "SmsCheckboxCheckedIos"
+* Elementine tıkla "EmailCheckboxIos"
+* Element var mı kontrol et "EmailCheckboxCheckedIos"
+* "1" kere aşağıya kaydır
+* "1" saniye bekle
+* "RegisterMembershipText" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "RegisterAgreementTextOne"
+* "RegisterAgreementTextOne" elementi "" degerine esit mi
+* Elementine tıkla "PageRegisterAgreementBackBtn"
+* "RegisterOtherAgreementText" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "RegisterAgreementTextTwo"
+* "RegisterAgreementTextTwo" elementi "" degerine esit mi
+* Elementine tıkla "PageRegisterAgreementBackBtn"
+* "RegisterMembershipAgreement" li elementi bul ve varsa tıkla
+* "RegisterOtherAgreement" li elementi bul ve varsa tıkla
+* "RegisterPersonalInfo" li elementi bul ve varsa tıkla
+* "RegisterButton" li elementi bul ve varsa tıkla
+* Element var mı kontrol et "RegisterSmsAcceptButton"
+
+# 17 yasindan kucuk dogum tarihi secilir ve uyarı mesaji gorulur
+* "Burhan" textini "RegisterName" elemente yaz
+* "Aydın" textini "RegisterSurname" elemente yaz
+* "javaautomationtest@gmail.com" textini "RegisterMail" elemente yaz
+* "326637272" textini "RegisterPhone" elemente yaz
+* "19-06-2007" textini "RegisterBirth" elemente yaz
+* Elementine tıkla "RegisterBirth"
+* Element var mı kontrol et "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Elementine tıkla "RegisterGender"
+* "123456Asdf." textini "RegisterPassword" elemente yaz
+* "123456Asdf." textini "RegisterPasswordAgain" elemente yaz
+* "1" kere aşağıya kaydır
+* Elementine tıkla "SmsCheckboxIos"
+* Element var mı kontrol et "SmsCheckboxCheckedIos"
+* Elementine tıkla "EmailCheckboxIos"
+* Element var mı kontrol et "EmailCheckboxCheckedIos"
+* "1" kere aşağıya kaydır
+* "1" saniye bekle
+* "RegisterMembershipAgreement" li elementi bul ve varsa tıkla
+* "RegisterOtherAgreement" li elementi bul ve varsa tıkla
+* "RegisterPersonalInfo" li elementi bul ve varsa tıkla
+* "RegisterButton" li elementi bul ve varsa tıkla
+* Element var mı kontrol et "RegisterAgeErrorPopup"
+* Elementine tıkla "PopupOkayBtnIos"
+
+# Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur
+* "2" kere yukarı doğru kaydır
+* Elementine tıkla "RegisterBirth"
+* Element var mı kontrol et "PopupOkayBtnIos"
+//* "30","40" oranlarından "30","65" oranlarına "2" kere swipe et
+//* "50","40" oranlarından "50","65" oranlarına "2" kere swipe et
+//* "70","40" oranlarından "70","65" oranlarına "2" kere swipe et
+* "RegisterBirth" li elementi bul, temizle ve "04-08-2000" değerini yaz
+* Elementine tıkla "PopupOkayBtnIos"
+* "2" kere aşağıya kaydır
+* "RegisterButton" li elementi bul ve varsa tıkla
+* Element var mı kontrol et "RegisterEmailErrorPopup"
+* Elementine tıkla "PopupOkayBtnIos"
+
+# Kayıtlı Telefon ile register olunur ve uyarı mesajı gorulur
+* "2" kere yukarı doğru kaydır
+* "javatestautomation@gmail.com" textini "RegisterMail" elemente yaz
+* "555217475" textini "RegisterPhone" elemente yaz
+* "2" kere aşağıya kaydır
+* "RegisterButton" li elementi bul ve varsa tıkla
+* Element var mı kontrol et "RegisterPhoneErrorPopup"

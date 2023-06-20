@@ -29,3 +29,22 @@ tags:Gratis_IOS_SifreDegistirme
 * Login sayfasina gecilir
 * Giris yapilir
 * Sifre basarili sekilde degistirilir
+
+IOS Scenario Register
+---------------------
+tags:Gratis_IOS_Register
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Register'a tıklanır
+* Kullanıcı bilgileri girilir
+* Kullanıcı şartlarına tıklanır ve üye olunur
+
+IOS Scenario Register Negative
+------------------------------
+tags:Gratis_IOS_Register_Negatif
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Register'a tıklanır
+* 17 yasindan kucuk dogum tarihi secilir ve uyarı mesaji gorulur
+* Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur
+* Kayıtlı Telefon ile register olunur ve uyarı mesajı gorulur
