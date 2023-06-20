@@ -1,8 +1,10 @@
 # E-posta alanina <eposta> girilir
-* "EpostaInputAlani" li elementi bul, temizle ve <eposta> değerini yaz
+* "EpostaInputAlani" li elementin text degeri silinir
+* <eposta> textini "EpostaInputAlani" elemente yaz
 
 # Sifre alanına <sifre> girilir
-* "sifreInputAlani" li elementi bul, temizle ve <sifre> değerini yaz
+* "sifreInputAlani" li elementin text degeri silinir
+* <sifre> textini "sifreInputAlani" elemente yaz
 
 # Sifremi Unuttum ikonuna tiklanir
 * Element var mı kontrol et "ForgotPasswordIos"
@@ -208,7 +210,8 @@
 * Element var mı kontrol et "EmptyMailFailure"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
-* "EpostaInputAlani" li elementi bul, temizle ve "javatestautomation@gmail.com" değerini yaz
+* "EpostaInputAlani" li elementin text degeri silinir
+* "javatestautomation@gmail.com" textini "EpostaInputAlani" elemente yaz
 * Element var mı kontrol et "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 * Elementin yüklenmesini bekle "EmptyPasswordFailure"
