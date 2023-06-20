@@ -91,24 +91,22 @@
 * Element var mı kontrol et "EmailCheckboxCheckedIos"
 * "1" kere aşağıya kaydır
 * "1" saniye bekle
-* "RegisterMembershipText" li  elementin x ekseninde yukaridan %"4" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-* Elementin yüklenmesini bekle "RegisterAgreementTextOne"
-* "RegisterAgreementTextOne" elementi "" degerine esit mi
-* Elementine tıkla "PageRegisterAgreementBackBtn"
-* "RegisterOtherAgreementText" li  elementin x ekseninde yukaridan %"4" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-* Elementin yüklenmesini bekle "RegisterAgreementTextTwo"
-* "RegisterAgreementTextTwo" elementi "" degerine esit mi
-* Elementine tıkla "PageRegisterAgreementBackBtn"
-//* "RegisterMembershipAgreement" li elementi bul ve varsa tıkla
-//* "RegisterOtherAgreement" li elementi bul ve varsa tıkla
-//* "RegisterPersonalInfo" li elementi bul ve varsa tıkla
+//* "RegisterMembershipText" li  elementin x ekseninde yukaridan %"4" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+//* Elementin yüklenmesini bekle "RegisterAgreementTextOne"
+//* "RegisterAgreementTextOne" elementi "" degerine esit mi
+//* Elementine tıkla "PageRegisterAgreementBackBtn"
+//* "RegisterOtherAgreementText" li  elementin x ekseninde yukaridan %"4" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+//* Elementin yüklenmesini bekle "RegisterAgreementTextTwo"
+//* "RegisterAgreementTextTwo" elementi "" degerine esit mi
+//* Elementine tıkla "PageRegisterAgreementBackBtn"
 * Element var mı kontrol et "RegisterMembershipAgreement"
-* Elementine tıkla "RegisterMembershipAgreement"
+* "RegisterMembershipAgreement" li elementin  merkezine double tıkla
 * Element var mı kontrol et "RegisterOtherAgreement"
-* Elementine tıkla "RegisterOtherAgreement"
+* "RegisterOtherAgreement" li elementin  merkezine double tıkla
 * Element var mı kontrol et "RegisterPersonalInfo"
-* Elementine tıkla "RegisterPersonalInfo"
-* "RegisterButton" li elementi bul ve varsa tıkla
+* "RegisterPersonalInfo" li elementin  merkezine double tıkla
+* Element var mı kontrol et "RegisterButton"
+* Elementine tıkla "RegisterButton"
 * Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
 * Element var mı kontrol et "RegisterSmsAcceptButton"
 
