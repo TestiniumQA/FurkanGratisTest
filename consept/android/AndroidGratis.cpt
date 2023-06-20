@@ -15,7 +15,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "anasayfaTab"
 
 # Sepet kontrol edilerek temizlenir.
-* Elementine tıkla "sepetBtn"
+* "sepetBtn" li element varsa tıkla yoksa devam et
 * "sepetReklamKapat" li element varsa tıkla yoksa devam et
 * "sepetTemizleBtn" li elementi bul ve varsa tıkla
 * "sepetTemizleOnay" li elementi bul ve varsa tıkla
