@@ -7,7 +7,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 
 Gratis Card discount product add to cart
 ----------------------------------------
-tags:Gratis_Android_GratisKartlıUrunSepeteEkleme
+tags:Gratis_Android_GratisKartliUrunSepeteEkleme
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Login olunur.
