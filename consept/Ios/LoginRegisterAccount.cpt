@@ -1,8 +1,8 @@
 # E-posta alanina <eposta> girilir
-* <eposta> textini "EpostaInputAlani" elemente yaz
+* "EpostaInputAlani" li elementi bul, temizle ve <eposta> değerini yaz
 
 # Sifre alanına <sifre> girilir
-* <sifre> textini "sifreInputAlani" elemente yaz
+* "sifreInputAlani" li elementi bul, temizle ve <sifre> değerini yaz
 
 # Sifremi Unuttum ikonuna tiklanir
 * Element var mı kontrol et "ForgotPasswordIos"
