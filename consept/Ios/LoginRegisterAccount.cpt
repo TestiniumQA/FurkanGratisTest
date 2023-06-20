@@ -214,6 +214,9 @@
 * Elementin yüklenmesini bekle "EmptyPasswordFailure"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "PageCloseIcon"
+* Elementine tıkla "PageCloseIcon"
+* "uyeOlVeyaGirisYap" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
 * "2" saniye bekle
 
 # Yanlıs eposta ve sifre uyarıları gorulur
@@ -224,6 +227,9 @@
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 //* Element var mı kontrol et "shortPasswordFailure"
+* Elementin yüklenmesini bekle "PageCloseIcon"
+* Elementine tıkla "PageCloseIcon"
+* "uyeOlVeyaGirisYap" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
 * "2" saniye bekle
 
 # Kayıtlı olmayan eposta ile login olma uyarısı gorulur
@@ -233,6 +239,9 @@
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "PageCloseIcon"
+* Elementine tıkla "PageCloseIcon"
+* "uyeOlVeyaGirisYap" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
 * "1" saniye bekle
 
 # Yanlıs sifre veya email/cep telefonu uyarısı gorulur
@@ -242,6 +251,9 @@
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "PageCloseIcon"
+* Elementine tıkla "PageCloseIcon"
+* "uyeOlVeyaGirisYap" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
 * "2" saniye bekle
 
 # Klavye kapatilir

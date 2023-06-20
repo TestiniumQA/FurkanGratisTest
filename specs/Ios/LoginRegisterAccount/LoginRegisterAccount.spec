@@ -58,30 +58,12 @@ tags:Gratis_IOS_NegatifLoginVeSifremiUnuttum
 * Sifremi unuttum Gonder butonuna tiklanir
 * Sifremi unuttum bos mail uyarısı gorulur
 * Login icin bos mail ve sifre uyarısı gorulur
-* Klavye kapatilir
-* Elementin yüklenmesini bekle "EpostaInputAlani"
-* "EpostaInputAlani" li elementin text degeri silinir
-* "2" saniye bekle
 * E-posta alanina "yanlış formatta eposta" girilir
 * Sifre alanına "sifre" girilir
 * Yanlıs eposta ve sifre uyarıları gorulur
-* Klavye kapatilir
-* Elementin yüklenmesini bekle "EpostaInputAlani"
-* "EpostaInputAlani" li elementin text degeri silinir
-* "2" saniye bekle
-* Elementin yüklenmesini bekle "sifreInputAlani"
-* "sifreInputAlani" li elementin text degeri silinir
-* "2" saniye bekle
 * E-posta alanina "seyfettinalem@gmail.com" girilir
 * Sifre alanına "1A2s3d.." girilir
 * Kayıtlı olmayan eposta ile login olma uyarısı gorulur
-* Klavye kapatilir
-* Elementin yüklenmesini bekle "EpostaInputAlani"
-* "EpostaInputAlani" li elementin text degeri silinir
-* "2" saniye bekle
-* Elementin yüklenmesini bekle "sifreInputAlani"
-* "sifreInputAlani" li elementin text degeri silinir
-* "2" saniye bekle
 * E-posta alanina "javaautomationtest@gmail.com" girilir
 * Sifre alanına "sifresifre" girilir
 * Yanlıs sifre veya email/cep telefonu uyarısı gorulur

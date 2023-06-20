@@ -651,10 +651,10 @@
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "PageCloseIcon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='navigationCrossIcon']",
     "iosType": "xpath"
   },
   {
