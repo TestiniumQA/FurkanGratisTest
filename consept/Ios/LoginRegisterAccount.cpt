@@ -67,10 +67,14 @@
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "RegisterGender"
 * Element var mı kontrol et "RegisterGender"
-* Elementine tıkla "RegisterGender"
+* "RegisterGender" li elementin  merkezine double tıkla
+//* Elementine tıkla "RegisterGender"
 //* Rastgele secilen şifre "RegisterPassword" elementine, şifre tekrar "RegisterPasswordAgain"  elementine yazilir
 * Element var mı kontrol et "RegisterPassword"
 * "123456Asdf." textini "RegisterPassword" elemente yaz
+* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
+* Element var mı kontrol et "KeyboardDismisserIcon"
+* Elementine tıkla "KeyboardDismisserIcon"
 * Element var mı kontrol et "RegisterPasswordAgain"
 * "123456Asdf." textini "RegisterPasswordAgain" elemente yaz
 * "1" kere aşağıya kaydır
