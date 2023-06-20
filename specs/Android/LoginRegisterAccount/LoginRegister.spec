@@ -11,6 +11,7 @@ tags:Gratis_Android_Login
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Login olunur.
+* Uygulamadan cikis yapilir.
 
 Register
 --------

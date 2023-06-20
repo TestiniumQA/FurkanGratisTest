@@ -850,5 +850,12 @@
     "androidType": "id",
     "iosValue": "",
     "iosType": ""
+  },
+  {
+    "key": "emptyFavButton",
+    "androidValue": "com.gratis.android:id/empty_fav_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
   }
 ]

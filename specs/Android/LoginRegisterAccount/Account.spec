@@ -86,3 +86,21 @@ tags:Gratis_Android_FavoriListesindenSepeteEkleme
 * Favorilerdeki urun sepete eklenir ve sepete gidilir.
 * Urunlerin eklendigi kontrol edilir.
 * Favori listesi kontrol edilerek temizlenir.
+
+From Favorite List to Home Page
+-------------------------------
+tags:Gratis_Android_FavorilerdenAnasayfayaYonlendirme
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Favori listesi kontrol edilerek temizlenir.
+* Favori listesinden ana sayfaya yonlendirme yapilir.
+
+Update Member Information
+-------------------------
+tags:Gratis_Android_UyeBilgileriGuncelleme
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
