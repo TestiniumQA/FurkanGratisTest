@@ -208,7 +208,7 @@
 * Element var mı kontrol et "EmptyMailFailure"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
-* "javatestautomation@gmail.com" textini "EpostaInputAlani" elemente yaz
+* "EpostaInputAlani" li elementi bul, temizle ve "javatestautomation@gmail.com" değerini yaz
 * Element var mı kontrol et "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 * Elementin yüklenmesini bekle "EmptyPasswordFailure"
