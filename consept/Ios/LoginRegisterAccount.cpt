@@ -83,23 +83,31 @@
 * "1" kere aşağıya kaydır
 
 # Kullanıcı şartlarına tıklanır ve üye olunur
-* Elementine tıkla "SmsCheckboxIos"
+* Element var mı kontrol et "SmsCheckboxIos"
+* "SmsCheckboxIos" li elementin  merkezine double tıkla
 * Element var mı kontrol et "SmsCheckboxCheckedIos"
-* Elementine tıkla "EmailCheckboxIos"
+* Element var mı kontrol et "EmailCheckboxIos"
+* "EmailCheckboxIos" li elementin  merkezine double tıkla
 * Element var mı kontrol et "EmailCheckboxCheckedIos"
 * "1" kere aşağıya kaydır
 * "1" saniye bekle
-* "RegisterMembershipText" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "RegisterMembershipText" li  elementin x ekseninde yukaridan %"4" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "RegisterAgreementTextOne"
 * "RegisterAgreementTextOne" elementi "" degerine esit mi
 * Elementine tıkla "PageRegisterAgreementBackBtn"
-* "RegisterOtherAgreementText" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "RegisterOtherAgreementText" li  elementin x ekseninde yukaridan %"4" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "RegisterAgreementTextTwo"
 * "RegisterAgreementTextTwo" elementi "" degerine esit mi
 * Elementine tıkla "PageRegisterAgreementBackBtn"
-* "RegisterMembershipAgreement" li elementi bul ve varsa tıkla
-* "RegisterOtherAgreement" li elementi bul ve varsa tıkla
-* "RegisterPersonalInfo" li elementi bul ve varsa tıkla
+//* "RegisterMembershipAgreement" li elementi bul ve varsa tıkla
+//* "RegisterOtherAgreement" li elementi bul ve varsa tıkla
+//* "RegisterPersonalInfo" li elementi bul ve varsa tıkla
+* Element var mı kontrol et "RegisterMembershipAgreement"
+* Elementine tıkla "RegisterMembershipAgreement"
+* Element var mı kontrol et "RegisterOtherAgreement"
+* Elementine tıkla "RegisterOtherAgreement"
+* Element var mı kontrol et "RegisterPersonalInfo"
+* Elementine tıkla "RegisterPersonalInfo"
 * "RegisterButton" li elementi bul ve varsa tıkla
 * Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
 * Element var mı kontrol et "RegisterSmsAcceptButton"
