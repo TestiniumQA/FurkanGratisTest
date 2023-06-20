@@ -61,7 +61,7 @@ tags:Gratis_IOS_NegatifLoginVeSifremiUnuttum
 * E-posta alanina "yanlış formatta eposta" girilir
 * Sifre alanına "sifre" girilir
 * Yanlıs eposta ve sifre uyarıları gorulur
-* E-posta alanina "seyfettinalem@gmail.com" girilir.
+* E-posta alanina "seyfettinalem@gmail.com" girilir
 * Sifre alanına "1A2s3d.." girilir
 * Kayıtlı olmayan eposta ile login olma uyarısı gorulur
 * E-posta alanina "javaautomationtest@gmail.com" girilir
