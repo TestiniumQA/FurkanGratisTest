@@ -77,6 +77,9 @@
 * Elementine tıkla "KeyboardDismisserIcon"
 * Element var mı kontrol et "RegisterPasswordAgainIos"
 * "123456Asdf." textini "RegisterPasswordAgainIos" elemente yaz
+* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
+* Element var mı kontrol et "KeyboardDismisserIcon"
+* Elementine tıkla "KeyboardDismisserIcon"
 * "1" kere aşağıya kaydır
 
 # Kullanıcı şartlarına tıklanır ve üye olunur
