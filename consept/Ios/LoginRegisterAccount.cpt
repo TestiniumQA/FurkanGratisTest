@@ -52,8 +52,10 @@
 * "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
 * Rastgele secilen kullanici adi "RegisterName" elementine, soyadi "RegisterSurname" elementine, mail "RegisterMail" elementine yazilir
 * "326637272" textini "RegisterPhone" elemente yaz
+* Klavyeyi kapat
 //* "04-08-1994" textini "RegisterBirth" elemente yaz
 //* Rastgele secilen telefon "RegisterPhone" elementine, doğum tarihi "RegisterBirth"  elementine yazilir
+* Elementin yüklenmesini bekle "RegisterBirth"
 * Elementine tıkla "RegisterBirth"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Element var mı kontrol et "PopupOkayBtnIos"
@@ -92,7 +94,9 @@
 * "Aydın" textini "RegisterSurname" elemente yaz
 * "javaautomationtest@gmail.com" textini "RegisterMail" elemente yaz
 * "326637272" textini "RegisterPhone" elemente yaz
+* Klavyeyi kapat
 //* "19-06-2007" textini "RegisterBirth" elemente yaz
+* Elementin yüklenmesini bekle "RegisterBirth"
 * Elementine tıkla "RegisterBirth"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Element var mı kontrol et "PopupOkayBtnIos"
@@ -117,6 +121,7 @@
 
 # Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur
 * "2" kere yukarı doğru kaydır
+* Elementin yüklenmesini bekle "RegisterBirth"
 * Elementine tıkla "RegisterBirth"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Element var mı kontrol et "PopupOkayBtnIos"
@@ -135,6 +140,7 @@
 * "2" kere yukarı doğru kaydır
 * "javatestautomation@gmail.com" textini "RegisterMail" elemente yaz
 * "555217475" textini "RegisterPhone" elemente yaz
+* Klavyeyi kapat
 * "2" kere aşağıya kaydır
 * "RegisterButton" li elementi bul ve varsa tıkla
 * Elementin yüklenmesini bekle "RegisterPhoneErrorPopup"
