@@ -58,7 +58,9 @@
 //* "04-08-1994" textini "RegisterBirth" elemente yaz
 //* Rastgele secilen telefon "RegisterPhone" elementine, doğum tarihi "RegisterBirth"  elementine yazilir
 * Elementin yüklenmesini bekle "RegisterBirth"
-* Elementine tıkla "RegisterBirth"
+* Element var mı kontrol et "RegisterBirth"
+* "RegisterBirth" li elementin  merkezine double tıkla
+//* Elementine tıkla "RegisterBirth"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Element var mı kontrol et "PopupOkayBtnIos"
 //* "30","40" oranlarından "30","65" oranlarına "2" kere swipe et
