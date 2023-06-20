@@ -70,13 +70,13 @@
 * "RegisterGender" li elementin  merkezine double tıkla
 //* Elementine tıkla "RegisterGender"
 //* Rastgele secilen şifre "RegisterPassword" elementine, şifre tekrar "RegisterPasswordAgain"  elementine yazilir
-* Element var mı kontrol et "RegisterPassword"
-* "123456Asdf." textini "RegisterPassword" elemente yaz
+* Element var mı kontrol et "RegisterPasswordIos"
+* "123456Asdf." textini "RegisterPasswordIos" elemente yaz
 * Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 * Element var mı kontrol et "KeyboardDismisserIcon"
 * Elementine tıkla "KeyboardDismisserIcon"
-* Element var mı kontrol et "RegisterPasswordAgain"
-* "123456Asdf." textini "RegisterPasswordAgain" elemente yaz
+* Element var mı kontrol et "RegisterPasswordAgainIos"
+* "123456Asdf." textini "RegisterPasswordAgainIos" elemente yaz
 * "1" kere aşağıya kaydır
 
 # Kullanıcı şartlarına tıklanır ve üye olunur
@@ -116,8 +116,8 @@
 * Element var mı kontrol et "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementine tıkla "RegisterGender"
-* "123456Asdf." textini "RegisterPassword" elemente yaz
-* "123456Asdf." textini "RegisterPasswordAgain" elemente yaz
+* "123456Asdf." textini "RegisterPasswordIos" elemente yaz
+* "123456Asdf." textini "RegisterPasswordAgainIos" elemente yaz
 * "1" kere aşağıya kaydır
 * Elementine tıkla "SmsCheckboxIos"
 * Element var mı kontrol et "SmsCheckboxCheckedIos"
