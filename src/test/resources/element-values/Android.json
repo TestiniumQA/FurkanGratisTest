@@ -857,5 +857,19 @@
     "androidType": "id",
     "iosValue": "",
     "iosType": ""
+  },
+  {
+    "key": "gratisCardPrice",
+    "androidValue": "com.gratis.android:id/gratis_price_one",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "productAddButton",
+    "androidValue": "com.gratis.android:id/product_add_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
   }
 ]
