@@ -5,7 +5,7 @@ Created by testinium on 20.06.2023
 This is an executable specification file which follows markdown syntax.
 Every heading in this file denotes a scenario. Every bulleted point denotes a step.
 
-Gratis Card discount product add to cart
+Gratis Card Discount Product Add To Cart
 ----------------------------------------
 tags:Gratis_Android_GratisKartliUrunSepeteEkleme
 * Uygulama baslatilir.
@@ -14,9 +14,9 @@ tags:Gratis_Android_GratisKartliUrunSepeteEkleme
 * Gratis Kart indirimli urun sepete eklenir.
 * Sepet kontrol edilerek temizlenir.
 
-Card Popup Slider
------------------
-tags:Gratis_Android_KasaArkasiUrunEkleme
+Cart Popup Slider And Add To Cart
+---------------------------------
+tags:Gratis_Android_KasaArkasiPopupSlideVeUrunEkleme
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Login olunur.
