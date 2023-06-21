@@ -16,7 +16,7 @@ tags:Gratis_Android_GratisKartliUrunSepeteEkleme
 
 Card Popup Slider
 -----------------
-tags:Gratis_Android_KasaArkasıUrunEkleme
+tags:Gratis_Android_KasaArkasiUrunEkleme
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Login olunur.
