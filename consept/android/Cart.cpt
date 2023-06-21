@@ -15,7 +15,7 @@ This is a concept file with following syntax for each concept.
 
 # Ana sayfadan bir urun sepete eklenir.
 * Elementin yüklenmesini bekle "kampanyaSec"
-* "2" kere aşağıya kaydır
+* "1" kere aşağıya kaydır
 * Element var mı kontrol et "productAddButton"
 * Elementine tıkla "productAddButton"
 * Elementin yüklenmesini bekle "AddedToCartText"
