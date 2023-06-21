@@ -885,5 +885,12 @@
     "androidType": "id",
     "iosValue": "",
     "iosType": ""
+  },
+  {
+    "key": "cartHeaderText",
+    "androidValue": "com.gratis.android:id/cart_header_txt",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
   }
 ]

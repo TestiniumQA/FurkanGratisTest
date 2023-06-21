@@ -21,5 +21,15 @@ tags:Gratis_Android_KasaArkasiPopupSlideVeUrunEkleme
 * Login sayfasina gecilir.
 * Login olunur.
 * Ana sayfadan bir urun sepete eklenir.
+* Kasa arkası popup'inda swipe yapilir ve urun sepete eklenir.
+* Sepet kontrol edilerek temizlenir.
+
+Cart Slider And Add To Cart
+---------------------------
+tags:Gratis_Android_KasaArkasiSlideVeUrunEkleme
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Ana sayfadan bir urun sepete eklenir.
 * Kasa arkasında swipe yapilir ve urun sepete eklenir.
 * Sepet kontrol edilerek temizlenir.
