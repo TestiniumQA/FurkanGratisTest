@@ -14,3 +14,12 @@ tags:Gratis_Android_GratisKartliUrunSepeteEkleme
 * Gratis Kart indirimli urun sepete eklenir.
 * Sepet kontrol edilerek temizlenir.
 
+Card Popup Slider
+-----------------
+tags:Gratis_Android_KasaArkasıUrunEkleme
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Ana sayfadan bir urun sepete eklenir.
+* Kasa arkasında swipe yapilir ve urun sepete eklenir.
+* Sepet kontrol edilerek temizlenir.

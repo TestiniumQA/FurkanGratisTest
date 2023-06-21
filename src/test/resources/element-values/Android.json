@@ -871,5 +871,19 @@
     "androidType": "id",
     "iosValue": "",
     "iosType": ""
+  },
+  {
+    "key": "cartAddButton",
+    "androidValue": "com.gratis.android:id/cart_add_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "productItemTitle",
+    "androidValue": "com.gratis.android:id/product_item_title",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
   }
 ]

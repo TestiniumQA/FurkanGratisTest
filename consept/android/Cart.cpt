@@ -13,3 +13,18 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "AddedToCartText"
 * Elementine tıkla "goToCartButton"
 
+# Ana sayfadan bir urun sepete eklenir.
+* Elementin yüklenmesini bekle "kampanyaSec"
+* "2" kere aşağıya kaydır
+* Element var mı kontrol et "productAddButton"
+* Elementine tıkla "productAddButton"
+* Elementin yüklenmesini bekle "AddedToCartText"
+* Elementine tıkla "goToCartButton"
+
+# Kasa arkasında swipe yapilir ve urun sepete eklenir.
+* Elementin yüklenmesini bekle "cartAddButton"
+* "cartAddButton" elementinin hizasından sağdan sola "3" kere kaydır
+* Elementin yüklenmesini bekle "productItemTitle"
+* "productItemTitle" elementinin hizasından soldan sağa "3" kere kaydır
+* Elementin yüklenmesini bekle "cartAddButton"
+* Elementine tıkla "cartAddButton"

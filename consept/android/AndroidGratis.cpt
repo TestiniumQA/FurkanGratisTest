@@ -19,6 +19,8 @@ This is a concept file with following syntax for each concept.
 * "sepetReklamKapat" li element varsa tıkla yoksa devam et
 * "sepetTemizleBtn" li elementi bul ve varsa tıkla
 * "sepetTemizleOnay" li elementi bul ve varsa tıkla
+* "sepetTemizleBtn" li element varsa tıkla yoksa devam et
+* "sepetTemizleOnay" li element varsa tıkla yoksa devam et
 * "bosSepetListesi" icin sayac tut
 
 # Kategoriler sayfasina gecilir.
