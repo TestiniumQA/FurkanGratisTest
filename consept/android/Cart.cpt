@@ -40,3 +40,32 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "cartAddButton"
 * Elementine tıkla "cartAddButton"
 * Elementine tıkla "cartHeaderText"
+
+# Urun adedi arttirilir.
+* Elementin yüklenmesini bekle "sepetReklamKapat"
+* Elementine tıkla "sepetReklamKapat"
+* Element var mı kontrol et "numberPlusBtn"
+* Elementine tıkla "numberPlusBtn"
+* Elementin yüklenmesini bekle "numberPlusBtn"
+* Elementine tıkla "numberPlusBtn"
+* Elementin yüklenmesini bekle "numberPlusBtn"
+* Elementine tıkla "numberPlusBtn"
+* Elementin yüklenmesini bekle "numberPlusBtn"
+* Elementine tıkla "numberPlusBtn"
+* Elementin yüklenmesini bekle "numberPlusBtn"
+
+# Urun adedi azaltilir.
+* Element var mı kontrol et "numberMinusBtn"
+* Elementine tıkla "numberMinusBtn"
+* Elementin yüklenmesini bekle "numberMinusBtn"
+* Elementine tıkla "numberMinusBtn"
+* Elementin yüklenmesini bekle "numberMinusBtn"
+* Elementine tıkla "numberMinusBtn"
+* Elementin yüklenmesini bekle "numberMinusBtn"
+* Elementine tıkla "numberMinusBtn"
+
+# Bos sepetten ana sayfaya yonlendirme yapilir.
+* Element var mı kontrol et "bosSepetListesi"
+* Elementine tıkla "bosSepetListesi"
+* Elementin yüklenmesini bekle "kampanyaSec"
+

@@ -892,5 +892,19 @@
     "androidType": "id",
     "iosValue": "",
     "iosType": ""
+  },
+  {
+    "key": "numberPlusBtn",
+    "androidValue": "com.gratis.android:id/number_plus_img",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "numberMinusBtn",
+    "androidValue": "com.gratis.android:id/number_minus_img",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
   }
 ]
