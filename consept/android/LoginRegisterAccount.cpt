@@ -242,7 +242,7 @@ This is a concept file with following syntax for each concept.
 * "yeni liste adı" textini "addListTextbox" elemente yaz
 * Elementin yüklenmesini bekle "1"
 * Elementine tıkla "popupOkayButton"
-* Elementin yüklenmesini bekle "favBtn"
+* "1" saniye bekle
 
 # Urun favorilere eklenir.
 * Elementin yüklenmesini bekle "addFavoritePopup"

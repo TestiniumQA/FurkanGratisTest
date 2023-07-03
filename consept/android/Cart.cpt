@@ -81,3 +81,6 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "shoppingItemFavBtn"
 * "2" saniye bekle
 
+# Sepette favori butonuna tiklanir.
+* Element var mı kontrol et "shoppingItemFavBtn"
+* Elementine tıkla "shoppingItemFavBtn"

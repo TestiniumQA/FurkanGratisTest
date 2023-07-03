@@ -55,3 +55,20 @@ tags:Gratis_Android_SepetteFavoriEklemeCikarma
 * Ana sayfadan bir urun sepete eklenir.
 * Sepet kasa arkasi popup'i kapatilir.
 * Sepette favoriye ekleme ve cikarma yapilir.
+* Sepet kontrol edilerek temizlenir.
+
+Add A Favorite List From Cart
+-----------------------------
+tags:Gratis_Android_SepetteFavoriListesiOlusturmaVeSilme
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Ana sayfadan bir urun sepete eklenir.
+* Sepet kasa arkasi popup'i kapatilir.
+* Sepette favori butonuna tiklanir.
+* Yeni favori listesi olusturulur ve secilen urun favori eklenir.
+* Sepet kontrol edilerek temizlenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Profil sayfasındaki Favori butonuna tiklanir.
+* Listeden yeni eklenen favori listesi secilir.
+* Favori listesi silinir.
