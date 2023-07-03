@@ -72,3 +72,14 @@ tags:Gratis_Android_SepetteFavoriListesiOlusturmaVeSilme
 * Profil sayfasındaki Favori butonuna tiklanir.
 * Listeden yeni eklenen favori listesi secilir.
 * Favori listesi silinir.
+
+Cart Popup Slider Product Detail And Add To Cart
+------------------------------------------------
+tags:Gratis_Android_KasaArkasiPopupUrunDetayVeSepeteEkleme
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Ana sayfadan bir urun sepete eklenir.
+* Kasa arkasi urun detayina gidilir.
+* Urun detay sayfasinda urun sepete eklenir.
+* Sepet kontrol edilerek temizlenir.

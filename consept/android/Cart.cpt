@@ -84,3 +84,19 @@ This is a concept file with following syntax for each concept.
 # Sepette favori butonuna tiklanir.
 * Element var mı kontrol et "shoppingItemFavBtn"
 * Elementine tıkla "shoppingItemFavBtn"
+
+# Sepete gidilir.
+* Element var mı kontrol et "sepetBtn"
+* Elementine tıkla "sepetBtn"
+
+# Kasa arkasi urun detayina gidilir.
+* Elementin yüklenmesini bekle "sepetReklamKapat"
+* Elementine tıkla "cartPopupProduct"
+* Elementin yüklenmesini bekle "productDetailTitle"
+
+# Urun detay sayfasinda urun sepete eklenir.
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "addBasketBtn"
+* Elementine tıkla "addBasketBtn"
+* Element var mı kontrol et "goToCartButton"
+* Elementine tıkla "goToCartButton"

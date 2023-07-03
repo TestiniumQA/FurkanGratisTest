@@ -913,5 +913,20 @@
     "androidType": "id",
     "iosValue": "",
     "iosType": ""
+  },
+  {
+    "key": "cartPopupProduct",
+    "androidValue": "com.gratis.android:id/item_cart_back_root",
+    "androidType": "id"
+  },
+  {
+    "key": "productDetailTitle",
+    "androidValue": "com.gratis.android:id/product_title",
+    "androidType": "id"
+  },
+  {
+    "key": "addBasketBtn",
+    "androidValue": "com.gratis.android:id/add_basket_btn",
+    "androidType": "id"
   }
 ]
