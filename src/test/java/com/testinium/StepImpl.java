@@ -589,6 +589,7 @@ public class StepImpl extends HookImpl {
         MobileElement webElement = findElementByKey(key);
         webElement.clear();
         webElement.setValue(text);
+        logger.info(key+" texti "+text+" key elementine temizlenip yazildi");
     }
 
     @Step({"<key> li elementin text degeri silinir"})
@@ -2023,6 +2024,20 @@ public class StepImpl extends HookImpl {
         int width2 = element.getLocation().x + (element.getSize().width*x) / 100;
         logger.info("Elementin height degeri : "+height+", Tiklanacak height degeri"+height2);
         logger.info("Elementin width degeri : "+width+", Tiklanacak width degeri"+width2);
+        TouchAction action = new TouchAction(appiumDriver);
+        action.tap(PointOption.point(width2, height2)).perform();
+    }
+
+    @Step("<key> li elementin en solundan x ekseninde yukarıdan %<int> değer, y ekseninde yukarıdan %<int> değer kadar aşağısına tıkla")
+    public void clickIntXandIntYSol(String key, int x, int y) {
+
+        WebElement element = findElementByKey(key);
+        int height = element.getLocation().y + (element.getSize().height * y) / 100;
+        int height2 = element.getLocation().y + (element.getSize().height * y) / 100;
+        int width = element.getLocation().x;
+        int width2 = element.getLocation().x + (element.getSize().width * x) / 100;
+        logger.info("Elementin height değeri: " + height + ", Tıklanacak height değeri: " + height2);
+        logger.info("Elementin width değeri: " + width + ", Tıklanacak width değeri: " + width2);
         TouchAction action = new TouchAction(appiumDriver);
         action.tap(PointOption.point(width2, height2)).perform();
     }
