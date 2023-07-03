@@ -2014,7 +2014,9 @@ public class StepImpl extends HookImpl {
         logger.info("Elementin width degeri : "+width+", Tiklanacak width degeri"+width);
         TouchAction action = new TouchAction(appiumDriver);
         action.tap(PointOption.point(width, height2)).perform();
-    }@Step("<key> li  elementin x ekseninde yukaridan %<int> deger, y ekseninde yukaridan %<int> deger kadar asagisina tikla")
+    }
+
+    @Step("<key> li  elementin x ekseninde yukaridan %<int> deger, y ekseninde yukaridan %<int> deger kadar asagisina tikla")
     public void clickIntXandIntY(String key, int x, int y) {
 
         WebElement element = findElementByKey(key);

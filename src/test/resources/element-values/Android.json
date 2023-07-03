@@ -906,5 +906,12 @@
     "androidType": "id",
     "iosValue": "",
     "iosType": ""
+  },
+  {
+    "key": "shoppingItemFavBtn",
+    "androidValue": "shopping_item_fav_btn",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
   }
 ]

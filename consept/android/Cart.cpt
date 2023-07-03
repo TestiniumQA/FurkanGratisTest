@@ -29,9 +29,11 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "cartAddButton"
 * Elementine tıkla "cartAddButton"
 
-# Kasa arkasında swipe yapilir ve urun sepete eklenir.
+# Sepet kasa arkasi popup'i kapatilir.
 * Elementin yüklenmesini bekle "sepetReklamKapat"
 * Elementine tıkla "sepetReklamKapat"
+
+# Kasa arkasında swipe yapilir ve urun sepete eklenir.
 * Elementin yüklenmesini bekle "cartHeaderText"
 * Elementine tıkla "cartHeaderText"
 * "cartAddButton" elementinin hizasından sağdan sola "3" kere kaydır
@@ -68,4 +70,14 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "bosSepetListesi"
 * Elementine tıkla "bosSepetListesi"
 * Elementin yüklenmesini bekle "kampanyaSec"
+
+# Sepette favoriye ekleme ve cikarma yapilir.
+* Elementin yüklenmesini bekle "shoppingItemFavBtn"
+* Elementine tıkla "shoppingItemFavBtn"
+* Elementin yüklenmesini bekle "addFavoritePopup"
+* Elementine tıkla "popupOkayButton"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "shoppingItemFavBtn"
+* Elementine tıkla "shoppingItemFavBtn"
+* "2" saniye bekle
 

@@ -31,6 +31,7 @@ tags:Gratis_Android_KasaArkasiSlideVeUrunEkleme
 * Login sayfasina gecilir.
 * Login olunur.
 * Ana sayfadan bir urun sepete eklenir.
+* Sepet kasa arkasi popup'i kapatilir.
 * Kasa arkasında swipe yapilir ve urun sepete eklenir.
 * Sepet kontrol edilerek temizlenir.
 
@@ -44,3 +45,13 @@ tags:Gratis_Android_UrunAdediArttirmaVeAzaltma
 * Urun adedi arttirilir.
 * Urun adedi azaltilir.
 * Bos sepetten ana sayfaya yonlendirme yapilir.
+
+Add And Delete A Product To Favorite List From Cart
+---------------------------------------------------
+tags:Gratis_Android_SepetteFavoriEklemeCikarma
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Ana sayfadan bir urun sepete eklenir.
+* Sepet kasa arkasi popup'i kapatilir.
+* Sepette favoriye ekleme ve cikarma yapilir.
