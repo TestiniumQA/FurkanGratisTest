@@ -120,8 +120,7 @@
 * "123456Asdf." textini "RegisterPasswordIos" elemente yaz
 * Element var mı kontrol et "RegisterPasswordAgainIos"
 * "123456Asdf." textini "RegisterPasswordAgainIos" elemente yaz
-* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Elementine tıkla "KeyboardDismisserIcon"
+* "KeyboardDismisserIcon" li element varsa tıkla
 * "1" kere aşağıya kaydır
 * "1" saniye bekle
 * Element var mı kontrol et "RegisterMembershipAgreement"
