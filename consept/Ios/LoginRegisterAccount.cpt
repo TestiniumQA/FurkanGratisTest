@@ -74,10 +74,12 @@
 
 # Kullanıcı şartlarına tıklanır ve üye olunur
 * Element var mı kontrol et "SmsCheckboxIos"
-* Elementine tıkla "SmsCheckboxIos"
+//* Elementine tıkla "SmsCheckboxIos"
+* "SmsCheckboxIos" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 //* Element var mı kontrol et "SmsCheckboxCheckedIos"
 * Element var mı kontrol et "EmailCheckboxIos"
-* Elementine tıkla "EmailCheckboxIos"
+//* Elementine tıkla "EmailCheckboxIos"
+* "EmailCheckboxIos" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 //* Element var mı kontrol et "EmailCheckboxCheckedIos"
 * "1" saniye bekle
 * "RegisterMembershipText" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla

@@ -451,8 +451,8 @@
     "key": "RegisterBirth",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='false'][@accessible='true']",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]",
+    "iosType": "classChain"
   },
   {
     "key": "RegisterGender",
@@ -479,7 +479,7 @@
     "key": "SmsCheckboxIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@type='XCUIElementTypeButton'][@enabled='true'][@visible='true'][@accessible='true'])[5]",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\"SMS yoluyla elektronik ticari ileti almak istiyorum ve bu çerçevede tarafıma SMS yoluyla ticari elektronik ileti gönderilmesi için hizmet alınan tedarikçi firmaya telefon numaramın aktarılmasına onay veriyorum.\"]",
     "iosType": "xpath"
   },
   {
@@ -493,7 +493,7 @@
     "key": "EmailCheckboxIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@type='XCUIElementTypeButton'][@enabled='true'][@visible='true'][@accessible='true'])[7]",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\"Elektronik posta yoluyla ticari ileti almak istiyorum ve bu çerçevede tarafıma elektronik posta yoluyla elektronik ileti gönderilmesi için hizmet alınan tedarikçi firmaya elektronik posta adresimin aktarılmasına onay veriyorum.\"]",
     "iosType": "xpath"
   },
   {
