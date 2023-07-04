@@ -1,0 +1,12 @@
+Created by testinium on 4.07.2023
+
+This is a concept file with following syntax for each concept.
+# Gratis Beauty sayfasina gecilir.
+* Elementin yüklenmesini bekle "uygulamaAnasayfa"
+* Elementine tıkla "uygulamaAnasayfa"
+* Elementin yüklenmesini bekle "gratisBeautyPage"
+* "1" saniye bekle
+
+# Geri butonu ile ana sayfaya donulur.
+* Geri butonuna bas
+* Elementin yüklenmesini bekle "uygulamaAnasayfa"

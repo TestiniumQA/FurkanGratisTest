@@ -1007,7 +1007,7 @@ public class StepImpl extends HookImpl {
         StoreHelper.INSTANCE.saveValue(saveKey, new RandomString(length).nextString());
     }
 
-    @Step("geri butonuna bas")
+    @Step("Geri butonuna bas")
     public void clickBybackButton() {
         if (!localAndroid) {
             backPage();

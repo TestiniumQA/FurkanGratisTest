@@ -928,5 +928,10 @@
     "key": "addBasketBtn",
     "androidValue": "com.gratis.android:id/add_basket_btn",
     "androidType": "id"
+  },
+  {
+    "key": "gratisBeautyPage",
+    "androidValue": "//android.widget.Image",
+    "androidType": "xpath"
   }
 ]
