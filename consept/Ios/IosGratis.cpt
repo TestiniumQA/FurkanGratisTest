@@ -59,7 +59,7 @@
 
 # Uygulamadan cikis yapilir
 * "1" saniye bekle
-* "cikisYapBtnn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "cikisYapBtnn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "cikisYapBtnn"
 * Elementine tıkla "cikisYapBtnn"

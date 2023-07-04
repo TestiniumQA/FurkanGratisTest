@@ -49,7 +49,6 @@ tags:Gratis_IOS_SifreDegistirme
 * Login sayfasina gecilir
 * Giris yapilir
 * Sifre basarili sekilde degistirilir
-* "5" saniye bekle
 
 IOS Scenario Negative Login and Forget Password
 -----------------------------------------------
