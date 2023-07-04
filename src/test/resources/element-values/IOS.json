@@ -850,56 +850,56 @@
     "key": "NewAddressAddCityDropdown",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='false'][@accessible='true']",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeTextField[`value == \"Seçiniz\"`][1]",
+    "iosType": "classChain"
   },
   {
     "key": "NewAddressAddDistrictDropdown",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='false'][@accessible='true'])[2]",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeTextField[`value == \"Seçiniz\"`][1]",
+    "iosType": "classChain"
   },
   {
     "key": "NewAddressAddNeighbourhoodDropdown",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='false'][@accessible='true'])[3]",
+    "iosValue": "**/XCUIElementTypeTextField[`value == \"Seçiniz\"`][1]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "AnasayfaTab",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name='Anasayfa']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "KampanyaSec",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeScrollView/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeImage",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "EnCokSatanlarProduct",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeImage[1]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "FavBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeButton[@name='favoriteOffPurpleIcon']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "AddFavoritePopup",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Listeye Ekle']",
     "iosType": "xpath"
   },
   {

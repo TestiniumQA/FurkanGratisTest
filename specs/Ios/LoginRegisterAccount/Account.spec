@@ -47,3 +47,13 @@ tags:Gratis_IOS_FavoriAdiListeDuzenleme
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Profil sayfasındaki Favori butonuna tiklanir
 * Favori sayfasindaki Liste Adini Duzenle butonuna tiklanir ve yeni isim girilir
+
+IOS Scenario Adding A Product To Favorite List
+---------------------------------
+tags:Gratis_IOS_FavorilereUrunEklemeVeCikarma
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Giris yapilir
+* En Cok Satanlar alanindan bir urunun favori butonuna tıklanir
+//* Urun favorilere eklenir
+//*  Ana sayfadaki urun favorilerden cikarilir
