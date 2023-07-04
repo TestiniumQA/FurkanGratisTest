@@ -153,8 +153,7 @@
 * "2" kere yukarı doğru kaydır
 * "RegisterMailFull" li elementi bul, temizle ve "javatestautomation@gmail.com" değerini yaz
 * "RegisterPhoneFull" li elementi bul, temizle ve "555217475" değerini yaz
-* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Elementine tıkla "KeyboardDismisserIcon"
+* "KeyboardDismisserIcon" li element varsa tıkla
 * "2" kere aşağıya kaydır
 * Element var mı kontrol et "RegisterButton"
 * Elementine tıkla "RegisterButton"
