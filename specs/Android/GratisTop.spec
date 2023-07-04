@@ -18,3 +18,10 @@ tags:Gratis_Android_MagazalarIlArama
 * Uygulama baslatilir.
 * Magazalar alanina gidilir.
 * Magazalarda rastgele bir il aratilir.
+
+Store County Search
+---------------------
+tags:Gratis_Android_MagazalarIlceArama
+* Uygulama baslatilir.
+* Magazalar alanina gidilir.
+* Magazalarda rastgele bir ilce aratilir.

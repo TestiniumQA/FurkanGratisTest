@@ -25,3 +25,12 @@ This is a concept file with following syntax for each concept.
 * Android Enter tıkla
 * "3" saniye bekle
 * Element var mı kontrol et "storeChosenList"
+
+# Magazalarda rastgele bir ilce aratilir.
+* "Cities" csv dosyasindan rastgele il ve ilce sec
+* Rastgele secilen ilce adi "urunSearchTxt" elementine yazilir
+* "1" saniye bekle
+* Elementine tıkla "urunSearchTxt"
+* Android Enter tıkla
+* "3" saniye bekle
+* Element var mı kontrol et "storeChosenList"
