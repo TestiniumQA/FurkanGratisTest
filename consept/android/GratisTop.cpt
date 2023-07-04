@@ -10,3 +10,18 @@ This is a concept file with following syntax for each concept.
 # Geri butonu ile ana sayfaya donulur.
 * Geri butonuna bas
 * Elementin yüklenmesini bekle "uygulamaAnasayfa"
+
+# Magazalar alanina gidilir.
+* Elementin yüklenmesini bekle "storeBtn"
+* Elementine tıkla "storeBtn"
+* "locationPermissionBtn" li element varsa tıkla
+* Elementin yüklenmesini bekle "storeList"
+
+# Magazalarda rastgele bir il aratilir.
+* "Cities" csv dosyasindan rastgele il ve ilce sec
+* Rastgele secilen il adi "urunSearchTxt" elementine yazilir
+* "1" saniye bekle
+* Elementine tıkla "urunSearchTxt"
+* Android Enter tıkla
+* "3" saniye bekle
+* Element var mı kontrol et "storeChosenList"

@@ -11,3 +11,10 @@ tags:Gratis_Android_GratisBeautyPage
 * Uygulama baslatilir.
 * Gratis Beauty sayfasina gecilir.
 * Geri butonu ile ana sayfaya donulur.
+
+Store Province Search
+---------------------
+tags:Gratis_Android_MagazalarIlArama
+* Uygulama baslatilir.
+* Magazalar alanina gidilir.
+* Magazalarda rastgele bir il aratilir.

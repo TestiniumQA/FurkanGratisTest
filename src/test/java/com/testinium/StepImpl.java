@@ -64,6 +64,9 @@ public class StepImpl extends HookImpl {
     static List <String> CustomerAddressTitle = new ArrayList<>();
     static List <String> CustomerAddressDetail = new ArrayList<>();
     static List <String> CustomerAddressPostCode = new ArrayList<>();
+    static List <String> province = new ArrayList<>();
+    static List <String> county = new ArrayList<>();
+
 
     String accountUser;
     String accountpassword;
@@ -91,6 +94,8 @@ public class StepImpl extends HookImpl {
     String customerAddressDetail;
 
     String customerAddressPostCode;
+    String realProvince;
+    String realCounty;
 
 
 
@@ -276,6 +281,37 @@ public class StepImpl extends HookImpl {
         }
     }
 
+    @Step("<key> csv dosyasindan rastgele il ve ilce sec")
+    public void csvCityReader(String value) {
+        try {
+            String line = "";
+            String splitBy = ",";
+
+            BufferedReader br = new BufferedReader(new FileReader("data/"+value+".csv"));
+            while ((line = br.readLine()) != null)
+            {
+                String[] keyValue = line.split(splitBy,2);
+                province.add(keyValue[0]);
+                county.add(keyValue[1]);
+            }
+
+            System.out.println("Şehirlere ait csv okundu");
+
+            int number = createRandomNumber(province.size());
+
+            realProvince = province.get(number);
+            realCounty = county.get(number);
+
+            System.out.println("Kullanilacak Şehir Adi :" + realProvince);
+            System.out.println("Kullanilacak Ilce Adi :" + realCounty);
+
+        }catch (Exception e){
+            System.out.println("Csv dosyasi oluşturulurken hatayla karsilasildi");
+            System.out.println(province);
+            System.out.println(county);
+        }
+    }
+
     @Step("<key> csv dosyasindan rastgele register kullanicisi sec")
     public void csvRegisterReader(String value) {
         try {
@@ -452,6 +488,16 @@ public class StepImpl extends HookImpl {
     public void existElementt(String key,String key2) {
         findElementByKey(key).sendKeys(accountUser);
         findElementByKey(key2).sendKeys(accountpassword);
+    }
+
+    @Step({"Rastgele secilen il adi <key> elementine yazilir"})
+    public void existProvince(String key) {
+        findElementByKey(key).sendKeys(realProvince);
+    }
+
+    @Step({"Rastgele secilen ilce adi <key> elementine yazilir"})
+    public void existCounty(String key) {
+        findElementByKey(key).sendKeys(realCounty);
     }
 
     @Step({"Rastgele secilen kullanici adi <key> elementine, soyadi <key> elementine, mail <key> elementine yazilir"})

@@ -933,5 +933,25 @@
     "key": "gratisBeautyPage",
     "androidValue": "//android.widget.Image",
     "androidType": "xpath"
+  },
+  {
+    "key": "locationPermissionBtn",
+    "androidValue": "com.android.permissioncontroller:id/permission_allow_one_time_button",
+    "androidType": "id"
+  },
+  {
+    "key": "storeBtn",
+    "androidValue": "com.gratis.android:id/btnStore",
+    "androidType": "id"
+  },
+  {
+    "key": "storeList",
+    "androidValue": "com.gratis.android:id/storelist_recycler",
+    "androidType": "id"
+  },
+  {
+    "key": "storeChosenList",
+    "androidValue": "com.gratis.android:id/item_storelist_root",
+    "androidType": "id"
   }
 ]
