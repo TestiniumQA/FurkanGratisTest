@@ -16,11 +16,9 @@
 * Elementin yüklenmesini bekle "AlertSuccessfulPopupIos"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 //* "ForgotPasswordSendBtnIos" elementine sayacli tikla "AlertSuccessfulPopupIos" value degerini bekle
-* Element var mı kontrol et "PopupOkayBtnIos"
 //* "PopupOkayBtnIos" elementine sayacli tikla "RegisterBtnIos" value degerini bekle
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "RegisterBtnIos"
-* Element var mı kontrol et "RegisterBtnIos"
 
 # Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Element var mı kontrol et "ProfileRoot"
@@ -55,146 +53,117 @@
 * "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
 * Rastgele secilen kullanici adi "RegisterName" elementine, soyadi "RegisterSurname" elementine, mail "RegisterMail" elementine yazilir
 * "326637272" textini "RegisterPhone" elemente yaz
-* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Element var mı kontrol et "KeyboardDismisserIcon"
-* Elementine tıkla "KeyboardDismisserIcon"
 * Elementin yüklenmesini bekle "RegisterBirth"
-* Element var mı kontrol et "RegisterBirth"
-* "RegisterBirth" li elementin  merkezine double tıkla
-//* Elementine tıkla "RegisterBirth"
+* "RegisterBirth" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
-* Element var mı kontrol et "PopupOkayBtnIos"
-//* "30","40" oranlarından "30","65" oranlarına "2" kere swipe et
-//* "50","40" oranlarından "50","65" oranlarına "2" kere swipe et
-//* "70","40" oranlarından "70","65" oranlarına "2" kere swipe et
+//* "30","90" oranlarından "30","70" oranlarına "2" kere swipe et
+//* "50","90" oranlarından "50","70" oranlarına "2" kere swipe et
+//* "70","90" oranlarından "70","70" oranlarına "2" kere swipe et
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "RegisterGender"
-* Element var mı kontrol et "RegisterGender"
-* "RegisterGender" li elementin  merkezine double tıkla
-//* Elementine tıkla "RegisterGender"
+* "RegisterGender" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 //* Rastgele secilen şifre "RegisterPassword" elementine, şifre tekrar "RegisterPasswordAgain"  elementine yazilir
 * Element var mı kontrol et "RegisterPasswordIos"
 * "123456Asdf." textini "RegisterPasswordIos" elemente yaz
-* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Element var mı kontrol et "KeyboardDismisserIcon"
-* Elementine tıkla "KeyboardDismisserIcon"
 * Element var mı kontrol et "RegisterPasswordAgainIos"
 * "123456Asdf." textini "RegisterPasswordAgainIos" elemente yaz
 * Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Element var mı kontrol et "KeyboardDismisserIcon"
 * Elementine tıkla "KeyboardDismisserIcon"
 * "1" kere aşağıya kaydır
 
 # Kullanıcı şartlarına tıklanır ve üye olunur
 * Element var mı kontrol et "SmsCheckboxIos"
-* "SmsCheckboxIos" li elementin  merkezine double tıkla
-* Element var mı kontrol et "SmsCheckboxCheckedIos"
+* Elementine tıkla "SmsCheckboxIos"
+//* Element var mı kontrol et "SmsCheckboxCheckedIos"
 * Element var mı kontrol et "EmailCheckboxIos"
-* "EmailCheckboxIos" li elementin  merkezine double tıkla
-* Element var mı kontrol et "EmailCheckboxCheckedIos"
+* Elementine tıkla "EmailCheckboxIos"
+//* Element var mı kontrol et "EmailCheckboxCheckedIos"
+* "1" saniye bekle
+* "RegisterMembershipText" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "RegisterAgreementTextOne"
 * "1" kere aşağıya kaydır
 * "1" saniye bekle
-//* "RegisterMembershipText" li  elementin x ekseninde yukaridan %"4" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-//* Elementin yüklenmesini bekle "RegisterAgreementTextOne"
-//* "RegisterAgreementTextOne" elementi "" degerine esit mi
-//* Elementine tıkla "PageRegisterAgreementBackBtn"
-//* "RegisterOtherAgreementText" li  elementin x ekseninde yukaridan %"4" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-//* Elementin yüklenmesini bekle "RegisterAgreementTextTwo"
-//* "RegisterAgreementTextTwo" elementi "" degerine esit mi
-//* Elementine tıkla "PageRegisterAgreementBackBtn"
+* Elementine tıkla "PageRegisterAgreementBackBtn"
+* "1" saniye bekle
+* "RegisterOtherAgreementText" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "RegisterAgreementTextTwo"
+* "1" kere aşağıya kaydır
+* "1" saniye bekle
+* Elementine tıkla "PageRegisterAgreementBackBtn"
+* "1" saniye bekle
 * Element var mı kontrol et "RegisterMembershipAgreement"
-* "RegisterMembershipAgreement" li elementin  merkezine double tıkla
+* Elementine tıkla "RegisterMembershipAgreement"
 * Element var mı kontrol et "RegisterOtherAgreement"
-* "RegisterOtherAgreement" li elementin  merkezine double tıkla
+* Elementine tıkla "RegisterOtherAgreement"
 * Element var mı kontrol et "RegisterPersonalInfo"
-* "RegisterPersonalInfo" li elementin  merkezine double tıkla
+* Elementine tıkla "RegisterPersonalInfo"
 * Element var mı kontrol et "RegisterButton"
 * Elementine tıkla "RegisterButton"
 * Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
-* Element var mı kontrol et "RegisterSmsAcceptButton"
 
 # 17 yasindan kucuk dogum tarihi secilir ve uyarı mesaji gorulur
 * "Burhan" textini "RegisterName" elemente yaz
 * "Aydın" textini "RegisterSurname" elemente yaz
 * "javaautomationtest@gmail.com" textini "RegisterMail" elemente yaz
 * "326637272" textini "RegisterPhone" elemente yaz
-* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Element var mı kontrol et "KeyboardDismisserIcon"
-* Elementine tıkla "KeyboardDismisserIcon"
 * Elementin yüklenmesini bekle "RegisterBirth"
-* Element var mı kontrol et "RegisterBirth"
-* "RegisterBirth" li elementin  merkezine double tıkla
+* "RegisterBirth" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
-* Element var mı kontrol et "PopupOkayBtnIos"
+//* "30","90" oranlarından "30","70" oranlarına "2" kere swipe et
+//* "50","90" oranlarından "50","70" oranlarına "2" kere swipe et
+* "70","90" oranlarından "70","70" oranlarına "1" kere swipe et
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "RegisterGender"
-* Element var mı kontrol et "RegisterGender"
-* "RegisterGender" li elementin  merkezine double tıkla
+* "RegisterGender" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * Element var mı kontrol et "RegisterPasswordIos"
 * "123456Asdf." textini "RegisterPasswordIos" elemente yaz
-* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Element var mı kontrol et "KeyboardDismisserIcon"
-* Elementine tıkla "KeyboardDismisserIcon"
 * Element var mı kontrol et "RegisterPasswordAgainIos"
 * "123456Asdf." textini "RegisterPasswordAgainIos" elemente yaz
 * Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Element var mı kontrol et "KeyboardDismisserIcon"
 * Elementine tıkla "KeyboardDismisserIcon"
-* "1" kere aşağıya kaydır
-* Element var mı kontrol et "SmsCheckboxIos"
-* "SmsCheckboxIos" li elementin  merkezine double tıkla
-* Element var mı kontrol et "SmsCheckboxCheckedIos"
-* Element var mı kontrol et "EmailCheckboxIos"
-* "EmailCheckboxIos" li elementin  merkezine double tıkla
-* Element var mı kontrol et "EmailCheckboxCheckedIos"
 * "1" kere aşağıya kaydır
 * "1" saniye bekle
 * Element var mı kontrol et "RegisterMembershipAgreement"
-* "RegisterMembershipAgreement" li elementin  merkezine double tıkla
+* Elementine tıkla "RegisterMembershipAgreement"
 * Element var mı kontrol et "RegisterOtherAgreement"
-* "RegisterOtherAgreement" li elementin  merkezine double tıkla
+* Elementine tıkla "RegisterOtherAgreement"
 * Element var mı kontrol et "RegisterPersonalInfo"
-* "RegisterPersonalInfo" li elementin  merkezine double tıkla
+* Elementine tıkla "RegisterPersonalInfo"
 * Element var mı kontrol et "RegisterButton"
 * Elementine tıkla "RegisterButton"
 * Elementin yüklenmesini bekle "RegisterAgeErrorPopup"
-* Element var mı kontrol et "RegisterAgeErrorPopup"
 * Elementine tıkla "PopupOkayBtnIos"
 
 # Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur
 * "2" kere yukarı doğru kaydır
 * Elementin yüklenmesini bekle "RegisterBirth"
-* Element var mı kontrol et "RegisterBirth"
-* "RegisterBirth" li elementin  merkezine double tıkla
+* "RegisterBirth" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
-* Element var mı kontrol et "PopupOkayBtnIos"
 //* "30","40" oranlarından "30","65" oranlarına "2" kere swipe et
 //* "50","40" oranlarından "50","65" oranlarına "2" kere swipe et
-//* "70","40" oranlarından "70","65" oranlarına "2" kere swipe et
+//* "70","90" oranlarından "30","70" oranlarına "1" kere swipe et
 * Elementine tıkla "PopupOkayBtnIos"
 * "2" kere aşağıya kaydır
 * Element var mı kontrol et "RegisterButton"
 * Elementine tıkla "RegisterButton"
 * Elementin yüklenmesini bekle "RegisterEmailErrorPopup"
-* Element var mı kontrol et "RegisterEmailErrorPopup"
 * Elementine tıkla "PopupOkayBtnIos"
 
 # Kayıtlı Telefon ile register olunur ve uyarı mesajı gorulur
 * "2" kere yukarı doğru kaydır
-* "javatestautomation@gmail.com" textini "RegisterMail" elemente yaz
-* "555217475" textini "RegisterPhone" elemente yaz
+* "RegisterMailFull" li elementi bul, temizle ve "javatestautomation@gmail.com" değerini yaz
+* "RegisterPhoneFull" li elementi bul, temizle ve "555217475" değerini yaz
 * Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Element var mı kontrol et "KeyboardDismisserIcon"
 * Elementine tıkla "KeyboardDismisserIcon"
 * "2" kere aşağıya kaydır
 * Element var mı kontrol et "RegisterButton"
-* "RegisterButton" li elementi bul ve varsa tıkla
+* Elementine tıkla "RegisterButton"
 * Elementin yüklenmesini bekle "RegisterPhoneErrorPopup"
-* Element var mı kontrol et "RegisterPhoneErrorPopup"
 
 # Sifremi unuttum bos mail uyarısı gorulur
 * Elementin yüklenmesini bekle "ForgetPasswordFailPopup"
-* Element var mı kontrol et "ForgetPasswordFailPopup"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * Element var mı kontrol et "PageForgetPasswordBackBtn"
@@ -205,7 +174,6 @@
 * Element var mı kontrol et "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 * Elementin yüklenmesini bekle "EmptyMailFailure"
-* Element var mı kontrol et "EmptyMailFailure"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * "javatestautomation@gmail.com" textini "EpostaInputAlani" elemente yaz
@@ -223,7 +191,6 @@
 * Element var mı kontrol et "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 * Elementin yüklenmesini bekle "WrongMailFailure"
-* Element var mı kontrol et "WrongMailFailure"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 //* Element var mı kontrol et "shortPasswordFailure"
@@ -255,5 +222,149 @@
 
 # Klavye kapatilir
 * Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Element var mı kontrol et "KeyboardDismisserIcon"
 * Elementine tıkla "KeyboardDismisserIcon"
+
+# Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
+* Element var mı kontrol et "ProfilePageMyAddress"
+* "ProfilePageMyAddress" elementine sayacli tikla "PageToolbarTitle" value degerini bekle
+
+# Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
+* "DeleteAddressButton" li elementi bul ve varsa tıkla
+* "DeleteAddressPopupButton" li elementi bul ve varsa tıkla
+* "NewAddressCard" değerini sayfa üzerinde olmadıgını kontrol et
+
+# Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur
+* "1" saniye bekle
+* Element var mı kontrol et "MyAddressNewAddAddress"
+* "MyAddressNewAddAddress" elementine sayacli tikla "PageToolbarTitle" value degerini bekle
+
+# Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir
+/* "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
+/* Adres icin Ad "NewAddressCustomerName" elementine, Soyad "NewAddressCustomerSurname" elementine, Telefon "NewAddressCustomerPhone" elementine, Adres Ismi "NewAddressCustomerAddressTitle" elementine yazilir
+* Element var mı kontrol et "NewAddressCustomerName"
+* "Burhan" textini "NewAddressCustomerName" elemente yaz
+* Element var mı kontrol et "NewAddressCustomerSurname"
+* "Aydın" textini "NewAddressCustomerSurname" elemente yaz
+* Element var mı kontrol et "NewAddressCustomerPhone"
+* "326637272" textini "NewAddressCustomerPhone" elemente yaz
+* Element var mı kontrol et "NewAddressCustomerAddressTitle"
+* "EV" textini "NewAddressCustomerAddressTitle" elemente yaz
+* Klavyeyi kapat
+
+# Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgilerinin guncelleri girilir
+/* "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
+/* Adres icin Ad "NewAddressCustomerName" elementine, Soyad "NewAddressCustomerSurname" elementine, Telefon "NewAddressCustomerPhone" elementine, Adres Ismi "NewAddressCustomerAddressTitle" elementine yazilir
+* Element var mı kontrol et "NewAddressCustomerNameFull"
+* "NewAddressCustomerNameFull" li elementi bul, temizle ve "Fatih" değerini yaz
+* Element var mı kontrol et "NewAddressCustomerSurnameFull"
+* "NewAddressCustomerSurnameFull" li elementi bul, temizle ve "Terim" değerini yaz
+* Element var mı kontrol et "NewAddressCustomerPhoneFull"
+* "NewAddressCustomerPhoneFull" li elementi bul, temizle ve "326637275" değerini yaz
+* Element var mı kontrol et "NewAddressCustomerAddressTitleFull"
+* "NewAddressCustomerAddressTitleFull" li elementi bul, temizle ve "İş" değerini yaz
+* Klavye kapatilir
+
+# Adres Ekleme icin Adres Detay ve Posta Kodu bilgilerinin guncelleri girilir
+* "1" kere aşağıya kaydır
+* Element var mı kontrol et "NewAddressCustomerAddressDetailFull"
+* "NewAddressCustomerAddressDetailFull" li elementi bul, temizle ve "İş detayı için tarif giriliyordur" değerini yaz
+* Element var mı kontrol et "NewAddressCustomerPostcodeFull"
+* "NewAddressCustomerPostcodeFull" li elementi bul, temizle ve "34599" değerini yaz
+//* Yeni Adres Ekleme icin Adres Detay "NewAddressCustomerPostcodeFull" elementine, Posta Kodu "NewAddressCustomerPostcodeFull" elementine yazilir
+
+# Adres Ekle Sehir ismi secilir
+* "1" kere yukarı doğru kaydır
+* "1" saniye bekle
+* Element var mı kontrol et "NewAddressAddCityDropdown"
+* "NewAddressAddCityDropdown" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "50","90" oranlarından "50","70" oranlarına "1" kere swipe et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "1" saniye bekle
+
+# Adres Ekle Sehir ismi guncelleme icin <count> swipe ile secilir
+* "1" kere yukarı doğru kaydır
+* "1" saniye bekle
+* Element var mı kontrol et "NewAddressAddCityDropdown"
+* "NewAddressAddCityDropdown" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "50","90" oranlarından "50","70" oranlarına <count> kere swipe et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "1" saniye bekle
+
+# Adres Ekle Ilce ismi secilir
+* Element var mı kontrol et "NewAddressAddDistrictDropdown"
+* "NewAddressAddDistrictDropdown" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "50","90" oranlarından "50","70" oranlarına "1" kere swipe et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "1" saniye bekle
+
+# Adres Ekle Ilce ismi guncelleme icin <count> swipe ile secilir
+* Element var mı kontrol et "NewAddressAddDistrictDropdown"
+* "NewAddressAddDistrictDropdown" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "50","90" oranlarından "50","70" oranlarına <count> kere swipe et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "1" saniye bekle
+
+# Adres Ekle Mahalle ismi secilir
+* Element var mı kontrol et "NewAddressAddNeighbourhoodDropdown"
+* "NewAddressAddNeighbourhoodDropdown" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "50","90" oranlarından "50","70" oranlarına "1" kere swipe et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "1" saniye bekle
+
+# Adres Ekle Mahalle ismi guncelleme icin <count> swipe ile secilir
+* Element var mı kontrol et "NewAddressAddNeighbourhoodDropdown"
+* "NewAddressAddNeighbourhoodDropdown" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "50","90" oranlarından "50","70" oranlarına <count> kere swipe et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "1" saniye bekle
+
+# Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir
+* "1" kere aşağıya kaydır
+* "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
+* Yeni Adres Ekleme icin Adres Detay "NewAddressCustomerAddressDetail" elementine, Posta Kodu "NewAddressCustomerPostcode" elementine yazilir
+
+# Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur
+* Element var mı kontrol et "NewAddressSavedBtn"
+* Elementine tıkla "NewAddressSavedBtn"
+* Element var mı kontrol et "NewAddressCard"
+
+# Adres güncellemeye tıklanır
+* Element var mı kontrol et "UpdateAddressButton"
+* Elementine tıkla "UpdateAddressButton"
+
+# Profil sayfasındaki Favori butonuna tiklanir
+* Element var mı kontrol et "ProfilePageFavoriteButton"
+* Elementine tıkla "ProfilePageFavoriteButton"
+
+# Favori sayfasindaki Liste Adini Duzenle butonuna tiklanir ve yeni isim girilir
+* Element var mı kontrol et "EditListNameButton"
+* Elementine tıkla "EditListNameButton"
+* Element var mı kontrol et "EditListPopupTitle"
+* "EditListTextbox" li elementi bul, temizle ve "New List Namee" değerini yaz
+* "EditListTextbox" elementinin "New List Namee" textini içerdiği kontrol edilir
+* Element var mı kontrol et "NewAddressSavedBtn"
+* Elementine tıkla "NewAddressSavedBtn"
+* Elementin yüklenmesini bekle "AlertSuccessfulFavoritePopupIos"
+//* Elementin yüklenmesini bekle "AlertSuccessfulPopupIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "EditListDropdownName"
+* "EditListDropdownName" elementinin "New List Namee" textini içerdiği kontrol edilir

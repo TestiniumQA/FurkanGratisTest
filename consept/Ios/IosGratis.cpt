@@ -5,7 +5,7 @@
 
 # Login sayfasina gecilir
 * "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
-* IOS icin login ise logout olunur
+//* IOS icin login ise logout olunur
 * "uyeOlVeyaGirisYap" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
 
 # Giris yapilir
@@ -56,6 +56,16 @@
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimAlisveriseDevamEt" elementine sayacli tikla "kategorilerSekmesi" value degerini bekle
+
+# Uygulamadan cikis yapilir
+* "1" saniye bekle
+* "cikisYapBtnn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "cikisYapBtnn"
+* Elementine tıkla "cikisYapBtnn"
+* Elementin yüklenmesini bekle "cikisYapPopUpCikisBtn"
+* Elementine tıkla "cikisYapPopUpCikisBtn"
+* "cikisYapBtnn" değerini sayfa üzerinde olmadıgını kontrol et
 
 
 

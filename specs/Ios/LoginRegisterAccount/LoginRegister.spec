@@ -11,24 +11,7 @@ tags:Gratis_IOS_Login
 * Uygulama baslatilir
 * Login sayfasina gecilir
 * Giris yapilir
-
-IOS Scenario Forget Password
-----------------------------
-tags:Gratis_IOS_SifremiUnuttum
-* Uygulama baslatilir
-* Login sayfasina gecilir
-* Sifremi Unuttum ikonuna tiklanir
-* E-posta alanina "javaautomationtest@gmail.com" girilir
-* Sifremi unuttum Gonder butonuna tiklanir
-* Popup Tamam butonuna tiklanir
-
-IOS Scenario Changing Password
-------------------------------
-tags:Gratis_IOS_SifreDegistirme
-* Uygulama baslatilir
-* Login sayfasina gecilir
-* Giris yapilir
-* Sifre basarili sekilde degistirilir
+* Uygulamadan cikis yapilir
 
 IOS Scenario Register
 ---------------------
@@ -48,6 +31,25 @@ tags:Gratis_IOS_Register_Negatif
 * 17 yasindan kucuk dogum tarihi secilir ve uyarı mesaji gorulur
 * Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur
 * Kayıtlı Telefon ile register olunur ve uyarı mesajı gorulur
+
+IOS Scenario Forget Password
+----------------------------
+tags:Gratis_IOS_SifremiUnuttum
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Sifremi Unuttum ikonuna tiklanir
+* E-posta alanina "javaautomationtest@gmail.com" girilir
+* Sifremi unuttum Gonder butonuna tiklanir
+* Popup Tamam butonuna tiklanir
+
+IOS Scenario Changing Password
+------------------------------
+tags:Gratis_IOS_SifreDegistirme
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Giris yapilir
+* Sifre basarili sekilde degistirilir
+* "5" saniye bekle
 
 IOS Scenario Negative Login and Forget Password
 -----------------------------------------------

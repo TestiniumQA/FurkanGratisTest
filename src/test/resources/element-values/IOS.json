@@ -262,8 +262,8 @@
     "key": "cikisYapBtnn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeButton",
-    "iosType": "classChain"
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther",
+    "iosType": "xpath"
   },
   {
     "key": "cikisYapPopUpCikisBtn",
@@ -451,14 +451,14 @@
     "key": "RegisterBirth",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@value='GG-AA-YYYY']",
+    "iosValue": "//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='false'][@accessible='true']",
     "iosType": "xpath"
   },
   {
     "key": "RegisterGender",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@name='genderUnselectedIcon'])[2]",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Erkek']",
     "iosType": "xpath"
   },
   {
@@ -472,14 +472,14 @@
     "key": "RegisterPasswordAgainIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeSecureTextField[`value == \"Şifrenizi giriniz\"`][2]",
-    "iosType": "classChain"
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[7]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField",
+    "iosType": "xpath"
   },
   {
     "key": "SmsCheckboxIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='checkboxUnselectedIcon']",
+    "iosValue": "(//*[@type='XCUIElementTypeButton'][@enabled='true'][@visible='true'][@accessible='true'])[5]",
     "iosType": "xpath"
   },
   {
@@ -493,7 +493,7 @@
     "key": "EmailCheckboxIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@name='checkboxUnselectedIcon'])[2]",
+    "iosValue": "(//*[@type='XCUIElementTypeButton'][@enabled='true'][@visible='true'][@accessible='true'])[7]",
     "iosType": "xpath"
   },
   {
@@ -514,7 +514,7 @@
     "key": "RegisterAgreementTextOne",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='Gratis Elektronik Ticaret Sitesi Üyelik Sözleşmesi']",
+    "iosValue": "//*[@name='2 - Bu sözleşme Gratis’e ait internet sitesinden üyenin faydalanmasına ilişkin şartları ve üyelik ilişkisine ilişkin hak ve borçları düzenler']",
     "iosType": "xpath"
   },
   {
@@ -542,21 +542,21 @@
     "key": "RegisterMembershipAgreement",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@name='checkboxUnselectedIcon'][@enabled='true'])[3]",
+    "iosValue": "(//*[@type='XCUIElementTypeButton'][@enabled='true'][@visible='true'][@accessible='true'])[9]",
     "iosType": "xpath"
   },
   {
     "key": "RegisterOtherAgreement",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@name='checkboxUnselectedIcon'][@enabled='true'])[4]",
+    "iosValue": "(//*[@type='XCUIElementTypeButton'][@enabled='true'][@visible='true'][@accessible='true'])[11]",
     "iosType": "xpath"
   },
   {
     "key": "RegisterPersonalInfo",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@name='checkboxUnselectedIcon'][@enabled='true'])[5]",
+    "iosValue": "(//*[@type='XCUIElementTypeButton'][@enabled='true'][@visible='true'][@accessible='true'])[13]",
     "iosType": "xpath"
   },
   {
@@ -577,7 +577,7 @@
     "key": "RegisterAgeErrorPopup",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='17 yaşından büyük olmalısınız.']",
+    "iosValue": "//*[@name='16 yaşından küçükler üye olamaz.']",
     "iosType": "xpath"
   },
   {
@@ -658,213 +658,213 @@
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "RegisterMailFull",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='true'][@accessible='true'])[3]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "RegisterPhoneFull",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='true'][@accessible='true'])[4]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "ProfilePageMyAddress",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='Adreslerim']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "DeleteAddressButton",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='Sil']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "DeleteAddressPopupButton",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='Evet']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressCard",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@type='XCUIElementTypeCell']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "MyAddressNewAddAddress",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='+ Yeni Adres Ekle']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressCustomerName",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@value='Adınızı giriniz']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressCustomerSurname",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@value='Soyadınızı giriniz']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressCustomerPhone",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@value='Telefon numaranızı giriniz']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressCustomerAddressTitle",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@value='Yazınız']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressCustomerAddressDetail",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "(//*[@value='Lütfen buraya yazınız'])[1]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressCustomerPostcode",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeTextField[`value == \"Lütfen buraya yazınız\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "NewAddressSavedBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Kaydet']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "UpdateAddressButton",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='Güncelle']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressCustomerNameFull",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='true'][@accessible='true'])[1]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressCustomerSurnameFull",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='true'][@accessible='true'])[2]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressCustomerPhoneFull",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='true'][@accessible='true'])[3]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressCustomerAddressTitleFull",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='true'][@accessible='true'])[4]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressCustomerAddressDetailFull",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@type='XCUIElementTypeTextView'][@enabled='true'][@visible='true'][@accessible='true']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressCustomerPostcodeFull",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='true'][@accessible='true'])",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "ProfilePageFavoriteButton",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='Favorilerim']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "EditListNameButton",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='Liste Adını Düzenle']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "EditListPopupTitle",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='Liste Düzenle']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "EditListTextbox",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='true'][@accessible='true']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "AlertSuccessfulFavoritePopupIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='Favori listenizin adı güncellendi.']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "EditListDropdownName",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='false'][@accessible='true']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressAddCityDropdown",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='false'][@accessible='true']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressAddDistrictDropdown",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='false'][@accessible='true'])[2]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "NewAddressAddNeighbourhoodDropdown",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='false'][@accessible='true'])[3]",
     "iosType": "xpath"
   },
   {
