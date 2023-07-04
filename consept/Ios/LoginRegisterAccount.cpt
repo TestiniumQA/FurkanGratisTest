@@ -250,7 +250,7 @@
 * "326637272" textini "NewAddressCustomerPhone" elemente yaz
 * Element var mı kontrol et "NewAddressCustomerAddressTitle"
 * "EV" textini "NewAddressCustomerAddressTitle" elemente yaz
-* Klavyeyi kapat
+* Klavye kapatilir
 
 # Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgilerinin guncelleri girilir
 /* "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec

@@ -16,7 +16,6 @@ tags:Gratis_IOS_YeniAdresEklemeVeSilme
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
 * Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur
 * Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir
-* Klavye kapatilir
 * Adres Ekle Sehir ismi secilir
 * Adres Ekle Ilce ismi secilir
 * Adres Ekle Mahalle ismi secilir
