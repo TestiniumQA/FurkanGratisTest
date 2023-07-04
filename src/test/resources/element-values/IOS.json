@@ -542,22 +542,22 @@
     "key": "RegisterMembershipAgreement",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@type='XCUIElementTypeButton'][@enabled='true'][@visible='true'][@accessible='true'])[9]",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[10]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[1]",
+    "iosType": "classChain"
   },
   {
     "key": "RegisterOtherAgreement",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@type='XCUIElementTypeButton'][@enabled='true'][@visible='true'][@accessible='true'])[11]",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[11]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[1]",
+    "iosType": "classChain"
   },
   {
     "key": "RegisterPersonalInfo",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@type='XCUIElementTypeButton'][@enabled='true'][@visible='true'][@accessible='true'])[13]",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[12]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[1]",
+    "iosType": "classChain"
   },
   {
     "key": "RegisterButton",
