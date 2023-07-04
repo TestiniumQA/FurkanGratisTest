@@ -53,6 +53,7 @@
 * "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
 * Rastgele secilen kullanici adi "RegisterName" elementine, soyadi "RegisterSurname" elementine, mail "RegisterMail" elementine yazilir
 * "326637272" textini "RegisterPhone" elemente yaz
+* "KeyboardDismisserIcon" li element varsa tıkla
 * Elementin yüklenmesini bekle "RegisterBirth"
 * "RegisterBirth" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "1" saniye bekle
@@ -106,6 +107,7 @@
 * "Aydın" textini "RegisterSurname" elemente yaz
 * "javaautomationtest@gmail.com" textini "RegisterMail" elemente yaz
 * "326637272" textini "RegisterPhone" elemente yaz
+* "KeyboardDismisserIcon" li element varsa tıkla
 * Elementin yüklenmesini bekle "RegisterBirth"
 * "RegisterBirth" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "1" saniye bekle
