@@ -766,42 +766,42 @@
     "key": "NewAddressCustomerNameFull",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='true'][@accessible='true'])[1]",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]",
     "iosType": "xpath"
   },
   {
     "key": "NewAddressCustomerSurnameFull",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='true'][@accessible='true'])[2]",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]",
     "iosType": "xpath"
   },
   {
     "key": "NewAddressCustomerPhoneFull",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='true'][@accessible='true'])[3]",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]",
     "iosType": "xpath"
   },
   {
     "key": "NewAddressCustomerAddressTitleFull",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='true'][@accessible='true'])[4]",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]",
     "iosType": "xpath"
   },
   {
     "key": "NewAddressCustomerAddressDetailFull",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@type='XCUIElementTypeTextView'][@enabled='true'][@visible='true'][@accessible='true']",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[7]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther",
     "iosType": "xpath"
   },
   {
     "key": "NewAddressCustomerPostcodeFull",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='true'][@accessible='true'])",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[8]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]",
     "iosType": "xpath"
   },
   {
@@ -903,24 +903,24 @@
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "PopupSavedBtnIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeButton[@name='Kaydet']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "AddFavoriteSuccessfulPopupIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Ürün favori listesine eklendi.']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "RemoveFavoriteSuccessfulPopupIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Ürün favori listesinden çıkarıldı.']",
     "iosType": "xpath"
   },
   {
