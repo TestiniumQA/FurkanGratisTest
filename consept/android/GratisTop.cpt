@@ -29,8 +29,34 @@ This is a concept file with following syntax for each concept.
 # Magazalarda rastgele bir ilce aratilir.
 * "Cities" csv dosyasindan rastgele il ve ilce sec
 * Rastgele secilen ilce adi "urunSearchTxt" elementine yazilir
-* "1" saniye bekle
-* Elementine tıkla "urunSearchTxt"
-* Android Enter tıkla
-* "3" saniye bekle
+* "2" saniye bekle
 * Element var mı kontrol et "storeChosenList"
+
+# Magazalarda magaza ismi aratilir.
+* "İZM HİLLTOWN AVM" textini "urunSearchTxt" elemente yaz
+* "2" saniye bekle
+* "storeName" elementinin "İZM HİLLTOWN AVM" textini içerdiği kontrol edilir
+
+# Listeden bir magaza secilir.
+* "3" kere aşağıya kaydır
+* "1" kere yukarı doğru kaydır
+* Elementin yüklenmesini bekle "elementList"
+* Elementine tıkla "elementList"
+* Elementin yüklenmesini bekle "elementList"
+* Elementine tıkla "elementList"
+* Element var mı kontrol et "storeChosenList"
+
+# Calisma saatleri kontrol edilir.
+* Element var mı kontrol et "storeHours"
+* Elementine tıkla "storeHours"
+* "alertSuccessfulPopup" elementinin "" textini içerdiği kontrol edilir
+* Elementine tıkla "popupOkayButton"
+* "1" saniye bekle
+
+# Magazanin konumu gorulur.
+* Element var mı kontrol et "storeLocationBtn"
+* Elementine tıkla "storeLocationBtn"
+* "3" saniye bekle
+* Elementine tıkla "getDirectionsBtn"
+* "1" saniye bekle
+* "getDirectionsBtn" değerini sayfa üzerinde olmadıgını kontrol et

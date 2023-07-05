@@ -12,16 +12,20 @@ tags:Gratis_Android_GratisBeautyPage
 * Gratis Beauty sayfasina gecilir.
 * Geri butonu ile ana sayfaya donulur.
 
-Store Province Search
+Stores Province County Store Search
 ---------------------
-tags:Gratis_Android_MagazalarIlArama
+tags:Gratis_Android_MagazalarIlIlceMagazaArama
 * Uygulama baslatilir.
 * Magazalar alanina gidilir.
 * Magazalarda rastgele bir il aratilir.
+* Magazalarda rastgele bir ilce aratilir.
+* Magazalarda magaza ismi aratilir.
 
-Store County Search
----------------------
-tags:Gratis_Android_MagazalarIlceArama
+Chose A Store From List
+-----------------------
+tags:Gratis_Android_ListedenMagazaSecme
 * Uygulama baslatilir.
 * Magazalar alanina gidilir.
-* Magazalarda rastgele bir ilce aratilir.
+* Listeden bir magaza secilir.
+* Calisma saatleri kontrol edilir.
+* Magazanin konumu gorulur.

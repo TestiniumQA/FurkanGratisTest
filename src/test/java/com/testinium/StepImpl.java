@@ -904,8 +904,8 @@ public class StepImpl extends HookImpl {
             System.out.println(width + "  " + height);
 
             int swipeStartWidth = width / 2, swipeEndWidth = width / 2;
-            int swipeStartHeight = (height * 70) / 100;
-            int swipeEndHeight = (height * 20) / 100;
+            int swipeStartHeight = (height * 90) / 100;
+            int swipeEndHeight = (height * 40) / 100;
             System.out.println("Start width: " + swipeStartWidth + " - Start height: " + swipeStartHeight + " - End height: " + swipeEndHeight);
             //appiumDriver.swipe(swipeStartWidth, swipeStartHeight, swipeEndWidth, swipeEndHeight, 1000);
             new TouchAction((AndroidDriver) appiumDriver)

@@ -953,5 +953,30 @@
     "key": "storeChosenList",
     "androidValue": "com.gratis.android:id/item_storelist_root",
     "androidType": "id"
+  },
+  {
+    "key": "storeName",
+    "androidValue": "com.gratis.android:id/store_name_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "elementList",
+    "androidValue": "com.gratis.android:id/trademark_name",
+    "androidType": "id"
+  },
+  {
+    "key": "storeHours",
+    "androidValue": "com.gratis.android:id/store_hours_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "storeLocationBtn",
+    "androidValue": "com.gratis.android:id/location_img",
+    "androidType": "id"
+  },
+  {
+    "key": "getDirectionsBtn",
+    "androidValue": "com.gratis.android:id/get_directions_btn",
+    "androidType": "id"
   }
 ]
