@@ -38,7 +38,7 @@ This is a concept file with following syntax for each concept.
 * "storeName" elementinin "İZM HİLLTOWN AVM" textini içerdiği kontrol edilir
 
 # Listeden bir magaza secilir.
-* "3" kere aşağıya kaydır
+* "4" kere aşağıya kaydır
 * "1" kere yukarı doğru kaydır
 * Elementin yüklenmesini bekle "elementList"
 * Elementine tıkla "elementList"
