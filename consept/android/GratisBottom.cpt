@@ -1,0 +1,33 @@
+Created by testinium on 5.07.2023
+
+This is a concept file with following syntax for each concept.
+# Kampanyalar sayfasi acilir.
+* Elementin yüklenmesini bekle "kampanyaSec"
+* Elementine tıkla "kampanyalarTab"
+* Elementin yüklenmesini bekle "kampanyaSec"
+
+# Kampanyalar swipe edilir.
+* "kampanyaSec" elementinin hizasından sağdan sola "3" kere kaydır
+* "kampanyaSec" elementinin hizasından soldan sağa "2" kere kaydır
+
+# Kampanyaya tiklanir.
+* Elementin yüklenmesini bekle "kampanyaSec"
+* Elementine tıkla "kampanyaSec"
+* Element var mı kontrol et "toolbarUrunler"
+* "2" saniye bekle
+* Elementine tıkla "geriBtn"
+
+# Birinci indirim kampanyasına tiklanir.
+* Element var mı kontrol et "%50indirim"
+* "%50indirim" elementinin koordinatlarına x="0" y="200" degerlerini ekleyerek tıkla
+* Elementin yüklenmesini bekle "toolbarUrunler"
+* "2" saniye bekle
+* Elementine tıkla "geriBtn"
+
+# İkinci indirim kampanyasına tiklanir.
+* "60indirim"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "%60indirim"
+* "%60indirim" elementinin koordinatlarına x="0" y="200" degerlerini ekleyerek tıkla
+* Elementin yüklenmesini bekle "toolbarUrunler"
+* "2" saniye bekle
+* Elementine tıkla "geriBtn"

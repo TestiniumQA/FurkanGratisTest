@@ -988,5 +988,20 @@
     "key": "mapBtn",
     "androidValue": "//android.widget.TextView[@text='Harita']",
     "androidType": "xpath"
+  },
+  {
+    "key": "toolbarUrunler",
+    "androidValue": "//android.widget.TextView[@text='Ürünler']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "%50indirim",
+    "androidValue": "//android.widget.TextView[@text='%50 ve Üzeri İndirimler']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "%60indirim",
+    "androidValue": "//android.widget.TextView[@text='%60 ve Üzeri İndirimler']",
+    "androidType": "xpath"
   }
 ]
