@@ -21,7 +21,7 @@ tags:Gratis_Android_MagazalarIlIlceMagazaArama
 * Magazalarda rastgele bir ilce aratilir.
 * Magazalarda magaza ismi aratilir.
 
-Chose A Store From List
+Chose A Store From Store List
 -----------------------
 tags:Gratis_Android_ListedenMagazaSecme
 * Uygulama baslatilir.
@@ -29,3 +29,11 @@ tags:Gratis_Android_ListedenMagazaSecme
 * Listeden bir magaza secilir.
 * Calisma saatleri kontrol edilir.
 * Magazanin konumu gorulur.
+
+Stores Map Tab
+--------------
+tags:Gratis_Android_HaritaTab
+* Uygulama baslatilir.
+* Magazalar alanina gidilir.
+* Listeden bir magaza secilir.
+* Harita tabina basilir.

@@ -45,6 +45,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "elementList"
 * Elementine tıkla "elementList"
 * Element var mı kontrol et "storeChosenList"
+* "1" saniye bekle
 
 # Calisma saatleri kontrol edilir.
 * Element var mı kontrol et "storeHours"
@@ -60,3 +61,10 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "getDirectionsBtn"
 * "1" saniye bekle
 * "getDirectionsBtn" değerini sayfa üzerinde olmadıgını kontrol et
+
+# Harita tabina basilir.
+* Elementin yüklenmesini bekle "mapBtn"
+* Elementine tıkla "mapBtn"
+* "3" saniye bekle
+* Element var mı kontrol et "mapTabCtrl"
+* Element var mı kontrol et "getDirectionsBtn"

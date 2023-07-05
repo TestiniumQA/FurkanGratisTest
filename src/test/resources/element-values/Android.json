@@ -978,5 +978,15 @@
     "key": "getDirectionsBtn",
     "androidValue": "com.gratis.android:id/get_directions_btn",
     "androidType": "id"
+  },
+  {
+    "key": "mapTabCtrl",
+    "androidValue": "//android.widget.LinearLayout[2][@clickable='false']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "mapBtn",
+    "androidValue": "//android.widget.TextView[@text='Harita']",
+    "androidType": "xpath"
   }
 ]
