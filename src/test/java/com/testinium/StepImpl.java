@@ -1093,7 +1093,7 @@ public class StepImpl extends HookImpl {
         int height = d.height;
         int width = d.width;
         Point elementLocation = findElementByKeyWithoutAssert(key).getLocation();
-        pointToPointSwipeWithCoordinats(width - 50, elementLocation.getY(), 40, elementLocation.getY(), times);
+        pointToPointSwipeWithCoordinats(width - 65, elementLocation.getY(), 40, elementLocation.getY(), times);
     }
     @Step("<key> elementinin hizasından soldan sağa <times> kere kaydır")
     public void swipeFromRightToLeftAligned(String key, int times) throws InterruptedException {

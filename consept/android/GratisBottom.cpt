@@ -25,9 +25,43 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "geriBtn"
 
 # İkinci indirim kampanyasına tiklanir.
-* "60indirim"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "kampanyaSec"
+* "2" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "%60indirim"
 * "%60indirim" elementinin koordinatlarına x="0" y="200" degerlerini ekleyerek tıkla
 * Elementin yüklenmesini bekle "toolbarUrunler"
 * "2" saniye bekle
 * Elementine tıkla "geriBtn"
+
+# Markalar sayfasi acilir.
+* Elementin yüklenmesini bekle "kampanyaSec"
+* Elementine tıkla "markalarTab"
+* Elementin yüklenmesini bekle "trademark"
+
+# Sadece Gratis'te markaları swipe edilir ve tiklanir.
+* "trademark" elementinin hizasından sağdan sola "3" kere kaydır
+* "trademark" elementinin hizasından soldan sağa "2" kere kaydır
+* Elementin yüklenmesini bekle "trademark"
+* Elementine tıkla "trademark"
+* Elementin yüklenmesini bekle "pageToolbarTitle"
+* Elementine tıkla "geriBtn"
+* Elementin yüklenmesini bekle "trademark"
+
+# Markalar swipe edilir ve tiklanir.
+* "4" kere aşağıya kaydır
+* "2" kere yukarı doğru kaydır
+* Elementin yüklenmesini bekle "elementList"
+* Elementine tıkla "elementList"
+* Element var mı kontrol et "pageToolbarTitle"
+* "1" saniye bekle
+* Elementine tıkla "geriBtn"
+* Elementin yüklenmesini bekle "trademark"
+
+# Hizli scroll harflerine basılır ve listeden bir marka secilir.
+* Elementine tıkla "fastScroller"
+* Elementin yüklenmesini bekle "elementList"
+* Elementine tıkla "elementList"
+* Elementin yüklenmesini bekle "pageToolbarTitle"
+* "1" saniye bekle
+* Elementine tıkla "geriBtn"
+* Elementin yüklenmesini bekle "trademark"

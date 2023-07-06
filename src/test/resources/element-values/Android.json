@@ -1003,5 +1003,15 @@
     "key": "%60indirim",
     "androidValue": "//android.widget.TextView[@text='%60 ve Üzeri İndirimler']",
     "androidType": "xpath"
+  },
+  {
+    "key": "trademark",
+    "androidValue": "com.gratis.android:id/root_view",
+    "androidType": "id"
+  },
+  {
+    "key": "fastScroller",
+    "androidValue": "com.gratis.android:id/fastscroller",
+    "androidType": "id"
   }
 ]

@@ -66,6 +66,6 @@ This is a concept file with following syntax for each concept.
 
 # Uygulamadan cikis yapilir.
 * "digerTab" elementine sayacli tikla "profilTab" value degerini bekle
-* "2" kere aşağıya kaydır
+* "3" kere aşağıya kaydır
 * Elementine tıkla "cikisYapButon"
 * Elementine tıkla "cikisYapOnay"
