@@ -49,11 +49,54 @@ tags:Gratis_IOS_FavoriAdiListeDuzenleme
 * Favori sayfasindaki Liste Adini Duzenle butonuna tiklanir ve yeni isim girilir
 
 IOS Scenario Adding A Product To Favorite List
----------------------------------
+----------------------------------------------
 tags:Gratis_IOS_FavorilereUrunEklemeVeCikarma
 * Uygulama baslatilir
 * Login sayfasina gecilir
 * Giris yapilir
 * En Cok Satanlar alanindan bir urunun favori butonuna tıklanir
-//* Urun favorilere eklenir
-//*  Ana sayfadaki urun favorilerden cikarilir
+* Urun favorilere eklenir
+* Ana sayfadaki urun favorilerden cikarilir
+
+IOS Scenario Add Select and Delete Favorite List
+------------------------------------------------
+tags:Gratis_IOS_ListeOlusturmaSecmeVeSilme
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Giris yapilir
+* En Cok Satanlar alanindan bir urunun favori butonuna tıklanir
+* Yeni favori listesi olusturulur ve secilen urun favori eklenir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Profil sayfasındaki Favorilerim ikonuna tiklanir
+* Listeden yeni eklenen favori listesi secilir
+* Favori listesi silinir
+
+IOS Scenario Add To Cart From Favorite List
+-------------------------------------------
+tags:Gratis_IOS_FavoriListesindenSepeteEkleme
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Giris yapilir
+* En Cok Satanlar alanindan bir urunun favori butonuna tıklanir
+* Yeni favori listesi olusturulur ve secilen urun favori eklenir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Profil sayfasındaki Favorilerim ikonuna tiklanir
+* Listeden yeni eklenen favori listesi secilir
+* Favorilerden urun detay sayfasına gecilir
+* Favorilerdeki urun sepete eklenir ve alısverise devam edilir
+* Favorilerdeki urun sepete eklenir ve sepete gidilir
+* Urunlerin eklendigi kontrol edilir
+* Favori listesi kontrol edilerek temizlenir
+* Favori listesi silinir
+
+IOS Scenario From Favorite List to Home Page
+--------------------------------------------
+tags:Gratis_IOS_FavorilerdenAnasayfayaYonlendirme
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Giris yapilir
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Profil sayfasındaki Favorilerim ikonuna tiklanir
+* Favori listesinden ana sayfaya yonlendirme yapilir

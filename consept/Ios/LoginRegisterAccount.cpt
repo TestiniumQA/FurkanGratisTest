@@ -28,6 +28,10 @@
 * Element var mı kontrol et "ProfilePageMyPassword"
 * "ProfilePageMyPassword" elementine sayacli tikla "PageToolbarTitle" value degerini bekle
 
+# Diger'e tiklanir diger sayfasinin acildigi gorulur
+* Element var mı kontrol et "digerSekmesi"
+* "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
+
 # Sifre basarili sekilde degistirilir
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Sifrem'e tiklanir sifre yenileme sayfasinin acildigi gorulur
@@ -104,7 +108,7 @@
 * Elementine tıkla "RegisterButton"
 * Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
 
-# 17 yasindan kucuk dogum tarihi secilir ve uyarı mesaji gorulur
+# 16 yasindan kucuk dogum tarihi secilir ve uyarı mesaji gorulur
 * "Burhan" textini "RegisterName" elemente yaz
 * "Aydın" textini "RegisterSurname" elemente yaz
 * "javaautomationtest@gmail.com" textini "RegisterMail" elemente yaz
@@ -365,7 +369,7 @@
 * Elementine tıkla "NewAddressSavedBtn"
 * Elementin yüklenmesini bekle "AlertSuccessfulFavoritePopupIos"
 //* Elementin yüklenmesini bekle "AlertSuccessfulPopupIos"
-* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+//* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "EditListDropdownName"
 * "EditListDropdownName" elementinin "New List Namee" textini içerdiği kontrol edilir
@@ -373,9 +377,116 @@
 # En Cok Satanlar alanindan bir urunun favori butonuna tıklanir
 * Elementin yüklenmesini bekle "AnasayfaTab"
 * Elementine tıkla "AnasayfaTab"
-* Elementin yüklenmesini bekle "KampanyaSec"
-* Elementin yüklenmesini bekle "EnCokSatanlarProduct"
-* "1" kere aşağıya kaydır
+//* Elementin yüklenmesini bekle "KampanyaSec"
+//* Elementin yüklenmesini bekle "EnCokSatanlarProduct"
 * Elementin yüklenmesini bekle "FavBtn"
 * Elementine tıkla "FavBtn"
 * Element var mı kontrol et "AddFavoritePopup"
+
+# Urun favorilere eklenir
+* Elementin yüklenmesini bekle "AddFavoritePopup"
+* Elementin yüklenmesini bekle "PopupSavedBtnIos"
+* Elementine tıkla "PopupSavedBtnIos"
+* Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
+//* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+
+# Ana sayfadaki urun favorilerden cikarilir
+* Element var mı kontrol et "FavBtn"
+* Elementine tıkla "FavBtn"
+* Elementin yüklenmesini bekle "RemoveFavoriteSuccessfulPopupIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+
+# Yeni favori listesi olusturulur ve secilen urun favori eklenir
+* Element var mı kontrol et "AddListButton"
+* Elementine tıkla "AddListButton"
+* Elementin yüklenmesini bekle "AddListPopupTitle"
+//* Element var mı kontrol et "AddListTextbox"
+* "Yeni Liste Adı" textini "AddListTextbox" elemente yaz
+//* Elementin yüklenmesini bekle "PopupAddBtnIos"
+* Elementine tıkla "PopupAddBtnIos"
+* Elementin yüklenmesini bekle "AddListSuccessfulPopupIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "PopupSavedBtnIos"
+* Elementine tıkla "PopupSavedBtnIos"
+* Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
+//* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+
+# Profil sayfasındaki Favorilerim ikonuna tiklanir
+* Element var mı kontrol et "ProfilePageFavoriteIcon"
+* Elementine tıkla "ProfilePageFavoriteIcon"
+
+# Listeden yeni eklenen favori listesi secilir
+* Element var mı kontrol et "EditListNameButton"
+* Element var mı kontrol et "FavListSpinner"
+* "FavListSpinner" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "70","90" oranlarından "70","70" oranlarına "1" kere swipe et
+* "1" saniye bekle
+//* Element var mı kontrol et "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "FavListSpinnerText" elementinin "Yeni Liste Adı" textini içerdiği kontrol edilir
+
+# Favori listesi silinir
+* Elementin yüklenmesini bekle "FavListDeleteButton"
+* Elementine tıkla "FavListDeleteButton"
+* Elementin yüklenmesini bekle "FavListDeletePopupButton"
+* Elementine tıkla "FavListDeletePopupButton"
+* Elementin yüklenmesini bekle "FavListSpinner"
+* "1" saniye bekle
+* "FavListSpinnerText" değerini sayfa üzerinde olmadıgını kontrol et
+
+# Favorilerden urun detay sayfasına gecilir
+* Elementine tıkla "ProductDetailFromFavoriteList"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+
+# Favorilerdeki urun sepete eklenir ve alısverise devam edilir
+* Elementin yüklenmesini bekle "FavListSpinner"
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "FavAddCartButton"
+* Elementine tıkla "FavAddCartButton"
+* Element var mı kontrol et "AddedToCartSuccessfulPopupIos"
+* Elementin yüklenmesini bekle "ContinueShoppingButton"
+* Elementine tıkla "ContinueShoppingButton"
+* Elementin yüklenmesini bekle "FavAddCartButton"
+
+# Favorilerdeki urun sepete eklenir ve sepete gidilir
+* Elementine tıkla "FavAddCartButton"
+* Elementin yüklenmesini bekle "GoToCartButton"
+* Elementine tıkla "GoToCartButton"
+
+# Urunlerin eklendigi kontrol edilir
+//* Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
+//* Elementine tıkla "sepetPopUpKapatBtn"
+* "sepetPopUpKapatBtn" li element varsa tıkla
+* Element var mı kontrol et "FavoriteAddToCartControl"
+* Elementin yüklenmesini bekle "sepetimSilBtn"
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* Elementin yüklenmesini bekle "1"
+* Elementin yüklenmesini bekle "PageCloseIcon"
+* Elementine tıkla "PageCloseIcon"
+
+# Favori listesi kontrol edilerek temizlenir
+* "digerSekmesi" elementine sayacli tikla "ProfileRoot" value degerini bekle
+* "ProfileRoot" elementine sayacli tikla "ProfilePageFavoriteIcon" value degerini bekle
+* "ProfilePageFavoriteIcon" elementine sayacli tikla "EditListNameButton" value degerini bekle
+* Element var mı kontrol et "FavListSpinner"
+* "FavListSpinner" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "70","90" oranlarından "70","70" oranlarına "1" kere swipe et
+* "1" saniye bekle
+* Elementine tıkla "PopupOkayBtnIos"
+* "FavBtn" li elementi bul ve varsa tıkla
+* Elementin yüklenmesini bekle "RemoveFavoriteSuccessfulPopupIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "EmptyFavoriteList"
+
+# Favori listesinden ana sayfaya yonlendirme yapilir
+* Element var mı kontrol et "EmptyFavButton"
+* Elementine tıkla "EmptyFavButton"
+* Elementin yüklenmesini bekle "KampanyaSec"

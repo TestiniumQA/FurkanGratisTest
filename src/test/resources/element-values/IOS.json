@@ -924,6 +924,538 @@
     "iosType": "xpath"
   },
   {
+    "key": "AddListButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name='Yeni Liste Oluştur']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "AddListPopupTitle",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Liste Oluştur']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "AddListTextbox",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeTextField",
+    "iosType": "xpath"
+  },
+  {
+    "key": "PopupAddBtnIos",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name='Ekle']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "AddListSuccessfulPopupIos",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Favori listeniz oluşturuldu.']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ProfilePageFavoriteIcon",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Favorilerim']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "FavListSpinner",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeImage[`name == \"dropDownArrowIcon\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "FavListSpinnerText",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeTextField[`value == \"Yeni Liste Adı\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "FavListDeleteButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name='Sil']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "FavListDeletePopupButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//XCUIElementTypeButton[@name='Sil'])[2]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ProductDetailFromFavoriteList",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "PageFavoriteBackBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name='Favorilerim']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "FavAddCartButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='SEPETE EKLE']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "AddedToCartSuccessfulPopupIos",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Ürün sepetinize eklendi.']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "FavoriteAddToCartControl",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "EmptyFavoriteList",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Favori ürünleriniz henüz yok!']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ContinueShoppingButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name='Alışverişe Devam Et']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "GoToCartButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name='Sepete Git']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "EmptyFavButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Haydi başlayalım!']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "GratisCardPrice",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//*[@name='Gratis Kart ile'])[1]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ProductAddButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//XCUIElementTypeButton[@name='SEPETE EKLE'])[1]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "BosSepetListesi",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Sepetin şu an boş']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "NumberPlusBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='cartQuantityIncreaseIcon']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "NumberMinusBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='cartQuantityDecreaseIcon']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "BosSepetListesiBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Alışverişe Devam Et']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
     "key": "xxxx",
     "androidValue": "",
     "androidType": "",
