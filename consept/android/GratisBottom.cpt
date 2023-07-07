@@ -86,3 +86,19 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
 * "pageToolbarTitle" elementinin "Diğer" textini içerdiği kontrol edilir
+
+# Yakinlardaki magazalar'a tiklanir.
+* Elementin yüklenmesini bekle "nearbyStore"
+* Elementine tıkla "nearbyStore"
+* "locationPermissionBtn" li element varsa tıkla
+* Elementin yüklenmesini bekle "urunSearchTxt"
+* "pageToolbarTitle" elementinin "Mağazalar" textini içerdiği kontrol edilir
+* Element var mı kontrol et "digerTab"
+
+# Diğer alaninda Gratis Beauty sayfasina gecilir.
+* Elementin yüklenmesini bekle "beautyDigerBtn"
+* Elementine tıkla "beautyDigerBtn"
+* Elementin yüklenmesini bekle "gratisBeautyPage"
+* "2" saniye bekle
+* Geri butonuna bas
+* Elementin yüklenmesini bekle "digerTab"

@@ -1023,5 +1023,15 @@
     "key": "gratisCardView",
     "androidValue": "com.gratis.android:id/gratis_card_view",
     "androidType": "id"
+  },
+  {
+    "key": "nearbyStore",
+    "androidValue": "nearby_store_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "beautyDigerBtn",
+    "androidValue": "com.gratis.android:id/beauty_txt",
+    "androidType": "id"
   }
 ]

@@ -33,3 +33,12 @@ tags:Gratis_Android_GratisCard
 * Non login durumda Gratis Kart sayfasi kontrol edilir.
 * Gratis Kartim sayfasina gecilir.
 * Login durumda Gratis Kart sayfasi kontrol edilir.
+
+Diger
+-----
+tags:Gratis_Android_DigerTab
+* Uygulama baslatilir.
+* Diger tabina tiklanir.
+* Yakinlardaki magazalar'a tiklanir.
+* Diger tabina tiklanir.
+* Diğer alaninda Gratis Beauty sayfasina gecilir.
