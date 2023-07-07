@@ -1025,7 +1025,7 @@
     "key": "FavoriteAddToCartControl",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]",
+    "iosValue": "//*[@name='2']",
     "iosType": "xpath"
   },
   {
@@ -1099,31 +1099,31 @@
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "ShoppingItemFavBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeApplication[@name='Gratis']/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeCollectionView/XCUIElementTypeCell/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeButton",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "CartPageAddListTextbox",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeApplication[@name='Gratis']/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeTextField",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "GratisBeautyAnasayfaIcon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeNavigationBar[@name='Gratis.HomeView']/XCUIElementTypeStaticText",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "GratisBeautyPage",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "(//XCUIElementTypeLink[@name='Alternate Text'])[1]",
     "iosType": "xpath"
   },
   {

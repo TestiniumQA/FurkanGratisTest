@@ -29,6 +29,7 @@
 * "ProfilePageMyPassword" elementine sayacli tikla "PageToolbarTitle" value degerini bekle
 
 # Diger'e tiklanir diger sayfasinin acildigi gorulur
+* "PageCloseIcon" li element varsa tıkla
 * Element var mı kontrol et "digerSekmesi"
 * "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
 
