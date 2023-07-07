@@ -23,3 +23,12 @@ tags:Gratis_Android_MarkalarTab
 * Sadece Gratis'te markaları swipe edilir ve tiklanir.
 * Markalar swipe edilir ve tiklanir.
 * Hizli scroll harflerine basılır ve listeden bir marka secilir.
+
+Gratis Card
+-----------
+* Uygulama baslatilir.
+* Diger tabina tiklanir.
+* Gratis Kartim sayfasina gecilir.
+* Non login durumda Gratis Kart sayfasi kontrol edilir.
+* Gratis Kartim sayfasina gecilir.
+* Login durumda Gratis Kart sayfasi kontrol edilir.

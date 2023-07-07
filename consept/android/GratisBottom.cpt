@@ -65,3 +65,24 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 * Elementine tıkla "geriBtn"
 * Elementin yüklenmesini bekle "trademark"
+
+# Diger tabina tiklanir.
+* Elementin yüklenmesini bekle "digerTab"
+* Elementine tıkla "digerTab"
+
+# Gratis Kartim sayfasina gecilir.
+* Elementin yüklenmesini bekle "gratisCardBtn"
+* Elementine tıkla "gratisCardBtn"
+
+# Login durumda Gratis Kart sayfasi kontrol edilir.
+* "pageToolbarTitle" elementinin "Gratis Kart" textini içerdiği kontrol edilir
+* Elementine tıkla "geriBtn"
+* "1" saniye bekle
+
+# Non login durumda Gratis Kart sayfasi kontrol edilir.
+* Elementin yüklenmesini bekle "pageToolbarTitle"
+* "pageToolbarTitle" elementinin "Giriş Yap" textini içerdiği kontrol edilir
+* "AndroidMail" csv dosyasindan rastgele kullanici sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* "pageToolbarTitle" elementinin "Diğer" textini içerdiği kontrol edilir
