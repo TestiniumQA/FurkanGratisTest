@@ -26,6 +26,7 @@ tags:Gratis_Android_MarkalarTab
 
 Gratis Card
 -----------
+tags:Gratis_Android_GratisCard
 * Uygulama baslatilir.
 * Diger tabina tiklanir.
 * Gratis Kartim sayfasina gecilir.
