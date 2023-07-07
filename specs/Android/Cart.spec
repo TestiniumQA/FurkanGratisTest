@@ -12,7 +12,6 @@ tags:Gratis_Android_GratisKartliUrunSepeteEkleme
 * Login sayfasina gecilir.
 * Login olunur.
 * Gratis Kart indirimli urun sepete eklenir.
-* Sepet kontrol edilerek temizlenir.
 
 Cart Popup Slider And Add To Cart
 ---------------------------------
