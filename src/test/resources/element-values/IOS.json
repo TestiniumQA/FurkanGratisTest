@@ -315,6 +315,13 @@
     "iosType": "classChain"
   },
   {
+    "key": "uygulamaKullanirkenIzinver",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"Uygulamayı Kullanırken İzin Ver\"`]",
+    "iosType": "classChain"
+  },
+  {
     "key": "ForgotPasswordIos",
     "androidValue": "",
     "androidType": "",
@@ -1127,45 +1134,45 @@
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "CartAddButton",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "(//*[@name='Sepete Ekle'])[1]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "ProductItemTitle",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[2]/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "CartHeaderText",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "ProductDropwdownItemTitle",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "CartPopupProduct",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[2]/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeImage",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "ProductDetailTitle",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='Ürün Detay']",
     "iosType": "xpath"
   },
   {
