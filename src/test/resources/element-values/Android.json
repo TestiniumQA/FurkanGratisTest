@@ -1081,7 +1081,7 @@
   },
   {
     "key": "ssiPageElement",
-    "androidValue": "//android.view.View[@text='Yönetim Kurulu']",
+    "androidValue": "//android.widget.Image",
     "androidType": "xpath"
   },
   {
