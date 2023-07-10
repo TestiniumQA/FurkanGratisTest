@@ -1111,8 +1111,8 @@
   },
   {
     "key": "facebookPage",
-    "androidValue": "//android.widget.Image[@text='Gratis, profile picture']",
-    "androidType": "xpath"
+    "androidValue": "u_0_1_Go",
+    "androidType": "id"
   },
   {
     "key": "instagramBtn",
