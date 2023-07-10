@@ -42,3 +42,13 @@ tags:Gratis_Android_DigerTab
 * Yakinlardaki magazalar'a tiklanir.
 * Diger tabina tiklanir.
 * Diğer alaninda Gratis Beauty sayfasina gecilir.
+* Kariyer sayfasina gecilir.
+* Uyelik Sozlesmesi sayfasina gecilir.
+* Gizlilik ve Guvenlik sayfasina gecilir.
+* Kullanim kosullari sayfasina gecilir.
+* Bilgi Toplumu Hizmetleri sayfasina gecilir.
+* KVKK sayfasina gecilir.
+* Hakkimizda sayfasina gecilir.
+* Facebook sayfasina gecilir.
+* Instagram sayfasina gecilir.
+* Twitter sayfasina gecilir.

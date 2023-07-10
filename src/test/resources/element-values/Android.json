@@ -1033,5 +1033,105 @@
     "key": "beautyDigerBtn",
     "androidValue": "com.gratis.android:id/beauty_txt",
     "androidType": "id"
+  },
+  {
+    "key": "careerBtn",
+    "androidValue": "com.gratis.android:id/career_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "careerPage",
+    "androidValue": "//android.widget.Image[@text='Gratis_logo']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "agreementTxtBtn",
+    "androidValue": "com.gratis.android:id/agreement_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "agreementPageToolbar",
+    "androidValue": "//android.widget.TextView[@text='Üyelik Sözleşmesi']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "policyBtn",
+    "androidValue": "com.gratis.android:id/policy_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "policyPageToolbar",
+    "androidValue": "//android.widget.TextView[@text='Gizlilik ve Güvenlik']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "termOfUseBtn",
+    "androidValue": "com.gratis.android:id/term_of_use_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "termOfUsePageToolbar",
+    "androidValue": "//android.widget.TextView[@text='Kullanım Koşulları']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "ssiBtn",
+    "androidValue": "com.gratis.android:id/society_services_info_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "ssiPageElement",
+    "androidValue": "//android.view.View[@text='Yönetim Kurulu']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "kvkkBtn",
+    "androidValue": "com.gratis.android:id/kvkk_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "kvkkPageToolbar",
+    "androidValue": "//android.widget.TextView[@text='Yasal Uyarı KVKK Aydınlatma Metni']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "aboutBtn",
+    "androidValue": "com.gratis.android:id/about_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "aboutPageToolbar",
+    "androidValue": "//android.widget.TextView[@text='Hakkımızda']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "facebookBtn",
+    "androidValue": "com.gratis.android:id/facebook_btn",
+    "androidType": "id"
+  },
+  {
+    "key": "facebookPage",
+    "androidValue": "//android.widget.Image[@text='Gratis, profile picture']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "instagramBtn",
+    "androidValue": "com.gratis.android:id/instagram_btn",
+    "androidType": "id"
+  },
+  {
+    "key": "instagramPage",
+    "androidValue": "//android.widget.Button[@text=\"gratistr's profile picture\"]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "twitterBtn",
+    "androidValue": "com.gratis.android:id/twitter_btn",
+    "androidType": "id"
+  },
+  {
+    "key": "twitterPage",
+    "androidValue": "//android.widget.Image[@text='Twitter']",
+    "androidType": "xpath"
   }
 ]

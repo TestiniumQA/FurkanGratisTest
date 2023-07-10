@@ -102,3 +102,105 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 * Geri butonuna bas
 * Elementin yüklenmesini bekle "digerTab"
+
+# Kariyer sayfasina gecilir.
+* "careerBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "careerBtn"
+* Elementine tıkla "careerBtn"
+* Elementin yüklenmesini bekle "careerPage"
+* "1" saniye bekle
+* Geri butonuna bas
+* Elementin yüklenmesini bekle "digerTab"
+
+# Uyelik Sozlesmesi sayfasina gecilir.
+* "agreementTxtBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "agreementTxtBtn"
+* Elementine tıkla "agreementTxtBtn"
+* Elementin yüklenmesini bekle "agreementPageToolbar"
+* "1" saniye bekle
+* "2" kere aşağıya kaydır
+* "1" saniye bekle
+* Geri butonuna bas
+* Elementin yüklenmesini bekle "digerTab"
+
+# Gizlilik ve Guvenlik sayfasina gecilir.
+* "policyBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "policyBtn"
+* Elementine tıkla "policyBtn"
+* Elementin yüklenmesini bekle "policyPageToolbar"
+* "1" saniye bekle
+* "2" kere aşağıya kaydır
+* "1" saniye bekle
+* Geri butonuna bas
+* Elementin yüklenmesini bekle "digerTab"
+
+# Kullanim kosullari sayfasina gecilir.
+* "termOfUseBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "termOfUseBtn"
+* Elementine tıkla "termOfUseBtn"
+* Elementin yüklenmesini bekle "termOfUsePageToolbar"
+* "1" saniye bekle
+* "2" kere aşağıya kaydır
+* "1" saniye bekle
+* Geri butonuna bas
+* Elementin yüklenmesini bekle "digerTab"
+
+# Bilgi Toplumu Hizmetleri sayfasina gecilir.
+* "ssiBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "ssiBtn"
+* Elementine tıkla "ssiBtn"
+* Elementin yüklenmesini bekle "ssiPageElement"
+* "1" saniye bekle
+* "2" kere aşağıya kaydır
+* "1" saniye bekle
+* Geri butonuna bas
+* Elementin yüklenmesini bekle "digerTab"
+
+# KVKK sayfasina gecilir.
+* "kvkkBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "kvkkBtn"
+* Elementine tıkla "kvkkBtn"
+* Elementin yüklenmesini bekle "kvkkPageToolbar"
+* "1" saniye bekle
+* "2" kere aşağıya kaydır
+* "1" saniye bekle
+* Geri butonuna bas
+* Elementin yüklenmesini bekle "digerTab"
+
+# Hakkimizda sayfasina gecilir.
+* "aboutBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "aboutBtn"
+* Elementine tıkla "aboutBtn"
+* Elementin yüklenmesini bekle "aboutPageToolbar"
+* "1" saniye bekle
+* "2" kere aşağıya kaydır
+* "1" saniye bekle
+* Geri butonuna bas
+* Elementin yüklenmesini bekle "digerTab"
+
+# Facebook sayfasina gecilir.
+* "facebookBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "facebookBtn"
+* Elementine tıkla "facebookBtn"
+* Elementin yüklenmesini bekle "facebookPage"
+* "1" saniye bekle
+* Geri butonuna bas
+* Elementin yüklenmesini bekle "digerTab"
+
+# Instagram sayfasina gecilir.
+* "instagramBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "instagramBtn"
+* Elementine tıkla "instagramBtn"
+* Elementin yüklenmesini bekle "instagramPage"
+* "1" saniye bekle
+* Geri butonuna bas
+* Elementin yüklenmesini bekle "digerTab"
+
+# Twitter sayfasina gecilir.
+* "twitterBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "twitterBtn"
+* Elementine tıkla "twitterBtn"
+* Elementin yüklenmesini bekle "twitterPage"
+* "1" saniye bekle
+* Geri butonuna bas
+* Elementin yüklenmesini bekle "digerTab"
