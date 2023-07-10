@@ -1111,8 +1111,8 @@
   },
   {
     "key": "facebookPage",
-    "androidValue": "u_0_1_Go",
-    "androidType": "id"
+    "androidValue": "//android.widget.Button",
+    "androidType": "xpath"
   },
   {
     "key": "instagramBtn",
