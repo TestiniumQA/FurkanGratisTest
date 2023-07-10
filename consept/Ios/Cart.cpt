@@ -1,0 +1,132 @@
+# Gratis Kart indirimli urun sepete eklenir
+* Elementin yüklenmesini bekle "AnasayfaTab"
+* Elementine tıkla "AnasayfaTab"
+* Elementin yüklenmesini bekle "KampanyaSec"
+* "1" kere aşağıya kaydır
+//* Element var mı kontrol et "GratisCardPrice"
+* Elementine tıkla "ProductAddButton"
+* Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
+* Element var mı kontrol et "ContinueShoppingButton"
+* Elementine tıkla "ContinueShoppingButton"
+* Elementin yüklenmesini bekle "ProductAddButton"
+* Elementine tıkla "ProductAddButton"
+* Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
+* Element var mı kontrol et "GoToCartButton"
+* Elementine tıkla "GoToCartButton"
+
+# Sepet kontrol edilerek temizlenir
+* "sepetPopUpKapatBtn" li element varsa tıkla
+* Elementin yüklenmesini bekle "sepetimSilBtn"
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* "BosSepetListesi" icin sayac tut
+
+# Ana sayfadan bir urun sepete eklenir
+* Elementin yüklenmesini bekle "AnasayfaTab"
+* Elementine tıkla "AnasayfaTab"
+* Elementin yüklenmesini bekle "KampanyaSec"
+* "1" kere aşağıya kaydır
+* Elementine tıkla "ProductAddButton"
+* Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
+* Element var mı kontrol et "GoToCartButton"
+* Elementine tıkla "GoToCartButton"
+
+# Urun adedi arttirilir
+* Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
+* Elementine tıkla "sepetPopUpKapatBtn"
+* "sepetPopUpKapatBtn" li element varsa tıkla
+* Element var mı kontrol et "NumberPlusBtn"
+* Elementine tıkla "NumberPlusBtn"
+* Elementin yüklenmesini bekle "NumberPlusBtn"
+* Elementine tıkla "NumberPlusBtn"
+* Elementin yüklenmesini bekle "NumberPlusBtn"
+* Elementine tıkla "NumberPlusBtn"
+* Elementin yüklenmesini bekle "NumberPlusBtn"
+//* Elementine tıkla "NumberPlusBtn"
+//* Elementin yüklenmesini bekle "NumberPlusBtn"
+
+# Urun adedi azaltilir
+* Elementin yüklenmesini bekle "1"
+* Element var mı kontrol et "NumberMinusBtn"
+* Elementine tıkla "NumberMinusBtn"
+* Elementin yüklenmesini bekle "NumberMinusBtn"
+* Elementine tıkla "NumberMinusBtn"
+* Elementin yüklenmesini bekle "NumberMinusBtn"
+* Elementine tıkla "NumberMinusBtn"
+* Elementin yüklenmesini bekle "NumberMinusBtn"
+* Elementine tıkla "NumberMinusBtn"
+
+# Bos sepetten ana sayfaya yonlendirme yapilir
+* Elementin yüklenmesini bekle "BosSepetListesi"
+* Element var mı kontrol et "BosSepetListesiBtn"
+* Elementine tıkla "BosSepetListesiBtn"
+* Elementin yüklenmesini bekle "KampanyaSec"
+
+# Sepet kasa arkasi popup'i kapatilir
+//* Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
+//* Elementine tıkla "sepetPopUpKapatBtn"
+* "sepetPopUpKapatBtn" li element varsa tıkla
+
+# Sepette favoriye ekleme ve cikarma yapilir
+* Elementin yüklenmesini bekle "ShoppingItemFavBtn"
+* Elementine tıkla "ShoppingItemFavBtn"
+* Elementin yüklenmesini bekle "AddFavoritePopup"
+* Elementine tıkla "PopupSavedBtnIos"
+* Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "ShoppingItemFavBtn"
+* Elementine tıkla "ShoppingItemFavBtn"
+* Elementin yüklenmesini bekle "RemoveFavoriteSuccessfulPopupIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "1" saniye bekle
+
+# Sepette favori butonuna tiklanir
+* Element var mı kontrol et "ShoppingItemFavBtn"
+* Elementine tıkla "ShoppingItemFavBtn"
+
+# Sepette Yeni favori listesi olusturulur ve secilen urun favori eklenir
+* Element var mı kontrol et "AddListButton"
+* Elementine tıkla "AddListButton"
+* Elementin yüklenmesini bekle "AddListPopupTitle"
+* Element var mı kontrol et "CartPageAddListTextbox"
+* "Yeni Liste Adı" textini "CartPageAddListTextbox" elemente yaz
+//* Elementin yüklenmesini bekle "PopupAddBtnIos"
+* Elementine tıkla "PopupAddBtnIos"
+* Elementin yüklenmesini bekle "AddListSuccessfulPopupIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "PopupSavedBtnIos"
+* Elementine tıkla "PopupSavedBtnIos"
+* Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
+//* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+
+# Kasa arkası popup'inda swipe yapilir ve urun sepete eklenir
+* Elementin yüklenmesini bekle "CartAddButton"
+* "CartAddButton" elementinin hizasından sağdan sola "3" kere kaydır
+* Elementin yüklenmesini bekle "ProductItemTitle"
+* "ProductItemTitle" elementinin hizasından soldan sağa "3" kere kaydır
+* Elementin yüklenmesini bekle "CartAddButton"
+* Elementine tıkla "CartAddButton"
+
+# Kasa arkasında swipe yapilir ve urun sepete eklenir
+* Elementin yüklenmesini bekle "CartHeaderText"
+* Elementine tıkla "CartHeaderText"
+* "CartAddButton" elementinin hizasından sağdan sola "3" kere kaydır
+* Elementin yüklenmesini bekle "ProductDropwdownItemTitle"
+* "ProductDropwdownItemTitle" elementinin hizasından soldan sağa "3" kere kaydır
+* Elementin yüklenmesini bekle "CartAddButton"
+* Elementine tıkla "CartAddButton"
+* Elementine tıkla "CartHeaderText"
+
+# Kasa arkasi urun detayina gidilir
+* Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
+* Elementine tıkla "CartPopupProduct"
+* Elementin yüklenmesini bekle "ProductDetailTitle"
+
+# Urun detay sayfasinda urun sepete eklenir
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "ProductAddButton"
+* Elementine tıkla "ProductAddButton"
+* Element var mı kontrol et "GoToCartButton"
+* Elementine tıkla "GoToCartButton"
