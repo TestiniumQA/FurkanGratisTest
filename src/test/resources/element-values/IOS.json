@@ -1172,295 +1172,274 @@
     "key": "ProductDetailTitle",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='Ürün Detay']",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Ürün Detay']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "StoreBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeNavigationBar[@name='Gratis.HomeView']/XCUIElementTypeButton[1]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "LocationPermissionBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='Uygulamayı Kullanırken İzin Ver']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "StoreList",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "XCUIElementTypeTable",
+    "iosType": "class"
+  },
+  {
+    "key": "UrunSearchTxt",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "XCUIElementTypeTextField",
+    "iosType": "class"
+  },
+  {
+    "key": "StoreChosenList",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "XCUIElementTypeTable",
+    "iosType": "class"
+  },
+  {
+    "key": "KeyboardSearchIcon",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='Search']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "StoreName",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='İZM HİLLTOWN AVM']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "ElementListOne",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='BURSA']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "ElementListTwo",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='İZNİK']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "StoreHours",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeButton[@name='Çalışma saatleri']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "StoreHoursPopupIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\" Pazartesi - [11:35 - 21:00]\n\nSalı - [10:00 - 21:00]\n\nÇarşamba - [10:00 - 21:00]\n\nPerşembe - [10:00 - 21:00]\n\nCuma - [10:00 - 21:00]\n\nCumartesi - [10:00 - 21:00]\n\nPazar - [10:00 - 21:00]\"]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "StoreLocationBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Konumu Gör']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "GetDirectionsBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeButton[@name='YOL TARİFİ AL']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "SelectAppMapsPopup",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeButton[@name='Apple Maps']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "MapBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Harita']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "MapTabCtrl",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeButton[@name='crosshair']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "ToolbarUrunler",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='Ürünler']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "%50indirimIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeImage",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "%60indirimIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeImage",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "Trademark",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeOther[1]/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "ElementListThree",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Activex']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "FastScroller",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeOther[@name='Section index']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "ElementListFour",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Flormar']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "GratisCardBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Gratis Kartım']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "GratisCardBackGround",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "XCUIElementTypeImage",
+    "iosType": "class"
+  },
+  {
+    "key": "NearbyStore",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Yakındaki Mağazalar']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "BeautyDigerBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Gratis Beauty']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "SearchBox",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[1]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "SearchBoxCloseBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name='closeSearchIcon']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "SearchBoxText",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "XCUIElementTypeTextField",
+    "iosType": "class"
+  },
+  {
+    "key": "SearchNoResultFound",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='\"ASDASD\" için sonuç bulunamamıştır.']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "SearchToolbarTitle",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "(//XCUIElementTypeStaticText[@name='Pastel Oje 106'])[1]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "SearchCategoryName",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Erkek Parfüm']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "SearchCategoryToolbarTitle",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Erkek Parfüm']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "SearchTrademarkName",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Arko Men']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "SearchTrademarkToolbarTitle",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Arko Men']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "SearchPopularSubCategories",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[2]",
+    "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "SearchPopularSubTrademarks",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[4]",
+    "iosType": "classChain"
   },
   {
     "key": "xxxx",
