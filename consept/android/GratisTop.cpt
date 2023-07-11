@@ -68,3 +68,13 @@ This is a concept file with following syntax for each concept.
 * "3" saniye bekle
 * Element var mı kontrol et "mapTabCtrl"
 * Element var mı kontrol et "getDirectionsBtn"
+
+# Ana sayfa sepet ikonuna tiklanir.
+* Elementin yüklenmesini bekle "kampanyaSec"
+* Elementine tıkla "sepetBtn"
+
+# Sepet ikonu ile login olunur.
+* "AndroidMail" csv dosyasindan rastgele kullanici sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* Element var mı kontrol et "cartToolbar"

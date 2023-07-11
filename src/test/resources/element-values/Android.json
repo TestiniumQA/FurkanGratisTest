@@ -1193,5 +1193,10 @@
     "key": "contactCallNumber",
     "androidValue": "//android.widget.TextView[@text='0 850 210 69 00']",
     "androidType": "xpath"
+  },
+  {
+    "key": "cartToolbar",
+    "androidValue": "//android.widget.TextView[@text='Sepet']",
+    "androidType": "xpath"
   }
 ]

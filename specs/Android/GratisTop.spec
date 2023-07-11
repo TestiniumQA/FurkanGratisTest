@@ -37,3 +37,10 @@ tags:Gratis_Android_HaritaTab
 * Magazalar alanina gidilir.
 * Listeden bir magaza secilir.
 * Harita tabina basilir.
+
+Login with Cart Icon
+--------------------
+tags:Gratis_Android_SepetIkonuileLogin
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile login olunur.
