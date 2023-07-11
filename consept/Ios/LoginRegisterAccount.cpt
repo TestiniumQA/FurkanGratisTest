@@ -433,6 +433,7 @@
 * "FavListSpinnerText" elementinin "Yeni Liste Adı" textini içerdiği kontrol edilir
 
 # Favori listesi silinir
+* "1" saniye bekle
 * Elementin yüklenmesini bekle "FavListDeleteButton"
 * Elementine tıkla "FavListDeleteButton"
 * Elementin yüklenmesini bekle "FavListDeletePopupButton"
@@ -468,6 +469,7 @@
 * "sepetPopUpKapatBtn" li element varsa tıkla
 * Element var mı kontrol et "FavoriteAddToCartControl"
 * Elementin yüklenmesini bekle "sepetimSilBtn"
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * Elementin yüklenmesini bekle "1"
 * Elementin yüklenmesini bekle "PageCloseIcon"
