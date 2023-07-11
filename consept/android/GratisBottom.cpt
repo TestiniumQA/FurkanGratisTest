@@ -204,3 +204,38 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 * Geri butonuna bas
 * Elementin yüklenmesini bekle "digerTab"
+
+# Iletisim sayfasina gecilir.
+* "contact"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "contact"
+* Elementine tıkla "contact"
+* Elementin yüklenmesini bekle "contactFirstName"
+* "1" kere aşağıya kaydır
+
+# Iletisim numarasına tiklanir.
+* "contactCallNumber"li elementi bulana kadar "4" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "contactCallNumber"
+* Elementine tıkla "contactCallNumber"
+* Geri butonuna bas
+* Geri butonuna bas
+* Geri butonuna bas
+* Element var mı kontrol et "contactCallNumber"
+* Geri butonuna bas
+* Elementin yüklenmesini bekle "digerTab"
+
+# Iletisim sayfasi bilgileri girilir.
+* "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
+* Rastgele secilen kullanici adi "contactFirstName" elementine, soyadi "contactLastName" elementine, mail "contactEmail" elementine yazilir
+* Rastgele secilen telefon "contactPhone" elementine yazilir
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "contactMessageType"
+* Elementine tıkla "contactMessageType"
+* Element var mı kontrol et "contactMessageType2"
+* Elementine tıkla "contactMessageType2"
+* "Örnek mesaj" textini "contactMessage" elemente yaz
+* "1" kere aşağıya kaydır
+* Elementine tıkla "contactKvkkCheck"
+* "contactSendBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "contactSendBtn"
+* Elementine tıkla "contactSendBtn"
+* Element var mı kontrol et "contactOkayBtn"

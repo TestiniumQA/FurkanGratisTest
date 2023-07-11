@@ -512,6 +512,10 @@ public class StepImpl extends HookImpl {
         findElementByKey(key).sendKeys(registerPhoneNumber);
         findElementByKey(key2).sendKeys(registerBirthDate);
     }
+    @Step({"Rastgele secilen telefon <key> elementine yazilir"})
+    public void phoneInfo(String key) {
+        findElementByKey(key).sendKeys(registerPhoneNumber);
+    }
 
     @Step({"Rastgele secilen şifre <key> elementine, şifre tekrar <key>  elementine yazilir"})
     public void registerPassword(String key,String key2) {

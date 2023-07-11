@@ -43,6 +43,8 @@ tags:Gratis_Android_DigerTab
 * Diger tabina tiklanir.
 * Diğer alaninda Gratis Beauty sayfasina gecilir.
 * Kariyer sayfasina gecilir.
+* Iletisim sayfasina gecilir.
+* Iletisim numarasına tiklanir.
 * Uyelik Sozlesmesi sayfasina gecilir.
 * Gizlilik ve Guvenlik sayfasina gecilir.
 * Kullanim kosullari sayfasina gecilir.
@@ -52,3 +54,11 @@ tags:Gratis_Android_DigerTab
 * Facebook sayfasina gecilir.
 * Instagram sayfasina gecilir.
 * Twitter sayfasina gecilir.
+
+Contact
+-------
+tags:Gratis_Android_Iletisim
+* Uygulama baslatilir.
+* Diger tabina tiklanir.
+* Iletisim sayfasina gecilir.
+* Iletisim sayfasi bilgileri girilir.

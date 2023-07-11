@@ -1133,5 +1133,65 @@
     "key": "twitterPage",
     "androidValue": "//android.widget.Image[@text='Twitter']",
     "androidType": "xpath"
+  },
+  {
+    "key": "contact",
+    "androidValue": "com.gratis.android:id/contact_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "contactFirstName",
+    "androidValue": "//*[@resource-id='firstname']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "contactLastName",
+    "androidValue": "//*[@resource-id='lastname']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "contactEmail",
+    "androidValue": "//*[@resource-id='email']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "contactPhone",
+    "androidValue": "//*[@resource-id='phoneNumber']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "contactMessageType",
+    "androidValue": "//*[@resource-id='message-type']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "contactMessageType2",
+    "androidValue": "//*[@text='Bilgi Alma']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "contactMessage",
+    "androidValue": "//*[@resource-id='message']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "contactKvkkCheck",
+    "androidValue": "//*[@resource-id='kvkk']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "contactSendBtn",
+    "androidValue": "//*[@resource-id='send-btn']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "contactOkayBtn",
+    "androidValue": "//*[@resource-id='approveVerification']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "contactCallNumber",
+    "androidValue": "//android.widget.TextView[@text='0 850 210 69 00']",
+    "androidType": "xpath"
   }
 ]
