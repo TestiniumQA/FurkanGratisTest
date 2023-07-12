@@ -469,6 +469,20 @@ public class StepImpl extends HookImpl {
         logger.info(key + " elemente tıkladı");
     }
 
+    @Step("Safari'de <key> kontrolu yapilir ve uygulamaya geri donulur")
+    public void IosCheckSafari(String key) {
+        doesElementExistByKey(key, 5);
+        findElementByKey(key);
+        waitBySecond(3);
+        findElementByKeyWithoutAssert(key);
+        logger.info("Safari sayfasi acildi " + key + " elementi bulundu.");
+        // Uygulamaya geri dönme işlemi (iOS için)
+        appiumDriver.runAppInBackground(Duration.ofSeconds(5));
+        appiumDriver.activateApp("com.pharos.Gratis");
+        logger.info("Gratis app uygulamasina geri donuldu.");
+        waitBySecond(3);
+    }
+
     @Step({"Check if element <key> exists",
             "Wait for element to load with key <key>",
             "Element var mı kontrol et <key>",
