@@ -1442,6 +1442,524 @@
     "iosType": "classChain"
   },
   {
+    "key": "CareerBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Kariyer']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "CareerPage",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeOther[@name=\"Gratis | Türkiye'nin Kişisel Bakım Marketi\"]/XCUIElementTypeLink[1]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "AgreementTxtBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Üyelik Sözleşmesi']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "AgreementPageToolbar",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Üyelik Sözleşmesi']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "PolicyBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Gizlilik ve Güvenlik']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "PolicyPageToolbar",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//XCUIElementTypeStaticText[@name='Gizlilik ve Güvenlik'])[2]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "PolicyPageText",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='çerez ( cookie) kullanır. Bir internet sitesine bağlanmakta olan cihazın sabit diskine ya da cihazın siteye erişmekte kullandığı tarayıcı programa kaydolan içeriğinde harf veya rakamlar bulunan ve cihazın tespitini sağlayan bilgisayar dosyasına çerez denir.']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "TermOfUseBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Kullanım Koşulları']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "TermOfUsePageToolbar",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Kullanım Koşulları']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "TermOfUsePageText",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeOther[@name='web dialog']/XCUIElementTypeOther[2]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "SsiBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Bilgi Toplumu Hizmetleri']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "SsiPageElement",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='GRATİS İÇ VE DIŞ TİCARET ANONİM ŞİRKETİ']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "KvkkBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Yasal Uyarı KVKK Aydınlatma Metni']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "KvkkPageToolbar",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Yasal Uyarı KVKK Aydınlatma Metni']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "AboutBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Hakkımızda']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "AboutPageToolbar",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Hakkımızda']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "AboutPageText",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='“Güzel Bak Kendine” \u200Cmottosu ile yola çıkan Gratis’in amacı; müşterilerine kolay ulaşılabilir, hızlı ve rahat alışveriş imkânı sunarken temel kişisel bakım ihtiyaçlarının yanı sıra heyecan veren yeni markalar ve ürünler ile müşterilerine kişiye özel keyifli bir alışveriş deneyimi sunmaktır.']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "Contact",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='İletişim']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "SepetBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeNavigationBar[@name='Gratis.HomeView']/XCUIElementTypeButton[2]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "CartToolbar",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Sepet']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "FacebookBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name='facebookIcon']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "InstagramBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name='instagramIcon']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "TwitterBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name='twitterIcon']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "FacebookPage",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//XCUIElementTypeOther[@name='Facebook, Meta Platforms, Inc., iki buçuk yıldız, YÜKLÜ'])[2]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "InstagramPage",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@value='\u200Einstagram.com, güvenli ve onaylanmış bağlantı']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "TwitterPage",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@value='\u200Etwitter.com, güvenli ve onaylanmış bağlantı']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "CustomerInformation",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Üye Bilgilerim']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "CustomerInformationPage",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Üye Bilgilerim']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "SavedBtnIos",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name='Kaydet']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "SuccessfulProfileInformationPopup",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Profil bilgileriniz başarıyla güncellendi.']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "PopupOkayBTNIos",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='TAMAM']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
     "key": "xxxx",
     "androidValue": "",
     "androidType": "",
