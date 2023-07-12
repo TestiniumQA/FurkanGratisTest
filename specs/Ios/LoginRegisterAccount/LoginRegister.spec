@@ -68,3 +68,13 @@ tags:Gratis_IOS_NegatifLoginVeSifremiUnuttum
 * E-posta alanina "javaautomationtest@gmail.com" girilir
 * Sifre alanına "sifresifre" girilir
 * Yanlıs sifre veya email/cep telefonu uyarısı gorulur
+
+IOS Scenario Updating Customer Information
+------------------------------------------
+tags:Gratis_IOS_UyeBilgileriGuncelleme
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Giris yapilir
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Uye bilgilerim sayfasina gecilir
+* Uye bilgileri basarili sekilde guncellenir

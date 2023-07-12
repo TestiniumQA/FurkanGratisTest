@@ -494,3 +494,22 @@
 * Element var mı kontrol et "EmptyFavButton"
 * Elementine tıkla "EmptyFavButton"
 * Elementin yüklenmesini bekle "KampanyaSec"
+
+# Uye bilgilerim sayfasina gecilir
+* Elementin yüklenmesini bekle "CustomerInformation"
+* "CustomerInformation" elementine sayacli tikla "CustomerInformationPage" value degerini bekle
+* "CustomerInformationPage" elementinin "Üye Bilgilerim" textini içerdiği kontrol edilir
+
+# Uye bilgileri basarili sekilde guncellenir
+* "1" saniye bekle
+* "1" kere aşağıya kaydır
+* Element var mı kontrol et "EmailCheckboxIos"
+* "EmailCheckboxIos" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Element var mı kontrol et "SmsCheckboxIos"
+* "SmsCheckboxIos" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* Element var mı kontrol et "SavedBtnIos"
+* Elementine tıkla "SavedBtnIos"
+* Elementin yüklenmesini bekle "SuccessfulProfileInformationPopup"
+* Elementine tıkla "PopupOkayBTNIos"
+* Element var mı kontrol et "ProfileRoot"
