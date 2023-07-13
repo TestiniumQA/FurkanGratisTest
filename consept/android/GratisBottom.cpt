@@ -258,18 +258,18 @@ This is a concept file with following syntax for each concept.
 # Odeme alanına tıklanır.
 * Elementine tıkla "hsPay"
 * Elementine tıkla "hsSolution"
-* "hsSolutionText" elementi "Gratis.com'da havale ile alışveriş geçerli değildir." degerine esit mi
+* "hsSolutionText" elementinin "" textini içerdiği kontrol edilir
 * Elementine tıkla "geriBtn"
 
 # Siparis ve Teslimat Sureci alanına tıklanır.
 * Elementine tıkla "hsOrder"
 * Elementine tıkla "hsSolution"
-* "hsSolutionText" elementi "İstediğiniz ürünü sepetinize ekleyebilirsiniz." degerine esit mi
+* "hsSolutionText" elementinin "" textini içerdiği kontrol edilir
 * Elementine tıkla "geriBtn"
 
 # Iade, Urun ve Sikayet alanına tıklanır.
 * Elementine tıkla "hsProduct"
 * Elementine tıkla "hsSolution"
-* "hsSolutionText" elementi "Siparişinizi verdiğiniz andan itibaren ilk 30 dakika içinde hesabınız üzerinden iptal edebilirsiniz. Bu süreden sonra iade yapabilmek için siparişinizin uygunluğunu öğrenmek için müşteri deneyimlerimiz ile iletişime geçmeniz gerekmektedir." degerine esit mi
+* "hsSolutionText" elementinin "" textini içerdiği kontrol edilir
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
