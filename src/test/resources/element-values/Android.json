@@ -1198,5 +1198,40 @@
     "key": "cartToolbar",
     "androidValue": "//android.widget.TextView[@text='Sepet']",
     "androidType": "xpath"
+  },
+  {
+    "key": "hsMembership",
+    "androidValue": "//android.widget.TextView[@text='Üyelik']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "hsPay",
+    "androidValue": "//android.widget.TextView[@text='Ödeme']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "hsOrder",
+    "androidValue": "//android.widget.TextView[@text='Sipariş ve Teslimat Süreci']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "hsProduct",
+    "androidValue": "//android.widget.TextView[@text='İade, Ürün ve Şikayet']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "hsSolution",
+    "androidValue": "//android.widget.LinearLayout[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "hsSolutionText",
+    "androidValue": "//android.widget.TextView[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "supportBtn",
+    "androidValue": "com.gratis.android:id/support_txt",
+    "androidType": "id"
   }
 ]

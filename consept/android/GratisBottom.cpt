@@ -239,3 +239,37 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "contactSendBtn"
 * Elementine tıkla "contactSendBtn"
 * Element var mı kontrol et "contactOkayBtn"
+
+# Yardım ve Destek sayfasına geçilir.
+* "supportBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "supportBtn"
+* Elementine tıkla "supportBtn"
+* Element var mı kontrol et "hsMembership"
+* Element var mı kontrol et "hsPay"
+* Element var mı kontrol et "hsOrder"
+* Element var mı kontrol et "hsProduct"
+
+# Uyelik alanına tıklanır.
+* Elementine tıkla "hsMembership"
+* Elementine tıkla "hsSolution"
+* "hsSolutionText" elementi "Gratis.com'a üye olmak ücretsizdir." degerine esit mi
+* Elementine tıkla "geriBtn"
+
+# Odeme alanına tıklanır.
+* Elementine tıkla "hsPay"
+* Elementine tıkla "hsSolution"
+* "hsSolutionText" elementi "Gratis.com'da havale ile alışveriş geçerli değildir." degerine esit mi
+* Elementine tıkla "geriBtn"
+
+# Siparis ve Teslimat Sureci alanına tıklanır.
+* Elementine tıkla "hsOrder"
+* Elementine tıkla "hsSolution"
+* "hsSolutionText" elementi "İstediğiniz ürünü sepetinize ekleyebilirsiniz." degerine esit mi
+* Elementine tıkla "geriBtn"
+
+# Iade, Urun ve Sikayet alanına tıklanır.
+* Elementine tıkla "hsProduct"
+* Elementine tıkla "hsSolution"
+* "hsSolutionText" elementi "Siparişinizi verdiğiniz andan itibaren ilk 30 dakika içinde hesabınız üzerinden iptal edebilirsiniz. Bu süreden sonra iade yapabilmek için siparişinizin uygunluğunu öğrenmek için müşteri deneyimlerimiz ile iletişime geçmeniz gerekmektedir." degerine esit mi
+* Elementine tıkla "geriBtn"
+* "1" saniye bekle

@@ -62,3 +62,14 @@ tags:Gratis_Android_Iletisim
 * Diger tabina tiklanir.
 * Iletisim sayfasina gecilir.
 * Iletisim sayfasi bilgileri girilir.
+
+Help and Support
+----------------
+tags:Gratis_Android_YardımVeDestekUyelik
+* Uygulama baslatilir.
+* Diger tabina tiklanir.
+* Yardım ve Destek sayfasına geçilir.
+* Uyelik alanına tıklanır.
+* Odeme alanına tıklanır.
+* Siparis ve Teslimat Sureci alanına tıklanır.
+* Iade, Urun ve Sikayet alanına tıklanır.
