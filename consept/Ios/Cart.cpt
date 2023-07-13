@@ -128,5 +128,9 @@
 * "1" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "ProductAddButton"
 * Elementine tıkla "ProductAddButton"
-* Element var mı kontrol et "GoToCartButton"
-* Elementine tıkla "GoToCartButton"
+//* Element var mı kontrol et "GoToCartButton"
+//* Elementine tıkla "GoToCartButton"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Element var mı kontrol et "geriBtn"
+* Elementine tıkla "geriBtn"
