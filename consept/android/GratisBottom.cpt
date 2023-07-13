@@ -252,7 +252,7 @@ This is a concept file with following syntax for each concept.
 # Uyelik alanına tıklanır.
 * Elementine tıkla "hsMembership"
 * Elementine tıkla "hsSolution"
-* "hsSolutionText" elementi "Gratis.com'a üye olmak ücretsizdir." degerine esit mi
+* "hsSolutionText" elementinin "" textini içerdiği kontrol edilir
 * Elementine tıkla "geriBtn"
 
 # Odeme alanına tıklanır.
