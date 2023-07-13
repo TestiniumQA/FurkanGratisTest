@@ -65,7 +65,7 @@ tags:Gratis_Android_Iletisim
 
 Help and Support
 ----------------
-tags:Gratis_Android_YardımVeDestekUyelik
+tags:Gratis_Android_YardimVeDestekUyelik
 * Uygulama baslatilir.
 * Diger tabina tiklanir.
 * Yardım ve Destek sayfasına geçilir.
