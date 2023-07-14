@@ -32,8 +32,8 @@
 * Elementine tıkla "GoToCartButton"
 
 # Urun adedi arttirilir
-* Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
-* Elementine tıkla "sepetPopUpKapatBtn"
+//* Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
+//* Elementine tıkla "sepetPopUpKapatBtn"
 * "sepetPopUpKapatBtn" li element varsa tıkla
 * Element var mı kontrol et "NumberPlusBtn"
 * Elementine tıkla "NumberPlusBtn"
