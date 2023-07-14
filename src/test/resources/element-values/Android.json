@@ -1121,7 +1121,7 @@
   },
   {
     "key": "instagramPage",
-    "androidValue": "//android.widget.Button[@text=\"gratistr's profile picture\"]",
+    "androidValue": "//android.widget.Button",
     "androidType": "xpath"
   },
   {
