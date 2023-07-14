@@ -4,7 +4,8 @@ This is a concept file with following syntax for each concept.
 # Gratis Kart indirimli urun sepete eklenir.
 * Elementin yüklenmesini bekle "kampanyaSec"
 * "1" kere aşağıya kaydır
-* Element var mı kontrol et "gratisCardPrice"
+* "gratisCardPrice"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "productAddButton"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementine tıkla "productAddButton"
 * Elementin yüklenmesini bekle "AddedToCartText"
 * Elementine tıkla "alisveriseDevamEt"
@@ -12,11 +13,12 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "productAddButton"
 * Elementin yüklenmesini bekle "AddedToCartText"
 * Elementine tıkla "goToCartButton"
+* "1" saniye bekle
 
 # Ana sayfadan bir urun sepete eklenir.
 * Elementin yüklenmesini bekle "kampanyaSec"
 * "1" kere aşağıya kaydır
-* Element var mı kontrol et "productAddButton"
+* "productAddButton"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementine tıkla "productAddButton"
 * Elementin yüklenmesini bekle "AddedToCartText"
 * Elementine tıkla "goToCartButton"
@@ -29,9 +31,8 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "cartAddButton"
 * Elementine tıkla "cartAddButton"
 
-# Sepet kasa arkasi popup'i kapatilir.
-* Elementin yüklenmesini bekle "sepetReklamKapat"
-* Elementine tıkla "sepetReklamKapat"
+# Sepet kasa arkasi popup'i varsa kapatilir.
+* "sepetReklamKapat" li element varsa tıkla
 
 # Kasa arkasında swipe yapilir ve urun sepete eklenir.
 * Elementin yüklenmesini bekle "cartHeaderText"
@@ -44,8 +45,6 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "cartHeaderText"
 
 # Urun adedi arttirilir.
-* Elementin yüklenmesini bekle "sepetReklamKapat"
-* Elementine tıkla "sepetReklamKapat"
 * Element var mı kontrol et "numberPlusBtn"
 * Elementine tıkla "numberPlusBtn"
 * Elementin yüklenmesini bekle "numberPlusBtn"
