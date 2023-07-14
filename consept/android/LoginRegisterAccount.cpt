@@ -35,7 +35,7 @@ This is a concept file with following syntax for each concept.
 
 # Kayıtlı Telefon ile register olunur ve uyarı mesajı gorulur.
 * "2" kere yukarı doğru kaydır
-* "javatestautomation@gmail.com" textini "registerMail" elemente yaz
+* "mehmtuldg@gmail.com" textini "registerMail" elemente yaz
 * "2" kere aşağıya kaydır
 * "registerButton" li elementi bul ve varsa tıkla
 * Element var mı kontrol et "registerPhoneErrorPopup"
@@ -280,8 +280,6 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "2"
 
 # Urunlerin eklendigi kontrol edilir.
-* Elementin yüklenmesini bekle "sepetReklamKapat"
-* Elementine tıkla "sepetReklamKapat"
 * Element var mı kontrol et "favoriteAddToCartControl"
 * Elementine tıkla "sepetTemizleBtn"
 * Elementine tıkla "popupOkayButton"

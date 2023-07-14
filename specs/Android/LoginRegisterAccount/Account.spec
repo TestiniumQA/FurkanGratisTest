@@ -75,9 +75,10 @@ tags:Gratis_Android_ListeOlusturmaSecmeVeSilme
 Add To Cart From Favorite List
 ------------------------------
 tags:Gratis_Android_FavoriListesindenSepeteEkleme
-* Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Login olunur.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile login olunur.
+* Sepet kontrol edilerek temizlenir.
+* Ana sayfa tab'ına tıklanır.
 * En Cok Satanlar alanindan bir urunun favori butonuna tıklanir.
 * Urun favorilere eklenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
@@ -85,6 +86,7 @@ tags:Gratis_Android_FavoriListesindenSepeteEkleme
 * Favorilerden urun detay sayfasına gecilir.
 * Favorilerdeki urun sepete eklenir ve alısverise devam edilir.
 * Favorilerdeki urun sepete eklenir ve sepete gidilir.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 * Urunlerin eklendigi kontrol edilir.
 * Favori listesi kontrol edilerek temizlenir.
 
