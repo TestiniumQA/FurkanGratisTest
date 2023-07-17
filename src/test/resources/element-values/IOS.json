@@ -1382,8 +1382,8 @@
     "key": "SearchBoxText",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeTextField[`value == \"Ürün, kategori veya marka ara..\"`]",
+    "iosType": "classChain"
   },
   {
     "key": "SearchNoResultFound",
