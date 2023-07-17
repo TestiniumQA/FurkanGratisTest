@@ -1,6 +1,6 @@
 # Gratis Beauty sayfasina gecilir
-* "5" saniye bekle
-* Element var mı kontrol et "GratisBeautyAnasayfaIcon"
+* "15" saniye bekle
+* Elementin yüklenmesini bekle "GratisBeautyAnasayfaIcon"
 * Elementine tıkla "GratisBeautyAnasayfaIcon"
 * Elementin yüklenmesini bekle "GratisBeautyPage"
 * "2" saniye bekle
