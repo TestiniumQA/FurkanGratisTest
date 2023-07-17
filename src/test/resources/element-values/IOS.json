@@ -1123,8 +1123,8 @@
     "key": "GratisBeautyAnasayfaIcon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@type='XCUIElementTypeImage'][@x='167'][@y='46'][@width='41'][@height='40']",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeNavigationBar[`name == \"Gratis.HomeView\"`]/XCUIElementTypeStaticText",
+    "iosType": "classChain"
   },
   {
     "key": "GratisBeautyPage",
