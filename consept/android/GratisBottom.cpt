@@ -287,6 +287,12 @@ This is a concept file with following syntax for each concept.
 
 # Katalog sayfaları swipe edilir.
 * "3" kere sağa kaydirilir
+* Elementine tıkla "catalogPage"
+* Elementine tıkla "catalogPage"
+* "1" saniye bekle
+* Elementine tıkla "catalogPage"
+* Elementine tıkla "catalogPage"
+* "1" saniye bekle
 * "2" kere sola kaydirilir
 
 # Katalog seceneklerine tiklanir.
@@ -298,7 +304,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "catalogPagesBtn"
 * Elementine tıkla "catalogPagesBtn"
 * Element var mı kontrol et "catalogPages"
-* "2" kere aşağıya kaydır
+* "4" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "catalogPages"
 * Elementine tıkla "catalogPages"
 
@@ -311,3 +317,10 @@ This is a concept file with following syntax for each concept.
 * "chromeTerms3" li element varsa tıkla
 * "1" saniye bekle
 * Geri butonuna bas
+
+# Favorilerim sayfasina gecilir.
+* Element var mı kontrol et "catalogFav"
+* Elementine tıkla "catalogFav"
+* Element var mı kontrol et "catalogFav"
+* Elementine tıkla "catalogOptions"
+* Elementine tıkla "catalogOptions"

@@ -1256,7 +1256,7 @@
   },
   {
     "key": "catalogPdf",
-    "androidValue": "//android.view.View[@text='PDF Indir']",
+    "androidValue": "//android.widget.TextView[@text='PDF Indir']",
     "androidType": "xpath"
   },
   {
@@ -1281,7 +1281,7 @@
   },
   {
     "key": "catalogFav",
-    "androidValue": "//android.view.View[@text='Favorilerim']",
+    "androidValue": "//android.widget.TextView[@text='Favorilerim']",
     "androidType": "xpath"
   },
   {

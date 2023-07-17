@@ -85,3 +85,4 @@ tags:Gratis_Android_GratisKatalog
 * Sayfaya Genel Bakis alanina gecilir.
 * Katalog seceneklerine tiklanir.
 * Katalog pdf indirmeye tiklanir.
+* Favorilerim sayfasina gecilir.
