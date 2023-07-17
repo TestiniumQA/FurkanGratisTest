@@ -11,13 +11,9 @@
 //* Elementine tıkla "SearchBoxText"
 * "SearchBoxText2" li elementi bul, temizle ve <text> değerini yaz
 * "2" saniye bekle
-* "SearchBoxText3" li elementi bul, temizle ve <text> değerini yaz
-* "2" saniye bekle
 * "SearchBoxText4" li elementi bul, temizle ve <text> değerini yaz
 * "2" saniye bekle
 * <text> textini "SearchBoxText2" elemente yaz
-* "2" saniye bekle
-* <text> textini "SearchBoxText3" elemente yaz
 * "2" saniye bekle
 * <text> textini "SearchBoxText4" elemente yaz
 * "2" saniye bekle
