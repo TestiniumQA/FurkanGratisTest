@@ -1382,7 +1382,7 @@
     "key": "SearchBoxText",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeTextField[`value == \"Ürün, kategori veya marka ara..\"`]",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther",
     "iosType": "classChain"
   },
   {
