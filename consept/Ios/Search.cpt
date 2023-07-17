@@ -10,7 +10,7 @@
 * Elementin yüklenmesini bekle "SearchBoxText2"
 * Elementine tıkla "SearchBoxText2"
 * "5" saniye bekle
-* <text> textini "SearchBoxText2" elemente yaz
+* <text> textini "SearchBoxText3" elemente yaz
 * "5" saniye bekle
 * iOS Enter tıkla
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
@@ -23,7 +23,7 @@
 * Elementin yüklenmesini bekle "SearchBoxText2"
 * Elementine tıkla "SearchBoxText2"
 * "5" saniye bekle
-* <text> textini "SearchBoxText2" elemente yaz
+* <text> textini "SearchBoxText3" elemente yaz
 * "5" saniye bekle
 * iOS Enter tıkla
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
