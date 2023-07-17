@@ -1233,5 +1233,50 @@
     "key": "supportBtn",
     "androidValue": "com.gratis.android:id/support_txt",
     "androidType": "id"
+  },
+  {
+    "key": "catalogBtn",
+    "androidValue": "com.gratis.android:id/journal_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "catalogOptions",
+    "androidValue": "//android.widget.Button",
+    "androidType": "xpath"
+  },
+  {
+    "key": "catalogPagesBtn",
+    "androidValue": "//android.view.View[@text='Sayfa genel bakış']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "catalogPages",
+    "androidValue": "//android.view.MenuItem",
+    "androidType": "xpath"
+  },
+  {
+    "key": "catalogPdf",
+    "androidValue": "//android.view.View[@text='PDF Indir']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "catalogPdfOkayBtn",
+    "androidValue": "com.android.permissioncontroller:id/permission_allow_button",
+    "androidType": "id"
+  },
+  {
+    "key": "chromeTerms",
+    "androidValue": "com.android.chrome:id/terms_accept",
+    "androidType": "id"
+  },
+  {
+    "key": "chromeTerms2",
+    "androidValue": "com.android.chrome:id/negative_button",
+    "androidType": "id"
+  },
+  {
+    "key": "chromeTerms3",
+    "androidValue": "com.android.chrome:id/positive_button",
+    "androidType": "id"
   }
 ]

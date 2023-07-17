@@ -277,3 +277,37 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "anasayfaTab"
 * Elementine tıkla "anasayfaTab"
 * Elementin yüklenmesini bekle "kampanyaSec"
+
+# Katalog sayfasina gecilir.
+* "catalogBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "catalogBtn"
+* Elementine tıkla "catalogBtn"
+* Elementin yüklenmesini bekle "catalogOptions"
+* "1" saniye bekle
+
+# Katalog sayfaları swipe edilir.
+* "3" kere sağa kaydirilir
+* "2" kere sola kaydirilir
+
+# Katalog seceneklerine tiklanir.
+* Elementin yüklenmesini bekle "catalogOptions"
+* "2" saniye bekle
+* Elementine tıkla "catalogOptions"
+
+# Sayfaya Genel Bakis alanina gecilir.
+* Elementin yüklenmesini bekle "catalogPagesBtn"
+* Elementine tıkla "catalogPagesBtn"
+* Element var mı kontrol et "catalogPages"
+* "2" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "catalogPages"
+* Elementine tıkla "catalogPages"
+
+# Katalog pdf indirmeye tiklanir.
+* Elementin yüklenmesini bekle "catalogPdf"
+* Elementine tıkla "catalogPdf"
+* Elementine tıkla "catalogPdfOkayBtn"
+* "chromeTerms" li element varsa tıkla
+* "chromeTerms2" li element varsa tıkla
+* "chromeTerms3" li element varsa tıkla
+* "1" saniye bekle
+* Geri butonuna bas

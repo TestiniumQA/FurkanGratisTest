@@ -73,3 +73,15 @@ tags:Gratis_Android_YardimVeDestekUyelik
 * Odeme alanına tıklanır.
 * Siparis ve Teslimat Sureci alanına tıklanır.
 * Iade, Urun ve Sikayet alanına tıklanır.
+
+Gratis Catalog
+--------------
+tags:Gratis_Android_GratisKatalog
+*Uygulama baslatilir.
+* Diger tabina tiklanir.
+* Katalog sayfasina gecilir.
+* Katalog sayfaları swipe edilir.
+* Katalog seceneklerine tiklanir.
+* Sayfaya Genel Bakis alanina gecilir.
+* Katalog seceneklerine tiklanir.
+* Katalog pdf indirmeye tiklanir.
