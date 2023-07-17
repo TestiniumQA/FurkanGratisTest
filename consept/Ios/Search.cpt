@@ -7,7 +7,9 @@
 * Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 
 # Urun adi <text> yazilir, arama yapilir
+* "5" saniye bekle
 * Elementin yüklenmesini bekle "SearchBoxText"
+* "5" saniye bekle
 * Elementine tıkla "SearchBoxText"
 * "5" saniye bekle
 * <text> textini "SearchBoxText" elemente yaz
@@ -20,7 +22,9 @@
 * "1" saniye bekle
 
 # Urun kodu <text> yazilir, arama yapilir
+* "5" saniye bekle
 * Elementin yüklenmesini bekle "SearchBoxText"
+* "5" saniye bekle
 * Elementine tıkla "SearchBoxText"
 * "5" saniye bekle
 * <text> textini "SearchBoxText" elemente yaz
@@ -50,8 +54,11 @@
 * "ProductDetailTitle" elementinin "Ürün Detay" textini içerdiği kontrol edilir
 
 # Kategori adi <text> yazilir, kategori secilir
+* "5" saniye bekle
 * Elementin yüklenmesini bekle "SearchBoxText"
+* "5" saniye bekle
 * Elementine tıkla "SearchBoxText"
+* "5" saniye bekle
 * <text> textini "SearchBoxText" elemente yaz
 * "5" saniye bekle
 //* Elementine tıkla "SearchBoxText"
@@ -72,8 +79,11 @@
 * "1" saniye bekle
 
 # Marka adi <text> yazilir, marka secilir
+* "5" saniye bekle
 * Elementin yüklenmesini bekle "SearchBoxText"
+* "5" saniye bekle
 * Elementine tıkla "SearchBoxText"
+* "5" saniye bekle
 * <text> textini "SearchBoxText" elemente yaz
 * "5" saniye bekle
 //* Elementine tıkla "SearchBoxText"
