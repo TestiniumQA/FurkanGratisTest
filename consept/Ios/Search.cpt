@@ -9,6 +9,7 @@
 # Urun adi <text> yazilir, arama yapilir
 * Elementin yüklenmesini bekle "SearchBoxText"
 * <text> textini "SearchBoxText" elemente yaz
+* "2" saniye bekle
 //* Elementine tıkla "SearchBoxText"
 * Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 * Elementin yüklenmesini bekle "KeyboardSearchIcon"
@@ -18,6 +19,7 @@
 # Urun kodu <text> yazilir, arama yapilir
 * Elementin yüklenmesini bekle "SearchBoxText"
 * <text> textini "SearchBoxText" elemente yaz
+* "2" saniye bekle
 //* Elementine tıkla "SearchBoxText"
 * Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 * Elementin yüklenmesini bekle "KeyboardSearchIcon"
@@ -45,6 +47,7 @@
 # Kategori adi <text> yazilir, kategori secilir
 * Elementin yüklenmesini bekle "SearchBoxText"
 * <text> textini "SearchBoxText" elemente yaz
+* "2" saniye bekle
 //* Elementine tıkla "SearchBoxText"
 * Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 * Elementin yüklenmesini bekle "KeyboardSearchIcon"
@@ -63,6 +66,7 @@
 # Marka adi <text> yazilir, marka secilir
 * Elementin yüklenmesini bekle "SearchBoxText"
 * <text> textini "SearchBoxText" elemente yaz
+* "2" saniye bekle
 //* Elementine tıkla "SearchBoxText"
 * Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 * Elementin yüklenmesini bekle "KeyboardSearchIcon"
