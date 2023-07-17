@@ -13,8 +13,9 @@
 * <text> textini "SearchBoxText" elemente yaz
 //* "SearchBoxText2" li elementi bul, temizle ve <text> değerini yaz
 //* <text> textini "SearchBoxText" elemente yaz
-* "5" saniye bekle
-//* Elementine tıkla "SearchBoxText"
+* "10" saniye bekle
+* Enter tıkla
+* Elementine tıkla "SearchBoxText"
 * Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 * Elementin yüklenmesini bekle "KeyboardSearchIcon"
 * Elementine tıkla "KeyboardSearchIcon"
