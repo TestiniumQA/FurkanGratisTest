@@ -1214,7 +1214,7 @@
     "key": "KeyboardSearchIcon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='Ara']",
+    "iosValue": "//*[@label='Ara']",
     "iosType": "xpath"
   },
   {
