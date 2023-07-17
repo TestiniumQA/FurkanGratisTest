@@ -1214,7 +1214,7 @@
     "key": "KeyboardSearchIcon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='Search']",
+    "iosValue": "//XCUIElementTypeButton[@name='Search']",
     "iosType": "xpath"
   },
   {

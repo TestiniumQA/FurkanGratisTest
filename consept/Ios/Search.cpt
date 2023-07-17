@@ -10,6 +10,7 @@
 * Elementin yüklenmesini bekle "SearchBoxText"
 * <text> textini "SearchBoxText" elemente yaz
 //* Elementine tıkla "SearchBoxText"
+* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 * Elementin yüklenmesini bekle "KeyboardSearchIcon"
 * Elementine tıkla "KeyboardSearchIcon"
 * "1" saniye bekle
@@ -18,6 +19,7 @@
 * Elementin yüklenmesini bekle "SearchBoxText"
 * <text> textini "SearchBoxText" elemente yaz
 //* Elementine tıkla "SearchBoxText"
+* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 * Elementin yüklenmesini bekle "KeyboardSearchIcon"
 * Elementine tıkla "KeyboardSearchIcon"
 * "1" saniye bekle
@@ -44,6 +46,7 @@
 * Elementin yüklenmesini bekle "SearchBoxText"
 * <text> textini "SearchBoxText" elemente yaz
 //* Elementine tıkla "SearchBoxText"
+* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 * Elementin yüklenmesini bekle "KeyboardSearchIcon"
 * Elementin yüklenmesini bekle "SearchCategoryName"
 * Elementine tıkla "SearchCategoryName"
@@ -61,6 +64,7 @@
 * Elementin yüklenmesini bekle "SearchBoxText"
 * <text> textini "SearchBoxText" elemente yaz
 //* Elementine tıkla "SearchBoxText"
+* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 * Elementin yüklenmesini bekle "KeyboardSearchIcon"
 * Elementin yüklenmesini bekle "SearchTrademarkName"
 * Elementine tıkla "SearchTrademarkName"
