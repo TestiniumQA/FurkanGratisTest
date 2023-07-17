@@ -54,12 +54,14 @@
 * Elementin yüklenmesini bekle "SearchBoxText"
 * Elementine tıkla "SearchBoxText"
 * <text> textini "SearchBoxText" elemente yaz
-* "15" saniye bekle
+* "5" saniye bekle
 //* Elementine tıkla "SearchBoxText"
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 //* Elementin yüklenmesini bekle "KeyboardSearchIcon"
-* Elementin yüklenmesini bekle "SearchCategoryName"
-* Elementine tıkla "SearchCategoryName"
+* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
+* Elementine tıkla "searchBoxOnerilenArama"
+//* Elementin yüklenmesini bekle "SearchCategoryName"
+//* Elementine tıkla "SearchCategoryName"
 * "1" saniye bekle
 
 # Kategori ile ilgili urunlerin listelendigi gorulur
@@ -74,12 +76,14 @@
 * Elementin yüklenmesini bekle "SearchBoxText"
 * Elementine tıkla "SearchBoxText"
 * <text> textini "SearchBoxText" elemente yaz
-* "15" saniye bekle
+* "5" saniye bekle
 //* Elementine tıkla "SearchBoxText"
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 //* Elementin yüklenmesini bekle "KeyboardSearchIcon"
-* Elementin yüklenmesini bekle "SearchTrademarkName"
-* Elementine tıkla "SearchTrademarkName"
+* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
+* Elementine tıkla "searchBoxOnerilenArama"
+//* Elementin yüklenmesini bekle "SearchTrademarkName"
+//* Elementine tıkla "SearchTrademarkName"
 * "1" saniye bekle
 
 # Marka ile ilgili urunlerin listelendigi gorulur
