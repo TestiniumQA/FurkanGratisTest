@@ -1,0 +1,94 @@
+# Gratis Beauty sayfasina gecilir
+* "5" saniye bekle
+* Element var mı kontrol et "GratisBeautyAnasayfaIcon"
+* Elementine tıkla "GratisBeautyAnasayfaIcon"
+* Elementin yüklenmesini bekle "GratisBeautyPage"
+* "2" saniye bekle
+
+# Geri butonu ile ana sayfaya donulur
+* Element var mı kontrol et "geriBtn"
+* Elementine tıkla "geriBtn"
+* "3" saniye bekle
+* Elementin yüklenmesini bekle "anasayfa"
+
+# Magazalar alanina gidilir
+* Elementin yüklenmesini bekle "StoreBtn"
+* Elementine tıkla "StoreBtn"
+//* "LocationPermissionBtn" li element varsa tıkla yoksa devam et
+//* "LocationPermissionBtn" li element varsa tıkla
+* Elementin yüklenmesini bekle "StoreList"
+
+# Magazalarda rastgele bir il aratilir
+* "Cities" csv dosyasindan rastgele il ve ilce sec
+* Rastgele secilen il adi "UrunSearchTxt" elementine yazilir
+* "1" saniye bekle
+* Elementine tıkla "UrunSearchTxt"
+* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
+* Elementin yüklenmesini bekle "KeyboardSearchButtonNew"
+* Elementine tıkla "KeyboardSearchButtonNew"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "StoreChosenList"
+* Element var mı kontrol et "StoreChosenList"
+
+# Magazalarda rastgele bir ilce aratilir
+* "Cities" csv dosyasindan rastgele il ve ilce sec
+* Rastgele secilen ilce adi "UrunSearchTxt" elementine yazilir
+* "1" saniye bekle
+* Elementine tıkla "UrunSearchTxt"
+* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
+* Elementin yüklenmesini bekle "KeyboardSearchButtonNew"
+* Elementine tıkla "KeyboardSearchButtonNew"
+* "2" saniye bekle
+* Element var mı kontrol et "UrunSearchTxt"
+
+# Magazalarda magaza ismi aratilir
+* "İZM HİLLTOWN AVM" textini "UrunSearchTxt" elemente yaz
+* "1" saniye bekle
+* Elementine tıkla "UrunSearchTxt"
+* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
+* Elementin yüklenmesini bekle "KeyboardSearchButtonNew"
+* Elementine tıkla "KeyboardSearchButtonNew"
+* "2" saniye bekle
+* "StoreName" elementinin "İZM HİLLTOWN AVM" textini içerdiği kontrol edilir
+
+# Listeden bir magaza secilir
+* "2" kere aşağıya kaydır
+* "1" kere yukarı doğru kaydır
+* Elementin yüklenmesini bekle "ElementListOne"
+* Elementine tıkla "ElementListOne"
+* Elementin yüklenmesini bekle "ElementListTwo"
+* Elementine tıkla "ElementListTwo"
+* Element var mı kontrol et "StoreChosenList"
+
+# Calisma saatleri kontrol edilir
+* Element var mı kontrol et "StoreHours"
+* Elementine tıkla "StoreHours"
+* Elementin yüklenmesini bekle "StoreHoursPopupIos"
+* Elementine tıkla "PopupOkayBtnIos"
+
+# Magazanin konumu gorulur
+* Element var mı kontrol et "StoreLocationBtn"
+* Elementine tıkla "StoreLocationBtn"
+* Elementin yüklenmesini bekle "GetDirectionsBtn"
+* Elementine tıkla "GetDirectionsBtn"
+* Elementin yüklenmesini bekle "SelectAppMapsPopup"
+* Elementine tıkla "SelectAppMapsPopup"
+* "GetDirectionsBtn" değerini sayfa üzerinde olmadıgını kontrol et
+
+# Harita tabina basilir
+* Elementin yüklenmesini bekle "MapBtn"
+* Elementine tıkla "MapBtn"
+* Elementin yüklenmesini bekle "MapTabCtrl"
+//* "GetDirectionsBtn" değerini sayfa üzerinde olmadıgını kontrol et
+
+# Ana sayfa sepet ikonuna tiklanir
+* Elementin yüklenmesini bekle "KampanyaSec"
+* Element var mı kontrol et "SepetBtn"
+* Elementine tıkla "SepetBtn"
+
+# Sepet ikonu ile login olunur
+* "IOSmail" csv dosyasindan rastgele kullanici sec
+*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* "girisYapBtn" elementine sayacli tikla "sepetPopUpKapatBtn" value degerini bekle
+* "sepetPopUpKapatBtn" li element varsa tıkla
+* Element var mı kontrol et "CartToolbar"
