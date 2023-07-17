@@ -1221,7 +1221,7 @@
     "key": "StoreName",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeStaticText[@name='İZM HİLLTOWN AVM Yalı Mahallesi 6522 Sokak No:3 Hilltown Karşıyaka AVM FF.L63/KARŞIYAKA , İZMİR']",
+    "iosValue": "//XCUIElementTypeStaticText[@name='İZM HİLLTOWN AVM']",
     "iosType": "xpath"
   },
   {

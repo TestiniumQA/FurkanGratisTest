@@ -49,7 +49,7 @@
 * Elementin yüklenmesini bekle "KeyboardSearchButtonNew"
 * Elementine tıkla "KeyboardSearchButtonNew"
 * "2" saniye bekle
-* "StoreName" elementinin "İZM HİLLTOWN AVM" textini içerdiği kontrol edilir
+* Element var mı kontrol et "StoreName"
 
 # Listeden bir magaza secilir
 * "2" kere aşağıya kaydır
