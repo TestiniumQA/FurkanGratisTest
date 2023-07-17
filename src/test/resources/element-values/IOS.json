@@ -1659,102 +1659,102 @@
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "ContactCallNumber",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='0 850 210 69 00']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "SupportBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Yardım ve Destek']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "HsMembership",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Üyelik']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "HsPay",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Ödeme']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "HsOrder",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Sipariş ve Teslimat Süreci']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "HsProduct",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='İade, Ürün ve Şikayet']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "HsMembershipSolution",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == \"Üyelik ücretli mi?\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "HsMembershipSolutionText",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == \"Gratis.com'a üye olmak ücretsizdir.\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "HsPaySolution",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Havale yoluyla ödeme yapabiliyor muyum?']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "HsPaySolutionText",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == \"Gratis.com'da havale ile alışveriş geçerli değildir.\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "HsOrderSolution",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Siparişi Oluşturmadan Önce Sepetime Farklı Markalardan Ürün/Ürünler Ekleyebiliyor muyum?']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "HsOrderSolutionText",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == \"İstediğiniz ürünü sepetinize ekleyebilirsiniz.\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "HsProductSolution",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Siparişim hazırlanma aşamasına geçmeden iptal edebilmem için ne kadar sürem var?']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "HsProductSolutionText",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeStaticText[`label == \"Siparişinizi verdiğiniz andan itibaren ilk 30 dakika içinde hesabınız üzerinden iptal edebilirsiniz. Bu süreden sonra iade yapabilmek için siparişinizin uygunluğunu öğrenmek için müşteri deneyimlerimiz ile iletişime geçmeniz gerekmektedir.\"`]",
+    "iosType": "classChain"
   },
   {
     "key": "xxxx",
