@@ -9,23 +9,21 @@
 # Urun adi <text> yazilir, arama yapilir
 * Elementin yüklenmesini bekle "SearchBoxText"
 * Elementine tıkla "SearchBoxText"
-* "2" saniye bekle
-* <text> textini "SearchBoxText" elemente yaz
-//* "SearchBoxText2" li elementi bul, temizle ve <text> değerini yaz
-//* <text> textini "SearchBoxText" elemente yaz
 * "5" saniye bekle
-//* iOS Enter tıkla
+* <text> textini "SearchBoxText" elemente yaz
+* "5" saniye bekle
+* iOS Enter tıkla
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 //* Elementin yüklenmesini bekle "KeyboardSearchIcon"
-* "KeyboardSearchButtonNew" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+//* "KeyboardSearchButtonNew" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 //* Elementine tıkla "KeyboardSearchButtonNew"
 * "1" saniye bekle
 
 # Urun kodu <text> yazilir, arama yapilir
 * Elementin yüklenmesini bekle "SearchBoxText"
 * Elementine tıkla "SearchBoxText"
+* "5" saniye bekle
 * <text> textini "SearchBoxText" elemente yaz
-//* Elementine tıkla "SearchBoxText"
 * "5" saniye bekle
 * iOS Enter tıkla
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
