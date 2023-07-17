@@ -1382,8 +1382,8 @@
     "key": "SearchBoxText",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "XCUIElementTypeTextField",
-    "iosType": "class"
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther/XCUIElementTypeTextField",
+    "iosType": "xpath"
   },
   {
     "key": "SearchNoResultFound",
