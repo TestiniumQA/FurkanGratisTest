@@ -13,7 +13,7 @@
 * <text> textini "SearchBoxText" elemente yaz
 //* "SearchBoxText2" li elementi bul, temizle ve <text> değerini yaz
 //* <text> textini "SearchBoxText" elemente yaz
-* "10" saniye bekle
+* "15" saniye bekle
 //* iOS Enter tıkla
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 //* Elementin yüklenmesini bekle "KeyboardSearchIcon"
