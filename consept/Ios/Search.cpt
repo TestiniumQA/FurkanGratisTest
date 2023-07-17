@@ -1,0 +1,91 @@
+# Search ikonuna tiklanir
+* Elementin yüklenmesini bekle "SearchBox"
+* Elementine tıkla "SearchBox"
+
+# Arama sayfasinin acildigi gorulur
+* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
+* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
+
+# Urun adi <text> yazilir, arama yapilir
+* Elementin yüklenmesini bekle "SearchBoxText"
+* <text> textini "SearchBoxText" elemente yaz
+//* Elementine tıkla "SearchBoxText"
+* Elementin yüklenmesini bekle "KeyboardSearchIcon"
+* Elementine tıkla "KeyboardSearchIcon"
+* "1" saniye bekle
+
+# Urun kodu <text> yazilir, arama yapilir
+* Elementin yüklenmesini bekle "SearchBoxText"
+* <text> textini "SearchBoxText" elemente yaz
+//* Elementine tıkla "SearchBoxText"
+* Elementin yüklenmesini bekle "KeyboardSearchIcon"
+* Elementine tıkla "KeyboardSearchIcon"
+* "1" saniye bekle
+
+# Aradiginiz sonuc bulunamadi sayfasinin acildigi gorulur
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "SearchNoResultFound"
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+
+# Aratilan urun adina ait urunlerin listelendigi gorulur
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "SearchToolbarTitle"
+* "SearchToolbarTitle" elementinin "Pastel Oje 106" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+
+# Urun detay sayfasinin acildigi gorulur
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "ProductDetailTitle"
+* "ProductDetailTitle" elementinin "Ürün Detay" textini içerdiği kontrol edilir
+
+# Kategori adi <text> yazilir, kategori secilir
+* Elementin yüklenmesini bekle "SearchBoxText"
+* <text> textini "SearchBoxText" elemente yaz
+//* Elementine tıkla "SearchBoxText"
+* Elementin yüklenmesini bekle "KeyboardSearchIcon"
+* Elementin yüklenmesini bekle "SearchCategoryName"
+* Elementine tıkla "SearchCategoryName"
+* "1" saniye bekle
+
+# Kategori ile ilgili urunlerin listelendigi gorulur
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "SearchCategoryToolbarTitle"
+* "SearchCategoryToolbarTitle" elementinin "Erkek Parfüm" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "1" saniye bekle
+
+# Marka adi <text> yazilir, marka secilir
+* Elementin yüklenmesini bekle "SearchBoxText"
+* <text> textini "SearchBoxText" elemente yaz
+//* Elementine tıkla "SearchBoxText"
+* Elementin yüklenmesini bekle "KeyboardSearchIcon"
+* Elementin yüklenmesini bekle "SearchTrademarkName"
+* Elementine tıkla "SearchTrademarkName"
+* "1" saniye bekle
+
+# Marka ile ilgili urunlerin listelendigi gorulur
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "SearchTrademarkToolbarTitle"
+* "SearchTrademarkToolbarTitle" elementinin "Arko Men" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "1" saniye bekle
+
+# Populer kategoriler altindan kategori uzerine tiklanir
+* Elementin yüklenmesini bekle "SearchPopularSubCategories"
+* Elementine tıkla "SearchPopularSubCategories"
+
+# Populer markalar altindan marka uzerine tiklanir
+* Elementin yüklenmesini bekle "SearchPopularSubTrademarks"
+* Elementine tıkla "SearchPopularSubTrademarks"
+
+# Aramaya gore urunlerin listelendigi gorulur
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PageToolbarTitle"
+* Elementin yüklenmesini bekle "ProductAddButton"
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "1" saniye bekle
