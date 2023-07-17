@@ -8,18 +8,16 @@
 
 # Urun adi <text> yazilir, arama yapilir
 * Elementin yüklenmesini bekle "SearchBoxText"
-* Elementine tıkla "SearchBoxText2"
-* "SearchBoxText2" li elementi bul, temizle ve <text> değerini yaz
+* Elementine tıkla "SearchBoxText"
 * "2" saniye bekle
-* <text> textini "SearchBoxText2" elemente yaz
-* "2" saniye bekle
+* <text> textini "SearchBoxText" elemente yaz
+//* "SearchBoxText2" li elementi bul, temizle ve <text> değerini yaz
 //* <text> textini "SearchBoxText" elemente yaz
 * "5" saniye bekle
 //* Elementine tıkla "SearchBoxText"
-//* Enter tıkla
-//* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-//* Elementin yüklenmesini bekle "KeyboardSearchIcon"
-//* Elementine tıkla "KeyboardSearchIcon"
+* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
+* Elementin yüklenmesini bekle "KeyboardSearchIcon"
+* Elementine tıkla "KeyboardSearchIcon"
 * "1" saniye bekle
 
 # Urun kodu <text> yazilir, arama yapilir
