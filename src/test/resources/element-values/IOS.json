@@ -1221,7 +1221,7 @@
     "key": "StoreName",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='İZM HİLLTOWN AVM']",
+    "iosValue": "//XCUIElementTypeStaticText[@name='İZM HİLLTOWN AVM']",
     "iosType": "xpath"
   },
   {
