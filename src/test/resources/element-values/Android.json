@@ -1246,7 +1246,7 @@
   },
   {
     "key": "catalogPagesBtn",
-    "androidValue": "//android.view.View[@text='Sayfa genel bakıs']",
+    "androidValue": "//android.widget.TextView[@text='Sayfa genel bakış']",
     "androidType": "xpath"
   },
   {
