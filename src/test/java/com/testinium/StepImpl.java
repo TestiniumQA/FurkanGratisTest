@@ -1969,6 +1969,36 @@ public class StepImpl extends HookImpl {
 
     }
 
+    @Step({"<times> kere sola kaydirilir"})
+    public void swipeLeft(int time) {
+
+
+
+        for (int i = 0; i < time; i++) {
+
+            Dimension d = appiumDriver.manage().window().getSize();
+            int height = d.height;
+            int width = d.width;
+
+            int swipeStartWidth = (width * 15) / 100;
+            int swipeEndWidth = (width * 90) / 100;
+
+            int swipeStartHeight = height / 2;
+            int swipeEndHeight = height / 2;
+
+            //appiumDriver.swipe(swipeStartWidth, swipeStartHeight, swipeEndWidth, swipeEndHeight, 1000);
+
+            new TouchAction(appiumDriver)
+                    .press(PointOption.point(swipeStartWidth, swipeStartHeight))
+                    .waitAction(WaitOptions.waitOptions(ofMillis(1000)))
+                    .moveTo(PointOption.point(swipeEndWidth, swipeEndHeight))
+                    .release()
+                    .perform();
+        }
+
+
+    }
+
     @Step({"Fiyatların yazdığı <key1> li elementin degerinin fiyata gore azalan oldugu kontrol edilir"})
     public void compareTwoIntValue(String key1) throws InterruptedException {
 
