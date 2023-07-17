@@ -7,10 +7,10 @@
 * Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 
 # Urun adi <text> yazilir, arama yapilir
-* Elementin yüklenmesini bekle "SearchBoxText"
-* Elementine tıkla "SearchBoxText"
+* Elementin yüklenmesini bekle "SearchBoxText2"
+* Elementine tıkla "SearchBoxText2"
 * "5" saniye bekle
-* <text> textini "SearchBoxText" elemente yaz
+* <text> textini "SearchBoxText2" elemente yaz
 * "5" saniye bekle
 * iOS Enter tıkla
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
@@ -20,10 +20,10 @@
 * "1" saniye bekle
 
 # Urun kodu <text> yazilir, arama yapilir
-* Elementin yüklenmesini bekle "SearchBoxText"
-* Elementine tıkla "SearchBoxText"
+* Elementin yüklenmesini bekle "SearchBoxText2"
+* Elementine tıkla "SearchBoxText2"
 * "5" saniye bekle
-* <text> textini "SearchBoxText" elemente yaz
+* <text> textini "SearchBoxText2" elemente yaz
 * "5" saniye bekle
 * iOS Enter tıkla
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
