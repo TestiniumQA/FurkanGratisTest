@@ -77,7 +77,7 @@ tags:Gratis_Android_YardimVeDestekUyelik
 Gratis Catalog
 --------------
 tags:Gratis_Android_GratisKatalog
-*Uygulama baslatilir.
+* Uygulama baslatilir.
 * Diger tabina tiklanir.
 * Katalog sayfasina gecilir.
 * Katalog sayfaları swipe edilir.
