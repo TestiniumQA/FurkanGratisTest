@@ -1785,11 +1785,11 @@
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "KeyboardSearchButtonNew",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeKeyboard[1]/**/XCUIElementTypeButton[-1]",
+    "iosType": "classChain"
   },
   {
     "key": "xxxx",

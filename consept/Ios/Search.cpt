@@ -13,11 +13,11 @@
 * <text> textini "SearchBoxText" elemente yaz
 //* "SearchBoxText2" li elementi bul, temizle ve <text> değerini yaz
 //* <text> textini "SearchBoxText" elemente yaz
-* "15" saniye bekle
+* "20" saniye bekle
 //* iOS Enter tıkla
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 //* Elementin yüklenmesini bekle "KeyboardSearchIcon"
-* Elementine tıkla "KeyboardSearchIcon"
+* Elementine tıkla "KeyboardSearchButtonNew"
 * "1" saniye bekle
 
 # Urun kodu <text> yazilir, arama yapilir
