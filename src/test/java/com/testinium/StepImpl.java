@@ -1310,7 +1310,7 @@ public class StepImpl extends HookImpl {
         }
     }
 
-    @Step("<key> li elementin  merkezine  press ile çift tıkla ")
+    @Step("<key> li elementin  merkezine press ile çift tıkla ")
     public void pressElementWithKey(String key) {
 
         Point point = findElementByKey(key).getCenter();
