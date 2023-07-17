@@ -1386,6 +1386,34 @@
     "iosType": "classChain"
   },
   {
+    "key": "SearchBoxText1",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeTextField[`value == \"Ürün, kategori veya marka ara..\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "SearchBoxText2",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther",
+    "iosType": "xpath"
+  },
+  {
+    "key": "SearchBoxText3",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther/XCUIElementTypeTextField",
+    "iosType": "xpath"
+  },
+  {
+    "key": "SearchBoxText4",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "XCUIElementTypeTextField",
+    "iosType": "class"
+  },
+  {
     "key": "SearchNoResultFound",
     "androidValue": "",
     "androidType": "",

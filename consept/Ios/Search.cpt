@@ -9,10 +9,30 @@
 # Urun adi <text> yazilir, arama yapilir
 * Elementin yüklenmesini bekle "SearchBoxText"
 * Elementine tıkla "SearchBoxText"
+* "SearchBoxText" li elementi bul, temizle ve <text> değerini yaz
+* "2" saniye bekle
+* "SearchBoxText1" li elementi bul, temizle ve <text> değerini yaz
+* "2" saniye bekle
+* "SearchBoxText2" li elementi bul, temizle ve <text> değerini yaz
+* "2" saniye bekle
+* "SearchBoxText3" li elementi bul, temizle ve <text> değerini yaz
+* "2" saniye bekle
+* "SearchBoxText4" li elementi bul, temizle ve <text> değerini yaz
+* "2" saniye bekle
 * <text> textini "SearchBoxText" elemente yaz
+* "2" saniye bekle
+* <text> textini "SearchBoxTex1" elemente yaz
+* "2" saniye bekle
+* <text> textini "SearchBoxTex2" elemente yaz
+* "2" saniye bekle
+* <text> textini "SearchBoxTex3" elemente yaz
+* "2" saniye bekle
+* <text> textini "SearchBoxTex4" elemente yaz
+* "2" saniye bekle
+//* <text> textini "SearchBoxText" elemente yaz
 * "5" saniye bekle
 //* Elementine tıkla "SearchBoxText"
-* Enter tıkla
+//* Enter tıkla
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 //* Elementin yüklenmesini bekle "KeyboardSearchIcon"
 //* Elementine tıkla "KeyboardSearchIcon"
