@@ -41,6 +41,9 @@ import java.util.concurrent.TimeUnit;
 import static java.time.Duration.ofMillis;
 import static org.junit.jupiter.api.Assertions.*;
 
+import io.appium.java_client.MobileBy;
+import org.openqa.selenium.Keys;
+
 public class StepImpl extends HookImpl {
 
     private Logger logger = LoggerFactory.getLogger(getClass());
@@ -1475,10 +1478,13 @@ public class StepImpl extends HookImpl {
         logger.info("'%s' objesi üzerinde ENTER tuşuna basıldı.");
     }
 
-
-
-
-
+    @Step("iOS Enter tıkla")
+    public void keyboardClickEnteriOS() {
+        waitBySecond(2);
+        appiumDriver.findElement(MobileBy.iOSNsPredicateString("type == 'XCUIElementTypeTextField'")).sendKeys(Keys.ENTER);
+        // Devam eden işlemleri burada gerçekleştirin
+        logger.info("'%s' objesi üzerinde ENTER tuşuna basıldı.");
+    }
 
 
     @Step("<x> elementinde <y> yilina git")
