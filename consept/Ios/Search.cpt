@@ -54,7 +54,7 @@
 * Elementin yüklenmesini bekle "SearchBoxText"
 * Elementine tıkla "SearchBoxText"
 * <text> textini "SearchBoxText" elemente yaz
-* "5" saniye bekle
+* "15" saniye bekle
 //* Elementine tıkla "SearchBoxText"
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 //* Elementin yüklenmesini bekle "KeyboardSearchIcon"
@@ -74,7 +74,7 @@
 * Elementin yüklenmesini bekle "SearchBoxText"
 * Elementine tıkla "SearchBoxText"
 * <text> textini "SearchBoxText" elemente yaz
-* "5" saniye bekle
+* "15" saniye bekle
 //* Elementine tıkla "SearchBoxText"
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 //* Elementin yüklenmesini bekle "KeyboardSearchIcon"
