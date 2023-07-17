@@ -1,7 +1,7 @@
 # Gratis Beauty sayfasina gecilir
 * Elementin yüklenmesini bekle "KampanyaSec"
 * Element var mı kontrol et "SepetBtn"
-* "15" saniye bekle
+* "180" saniye bekle
 //* Elementin yüklenmesini bekle "GratisBeautyAnasayfaIcon"
 //* Elementine tıkla "GratisBeautyAnasayfaIcon"
 * "GratisBeautyAnasayfaIcon" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
