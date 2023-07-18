@@ -12,7 +12,7 @@
 * Elementin yüklenmesini bekle "ProductAddButton"
 * Elementine tıkla "ProductAddButton"
 * Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
-* Element var mı kontrol et "GoToCartButton"
+* Elementin yüklenmesini bekle "GoToCartButton"
 * Elementine tıkla "GoToCartButton"
 
 # Sepet kontrol edilerek temizlenir
@@ -30,7 +30,7 @@
 * Elementin yüklenmesini bekle "ProductAddButton"
 * Elementine tıkla "ProductAddButton"
 * Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
-* Element var mı kontrol et "GoToCartButton"
+* Elementin yüklenmesini bekle "GoToCartButton"
 * Elementine tıkla "GoToCartButton"
 
 # Urun adedi arttirilir
