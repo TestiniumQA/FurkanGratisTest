@@ -8,10 +8,10 @@
 * "anasayfa" icin sayac tut
 
 # Login sayfasina gecilir
-* Elementin yüklenmesini bekle "digerSekmesi"
+* "digerSekmesi" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
 //* IOS icin login ise logout olunur
-* Elementin yüklenmesini bekle "uyeOlVeyaGirisYap"
+* "uyeOlVeyaGirisYap" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "uyeOlVeyaGirisYap" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
 
 # Giris yapilir
