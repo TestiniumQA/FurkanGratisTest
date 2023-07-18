@@ -2,7 +2,6 @@ Created by testinium on 18.07.2023
 
 This is a concept file with following syntax for each concept.
 # En Çok Satanlar başlıkları swipe edilir ve tıklanır.
-* "productName"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * "tabHeader" elementinin hizasından sağdan sola "3" kere kaydır
 * "tabHeader" elementinin hizasından soldan sağa "1" kere kaydır
 * Elementin yüklenmesini bekle "tabHeader"
