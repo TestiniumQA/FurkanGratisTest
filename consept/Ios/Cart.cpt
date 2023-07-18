@@ -20,7 +20,8 @@
 * Elementin yüklenmesini bekle "sepetimSilBtn"
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-* "BosSepetListesi" icin sayac tut
+* "BosSepetListesi" elementi bulunana kadar en fazla "15" saniye kadar bekle
+//* "BosSepetListesi" icin sayac tut
 
 # Ana sayfadan bir urun sepete eklenir
 * Elementin yüklenmesini bekle "AnasayfaTab"
