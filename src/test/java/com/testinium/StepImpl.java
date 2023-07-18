@@ -1066,8 +1066,18 @@ public class StepImpl extends HookImpl {
         logger.info(key + " sayfa üzerinde bulundu");
     }
 
-
-
+    @Step("<key> elementi bulunana kadar en fazla <sure> saniye kadar bekle")
+    public void waitUntilElementExist(String key, int sure) {
+        boolean doesExist = doesElementExistByKey(key,sure);
+        if (doesExist)
+        {
+            logger.info("element beklendi ve bulundu");
+        }
+        else
+        {
+            logger.info("element beklendi ama verilen süre içerisinde bulunamadı");
+        }
+    }
 
     @Step({"<length> uzunlugunda random bir kelime üret ve <saveKey> olarak sakla"})
     public void createRandomNumber(int length, String saveKey) {
