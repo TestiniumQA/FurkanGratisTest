@@ -1,9 +1,9 @@
 # Uygulama baslatilir
 * Elementin yüklenmesini bekle "uygulamaIzinver"
-* "uygulamaIzinver" li element varsa tıkla
+* Elementine tıkla "uygulamaIzinver"
 * "5" saniye bekle
 * Elementin yüklenmesini bekle "uygulamaIzinver"
-* "uygulamaIzinver" li element varsa tıkla
+* Elementine tıkla "uygulamaIzinver"
 //* "uygulamaKullanirkenIzinver" li element varsa tıkla
 //* "uygulamaKullanirkenIzinver" li element varsa tıkla
 * "anasayfa" icin sayac tut
