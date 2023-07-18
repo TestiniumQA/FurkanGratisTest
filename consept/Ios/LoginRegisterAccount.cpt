@@ -92,14 +92,14 @@
 * Elementin yüklenmesini bekle "RegisterAgreementTextOne"
 * "1" kere aşağıya kaydır
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "PageRegisterAgreementBackBtn"
+* "PageRegisterAgreementBackBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "PageRegisterAgreementBackBtn"
 * "1" saniye bekle
 * "RegisterOtherAgreementText" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "RegisterAgreementTextTwo"
 * "1" kere aşağıya kaydır
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "PageRegisterAgreementBackBtn"
+* "PageRegisterAgreementBackBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "PageRegisterAgreementBackBtn"
 * "1" saniye bekle
 * Element var mı kontrol et "RegisterMembershipAgreement"
