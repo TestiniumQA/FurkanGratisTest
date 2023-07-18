@@ -142,6 +142,7 @@
 * Element var mı kontrol et "RegisterButton"
 * Elementine tıkla "RegisterButton"
 * Elementin yüklenmesini bekle "RegisterAgeErrorPopup"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 
 # Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur
@@ -157,6 +158,7 @@
 * Element var mı kontrol et "RegisterButton"
 * Elementine tıkla "RegisterButton"
 * Elementin yüklenmesini bekle "RegisterEmailErrorPopup"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 
 # Kayıtlı Telefon ile register olunur ve uyarı mesajı gorulur
@@ -371,7 +373,7 @@
 * Elementine tıkla "NewAddressSavedBtn"
 * Elementin yüklenmesini bekle "AlertSuccessfulFavoritePopupIos"
 //* Elementin yüklenmesini bekle "AlertSuccessfulPopupIos"
-//* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "EditListDropdownName"
 * "EditListDropdownName" elementinin "New List Namee" textini içerdiği kontrol edilir
@@ -391,6 +393,7 @@
 * Elementine tıkla "PopupSavedBtnIos"
 * Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
 //* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 
 # Ana sayfadaki urun favorilerden cikarilir
@@ -415,6 +418,7 @@
 * Elementine tıkla "PopupSavedBtnIos"
 * Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
 //* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 
 # Profil sayfasındaki Favorilerim ikonuna tiklanir
@@ -429,6 +433,7 @@
 * "70","90" oranlarından "70","70" oranlarına "1" kere swipe et
 * "1" saniye bekle
 //* Element var mı kontrol et "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * "FavListSpinnerText" elementinin "Yeni Liste Adı" textini içerdiği kontrol edilir
 
@@ -484,9 +489,11 @@
 * "1" saniye bekle
 * "70","90" oranlarından "70","70" oranlarına "1" kere swipe et
 * "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * "FavBtn" li elementi bul ve varsa tıkla
 * Elementin yüklenmesini bekle "RemoveFavoriteSuccessfulPopupIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "EmptyFavoriteList"
 
@@ -511,5 +518,6 @@
 * Element var mı kontrol et "SavedBtnIos"
 * Elementine tıkla "SavedBtnIos"
 * Elementin yüklenmesini bekle "SuccessfulProfileInformationPopup"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBTNIos"
 * Element var mı kontrol et "ProfileRoot"
