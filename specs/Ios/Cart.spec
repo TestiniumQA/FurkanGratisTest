@@ -55,7 +55,6 @@ tags:Gratis_IOS_SepetteFavoriEklemeCikarma
 * Ana sayfadan bir urun sepete eklenir
 * Sepet kasa arkasi popup'i kapatilir
 * Sepette favoriye ekleme ve cikarma yapilir
-* Sepet kontrol edilerek temizlenir
 
 IOS Scenario Add A Favorite List From Cart
 ------------------------------------------
