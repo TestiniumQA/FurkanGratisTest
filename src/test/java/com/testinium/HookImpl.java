@@ -135,7 +135,7 @@ public class HookImpl {
                 capabilities.setCapability("usePrebuiltWDA",true);
                 capabilities.setCapability("useNewWDA", true);
                 capabilities.setCapability("autoAcceptAlerts",false);
-                capabilities.setCapability("appium:[waitForIdleTimeout]",5);
+                capabilities.setCapability("appium:[waitForIdleTimeout]",15);
                 capabilities.setCapability("appium:settings[animationCoolOffTimeout]",10);
                 capabilities.setCapability("appium:[waitForQuiescence]",false);
                 capabilities.setCapability("appium:[skipServerInstallation]",true);
