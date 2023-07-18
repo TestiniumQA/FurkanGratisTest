@@ -7,7 +7,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
      
 Main Page Campaign Swipe And Click
 ----------------------------------
-tags:Gratis_Android_AnasayfaKampanyalarSwipeVeTıklama
+tags:Gratis_Android_AnasayfaKampanyalarSwipeVeTiklama
 * Uygulama baslatilir.
 * Kampanyalar swipe edilir.
 * Kampanyaya tiklanir.
