@@ -411,7 +411,7 @@
 * Elementin yüklenmesini bekle "AddListPopupTitle"
 //* Element var mı kontrol et "AddListTextbox"
 * "Yeni Liste Adı" textini "AddListTextbox" elemente yaz
-//* Elementin yüklenmesini bekle "PopupAddBtnIos"
+* Elementin yüklenmesini bekle "PopupAddBtnIos"
 * Elementine tıkla "PopupAddBtnIos"
 * Elementin yüklenmesini bekle "AddListSuccessfulPopupIos"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
@@ -450,6 +450,7 @@
 * "FavListSpinnerText" değerini sayfa üzerinde olmadıgını kontrol et
 
 # Favorilerden urun detay sayfasına gecilir
+* Elementin yüklenmesini bekle "ProductDetailFromFavoriteList"
 * Elementine tıkla "ProductDetailFromFavoriteList"
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
