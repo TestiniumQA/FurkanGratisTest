@@ -10,7 +10,7 @@
 * "AddedToCartSuccessfulPopupIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementin yüklenmesini bekle "ContinueShoppingButton"
 * Elementine tıkla "ContinueShoppingButton"
-* Elementin yüklenmesini bekle "ProductAddButton"
+* "ProductAddButton" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "ProductAddButton"
 * "AddedToCartSuccessfulPopupIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementin yüklenmesini bekle "GoToCartButton"
@@ -19,10 +19,14 @@
 # Sepet kontrol edilerek temizlenir
 * "sepetPopUpKapatBtn" li element varsa tıkla
 * Elementin yüklenmesini bekle "sepetimSilBtn"
-* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-* Elementin yüklenmesini bekle "sepetimSilBtn"
-* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-* "BosSepetListesi" elementi bulunana kadar en fazla "15" saniye kadar bekle
+* Elementine tıkla "sepetimSilBtn"
+* Elementin yüklenmesini bekle "sepetimSilPopUpSil"
+* Elementine tıkla "sepetimSilPopUpSil"
+* "sepetimSilBtn" li element varsa tıkla
+* "sepetimSilPopUpSil" li element varsa tıkla
+//* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+//* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* "BosSepetListesi" elementi bulunana kadar en fazla "20" saniye kadar bekle
 //* "BosSepetListesi" icin sayac tut
 
 # Ana sayfadan bir urun sepete eklenir
@@ -30,7 +34,7 @@
 * Elementine tıkla "AnasayfaTab"
 * Elementin yüklenmesini bekle "KampanyaSec"
 * "1" kere aşağıya kaydır
-* Elementin yüklenmesini bekle "ProductAddButton"
+* "ProductAddButton" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "ProductAddButton"
 * "AddedToCartSuccessfulPopupIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementin yüklenmesini bekle "GoToCartButton"
@@ -62,7 +66,7 @@
 * Elementine tıkla "NumberMinusBtn"
 
 # Bos sepetten ana sayfaya yonlendirme yapilir
-* Elementin yüklenmesini bekle "BosSepetListesi"
+* "BosSepetListesi" elementi bulunana kadar en fazla "20" saniye kadar bekle
 * Elementin yüklenmesini bekle "BosSepetListesiBtn"
 * Elementine tıkla "BosSepetListesiBtn"
 * Elementin yüklenmesini bekle "KampanyaSec"
@@ -124,7 +128,7 @@
 * "CartAddButton" elementinin hizasından sağdan sola "3" kere kaydır
 * Elementin yüklenmesini bekle "ProductDropwdownItemTitle"
 * "ProductDropwdownItemTitle" elementinin hizasından soldan sağa "3" kere kaydır
-* Elementin yüklenmesini bekle "CartAddButton"
+* "CartAddButton" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "CartAddButton"
 * Elementin yüklenmesini bekle "CartHeaderText"
 * Elementine tıkla "CartHeaderText"
@@ -137,7 +141,7 @@
 
 # Urun detay sayfasinda urun sepete eklenir
 * "1" kere aşağıya kaydır
-* Elementin yüklenmesini bekle "ProductAddButton"
+* "ProductAddButton" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "ProductAddButton"
 //* Element var mı kontrol et "GoToCartButton"
 //* Elementine tıkla "GoToCartButton"
