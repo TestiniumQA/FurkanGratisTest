@@ -3,7 +3,7 @@
 * Elementine tıkla "SearchBox"
 
 # Diger sayfasindan search ikonuna tiklanir
-* Element var mı kontrol et "digerSekmesi"
+* Elementin yüklenmesini bekle "digerSekmesi"
 * "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
 * Elementin yüklenmesini bekle "DigerSearchBox"
 * Elementine tıkla "DigerSearchBox"

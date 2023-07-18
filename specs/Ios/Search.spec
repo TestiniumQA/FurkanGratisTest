@@ -9,14 +9,14 @@ IOS Scenario Product Name And Product Code Search
 -------------------------------------------------
 tags:Gratis_IOS_BasariliBasarisizUrunAramaVeUrunKoduArama
 * Uygulama baslatilir
-* Diger sayfasindan search ikonuna tiklanir
+* Search ikonuna tiklanir
 * Arama sayfasinin acildigi gorulur
 * Urun adi "ASDASD" yazilir, arama yapilir
 * Aradiginiz sonuc bulunamadi sayfasinin acildigi gorulur
-* Diger sayfasindan search ikonuna tiklanir
+* Search ikonuna tiklanir
 * Urun adi "Pastel Oje 106" yazilir, arama yapilir
 * Aratilan urun adina ait urunlerin listelendigi gorulur
-* Diger sayfasindan search ikonuna tiklanir
+* Search ikonuna tiklanir
 * Urun kodu "10000368" yazilir, arama yapilir
 * Urun detay sayfasinin acildigi gorulur
 
