@@ -2,6 +2,12 @@
 * Elementin yüklenmesini bekle "SearchBox"
 * Elementine tıkla "SearchBox"
 
+# Diger sayfasindan search ikonuna tiklanir
+* Element var mı kontrol et "digerSekmesi"
+* "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
+* Elementin yüklenmesini bekle "DigerSearchBox"
+* Elementine tıkla "DigerSearchBox"
+
 # Arama sayfasinin acildigi gorulur
 * Elementin yüklenmesini bekle "searchBoxOnerilenArama"
 * Elementin yüklenmesini bekle "SearchBoxCloseBtn"

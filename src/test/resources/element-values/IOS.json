@@ -1792,73 +1792,73 @@
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "CatalogBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Gratis Katalog']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "CatalogOptions",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeButton[@name='Ana menü']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "CatalogPage",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeOther[@name=\"Publication Content - GRATIS - temmuz insert v2, region\"]/XCUIElementTypeOther",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "CatalogPagesBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Bu yayındaki sayfaların listesi olarak sayfaya genel bakış']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "CatalogPages",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeMenuItem[@name='10-11. sayfa']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "CatalogFav",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Favorilerim']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "CatalogCloseIcon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeButton[@name='Kapat']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "CatalogPdf",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Bu yayını PDF olarak indirin (erişilebilir)']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "CatalogDownloadPage",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeOther[@name='URL']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "DigerSearchBox",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeNavigationBar[@name=\"Diğer\"]/XCUIElementTypeButton[1]",
     "iosType": "xpath"
   },
   {
