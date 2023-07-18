@@ -14,11 +14,11 @@
 
 # Urun adi <text> yazilir, arama yapilir
 * "5" saniye bekle
-* Elementin yüklenmesini bekle "SearchBoxText1"
+//* Elementin yüklenmesini bekle "SearchBoxText1"
 * "5" saniye bekle
-* Elementine tıkla "SearchBoxText1"
+* Elementine tıkla "SearchBoxText"
 * "5" saniye bekle
-* <text> textini "SearchBoxText1" elemente yaz
+* <text> textini "SearchBoxText" elemente yaz
 * "5" saniye bekle
 //* iOS Enter tıkla
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
@@ -29,11 +29,11 @@
 
 # Urun kodu <text> yazilir, arama yapilir
 * "5" saniye bekle
-* Elementin yüklenmesini bekle "SearchBoxText1"
+//* Elementin yüklenmesini bekle "SearchBoxText1"
 * "5" saniye bekle
-* Elementine tıkla "SearchBoxText1"
+* Elementine tıkla "SearchBoxText"
 * "5" saniye bekle
-* <text> textini "SearchBoxText1" elemente yaz
+* <text> textini "SearchBoxText" elemente yaz
 * "5" saniye bekle
 //* iOS Enter tıkla
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
