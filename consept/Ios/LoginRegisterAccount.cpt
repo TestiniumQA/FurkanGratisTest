@@ -518,6 +518,6 @@
 * Element var mı kontrol et "SavedBtnIos"
 * Elementine tıkla "SavedBtnIos"
 * Elementin yüklenmesini bekle "SuccessfulProfileInformationPopup"
-* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "PopupOkayBTNIos"
 * Elementine tıkla "PopupOkayBTNIos"
 * Element var mı kontrol et "ProfileRoot"
