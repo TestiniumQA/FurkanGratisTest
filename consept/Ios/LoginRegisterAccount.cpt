@@ -414,7 +414,7 @@
 * "Yeni Liste Adı" textini "AddListTextbox" elemente yaz
 * Elementin yüklenmesini bekle "PopupAddBtnIos"
 * Elementine tıkla "PopupAddBtnIos"
-* Elementin yüklenmesini bekle "AddListSuccessfulPopupIos"
+* "AddListSuccessfulPopupIos" elementi bulunana kadar en fazla "10" saniye kadar bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "PopupSavedBtnIos"
