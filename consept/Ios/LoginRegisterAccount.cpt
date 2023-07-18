@@ -383,7 +383,7 @@
 * Elementine tıkla "EditListNameButton"
 * Element var mı kontrol et "EditListPopupTitle"
 * "EditListTextbox" li elementi bul, temizle ve "New List Namee" değerini yaz
-* Elementin yüklenmesini bekle "EditListTextbox"
+* "EditListTextbox" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "EditListTextbox" elementinin "New List Namee" textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "NewAddressSavedBtn"
 * Elementine tıkla "NewAddressSavedBtn"
