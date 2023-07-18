@@ -60,7 +60,7 @@
 * Rastgele secilen kullanici adi "RegisterName" elementine, soyadi "RegisterSurname" elementine, mail "RegisterMail" elementine yazilir
 * "326637272" textini "RegisterPhone" elemente yaz
 * "KeyboardDismisserIcon" li element varsa tıkla
-* Elementin yüklenmesini bekle "RegisterBirth"
+* "RegisterBirth" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "RegisterBirth" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "1" saniye bekle
 * "PopupOkayBtnIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
@@ -122,7 +122,7 @@
 * Elementin yüklenmesini bekle "RegisterPhone"
 * "326637272" textini "RegisterPhone" elemente yaz
 * "KeyboardDismisserIcon" li element varsa tıkla
-* Elementin yüklenmesini bekle "RegisterBirth"
+* "RegisterBirth" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "RegisterBirth" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
@@ -154,7 +154,7 @@
 
 # Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur
 * "2" kere yukarı doğru kaydır
-* Elementin yüklenmesini bekle "RegisterBirth"
+* "RegisterBirth" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "RegisterBirth" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 //* "30","40" oranlarından "30","65" oranlarına "2" kere swipe et
