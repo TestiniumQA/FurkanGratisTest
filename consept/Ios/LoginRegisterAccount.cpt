@@ -113,9 +113,13 @@
 * Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
 
 # 16 yasindan kucuk dogum tarihi secilir ve uyarı mesaji gorulur
+* Elementin yüklenmesini bekle "RegisterName"
 * "Burhan" textini "RegisterName" elemente yaz
+* Elementin yüklenmesini bekle "RegisterSurname"
 * "Aydın" textini "RegisterSurname" elemente yaz
+* Elementin yüklenmesini bekle "RegisterMail"
 * "javaautomationtest@gmail.com" textini "RegisterMail" elemente yaz
+* Elementin yüklenmesini bekle "RegisterPhone"
 * "326637272" textini "RegisterPhone" elemente yaz
 * "KeyboardDismisserIcon" li element varsa tıkla
 * Elementin yüklenmesini bekle "RegisterBirth"
@@ -166,7 +170,9 @@
 
 # Kayıtlı Telefon ile register olunur ve uyarı mesajı gorulur
 * "2" kere yukarı doğru kaydır
+* Elementin yüklenmesini bekle "RegisterMailFull"
 * "RegisterMailFull" li elementi bul, temizle ve "javatestautomation@gmail.com" değerini yaz
+* Elementin yüklenmesini bekle "RegisterPhoneFull"
 * "RegisterPhoneFull" li elementi bul, temizle ve "555217475" değerini yaz
 * "KeyboardDismisserIcon" li element varsa tıkla
 * "2" kere aşağıya kaydır
