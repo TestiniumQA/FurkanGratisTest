@@ -399,7 +399,7 @@
 * Elementine tıkla "AnasayfaTab"
 //* Elementin yüklenmesini bekle "KampanyaSec"
 //* Elementin yüklenmesini bekle "EnCokSatanlarProduct"
-* Elementin yüklenmesini bekle "FavBtn"
+* "FavBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "FavBtn"
 * Element var mı kontrol et "AddFavoritePopup"
 
@@ -413,7 +413,7 @@
 * Elementine tıkla "PopupOkayBtnIos"
 
 # Ana sayfadaki urun favorilerden cikarilir
-* Element var mı kontrol et "FavBtn"
+* "FavBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "FavBtn"
 * Elementin yüklenmesini bekle "RemoveFavoriteSuccessfulPopupIos"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
