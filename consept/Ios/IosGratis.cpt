@@ -1,5 +1,6 @@
 # Uygulama baslatilir
 * "uygulamaIzinver" li element varsa tıkla
+* Wait "5" seconds
 * "uygulamaIzinver" li element varsa tıkla
 //* "uygulamaKullanirkenIzinver" li element varsa tıkla
 //* "uygulamaKullanirkenIzinver" li element varsa tıkla
