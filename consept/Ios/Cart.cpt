@@ -22,8 +22,8 @@
 * Elementine tıkla "sepetimSilBtn"
 * Elementin yüklenmesini bekle "sepetimSilPopUpSil"
 * Elementine tıkla "sepetimSilPopUpSil"
-* "sepetimSilBtn" li element varsa tıkla
-* "sepetimSilPopUpSil" li element varsa tıkla
+* "sepetimSilBtn" li element varsa tıkla yoksa devam et
+* "sepetimSilPopUpSil" li element varsa tıkla yoksa devam et
 //* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 //* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "BosSepetListesi" elementi bulunana kadar en fazla "20" saniye kadar bekle
