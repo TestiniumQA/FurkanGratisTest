@@ -18,7 +18,6 @@
 * "SearchBoxText" elementi bulunana kadar en fazla "50" saniye kadar bekle
 * <text> textini "SearchBoxText" elemente yaz
 * "KeyboardSearchButtonNew" elementi bulunana kadar en fazla "50" saniye kadar bekle
-//* iOS Enter tıkla
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 * Elementin yüklenmesini bekle "KeyboardSearchButtonNew"
 * Elementine tıkla "KeyboardSearchButtonNew"
@@ -26,17 +25,15 @@
 * "1" saniye bekle
 
 # Urun kodu <text> yazilir, arama yapilir
-* "5" saniye bekle
-//* Elementin yüklenmesini bekle "SearchBoxText1"
-* "5" saniye bekle
+* "SearchBoxText" elementi bulunana kadar en fazla "50" saniye kadar bekle
 * Elementine tıkla "SearchBoxText"
-* "5" saniye bekle
+* "SearchBoxText" elementi bulunana kadar en fazla "50" saniye kadar bekle
 * <text> textini "SearchBoxText" elemente yaz
-* "5" saniye bekle
+* "KeyboardSearchButtonNew" elementi bulunana kadar en fazla "50" saniye kadar bekle
 //* iOS Enter tıkla
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Elementin yüklenmesini bekle "KeyboardSearchIcon"
-* Elementine tıkla "KeyboardSearchIcon"
+* Elementin yüklenmesini bekle "KeyboardSearchButtonNew"
+* Elementine tıkla "KeyboardSearchButtonNew"
 * "1" saniye bekle
 
 # Aradiginiz sonuc bulunamadi sayfasinin acildigi gorulur
