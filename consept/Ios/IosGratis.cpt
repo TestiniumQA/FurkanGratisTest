@@ -8,14 +8,19 @@
 * "anasayfa" icin sayac tut
 
 # Login sayfasina gecilir
+* Elementin yüklenmesini bekle "digerSekmesi"
 * "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
 //* IOS icin login ise logout olunur
+* Elementin yüklenmesini bekle "uyeOlVeyaGirisYap"
 * "uyeOlVeyaGirisYap" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
 
 # Giris yapilir
 //* "digerSekmesi" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
 * "IOSmail" csv dosyasindan rastgele kullanici sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
 *  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
 * "girisYapBtn" elementine sayacli tikla "profilim" value degerini bekle
 
 # Kategoriler sayfasina gecilir

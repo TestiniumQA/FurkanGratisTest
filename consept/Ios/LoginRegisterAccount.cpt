@@ -21,7 +21,7 @@
 * Elementin yüklenmesini bekle "RegisterBtnIos"
 
 # Profil'e tiklanir profilim sayfasinin acildigi gorulur
-* Element var mı kontrol et "ProfileRoot"
+* Elementin yüklenmesini bekle "ProfileRoot"
 * "ProfileRoot" elementine sayacli tikla "PageToolbarTitle" value degerini bekle
 
 # Sifrem'e tiklanir sifre yenileme sayfasinin acildigi gorulur
@@ -531,7 +531,7 @@
 * Element var mı kontrol et "SmsCheckboxIos"
 * "SmsCheckboxIos" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "1" saniye bekle
-* Element var mı kontrol et "SavedBtnIos"
+* Elementin yüklenmesini bekle "SavedBtnIos"
 * Elementine tıkla "SavedBtnIos"
 * Elementin yüklenmesini bekle "SuccessfulProfileInformationPopup"
 * Elementin yüklenmesini bekle "PopupOkayBTNIos"
