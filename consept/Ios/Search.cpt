@@ -1,4 +1,5 @@
 # Search ikonuna tiklanir
+* "SearchBox" elementi bulunana kadar en fazla "10" saniye kadar bekle
 * Elementin yüklenmesini bekle "SearchBox"
 * Elementine tıkla "SearchBox"
 
