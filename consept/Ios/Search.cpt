@@ -9,9 +9,10 @@
 * Elementine tıkla "DigerSearchBox"
 
 # Arama sayfasinin acildigi gorulur
-* "5" saniye bekle
-* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
-* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
+* "searchBoxOnerilenArama" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* "SearchBoxCloseBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
+//* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
+//* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 
 # Urun adi <text> yazilir, arama yapilir
 * "SearchBoxText2" elementi bulunana kadar en fazla "50" saniye kadar bekle
