@@ -20,6 +20,7 @@
 * "sepetPopUpKapatBtn" li element varsa tıkla
 * Elementin yüklenmesini bekle "sepetimSilBtn"
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* Elementin yüklenmesini bekle "sepetimSilBtn"
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "BosSepetListesi" elementi bulunana kadar en fazla "15" saniye kadar bekle
 //* "BosSepetListesi" icin sayac tut
@@ -39,7 +40,7 @@
 //* Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
 //* Elementine tıkla "sepetPopUpKapatBtn"
 * "sepetPopUpKapatBtn" li element varsa tıkla
-* Element var mı kontrol et "NumberPlusBtn"
+* Elementin yüklenmesini bekle "NumberPlusBtn"
 * Elementine tıkla "NumberPlusBtn"
 * Elementin yüklenmesini bekle "NumberPlusBtn"
 * Elementine tıkla "NumberPlusBtn"
@@ -51,7 +52,7 @@
 
 # Urun adedi azaltilir
 * Elementin yüklenmesini bekle "1"
-* Element var mı kontrol et "NumberMinusBtn"
+* Elementin yüklenmesini bekle "NumberMinusBtn"
 * Elementine tıkla "NumberMinusBtn"
 * Elementin yüklenmesini bekle "NumberMinusBtn"
 * Elementine tıkla "NumberMinusBtn"
@@ -62,7 +63,7 @@
 
 # Bos sepetten ana sayfaya yonlendirme yapilir
 * Elementin yüklenmesini bekle "BosSepetListesi"
-* Element var mı kontrol et "BosSepetListesiBtn"
+* Elementin yüklenmesini bekle "BosSepetListesiBtn"
 * Elementine tıkla "BosSepetListesiBtn"
 * Elementin yüklenmesini bekle "KampanyaSec"
 
@@ -74,34 +75,37 @@
 # Sepette favoriye ekleme ve cikarma yapilir
 * Elementin yüklenmesini bekle "ShoppingItemFavBtn"
 * Elementine tıkla "ShoppingItemFavBtn"
-* Elementin yüklenmesini bekle "AddFavoritePopup"
+* "AddFavoritePopup" elementi bulunana kadar en fazla "15" saniye kadar bekle
+* Elementin yüklenmesini bekle "PopupSavedBtnIos"
 * Elementine tıkla "PopupSavedBtnIos"
 * Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "ShoppingItemFavBtn"
 * Elementine tıkla "ShoppingItemFavBtn"
 * Elementin yüklenmesini bekle "RemoveFavoriteSuccessfulPopupIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * "1" saniye bekle
 
 # Sepette favori butonuna tiklanir
-* Element var mı kontrol et "ShoppingItemFavBtn"
+* Elementin yüklenmesini bekle "ShoppingItemFavBtn"
 * Elementine tıkla "ShoppingItemFavBtn"
 
 # Sepette Yeni favori listesi olusturulur ve secilen urun favori eklenir
-* Element var mı kontrol et "AddListButton"
+* Elementin yüklenmesini bekle "AddListButton"
 * Elementine tıkla "AddListButton"
 * Elementin yüklenmesini bekle "AddListPopupTitle"
-* Element var mı kontrol et "CartPageAddListTextbox"
+* Elementin yüklenmesini bekle "CartPageAddListTextbox"
 * "Yeni Liste Adı" textini "CartPageAddListTextbox" elemente yaz
 * Elementin yüklenmesini bekle "PopupAddBtnIos"
 * Elementine tıkla "PopupAddBtnIos"
-* Elementin yüklenmesini bekle "AddListSuccessfulPopupIos"
+* "AddListSuccessfulPopupIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "PopupSavedBtnIos"
 * Elementine tıkla "PopupSavedBtnIos"
-* Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
+* "AddFavoriteSuccessfulPopupIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 
@@ -116,6 +120,7 @@
 # Kasa arkasında swipe yapilir ve urun sepete eklenir
 * Elementin yüklenmesini bekle "CartHeaderText"
 * Elementine tıkla "CartHeaderText"
+* Elementin yüklenmesini bekle "CartAddButton"
 * "CartAddButton" elementinin hizasından sağdan sola "3" kere kaydır
 * Elementin yüklenmesini bekle "ProductDropwdownItemTitle"
 * "ProductDropwdownItemTitle" elementinin hizasından soldan sağa "3" kere kaydır
@@ -138,5 +143,5 @@
 //* Elementine tıkla "GoToCartButton"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
-* Element var mı kontrol et "geriBtn"
+* Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
