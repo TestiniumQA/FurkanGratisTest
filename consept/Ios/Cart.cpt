@@ -4,6 +4,7 @@
 * Elementin yüklenmesini bekle "KampanyaSec"
 * "1" kere aşağıya kaydır
 //* Element var mı kontrol et "GratisCardPrice"
+* Elementin yüklenmesini bekle "ProductAddButton"
 * Elementine tıkla "ProductAddButton"
 * Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
 * Element var mı kontrol et "ContinueShoppingButton"
@@ -26,6 +27,7 @@
 * Elementine tıkla "AnasayfaTab"
 * Elementin yüklenmesini bekle "KampanyaSec"
 * "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "ProductAddButton"
 * Elementine tıkla "ProductAddButton"
 * Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
 * Element var mı kontrol et "GoToCartButton"
@@ -90,7 +92,7 @@
 * Elementin yüklenmesini bekle "AddListPopupTitle"
 * Element var mı kontrol et "CartPageAddListTextbox"
 * "Yeni Liste Adı" textini "CartPageAddListTextbox" elemente yaz
-//* Elementin yüklenmesini bekle "PopupAddBtnIos"
+* Elementin yüklenmesini bekle "PopupAddBtnIos"
 * Elementine tıkla "PopupAddBtnIos"
 * Elementin yüklenmesini bekle "AddListSuccessfulPopupIos"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
@@ -98,7 +100,7 @@
 * Elementin yüklenmesini bekle "PopupSavedBtnIos"
 * Elementine tıkla "PopupSavedBtnIos"
 * Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
-//* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 
 # Kasa arkası popup'inda swipe yapilir ve urun sepete eklenir
@@ -117,10 +119,12 @@
 * "ProductDropwdownItemTitle" elementinin hizasından soldan sağa "3" kere kaydır
 * Elementin yüklenmesini bekle "CartAddButton"
 * Elementine tıkla "CartAddButton"
+* Elementin yüklenmesini bekle "CartHeaderText"
 * Elementine tıkla "CartHeaderText"
 
 # Kasa arkasi urun detayina gidilir
 * Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
+* Elementin yüklenmesini bekle "CartPopupProduct"
 * Elementine tıkla "CartPopupProduct"
 * Elementin yüklenmesini bekle "ProductDetailTitle"
 
