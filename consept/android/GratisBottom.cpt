@@ -16,6 +16,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "toolbarUrunler"
 * "2" saniye bekle
 * Elementine tıkla "geriBtn"
+* "1" saniye bekle
 
 # Birinci indirim kampanyasına tiklanir.
 * Element var mı kontrol et "%50indirim"

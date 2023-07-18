@@ -1288,5 +1288,45 @@
     "key": "catalogPage",
     "androidValue": "//android.view.View",
     "androidType": "xpath"
+  },
+  {
+    "key": "productName",
+    "androidValue": "com.gratis.android:id/product_desc_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "tabHeader",
+    "androidValue": "com.gratis.android:id/tab_header_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "tabHeaderSlct",
+    "androidValue": "//android.widget.LinearLayout[@selected='true']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "productDetailTitle",
+    "androidValue": "//android.widget.TextView[@text='Ürün Detay']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "mainPageCampaign",
+    "androidValue": "com.gratis.android:id/banner_root",
+    "androidType": "id"
+  },
+  {
+    "key": "visitedAddBtn",
+    "androidValue": "com.gratis.android:id/visited_add_button",
+    "androidType": "id"
+  },
+  {
+    "key": "visitedTitle",
+    "androidValue": "//android.widget.TextView[@text='En Son Gezdiklerim']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "visitedText",
+    "androidValue": "com.gratis.android:id/visited_desc_txt",
+    "androidType": "id"
   }
 ]
