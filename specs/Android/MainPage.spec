@@ -21,3 +21,23 @@ tags:Gratis_Android_AnasayfaKampanyalarSwipeVeTiklama
 * Ana sayfa kampanyasına tıklanır.
 * Ana sayfa kampanyasına tıklanır.
 * En Son Gezdiklerim ürünleri swipe edilir ve tıklanır.
+
+Non-Login Add Favorite
+----------------------------------------
+tags:Gratis_Android_AnasayfaNonLoginFavoriEkleme
+* Uygulama baslatilir.
+* En Cok Satanlar alanindan bir urunun favori butonuna tıklanir.
+* Favori ikonu ile login olunur.
+* Urun favorilere eklenir.
+* Favori listesi kontrol edilerek temizlenir.
+
+Non-Login Add Favorite List
+---------------------------
+tags:Gratis_Android_NonLoginFavoriListesiOlusturma
+* En Cok Satanlar alanindan bir urunun favori butonuna tıklanir.
+* Favori ikonu ile login olunur.
+* Yeni favori listesi olusturulur ve secilen urun favori eklenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Profil sayfasındaki Favori butonuna tiklanir.
+* Listeden yeni eklenen favori listesi secilir.
+* Favori listesi silinir.

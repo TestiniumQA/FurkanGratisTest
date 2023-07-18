@@ -44,3 +44,9 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 * Geri butonuna bas
 * "1" saniye bekle
+
+# Favori ikonu ile login olunur.
+* "AndroidMail" csv dosyasindan rastgele kullanici sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* Element var mı kontrol et "addFavoritePopup"
