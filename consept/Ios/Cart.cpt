@@ -22,6 +22,7 @@
 * Elementine tıkla "sepetimSilBtn"
 * Elementin yüklenmesini bekle "sepetimSilPopUpSil"
 * Elementine tıkla "sepetimSilPopUpSil"
+* "5" saniye bekle
 * "sepetimSilBtn" li element varsa tıkla yoksa devam et
 * "sepetimSilPopUpSil" li element varsa tıkla yoksa devam et
 //* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
