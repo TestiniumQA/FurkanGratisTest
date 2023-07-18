@@ -1,8 +1,7 @@
 # Uygulama baslatilir
-* "uygulamaIzinver" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* "uygulamaIzinver" elementi bulunana kadar en fazla "20" saniye kadar bekle
 * Elementine tıkla "uygulamaIzinver"
-* "5" saniye bekle
-* "uygulamaIzinver" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* "uygulamaIzinver" elementi bulunana kadar en fazla "20" saniye kadar bekle
 * Elementine tıkla "uygulamaIzinver"
 //* "uygulamaKullanirkenIzinver" li element varsa tıkla
 //* "uygulamaKullanirkenIzinver" li element varsa tıkla
