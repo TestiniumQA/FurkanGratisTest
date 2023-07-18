@@ -7,12 +7,12 @@
 //* Elementin yüklenmesini bekle "ProductAddButton"
 * "ProductAddButton" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "ProductAddButton"
-* Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
-* Element var mı kontrol et "ContinueShoppingButton"
+* "AddedToCartSuccessfulPopupIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
+* Elementin yüklenmesini bekle "ContinueShoppingButton"
 * Elementine tıkla "ContinueShoppingButton"
 * Elementin yüklenmesini bekle "ProductAddButton"
 * Elementine tıkla "ProductAddButton"
-* Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
+* "AddedToCartSuccessfulPopupIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementin yüklenmesini bekle "GoToCartButton"
 * Elementine tıkla "GoToCartButton"
 
@@ -31,7 +31,7 @@
 * "1" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "ProductAddButton"
 * Elementine tıkla "ProductAddButton"
-* Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
+* "AddedToCartSuccessfulPopupIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementin yüklenmesini bekle "GoToCartButton"
 * Elementine tıkla "GoToCartButton"
 
