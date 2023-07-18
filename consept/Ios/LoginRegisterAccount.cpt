@@ -146,7 +146,7 @@
 * Elementine tıkla "RegisterOtherAgreement"
 * Element var mı kontrol et "RegisterPersonalInfo"
 * Elementine tıkla "RegisterPersonalInfo"
-* Element var mı kontrol et "RegisterButton"
+* Elementin yüklenmesini bekle "RegisterButton"
 * Elementine tıkla "RegisterButton"
 * Elementin yüklenmesini bekle "RegisterAgeErrorPopup"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
@@ -162,7 +162,7 @@
 //* "70","90" oranlarından "30","70" oranlarına "1" kere swipe et
 * Elementine tıkla "PopupOkayBtnIos"
 * "2" kere aşağıya kaydır
-* Element var mı kontrol et "RegisterButton"
+* Elementin yüklenmesini bekle "RegisterButton"
 * Elementine tıkla "RegisterButton"
 * Elementin yüklenmesini bekle "RegisterEmailErrorPopup"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
@@ -176,7 +176,7 @@
 * "RegisterPhoneFull" li elementi bul, temizle ve "555217475" değerini yaz
 * "KeyboardDismisserIcon" li element varsa tıkla
 * "2" kere aşağıya kaydır
-* Element var mı kontrol et "RegisterButton"
+* Elementin yüklenmesini bekle "RegisterButton"
 * Elementine tıkla "RegisterButton"
 * Elementin yüklenmesini bekle "RegisterPhoneErrorPopup"
 
