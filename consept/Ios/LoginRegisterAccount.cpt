@@ -63,7 +63,7 @@
 * Elementin yüklenmesini bekle "RegisterBirth"
 * "RegisterBirth" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* "PopupOkayBtnIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
 //* "30","90" oranlarından "30","70" oranlarına "2" kere swipe et
 //* "50","90" oranlarından "50","70" oranlarına "2" kere swipe et
 //* "70","90" oranlarından "70","70" oranlarına "2" kere swipe et
