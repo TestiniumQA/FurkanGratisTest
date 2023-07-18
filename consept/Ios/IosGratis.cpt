@@ -1,6 +1,7 @@
 # Uygulama baslatilir
 * Elementin yüklenmesini bekle "uygulamaIzinver"
 * "uygulamaIzinver" li element varsa tıkla
+* "5" saniye bekle
 * Elementin yüklenmesini bekle "uygulamaIzinver"
 * "uygulamaIzinver" li element varsa tıkla
 //* "uygulamaKullanirkenIzinver" li element varsa tıkla
