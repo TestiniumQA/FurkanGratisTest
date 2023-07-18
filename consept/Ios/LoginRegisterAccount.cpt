@@ -31,7 +31,7 @@
 # Diger'e tiklanir diger sayfasinin acildigi gorulur
 //* "PageCloseIcon" li element varsa tıkla
 * "PageCloseIcon" li element varsa tıkla yoksa devam et
-* Element var mı kontrol et "digerSekmesi"
+* Elementin yüklenmesini bekle "digerSekmesi"
 * "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
 
 # Sifre basarili sekilde degistirilir
