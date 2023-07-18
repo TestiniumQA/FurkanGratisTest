@@ -72,7 +72,7 @@
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "cikisYapBtnn"
 * Elementine tıkla "cikisYapBtnn"
-* Elementin yüklenmesini bekle "cikisYapPopUpCikisBtn"
+* "cikisYapPopUpCikisBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "cikisYapPopUpCikisBtn"
 * "cikisYapBtnn" değerini sayfa üzerinde olmadıgını kontrol et
 
