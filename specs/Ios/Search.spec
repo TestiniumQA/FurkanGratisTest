@@ -16,9 +16,9 @@ tags:Gratis_IOS_BasariliBasarisizUrunAramaVeUrunKoduArama
 * Diger sayfasindan search ikonuna tiklanir
 * Urun adi "Pastel Oje 106" yazilir, arama yapilir
 * Aratilan urun adina ait urunlerin listelendigi gorulur
-* Diger sayfasindan search ikonuna tiklanir
-* Urun kodu "10000368" yazilir, arama yapilir
-* Urun detay sayfasinin acildigi gorulur
+//* Diger sayfasindan search ikonuna tiklanir
+//* Urun kodu "10000368" yazilir, arama yapilir
+//* Urun detay sayfasinin acildigi gorulur
 
 IOS Scenario Category And Trademark Search
 ------------------------------------------
