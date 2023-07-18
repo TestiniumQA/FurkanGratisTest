@@ -9,14 +9,15 @@
 * Elementine tıkla "DigerSearchBox"
 
 # Arama sayfasinin acildigi gorulur
+* "5" saniye bekle
 * Elementin yüklenmesini bekle "searchBoxOnerilenArama"
 * Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 
 # Urun adi <text> yazilir, arama yapilir
-* "SearchBoxText" elementi bulunana kadar en fazla "50" saniye kadar bekle
-* Elementine tıkla "SearchBoxText"
-* "SearchBoxText" elementi bulunana kadar en fazla "50" saniye kadar bekle
-* <text> textini "SearchBoxText" elemente yaz
+* "SearchBoxText2" elementi bulunana kadar en fazla "50" saniye kadar bekle
+* Elementine tıkla "SearchBoxText2"
+* "SearchBoxText2" elementi bulunana kadar en fazla "50" saniye kadar bekle
+* <text> textini "SearchBoxText2" elemente yaz
 * "KeyboardSearchButtonNew" elementi bulunana kadar en fazla "50" saniye kadar bekle
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 * Elementin yüklenmesini bekle "KeyboardSearchButtonNew"
@@ -25,10 +26,10 @@
 * "1" saniye bekle
 
 # Urun kodu <text> yazilir, arama yapilir
-* "SearchBoxText" elementi bulunana kadar en fazla "50" saniye kadar bekle
-* Elementine tıkla "SearchBoxText"
-* "SearchBoxText" elementi bulunana kadar en fazla "50" saniye kadar bekle
-* <text> textini "SearchBoxText" elemente yaz
+* "SearchBoxText2" elementi bulunana kadar en fazla "50" saniye kadar bekle
+* Elementine tıkla "SearchBoxText2"
+* "SearchBoxText2" elementi bulunana kadar en fazla "50" saniye kadar bekle
+* <text> textini "SearchBoxText2" elemente yaz
 * "KeyboardSearchButtonNew" elementi bulunana kadar en fazla "50" saniye kadar bekle
 //* iOS Enter tıkla
 //* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
