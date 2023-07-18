@@ -1,7 +1,9 @@
 # E-posta alanina <eposta> girilir
+* Elementin yüklenmesini bekle "EpostaInputAlani"
 * <eposta> textini "EpostaInputAlani" elemente yaz
 
 # Sifre alanına <sifre> girilir
+* Elementin yüklenmesini bekle "sifreInputAlani"
 * <sifre> textini "sifreInputAlani" elemente yaz
 
 # Sifremi Unuttum ikonuna tiklanir
@@ -438,12 +440,12 @@
 * Elementine tıkla "PopupOkayBtnIos"
 
 # Profil sayfasındaki Favorilerim ikonuna tiklanir
-* Element var mı kontrol et "ProfilePageFavoriteIcon"
+* Elementin yüklenmesini bekle "ProfilePageFavoriteIcon"
 * Elementine tıkla "ProfilePageFavoriteIcon"
 
 # Listeden yeni eklenen favori listesi secilir
-* Element var mı kontrol et "EditListNameButton"
-* Element var mı kontrol et "FavListSpinner"
+* Elementin yüklenmesini bekle "EditListNameButton"
+* Elementin yüklenmesini bekle "FavListSpinner"
 * "FavListSpinner" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "1" saniye bekle
 * "70","90" oranlarından "70","70" oranlarına "1" kere swipe et
