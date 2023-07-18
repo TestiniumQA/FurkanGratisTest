@@ -223,7 +223,6 @@ This is a concept file with following syntax for each concept.
 * "1" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "favBtn"
 * Elementine tıkla "favBtn"
-* Element var mı kontrol et "addFavoritePopup"
 
 # Yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * Elementine tıkla "addListButton"
@@ -236,6 +235,7 @@ This is a concept file with following syntax for each concept.
 
 # Urun favorilere eklenir.
 * Elementin yüklenmesini bekle "addFavoritePopup"
+* Element var mı kontrol et "addFavoritePopup"
 * Elementine tıkla "popupOkayButton"
 * "2" saniye bekle
 
