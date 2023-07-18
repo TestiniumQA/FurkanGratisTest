@@ -5,7 +5,8 @@
 * Elementine tıkla "uygulamaIzinver"
 //* "uygulamaKullanirkenIzinver" li element varsa tıkla
 //* "uygulamaKullanirkenIzinver" li element varsa tıkla
-* "anasayfa" icin sayac tut
+* "anasayfa" elementi bulunana kadar en fazla "15" saniye kadar bekle
+//* "anasayfa" icin sayac tut
 
 # Login sayfasina gecilir
 * "digerSekmesi" elementi bulunana kadar en fazla "15" saniye kadar bekle
