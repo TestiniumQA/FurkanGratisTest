@@ -125,7 +125,7 @@
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "digerSekmesi"
+* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Diğer alaninda Gratis Beauty sayfasina gecilir
 * Elementin yüklenmesini bekle "BeautyDigerBtn"
@@ -135,17 +135,17 @@
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "digerSekmesi"
+* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Kariyer sayfasina gecilir
 * Elementin yüklenmesini bekle "CareerBtn"
 * Elementine tıkla "CareerBtn"
-* Elementin yüklenmesini bekle "CareerPage"
+* "CareerPage" elementi bulunana kadar en fazla "25" saniye kadar bekle
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "digerSekmesi"
+* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Uyelik Sozlesmesi sayfasina gecilir
 * Elementin yüklenmesini bekle "AgreementTxtBtn"
@@ -158,7 +158,7 @@
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "digerSekmesi"
+* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Gizlilik ve Guvenlik sayfasina gecilir
 * Elementin yüklenmesini bekle "PolicyBtn"
@@ -171,7 +171,7 @@
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "digerSekmesi"
+* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Kullanim kosullari sayfasina gecilir
 * "TermOfUseBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
@@ -185,7 +185,7 @@
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "digerSekmesi"
+* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Bilgi Toplumu Hizmetleri sayfasina gecilir
 * "SsiBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
@@ -198,7 +198,7 @@
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "digerSekmesi"
+* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # KVKK sayfasina gecilir
 * "KvkkBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
@@ -212,7 +212,7 @@
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "digerSekmesi"
+* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Hakkimizda sayfasina gecilir
 * "AboutBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
@@ -226,7 +226,7 @@
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "digerSekmesi"
+* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Iletisim sayfasina gecilir
 * Elementin yüklenmesini bekle "Contact"
@@ -245,7 +245,7 @@
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "digerSekmesi"
+* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Iletisim sayfasi bilgileri girilir
 * "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
@@ -273,7 +273,7 @@
 * "2" saniye bekle
 * Safari'de "FacebookPage" kontrolu yapilir ve uygulamaya geri donulur
 * Elementin yüklenmesini bekle "FacebookBtn"
-* Elementin yüklenmesini bekle "digerSekmesi"
+* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Instagram sayfasina gecilir
 * Elementin yüklenmesini bekle "PageToolbarTitle"
@@ -282,7 +282,7 @@
 * "2" saniye bekle
 * Safari'de "InstagramPage" kontrolu yapilir ve uygulamaya geri donulur
 * Elementin yüklenmesini bekle "InstagramBtn"
-* Elementin yüklenmesini bekle "digerSekmesi"
+* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Twitter sayfasina gecilir
 * Elementin yüklenmesini bekle "PageToolbarTitle"
@@ -291,7 +291,7 @@
 * "2" saniye bekle
 * Safari'de "TwitterPage" kontrolu yapilir ve uygulamaya geri donulur
 * Elementin yüklenmesini bekle "TwitterBtn"
-* Elementin yüklenmesini bekle "digerSekmesi"
+* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Yardım ve Destek sayfasına geçilir
 * Elementin yüklenmesini bekle "PageToolbarTitle"

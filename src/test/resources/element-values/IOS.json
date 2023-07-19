@@ -1480,7 +1480,7 @@
     "key": "CareerPage",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeOther[@name=\"Gratis | Türkiye'nin Kişisel Bakım Marketi\"]/XCUIElementTypeLink[1]",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Kariyer']",
     "iosType": "xpath"
   },
   {
