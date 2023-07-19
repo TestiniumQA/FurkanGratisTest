@@ -61,7 +61,7 @@
 
 # Markalar swipe edilir ve tiklanir
 * "2" saniye bekle
-* Elementin yüklenmesini bekle "ElementListThree"
+* "ElementListThree" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "ElementListThree"
 * Elementin yüklenmesini bekle "PageToolbarTitle"
 * "2" saniye bekle
@@ -77,7 +77,7 @@
 * Elementin yüklenmesini bekle "FastScroller"
 //* "FastScroller" li  elementin x ekseninde yukaridan %"40" deger, y ekseninde yukaridan %"30" deger kadar asagisina tikla
 * "2" saniye bekle
-* Elementin yüklenmesini bekle "ElementListFour"
+* "ElementListFour" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "ElementListFour"
 * Elementin yüklenmesini bekle "PageToolbarTitle"
 * "2" saniye bekle
