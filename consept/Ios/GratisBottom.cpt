@@ -23,7 +23,6 @@
 
 # Birinci indirim kampanyasına tiklanir
 * "3" saniye bekle
-* Elementin yüklenmesini bekle "KampanyaSec"
 * Elementin yüklenmesini bekle "%50indirimIos"
 * Elementine tıkla "%50indirimIos"
 * Elementin yüklenmesini bekle "ToolbarUrunler"
@@ -33,7 +32,6 @@
 
 # İkinci indirim kampanyasına tiklanir
 * "3" saniye bekle
-* Elementin yüklenmesini bekle "KampanyaSec"
 * "1" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "%60indirimIos"
 * Elementine tıkla "%60indirimIos"
