@@ -23,7 +23,8 @@
 
 # Birinci indirim kampanyasına tiklanir
 * "3" saniye bekle
-* Elementin yüklenmesini bekle "%50indirimIos"
+* Elementin yüklenmesini bekle "PageToolbarTitle"
+* "%50indirimIos" elementi bulunana kadar en fazla "10" saniye kadar bekle
 * Elementine tıkla "%50indirimIos"
 * Elementin yüklenmesini bekle "ToolbarUrunler"
 * "2" saniye bekle
@@ -33,7 +34,8 @@
 # İkinci indirim kampanyasına tiklanir
 * "3" saniye bekle
 * "1" kere aşağıya kaydır
-* Elementin yüklenmesini bekle "%60indirimIos"
+* Elementin yüklenmesini bekle "PageToolbarTitle"
+* "%60indirimIos" elementi bulunana kadar en fazla "10" saniye kadar bekle
 * Elementine tıkla "%60indirimIos"
 * Elementin yüklenmesini bekle "ToolbarUrunler"
 * "2" saniye bekle
