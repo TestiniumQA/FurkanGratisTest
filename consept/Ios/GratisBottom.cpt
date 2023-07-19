@@ -155,8 +155,6 @@
 * Elementine tıkla "AgreementTxtBtn"
 * Elementin yüklenmesini bekle "AgreementPageToolbar"
 * "RegisterAgreementTextOne" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* "2" saniye bekle
-* "1" kere aşağıya kaydır
 * "3" saniye bekle
 
 # Gizlilik ve Guvenlik sayfasina gecilir
@@ -164,8 +162,6 @@
 * Elementine tıkla "PolicyBtn"
 * Elementin yüklenmesini bekle "PolicyPageToolbar"
 * "PolicyPageText" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* "2" saniye bekle
-* "1" kere aşağıya kaydır
 * "3" saniye bekle
 
 # Kullanim kosullari sayfasina gecilir
@@ -174,8 +170,6 @@
 * Elementine tıkla "TermOfUseBtn"
 * Elementin yüklenmesini bekle "TermOfUsePageToolbar"
 * "TermOfUsePageText" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* "2" saniye bekle
-* "1" kere aşağıya kaydır
 * "3" saniye bekle
 
 # Bilgi Toplumu Hizmetleri sayfasina gecilir
@@ -183,8 +177,6 @@
 * Elementin yüklenmesini bekle "SsiBtn"
 * Elementine tıkla "SsiBtn"
 * "SsiPageElement" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* "2" saniye bekle
-* "1" kere aşağıya kaydır
 * "3" saniye bekle
 
 # KVKK sayfasina gecilir
@@ -193,8 +185,6 @@
 * Elementine tıkla "KvkkBtn"
 * Elementin yüklenmesini bekle "KvkkPageToolbar"
 * "RegisterAgreementTextTwo" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* "2" saniye bekle
-* "1" kere aşağıya kaydır
 * "3" saniye bekle
 
 # Hakkimizda sayfasina gecilir
@@ -203,8 +193,6 @@
 * Elementine tıkla "AboutBtn"
 * Elementin yüklenmesini bekle "AboutPageToolbar"
 * "AboutPageText" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* "2" saniye bekle
-* "1" kere aşağıya kaydır
 * "3" saniye bekle
 //* "geriBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
 //* Elementine tıkla "geriBtn"
