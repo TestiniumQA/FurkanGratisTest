@@ -159,8 +159,8 @@
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "20" saniye kadar bekle
-* Elementine tıkla "geriBtn"
+* "PageRegisterAgreementBackBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
+* Elementine tıkla "PageRegisterAgreementBackBtn"
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -213,8 +213,8 @@
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "20" saniye kadar bekle
-* Elementine tıkla "geriBtn"
+* "PageRegisterAgreementBackBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
+* Elementine tıkla "PageRegisterAgreementBackBtn"
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
