@@ -27,7 +27,7 @@
 * "sepetimSilPopUpSil" li element varsa tıkla yoksa devam et
 //* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 //* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-* "BosSepetListesi" elementi bulunana kadar en fazla "20" saniye kadar bekle
+* "BosSepetListesi" elementi bulunana kadar en fazla "25" saniye kadar bekle
 //* "BosSepetListesi" icin sayac tut
 
 # Ana sayfadan bir urun sepete eklenir
