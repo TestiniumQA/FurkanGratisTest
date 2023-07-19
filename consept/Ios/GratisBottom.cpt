@@ -192,7 +192,7 @@
 * Elementin yüklenmesini bekle "AboutBtn"
 * Elementine tıkla "AboutBtn"
 * Elementin yüklenmesini bekle "AboutPageToolbar"
-* "AboutPageText" elementi bulunana kadar en fazla "15" saniye kadar bekle
+* "PageToolbarTitle" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "3" saniye bekle
 //* "geriBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
 //* Elementine tıkla "geriBtn"
@@ -203,6 +203,8 @@
 * Elementin yüklenmesini bekle "Contact"
 * Elementine tıkla "Contact"
 * "5" saniye bekle
+* "AboutPageText" elementi bulunana kadar en fazla "15" saniye kadar bekle
+* "3" saniye bekle
 //* Elementin yüklenmesini bekle "ContactFirstName"
 
 # Iletisim numarasına tiklanir
