@@ -120,30 +120,30 @@
 * Elementin yüklenmesini bekle "UrunSearchTxt"
 * Elementin yüklenmesini bekle "PageToolbarTitle"
 * Elementin yüklenmesini bekle "StoreList"
-* "1" saniye bekle
+* "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "1" saniye bekle
+* "2" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Diğer alaninda Gratis Beauty sayfasina gecilir
 * Elementin yüklenmesini bekle "BeautyDigerBtn"
 * Elementine tıkla "BeautyDigerBtn"
 * Elementin yüklenmesini bekle "GratisBeautyPage"
-* "1" saniye bekle
+* "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "1" saniye bekle
+* "2" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Kariyer sayfasina gecilir
 * Elementin yüklenmesini bekle "CareerBtn"
 * Elementine tıkla "CareerBtn"
 * "CareerPage" elementi bulunana kadar en fazla "25" saniye kadar bekle
-* "1" saniye bekle
+* "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "1" saniye bekle
+* "2" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Uyelik Sozlesmesi sayfasina gecilir
@@ -151,12 +151,12 @@
 * Elementine tıkla "AgreementTxtBtn"
 * Elementin yüklenmesini bekle "AgreementPageToolbar"
 * Elementin yüklenmesini bekle "RegisterAgreementTextOne"
-* "1" saniye bekle
+* "2" saniye bekle
 * "2" kere aşağıya kaydır
-* "1" saniye bekle
+* "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "1" saniye bekle
+* "2" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Gizlilik ve Guvenlik sayfasina gecilir
@@ -164,12 +164,12 @@
 * Elementine tıkla "PolicyBtn"
 * Elementin yüklenmesini bekle "PolicyPageToolbar"
 * Elementin yüklenmesini bekle "PolicyPageText"
-* "1" saniye bekle
+* "2" saniye bekle
 * "2" kere aşağıya kaydır
-* "1" saniye bekle
+* "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "1" saniye bekle
+* "2" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Kullanim kosullari sayfasina gecilir
@@ -178,12 +178,12 @@
 * Elementine tıkla "TermOfUseBtn"
 * Elementin yüklenmesini bekle "TermOfUsePageToolbar"
 * Elementin yüklenmesini bekle "TermOfUsePageText"
-* "1" saniye bekle
+* "2" saniye bekle
 * "2" kere aşağıya kaydır
-* "1" saniye bekle
+* "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "1" saniye bekle
+* "2" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Bilgi Toplumu Hizmetleri sayfasina gecilir
@@ -191,12 +191,12 @@
 * Elementin yüklenmesini bekle "SsiBtn"
 * Elementine tıkla "SsiBtn"
 * Elementin yüklenmesini bekle "SsiPageElement"
-* "1" saniye bekle
+* "2" saniye bekle
 * "2" kere aşağıya kaydır
-* "1" saniye bekle
+* "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "1" saniye bekle
+* "2" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # KVKK sayfasina gecilir
@@ -205,12 +205,12 @@
 * Elementine tıkla "KvkkBtn"
 * Elementin yüklenmesini bekle "KvkkPageToolbar"
 * Elementin yüklenmesini bekle "RegisterAgreementTextTwo"
-* "1" saniye bekle
+* "2" saniye bekle
 * "2" kere aşağıya kaydır
-* "1" saniye bekle
+* "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "1" saniye bekle
+* "2" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Hakkimizda sayfasina gecilir
@@ -219,12 +219,12 @@
 * Elementine tıkla "AboutBtn"
 * Elementin yüklenmesini bekle "AboutPageToolbar"
 * Elementin yüklenmesini bekle "AboutPageText"
-* "1" saniye bekle
+* "2" saniye bekle
 * "1" kere aşağıya kaydır
-* "1" saniye bekle
+* "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "1" saniye bekle
+* "2" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Iletisim sayfasina gecilir
@@ -239,7 +239,7 @@
 * Elementine tıkla "ContactCallNumber"
 * Elementin yüklenmesini bekle "ContactCallNumber"
 * Elementine tıkla "geriBtn"
-* "1" saniye bekle
+* "2" saniye bekle
 * Element var mı kontrol et "ContactCallNumber"
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
