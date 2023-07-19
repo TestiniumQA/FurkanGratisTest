@@ -80,6 +80,7 @@
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "FastScroller"
 * "ElementListFour" elementi bulunana kadar en fazla "20" saniye kadar bekle
+* Elementin yüklenmesini bekle "ElementListFour"
 * Elementine tıkla "ElementListFour"
 //* Elementin yüklenmesini bekle "PageToolbarTitle"
 * "2" saniye bekle
