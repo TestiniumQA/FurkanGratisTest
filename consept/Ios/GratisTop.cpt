@@ -37,6 +37,7 @@
 * "Cities" csv dosyasindan rastgele il ve ilce sec
 * Rastgele secilen ilce adi "UrunSearchTxt" elementine yazilir
 * "1" saniye bekle
+* Elementin yüklenmesini bekle "UrunSearchTxt"
 * Elementine tıkla "UrunSearchTxt"
 * Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 * "KeyboardSearchButtonNew" elementi bulunana kadar en fazla "10" saniye kadar bekle
@@ -47,6 +48,7 @@
 # Magazalarda magaza ismi aratilir
 * "İZM HİLLTOWN AVM" textini "UrunSearchTxt" elemente yaz
 * "1" saniye bekle
+* Elementin yüklenmesini bekle "UrunSearchTxt"
 * Elementine tıkla "UrunSearchTxt"
 * Elementin yüklenmesini bekle "KeyboardDismisserIcon"
 * "KeyboardSearchButtonNew" elementi bulunana kadar en fazla "10" saniye kadar bekle
