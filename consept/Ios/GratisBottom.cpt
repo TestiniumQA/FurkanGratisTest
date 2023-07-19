@@ -25,7 +25,7 @@
 * "3" saniye bekle
 * "PageToolbarTitle" elementi bulunana kadar en fazla "25" saniye kadar bekle
 * "%50indirimIos" elementi bulunana kadar en fazla "25" saniye kadar bekle
-* "%50indirimIos" li  elementin x ekseninde yukaridan %"20" deger, y ekseninde yukaridan %"30" deger kadar asagisina tikla
+* "%50indirimIos" li  elementin x ekseninde yukaridan %"50" deger, y ekseninde yukaridan %"50" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "ToolbarUrunler"
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
@@ -36,7 +36,7 @@
 * "1" kere aşağıya kaydır
 * "PageToolbarTitle" elementi bulunana kadar en fazla "25" saniye kadar bekle
 * "%60indirimIos" elementi bulunana kadar en fazla "25" saniye kadar bekle
-* "%60indirimIos" li  elementin x ekseninde yukaridan %"20" deger, y ekseninde yukaridan %"30" deger kadar asagisina tikla
+* "%60indirimIos" li  elementin x ekseninde yukaridan %"50" deger, y ekseninde yukaridan %"50" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "ToolbarUrunler"
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"

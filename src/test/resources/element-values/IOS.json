@@ -1298,14 +1298,14 @@
     "key": "%50indirimIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\"%50 ve Üzeri İndirimler\"]",
     "iosType": "xpath"
   },
   {
     "key": "%60indirimIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\"%60 ve Üzeri İndirimler\"]",
     "iosType": "xpath"
   },
   {
