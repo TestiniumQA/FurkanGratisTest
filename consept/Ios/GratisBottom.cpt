@@ -123,30 +123,30 @@
 * Elementin yüklenmesini bekle "UrunSearchTxt"
 * Elementin yüklenmesini bekle "PageToolbarTitle"
 * Elementin yüklenmesini bekle "StoreList"
-* "2" saniye bekle
+* "3" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "2" saniye bekle
+* "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Diğer alaninda Gratis Beauty sayfasina gecilir
 * Elementin yüklenmesini bekle "BeautyDigerBtn"
 * Elementine tıkla "BeautyDigerBtn"
 * Elementin yüklenmesini bekle "GratisBeautyPage"
-* "2" saniye bekle
+* "3" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "2" saniye bekle
+* "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Kariyer sayfasina gecilir
 * Elementin yüklenmesini bekle "CareerBtn"
 * Elementine tıkla "CareerBtn"
 * "CareerPage" elementi bulunana kadar en fazla "25" saniye kadar bekle
-* "2" saniye bekle
+* "3" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "2" saniye bekle
+* "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Uyelik Sozlesmesi sayfasina gecilir
@@ -156,10 +156,10 @@
 * Elementin yüklenmesini bekle "RegisterAgreementTextOne"
 * "2" saniye bekle
 * "2" kere aşağıya kaydır
-* "2" saniye bekle
+* "3" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "2" saniye bekle
+* "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Gizlilik ve Guvenlik sayfasina gecilir
@@ -169,10 +169,10 @@
 * Elementin yüklenmesini bekle "PolicyPageText"
 * "2" saniye bekle
 * "2" kere aşağıya kaydır
-* "2" saniye bekle
+* "3" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "2" saniye bekle
+* "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Kullanim kosullari sayfasina gecilir
@@ -183,10 +183,10 @@
 * Elementin yüklenmesini bekle "TermOfUsePageText"
 * "2" saniye bekle
 * "2" kere aşağıya kaydır
-* "2" saniye bekle
+* "3" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "2" saniye bekle
+* "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Bilgi Toplumu Hizmetleri sayfasina gecilir
@@ -196,10 +196,10 @@
 * Elementin yüklenmesini bekle "SsiPageElement"
 * "2" saniye bekle
 * "2" kere aşağıya kaydır
-* "2" saniye bekle
+* "3" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "2" saniye bekle
+* "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # KVKK sayfasina gecilir
@@ -210,10 +210,10 @@
 * Elementin yüklenmesini bekle "RegisterAgreementTextTwo"
 * "2" saniye bekle
 * "2" kere aşağıya kaydır
-* "2" saniye bekle
+* "3" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "2" saniye bekle
+* "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Hakkimizda sayfasina gecilir
@@ -224,10 +224,10 @@
 * Elementin yüklenmesini bekle "AboutPageText"
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
-* "2" saniye bekle
+* "3" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
-* "2" saniye bekle
+* "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Iletisim sayfasina gecilir
