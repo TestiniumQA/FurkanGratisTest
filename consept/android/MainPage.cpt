@@ -50,3 +50,23 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
 * Element var mı kontrol et "addFavoritePopup"
+
+# Non-Login ana sayfadan bir urun sepete eklenir.
+* Elementin yüklenmesini bekle "kampanyaSec"
+* "1" kere aşağıya kaydır
+* "productAddButton"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementine tıkla "productAddButton"
+
+# Alışverişe devam edilir.
+* Elementin yüklenmesini bekle "AddedToCartText"
+* Elementine tıkla "alisveriseDevamEt"
+
+#Sepete git'e tıklanır.
+* Elementin yüklenmesini bekle "AddedToCartText"
+* Elementine tıkla "goToCartButton"
+
+# Sepete Ekle butonu ile login olunur.
+* "AndroidMail" csv dosyasindan rastgele kullanici sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* Elementin yüklenmesini bekle "AddedToCartText"

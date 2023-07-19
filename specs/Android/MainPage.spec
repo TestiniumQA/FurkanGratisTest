@@ -34,6 +34,7 @@ tags:Gratis_Android_AnasayfaNonLoginFavoriEkleme
 Non-Login Add Favorite List
 ---------------------------
 tags:Gratis_Android_NonLoginFavoriListesiOlusturma
+* Uygulama baslatilir.
 * En Cok Satanlar alanindan bir urunun favori butonuna tıklanir.
 * Favori ikonu ile login olunur.
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir.
@@ -41,3 +42,18 @@ tags:Gratis_Android_NonLoginFavoriListesiOlusturma
 * Profil sayfasındaki Favori butonuna tiklanir.
 * Listeden yeni eklenen favori listesi secilir.
 * Favori listesi silinir.
+
+Non-Login Add To Cart
+---------------------
+tags:Gratis_Android_NonLoginSepeteEkleme
+* Uygulama baslatilir.
+* Non-Login ana sayfadan bir urun sepete eklenir.
+* Sepete Ekle butonu ile login olunur.
+* Alışverişe devam edilir.
+* Uygulamadan cikis yapilir.
+* Ana sayfa tab'ına tıklanır.
+* Non-Login ana sayfadan bir urun sepete eklenir.
+* Sepete Ekle butonu ile login olunur.
+* Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Sepet kontrol edilerek temizlenir.
