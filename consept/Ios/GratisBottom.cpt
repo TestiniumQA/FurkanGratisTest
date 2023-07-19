@@ -79,7 +79,7 @@
 //* Elementin yüklenmesini bekle "FastScroller"
 //* "FastScroller" li  elementin x ekseninde yukaridan %"40" deger, y ekseninde yukaridan %"30" deger kadar asagisina tikla
 //* "2" saniye bekle
-* "ElementListFour"li elementi bulana kadar "6" kere swipe yap ve elementi bul
+* "ElementListFour"li elementi bulana kadar "9" kere swipe yap ve elementi bul
 * "ElementListFour" elementi bulunana kadar en fazla "20" saniye kadar bekle
 * Elementine tıkla "ElementListFour"
 * Elementin yüklenmesini bekle "PageToolbarTitle"
