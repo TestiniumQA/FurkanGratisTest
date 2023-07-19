@@ -56,7 +56,7 @@ tags:Gratis_IOS_DigerTab
 * Yakinlardaki magazalar'a tiklanir
 * Diğer alaninda Gratis Beauty sayfasina gecilir
 * Kariyer sayfasina gecilir
-* Uyelik Sozlesmesi sayfasina gecilir
+//* Uyelik Sozlesmesi sayfasina gecilir
 * Gizlilik ve Guvenlik sayfasina gecilir
 * Kullanim kosullari sayfasina gecilir
 * Bilgi Toplumu Hizmetleri sayfasina gecilir
