@@ -108,7 +108,8 @@
 * "2" saniye bekle
 
 # Login durumda Gratis Kart sayfasi kontrol edilir
-* Elementin yüklenmesini bekle "GratisCardBackGround"
+//* Elementin yüklenmesini bekle "GratisCardBackGround"
+* "GratisCardBackGround" elementi bulunana kadar en fazla "10" saniye kadar bekle
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
