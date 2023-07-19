@@ -119,4 +119,6 @@
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "PageToolbarTitle"
 * Elementin yüklenmesini bekle "ProductAddButton"
+* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* Elementine tıkla "geriBtn"
 * "3" saniye bekle
