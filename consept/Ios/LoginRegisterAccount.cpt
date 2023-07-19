@@ -112,7 +112,8 @@
 * Elementine tıkla "RegisterPersonalInfo"
 * Element var mı kontrol et "RegisterButton"
 * Elementine tıkla "RegisterButton"
-* Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
+* "RegisterSmsAcceptButton" elementi bulunana kadar en fazla "15" saniye kadar bekle
+//* Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
 
 # 16 yasindan kucuk dogum tarihi secilir ve uyarı mesaji gorulur
 * Elementin yüklenmesini bekle "RegisterName"
