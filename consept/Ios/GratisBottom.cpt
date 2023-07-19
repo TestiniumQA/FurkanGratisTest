@@ -152,7 +152,7 @@
 * Elementin yüklenmesini bekle "AgreementTxtBtn"
 * Elementine tıkla "AgreementTxtBtn"
 * Elementin yüklenmesini bekle "AgreementPageToolbar"
-* Elementin yüklenmesini bekle "RegisterAgreementTextOne"
+* "RegisterAgreementTextOne" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "2" saniye bekle
 * "2" kere aşağıya kaydır
 * "3" saniye bekle
@@ -165,7 +165,7 @@
 * Elementin yüklenmesini bekle "PolicyBtn"
 * Elementine tıkla "PolicyBtn"
 * Elementin yüklenmesini bekle "PolicyPageToolbar"
-* Elementin yüklenmesini bekle "PolicyPageText"
+* "PolicyPageText" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "2" saniye bekle
 * "2" kere aşağıya kaydır
 * "3" saniye bekle
@@ -179,7 +179,7 @@
 * Elementin yüklenmesini bekle "TermOfUseBtn"
 * Elementine tıkla "TermOfUseBtn"
 * Elementin yüklenmesini bekle "TermOfUsePageToolbar"
-* Elementin yüklenmesini bekle "TermOfUsePageText"
+* "TermOfUsePageText" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "2" saniye bekle
 * "2" kere aşağıya kaydır
 * "3" saniye bekle
@@ -192,7 +192,7 @@
 * "SsiBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "SsiBtn"
 * Elementine tıkla "SsiBtn"
-* Elementin yüklenmesini bekle "SsiPageElement"
+* "SsiPageElement" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "2" saniye bekle
 * "2" kere aşağıya kaydır
 * "3" saniye bekle
@@ -206,7 +206,7 @@
 * Elementin yüklenmesini bekle "KvkkBtn"
 * Elementine tıkla "KvkkBtn"
 * Elementin yüklenmesini bekle "KvkkPageToolbar"
-* Elementin yüklenmesini bekle "RegisterAgreementTextTwo"
+* "RegisterAgreementTextTwo" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "2" saniye bekle
 * "2" kere aşağıya kaydır
 * "3" saniye bekle
@@ -220,7 +220,7 @@
 * Elementin yüklenmesini bekle "AboutBtn"
 * Elementine tıkla "AboutBtn"
 * Elementin yüklenmesini bekle "AboutPageToolbar"
-* Elementin yüklenmesini bekle "AboutPageText"
+* "AboutPageText" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "3" saniye bekle
