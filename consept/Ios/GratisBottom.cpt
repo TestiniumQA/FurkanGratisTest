@@ -75,7 +75,7 @@
 * Elementine tıkla "FastScroller"
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "FastScroller"
-* "FastScroller" li  elementin x ekseninde yukaridan %"40" deger, y ekseninde yukaridan %"30" deger kadar asagisina tikla
+//* "FastScroller" li  elementin x ekseninde yukaridan %"40" deger, y ekseninde yukaridan %"30" deger kadar asagisina tikla
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "ElementListFour"
 * Elementine tıkla "ElementListFour"
