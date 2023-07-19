@@ -56,11 +56,47 @@ tags:Gratis_IOS_DigerTab
 * Yakinlardaki magazalar'a tiklanir
 * Diğer alaninda Gratis Beauty sayfasina gecilir
 * Kariyer sayfasina gecilir
-//* Uyelik Sozlesmesi sayfasina gecilir
+
+IOS Scenario Diger Uyelik
+-------------------------
+tags:Gratis_IOS_DigerTabUyelikSozlesmesi
+* Uygulama baslatilir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
+* Uyelik Sozlesmesi sayfasina gecilir
+
+IOS Scenario Diger Gizlilik
+---------------------------
+tags:Gratis_IOS_DigerTabGizlilik
+* Uygulama baslatilir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Gizlilik ve Guvenlik sayfasina gecilir
+
+IOS Scenario Diger Kullanim
+---------------------------
+tags:Gratis_IOS_DigerTabKullanim
+* Uygulama baslatilir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Kullanim kosullari sayfasina gecilir
+
+IOS Scenario Diger Bilgi
+------------------------
+tags:Gratis_IOS_DigerTabBilgi
+* Uygulama baslatilir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Bilgi Toplumu Hizmetleri sayfasina gecilir
+
+IOS Scenario Diger KVKK
+-----------------------
+tags:Gratis_IOS_DigerTabKVKK
+* Uygulama baslatilir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
 * KVKK sayfasina gecilir
+
+IOS Scenario Diger Hakkimizda
+-----------------------------
+tags:Gratis_IOS_DigerTabHakkimizda
+* Uygulama baslatilir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Hakkimizda sayfasina gecilir
 
 IOS Scenario Opening Facebook/Instagram/Twitter Pages

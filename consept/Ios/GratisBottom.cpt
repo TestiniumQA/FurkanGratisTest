@@ -156,12 +156,8 @@
 * Elementin yüklenmesini bekle "AgreementPageToolbar"
 * "RegisterAgreementTextOne" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "2" saniye bekle
-//* "1" kere aşağıya kaydır
+* "1" kere aşağıya kaydır
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* Elementine tıkla "geriBtn"
-* "3" saniye bekle
-* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Gizlilik ve Guvenlik sayfasina gecilir
 * Elementin yüklenmesini bekle "PolicyBtn"
@@ -169,12 +165,8 @@
 * Elementin yüklenmesini bekle "PolicyPageToolbar"
 * "PolicyPageText" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "2" saniye bekle
-//* "1" kere aşağıya kaydır
+* "1" kere aşağıya kaydır
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* Elementine tıkla "geriBtn"
-* "3" saniye bekle
-* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Kullanim kosullari sayfasina gecilir
 * "TermOfUseBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
@@ -183,12 +175,8 @@
 * Elementin yüklenmesini bekle "TermOfUsePageToolbar"
 * "TermOfUsePageText" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "2" saniye bekle
-//* "1" kere aşağıya kaydır
+* "1" kere aşağıya kaydır
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* Elementine tıkla "geriBtn"
-* "3" saniye bekle
-* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Bilgi Toplumu Hizmetleri sayfasina gecilir
 * "SsiBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
@@ -196,12 +184,8 @@
 * Elementine tıkla "SsiBtn"
 * "SsiPageElement" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "2" saniye bekle
-//* "1" kere aşağıya kaydır
+* "1" kere aşağıya kaydır
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* Elementine tıkla "geriBtn"
-* "3" saniye bekle
-* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # KVKK sayfasina gecilir
 * "KvkkBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
@@ -212,10 +196,6 @@
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* Elementine tıkla "geriBtn"
-* "3" saniye bekle
-* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Hakkimizda sayfasina gecilir
 * "AboutBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
@@ -224,12 +204,12 @@
 * Elementin yüklenmesini bekle "AboutPageToolbar"
 * "AboutPageText" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "2" saniye bekle
-//* "1" kere aşağıya kaydır
+* "1" kere aşağıya kaydır
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* Elementine tıkla "geriBtn"
-* "3" saniye bekle
-* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
+//* "geriBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
+//* Elementine tıkla "geriBtn"
+//* "3" saniye bekle
+//* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Iletisim sayfasina gecilir
 * Elementin yüklenmesini bekle "Contact"
