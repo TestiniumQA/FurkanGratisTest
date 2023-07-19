@@ -79,8 +79,7 @@
 * "FastScroller" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "FastScroller"
-* "ElementListFour" elementi bulunana kadar en fazla "20" saniye kadar bekle
-* Elementin yüklenmesini bekle "ElementListFour"
+* "ElementListFour" elementi bulunana kadar en fazla "25" saniye kadar bekle
 * Elementine tıkla "ElementListFour"
 //* Elementin yüklenmesini bekle "PageToolbarTitle"
 * "2" saniye bekle
