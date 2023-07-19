@@ -1333,7 +1333,7 @@
     "key": "ElementListFour",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeStaticText[@name='Flormar']",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Penti']",
     "iosType": "xpath"
   },
   {

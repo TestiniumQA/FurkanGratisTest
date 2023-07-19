@@ -74,13 +74,13 @@
 
 # Hizli scroll harflerine basılır ve listeden bir marka secilir
 * Elementin yüklenmesini bekle "FastScroller"
-//* Elementine tıkla "FastScroller"
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "FastScroller"
 * "FastScroller" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "2" saniye bekle
+* Elementin yüklenmesini bekle "FastScroller"
 * "ElementListFour" elementi bulunana kadar en fazla "20" saniye kadar bekle
-//* Elementine tıkla "ElementListFour"
+* Elementine tıkla "ElementListFour"
 //* Elementin yüklenmesini bekle "PageToolbarTitle"
 * "2" saniye bekle
 //* Elementin yüklenmesini bekle "geriBtn"
