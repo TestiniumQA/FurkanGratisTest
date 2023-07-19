@@ -24,9 +24,10 @@
 * "Cities" csv dosyasindan rastgele il ve ilce sec
 * Rastgele secilen il adi "UrunSearchTxt" elementine yazilir
 * "1" saniye bekle
+* Elementin yüklenmesini bekle "UrunSearchTxt"
 * Elementine tıkla "UrunSearchTxt"
 * Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Elementin yüklenmesini bekle "KeyboardSearchButtonNew"
+* "KeyboardSearchButtonNew" elementi bulunana kadar en fazla "10" saniye kadar bekle
 * Elementine tıkla "KeyboardSearchButtonNew"
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "StoreChosenList"
@@ -38,7 +39,7 @@
 * "1" saniye bekle
 * Elementine tıkla "UrunSearchTxt"
 * Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Elementin yüklenmesini bekle "KeyboardSearchButtonNew"
+* "KeyboardSearchButtonNew" elementi bulunana kadar en fazla "10" saniye kadar bekle
 * Elementine tıkla "KeyboardSearchButtonNew"
 * "2" saniye bekle
 * Element var mı kontrol et "UrunSearchTxt"
@@ -48,7 +49,7 @@
 * "1" saniye bekle
 * Elementine tıkla "UrunSearchTxt"
 * Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Elementin yüklenmesini bekle "KeyboardSearchButtonNew"
+* "KeyboardSearchButtonNew" elementi bulunana kadar en fazla "10" saniye kadar bekle
 * Elementine tıkla "KeyboardSearchButtonNew"
 * "2" saniye bekle
 * Element var mı kontrol et "StoreName"
