@@ -125,7 +125,8 @@
 * Elementin yüklenmesini bekle "PageToolbarTitle"
 * Elementin yüklenmesini bekle "StoreList"
 * "3" saniye bekle
-* Geri butonuna bas
+* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* Elementine tıkla "geriBtn"
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -134,7 +135,8 @@
 * Elementine tıkla "BeautyDigerBtn"
 * Elementin yüklenmesini bekle "GratisBeautyPage"
 * "3" saniye bekle
-* Geri butonuna bas
+* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* Elementine tıkla "geriBtn"
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -145,7 +147,8 @@
 * "3" saniye bekle
 /* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
 //* Elementine tıkla "geriBtn"
-* Geri butonuna bas
+* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* Elementine tıkla "geriBtn"
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -157,7 +160,8 @@
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "3" saniye bekle
-* Geri butonuna bas
+* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* Elementine tıkla "geriBtn"
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -169,7 +173,8 @@
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "3" saniye bekle
-* Geri butonuna bas
+* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* Elementine tıkla "geriBtn"
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -182,7 +187,8 @@
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "3" saniye bekle
-* Geri butonuna bas
+* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* Elementine tıkla "geriBtn"
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -194,7 +200,8 @@
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "3" saniye bekle
-* Geri butonuna bas
+* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* Elementine tıkla "geriBtn"
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -207,7 +214,8 @@
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "3" saniye bekle
-* Geri butonuna bas
+* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* Elementine tıkla "geriBtn"
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -220,7 +228,8 @@
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "3" saniye bekle
-* Geri butonuna bas
+* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* Elementine tıkla "geriBtn"
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
