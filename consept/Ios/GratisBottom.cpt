@@ -30,6 +30,7 @@
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
+* "2" saniye bekle
 
 # İkinci indirim kampanyasına tiklanir
 * "3" saniye bekle
@@ -41,6 +42,7 @@
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
+* "2" saniye bekle
 
 # Markalar sayfasi acilir
 * Elementin yüklenmesini bekle "KampanyaSec"

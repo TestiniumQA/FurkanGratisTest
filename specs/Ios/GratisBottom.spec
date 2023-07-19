@@ -12,7 +12,21 @@ tags:Gratis_IOS_KampanyalarSlideVeTiklama
 * Kampanyalar sayfasi acilir
 * Kampanyalar swipe edilir
 * Kampanyaya tiklanir
+//* Birinci indirim kampanyasına tiklanir
+//* İkinci indirim kampanyasına tiklanir
+
+IOS Scenario %50 Campaign Slide And Click
+-----------------------------------------
+tags:Gratis_IOS_KampanyalarTiklama%50Indirim
+* Uygulama baslatilir
+* Kampanyalar sayfasi acilir
 * Birinci indirim kampanyasına tiklanir
+
+IOS Scenario %60 Campaign Slide And Click
+-----------------------------------------
+tags:Gratis_IOS_KampanyalarTiklama%60Indirim
+* Uygulama baslatilir
+* Kampanyalar sayfasi acilir
 * İkinci indirim kampanyasına tiklanir
 
 IOS Scenario TradeMarks
