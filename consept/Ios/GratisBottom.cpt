@@ -123,8 +123,7 @@
 * Elementin yüklenmesini bekle "PageToolbarTitle"
 * Elementin yüklenmesini bekle "StoreList"
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* Elementine tıkla "geriBtn"
+* Geri butonuna bas
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -133,8 +132,7 @@
 * Elementine tıkla "BeautyDigerBtn"
 * Elementin yüklenmesini bekle "GratisBeautyPage"
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* Elementine tıkla "geriBtn"
+* Geri butonuna bas
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -143,8 +141,9 @@
 * Elementine tıkla "CareerBtn"
 * "CareerPage" elementi bulunana kadar en fazla "25" saniye kadar bekle
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* Elementine tıkla "geriBtn"
+/* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
+//* Elementine tıkla "geriBtn"
+* Geri butonuna bas
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -156,8 +155,7 @@
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* Elementine tıkla "geriBtn"
+* Geri butonuna bas
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -167,10 +165,9 @@
 * Elementin yüklenmesini bekle "PolicyPageToolbar"
 * "PolicyPageText" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "2" saniye bekle
-* "2" kere aşağıya kaydır
+* "1" kere aşağıya kaydır
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* Elementine tıkla "geriBtn"
+* Geri butonuna bas
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -181,10 +178,9 @@
 * Elementin yüklenmesini bekle "TermOfUsePageToolbar"
 * "TermOfUsePageText" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "2" saniye bekle
-* "2" kere aşağıya kaydır
+* "1" kere aşağıya kaydır
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* Elementine tıkla "geriBtn"
+* Geri butonuna bas
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -194,10 +190,9 @@
 * Elementine tıkla "SsiBtn"
 * "SsiPageElement" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "2" saniye bekle
-* "2" kere aşağıya kaydır
+* "1" kere aşağıya kaydır
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* Elementine tıkla "geriBtn"
+* Geri butonuna bas
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -208,10 +203,9 @@
 * Elementin yüklenmesini bekle "KvkkPageToolbar"
 * "RegisterAgreementTextTwo" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "2" saniye bekle
-* "2" kere aşağıya kaydır
+* "1" kere aşağıya kaydır
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* Elementine tıkla "geriBtn"
+* Geri butonuna bas
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -224,8 +218,7 @@
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "3" saniye bekle
-* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* Elementine tıkla "geriBtn"
+* Geri butonuna bas
 * "3" saniye bekle
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
