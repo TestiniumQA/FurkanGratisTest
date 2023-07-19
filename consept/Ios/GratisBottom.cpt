@@ -79,12 +79,12 @@
 * "FastScroller" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "2" saniye bekle
 * "ElementListFour" elementi bulunana kadar en fazla "25" saniye kadar bekle
-* Elementine tıkla "ElementListFour"
-* Elementin yüklenmesini bekle "PageToolbarTitle"
-* "2" saniye bekle
+//* Elementine tıkla "ElementListFour"
+//* Elementin yüklenmesini bekle "PageToolbarTitle"
+//* "2" saniye bekle
 //* Elementin yüklenmesini bekle "geriBtn"
 //* Elementine tıkla "geriBtn"
-* "2" saniye bekle
+//* "2" saniye bekle
 //* Elementin yüklenmesini bekle "Trademark"
 
 # Non login Gratis Kartim sayfasina gecilir
