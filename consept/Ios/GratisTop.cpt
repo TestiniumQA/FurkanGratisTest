@@ -31,7 +31,6 @@
 * Elementine tıkla "KeyboardSearchButtonNew"
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "StoreChosenList"
-* Element var mı kontrol et "StoreChosenList"
 
 # Magazalarda rastgele bir ilce aratilir
 * "Cities" csv dosyasindan rastgele il ve ilce sec
@@ -63,7 +62,7 @@
 * Elementine tıkla "ElementListOne"
 * Elementin yüklenmesini bekle "ElementListTwo"
 * Elementine tıkla "ElementListTwo"
-* Element var mı kontrol et "StoreChosenList"
+* Elementin yüklenmesini bekle "StoreChosenList"
 
 # Calisma saatleri kontrol edilir
 * Element var mı kontrol et "StoreHours"
