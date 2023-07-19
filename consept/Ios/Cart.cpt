@@ -19,15 +19,12 @@
 # Sepet kontrol edilerek temizlenir
 * "sepetPopUpKapatBtn" li element varsa tıkla
 * Elementin yüklenmesini bekle "sepetimSilBtn"
-* Elementine tıkla "sepetimSilBtn"
-* Elementin yüklenmesini bekle "sepetimSilPopUpSil"
-* Elementine tıkla "sepetimSilPopUpSil"
-* "5" saniye bekle
-* "sepetimSilBtn" li element varsa tıkla yoksa devam et
-* "sepetimSilPopUpSil" li element varsa tıkla yoksa devam et
-//* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-//* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-* "BosSepetListesi" elementi bulunana kadar en fazla "25" saniye kadar bekle
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
+* Elementin yüklenmesini bekle "1"
+* Elementin yüklenmesini bekle "PageCloseIcon"
+* Elementin yüklenmesini bekle "BosSepetListesi"
+//* "BosSepetListesi" elementi bulunana kadar en fazla "25" saniye kadar bekle
 //* "BosSepetListesi" icin sayac tut
 
 # Ana sayfadan bir urun sepete eklenir
