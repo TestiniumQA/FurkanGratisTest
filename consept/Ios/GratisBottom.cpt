@@ -61,9 +61,6 @@
 
 # Markalar swipe edilir ve tiklanir
 * "2" saniye bekle
-* "1" kere aşağıya kaydır
-* "2" saniye bekle
-* "1" kere yukarı doğru kaydır
 * Elementin yüklenmesini bekle "ElementListThree"
 * Elementine tıkla "ElementListThree"
 * Elementin yüklenmesini bekle "PageToolbarTitle"
