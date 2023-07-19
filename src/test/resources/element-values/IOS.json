@@ -1634,7 +1634,7 @@
     "key": "FacebookPage",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//XCUIElementTypeOther[@name='Facebook, Meta Platforms, Inc., iki buçuk yıldız, YÜKLÜ'])[2]",
+    "iosValue": "//XCUIElementTypeButton[@value='\u200Efacebook.com, güvenli ve onaylanmış bağlantı']",
     "iosType": "xpath"
   },
   {
