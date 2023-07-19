@@ -9,10 +9,13 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 * Element var mı kontrol et "tabHeaderSlct"
 
-# En Çok Satanlar ürünleri swipe edilir ve tıklanır.
-* "productName"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+# En Çok Satanlar ürünleri swipe edilir.
+* "productName"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * "productName" elementinin hizasından sağdan sola "3" kere kaydır
 * "productName" elementinin hizasından soldan sağa "1" kere kaydır
+
+# En Çok Satanlar ürünlerine tıklanır.
+* "productName"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "productName"
 * Elementine tıkla "productName"
 * "2" saniye bekle
@@ -70,3 +73,14 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
 * Elementin yüklenmesini bekle "AddedToCartText"
+
+# En Son Gezdiklerim alanına gidilir.
+* "5" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "key"
+* "visitedAddBtn"li elementi bulana kadar "7" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "visitedAddBtn"
+
+# En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
+* Element var mı kontrol et "favBtn"
+* Elementine tıkla "favBtn"
+* "2" saniye bekle

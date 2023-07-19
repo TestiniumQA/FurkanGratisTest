@@ -12,7 +12,8 @@ tags:Gratis_Android_AnasayfaKampanyalarSwipeVeTiklama
 * Kampanyalar swipe edilir.
 * Kampanyaya tiklanir.
 * En Çok Satanlar başlıkları swipe edilir ve tıklanır.
-* En Çok Satanlar ürünleri swipe edilir ve tıklanır.
+* En Çok Satanlar ürünleri swipe edilir.
+* En Çok Satanlar ürünlerine tıklanır.
 * Ana sayfa kampanyasına tıklanır.
 * Ana sayfa kampanyasına tıklanır.
 * Ana sayfa kampanyasına tıklanır.
@@ -57,3 +58,21 @@ tags:Gratis_Android_NonLoginSepeteEkleme
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Sepet kontrol edilerek temizlenir.
+
+Visited Add Favorite
+--------------------
+tags:Gratis_Android_EnSonGezdiklerimFavori
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* En Çok Satanlar ürünlerine tıklanır.
+* En Son Gezdiklerim alanına gidilir.
+* En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
+* Urun favorilere eklenir.
+* En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
+* En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
+* Yeni favori listesi olusturulur ve secilen urun favori eklenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Profil sayfasındaki Favori butonuna tiklanir.
+* Listeden yeni eklenen favori listesi secilir.
+* Favori listesi silinir.
