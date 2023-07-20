@@ -1,5 +1,6 @@
 # Kampanyalar sayfasi acilir
 * "KampanyaSec" elementi bulunana kadar en fazla "25" saniye kadar bekle
+* Elementin yüklenmesini bekle "PageToolbarTitle"
 * "kampanyalarSekmesi" elementi bulunana kadar en fazla "25" saniye kadar bekle
 * Elementine tıkla "kampanyalarSekmesi"
 * Elementin yüklenmesini bekle "KampanyaSec"
