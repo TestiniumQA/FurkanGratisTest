@@ -203,7 +203,7 @@
 * Elementin yüklenmesini bekle "Contact"
 * Elementine tıkla "Contact"
 * "10" saniye bekle
-* "PageToolbarTitle" elementi bulunana kadar en fazla "50" saniye kadar bekle
+//* "PageToolbarTitle" elementi bulunana kadar en fazla "50" saniye kadar bekle
 //* Elementin yüklenmesini bekle "ContactFirstName"
 
 # Iletisim numarasına tiklanir
