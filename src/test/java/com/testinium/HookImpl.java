@@ -135,16 +135,16 @@ public class HookImpl {
                 capabilities.setCapability("usePrebuiltWDA",true);
                 capabilities.setCapability("useNewWDA", true);
                 capabilities.setCapability("autoAcceptAlerts",false);
-                capabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 5);
+                //capabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 5);
                 appiumDriver = new IOSDriver(new URL(hubURL), capabilities);
             }
         }
         selector = SelectorFactory
                 .createElementHelper(localAndroid ? SelectorType.ANDROID : SelectorType.IOS);
-        appiumDriver.manage().timeouts().implicitlyWait(25, TimeUnit.SECONDS);
+        appiumDriver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
         appiumFluentWait = new FluentWait<AppiumDriver<MobileElement>>(appiumDriver);
-        appiumFluentWait.withTimeout(Duration.ofSeconds(25))
-                .pollingEvery(Duration.ofMillis(300))
+        appiumFluentWait.withTimeout(Duration.ofSeconds(30))
+                .pollingEvery(Duration.ofMillis(450))
                 .ignoring(NoSuchElementException.class);
 
 
