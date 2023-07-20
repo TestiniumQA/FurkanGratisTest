@@ -1,5 +1,5 @@
 # Kampanyalar sayfasi acilir
-* Elementin yüklenmesini bekle "KampanyaSec"
+* "KampanyaSec" elementi bulunana kadar en fazla "25" saniye kadar bekle
 * "kampanyalarSekmesi" elementi bulunana kadar en fazla "25" saniye kadar bekle
 * Elementine tıkla "kampanyalarSekmesi"
 * Elementin yüklenmesini bekle "KampanyaSec"
