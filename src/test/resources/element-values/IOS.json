@@ -1981,11 +1981,11 @@
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "uygulamaKullan",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeButton[`label == \"Kullan\"`]",
+    "iosType": "classChain"
   },
   {
     "key": "xxxx",
