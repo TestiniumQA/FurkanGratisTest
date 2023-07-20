@@ -486,6 +486,17 @@ public class StepImpl extends HookImpl {
         waitBySecond(3);
     }
 
+    @Step("Safari'de element kontrolu yapilir ve uygulamaya geri donulur")
+    public void IosCheckSafari() {
+        waitBySecond(5);
+        logger.info("Safari sayfasi acildi elementi bulundu.");
+        // Uygulamaya geri dönme işlemi (iOS için)
+        appiumDriver.runAppInBackground(Duration.ofSeconds(10));
+        appiumDriver.activateApp("com.pharos.Gratis");
+        logger.info("Gratis app uygulamasina geri donuldu.");
+        waitBySecond(10);
+    }
+
     @Step({"Check if element <key> exists",
             "Wait for element to load with key <key>",
             "Element var mı kontrol et <key>",
@@ -925,7 +936,7 @@ public class StepImpl extends HookImpl {
             System.out.println(width + "  " + height);
 
             int swipeStartWidth = width / 2, swipeEndWidth = width / 2;
-            int swipeStartHeight = (height * 90) / 100;
+            int swipeStartHeight = (height * 75) / 100;
             int swipeEndHeight = (height * 40) / 100;
             System.out.println("Start width: " + swipeStartWidth + " - Start height: " + swipeStartHeight + " - End height: " + swipeEndHeight);
             //appiumDriver.swipe(swipeStartWidth, swipeStartHeight, swipeEndWidth, swipeEndHeight, 1000);
@@ -941,7 +952,7 @@ public class StepImpl extends HookImpl {
             int width = d.width;
 
             int swipeStartWidth = width / 2, swipeEndWidth = width / 2;
-            int swipeStartHeight = (height * 80) / 100;
+            int swipeStartHeight = (height * 75) / 100;
             int swipeEndHeight = (height * 20) / 100;
             //appiumDriver.swipe(swipeStartWidth, swipeStartHeight, swipeEndWidth, swipeEndHeight, 1000);
             new TouchAction(appiumDriver)
@@ -961,7 +972,7 @@ public class StepImpl extends HookImpl {
             int width = d.width;
 
             int swipeStartWidth = width / 2, swipeEndWidth = width / 2;
-            int swipeStartHeight = (height * 90) / 100;
+            int swipeStartHeight = (height * 75) / 100;
             int swipeEndHeight = (height * 50) / 100;
             //appiumDriver.swipe(swipeStartWidth, swipeStartHeight, swipeEndWidth, swipeEndHeight, 1000);
             new TouchAction(appiumDriver)
@@ -976,7 +987,7 @@ public class StepImpl extends HookImpl {
             int width = d.width;
 
             int swipeStartWidth = width / 2, swipeEndWidth = width / 2;
-            int swipeStartHeight = (height * 90) / 100;
+            int swipeStartHeight = (height * 75) / 100;
             int swipeEndHeight = (height * 40) / 100;
             // appiumDriver.swipe(swipeStartWidth, swipeStartHeight, swipeEndWidth, swipeEndHeight, 1000);
             new TouchAction(appiumDriver)
