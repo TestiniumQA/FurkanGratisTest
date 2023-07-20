@@ -36,7 +36,7 @@
 # İkinci indirim kampanyasına tiklanir
 * "3" saniye bekle
 * "PageToolbarTitle" elementi bulunana kadar en fazla "25" saniye kadar bekle
-* "%60indirimIos"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "2" kere aşağıya kaydır
 * "%60indirimIos" elementi bulunana kadar en fazla "25" saniye kadar bekle
 * "%60indirimIos" li  elementin x ekseninde yukaridan %"20" deger, y ekseninde yukaridan %"20" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "ToolbarUrunler"
