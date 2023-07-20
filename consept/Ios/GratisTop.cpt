@@ -3,7 +3,8 @@
 * Element var mı kontrol et "SepetBtn"
 * "GratisBeautyAnasayfaIcon" elementi bulunana kadar en fazla "100" saniye kadar bekle
 //* Elementin yüklenmesini bekle "GratisBeautyAnasayfaIcon"
-* Elementine tıkla "GratisBeautyAnasayfaIcon"
+//* Elementine tıkla "GratisBeautyAnasayfaIcon"
+* "GratisBeautyAnasayfaIcon" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "GratisBeautyPage"
 * "2" saniye bekle
 
