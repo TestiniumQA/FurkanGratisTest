@@ -1249,7 +1249,7 @@
     "key": "StoreHoursPopupIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeStaticText[@name=\" Pazartesi - [11:35 - 21:00]\n\nSalı - [10:00 - 21:00]\n\nÇarşamba - [10:00 - 21:00]\n\nPerşembe - [10:00 - 21:00]\n\nCuma - [10:00 - 21:00]\n\nCumartesi - [10:00 - 21:00]\n\nPazar - [10:00 - 21:00]\"]",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\" Pazartesi - [10:00 - 21:00]\n\nSalı - [10:00 - 21:00]\n\nÇarşamba - [10:00 - 21:00]\n\nPerşembe - [10:00 - 21:00]\n\nCuma - [10:00 - 21:00]\n\nCumartesi - [10:00 - 21:00]\n\nPazar - [10:00 - 20:00]\"]",
     "iosType": "xpath"
   },
   {
