@@ -32,7 +32,7 @@
 
 # Diger'e tiklanir diger sayfasinin acildigi gorulur
 //* "PageCloseIcon" li element varsa tıkla
-//* "PageCloseIcon" li element varsa tıkla yoksa devam et
+* "PageCloseIcon" li element varsa tıkla yoksa devam et
 * Elementin yüklenmesini bekle "digerSekmesi"
 * "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
 
