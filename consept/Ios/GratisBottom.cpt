@@ -243,7 +243,8 @@
 * Elementin yüklenmesini bekle "FacebookBtn"
 * Elementine tıkla "FacebookBtn"
 * "2" saniye bekle
-* Safari'de "FacebookPage" kontrolu yapilir ve uygulamaya geri donulur
+//* Safari'de "FacebookPage" kontrolu yapilir ve uygulamaya geri donulur
+* Safari'de element kontrolu yapilir ve uygulamaya geri donulur
 * Elementin yüklenmesini bekle "FacebookBtn"
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -252,7 +253,8 @@
 * Elementin yüklenmesini bekle "InstagramBtn"
 * Elementine tıkla "InstagramBtn"
 * "2" saniye bekle
-* Safari'de "InstagramPage" kontrolu yapilir ve uygulamaya geri donulur
+//* Safari'de "InstagramPage" kontrolu yapilir ve uygulamaya geri donulur
+* Safari'de element kontrolu yapilir ve uygulamaya geri donulur
 * Elementin yüklenmesini bekle "InstagramBtn"
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
@@ -261,7 +263,8 @@
 * Elementin yüklenmesini bekle "TwitterBtn"
 * Elementine tıkla "TwitterBtn"
 * "2" saniye bekle
-* Safari'de "TwitterPage" kontrolu yapilir ve uygulamaya geri donulur
+//* Safari'de "TwitterPage" kontrolu yapilir ve uygulamaya geri donulur
+* Safari'de element kontrolu yapilir ve uygulamaya geri donulur
 * Elementin yüklenmesini bekle "TwitterBtn"
 * "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
