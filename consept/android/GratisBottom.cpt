@@ -277,7 +277,7 @@ This is a concept file with following syntax for each concept.
 # Ana sayfa tab'ına tıklanır.
 * Elementin yüklenmesini bekle "anasayfaTab"
 * Elementine tıkla "anasayfaTab"
-* Elementin yüklenmesini bekle "kampanyaSec"
+* "2" saniye bekle
 
 # Katalog sayfasina gecilir.
 * "catalogBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
