@@ -47,7 +47,8 @@
 
 # Aratilan urun adina ait urunlerin listelendigi gorulur
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "SearchToolbarTitle"
+* "SearchToolbarTitle" elementi bulunana kadar en fazla "15" saniye kadar bekle
+* "1" saniye bekle
 * "SearchToolbarTitle" elementinin "Pastel Oje 106" textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
@@ -55,7 +56,8 @@
 
 # Urun detay sayfasinin acildigi gorulur
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "ProductDetailTitle"
+* "ProductDetailTitle" elementi bulunana kadar en fazla "15" saniye kadar bekle
+* "1" saniye bekle
 * "ProductDetailTitle" elementinin "Ürün Detay" textini içerdiği kontrol edilir
 * "1" saniye bekle
 
