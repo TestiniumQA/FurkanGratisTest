@@ -75,7 +75,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "AddedToCartText"
 
 # En Son Gezdiklerim alanına gidilir.
-* "5" kere aşağıya kaydır
+* "8" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "key"
 * "visitedAddBtn"li elementi bulana kadar "7" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "visitedAddBtn"

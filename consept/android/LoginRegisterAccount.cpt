@@ -237,6 +237,8 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "addFavoritePopup"
 * Element var mı kontrol et "addFavoritePopup"
 * Elementine tıkla "popupOkayButton"
+* "1" saniye bekle
+* "popupOkayButton" değerini sayfa üzerinde olmadıgını kontrol et
 * "2" saniye bekle
 
 # Ana sayfadaki urun favorilerden cikarilir.
