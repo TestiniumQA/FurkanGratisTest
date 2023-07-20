@@ -232,6 +232,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "1"
 * Elementine tıkla "popupOkayButton"
 * "1" saniye bekle
+* "popupOkayButton" li element varsa tıkla
 
 # Urun favorilere eklenir.
 * Elementin yüklenmesini bekle "addFavoritePopup"
