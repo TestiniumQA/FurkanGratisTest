@@ -1,5 +1,5 @@
 # Gratis Beauty sayfasina gecilir
-* Elementin yüklenmesini bekle "KampanyaSec"
+* "KampanyaSec" elementi bulunana kadar en fazla "20" saniye kadar bekle
 * Element var mı kontrol et "SepetBtn"
 * "GratisBeautyAnasayfaIcon" elementi bulunana kadar en fazla "100" saniye kadar bekle
 //* Elementin yüklenmesini bekle "GratisBeautyAnasayfaIcon"
