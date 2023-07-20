@@ -11,7 +11,7 @@
 # Login sayfasina gecilir
 * "digerSekmesi" elementi bulunana kadar en fazla "20" saniye kadar bekle
 * Elementine tıkla "digerSekmesi"
-* Elementin yüklenmesini bekle "navbarDigerTitle"
+* "navbarDigerTitle" elementi bulunana kadar en fazla "20" saniye kadar bekle
 //* "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
 //* IOS icin login ise logout olunur
 * "uyeOlVeyaGirisYap" elementi bulunana kadar en fazla "20" saniye kadar bekle
