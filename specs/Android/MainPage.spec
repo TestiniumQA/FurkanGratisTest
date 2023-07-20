@@ -76,3 +76,24 @@ tags:Gratis_Android_EnSonGezdiklerimFavori
 * Profil sayfasındaki Favori butonuna tiklanir.
 * Listeden yeni eklenen favori listesi secilir.
 * Favori listesi silinir.
+
+Non-Login Visited Add Favorite
+------------------------------
+tags:Gratis_Android_NonLoginEnSonGezdiklerimFavori
+* Uygulama baslatilir.
+* En Çok Satanlar ürünlerine tıklanır.
+* En Son Gezdiklerim alanına gidilir.
+* En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
+* Favori ikonu ile login olunur.
+* Urun favorilere eklenir.
+* En Son Gezdiklerim alanına gidilir.
+* En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
+* Uygulamadan cikis yapilir.
+* Ana sayfa tab'ına tıklanır.
+* En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
+* Favori ikonu ile login olunur.
+* Yeni favori listesi olusturulur ve secilen urun favori eklenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Profil sayfasındaki Favori butonuna tiklanir.
+* Listeden yeni eklenen favori listesi secilir.
+* Favori listesi silinir.
