@@ -10,7 +10,7 @@ IOS Scenario Gratis Beauty Page
 tags:Gratis_IOS_GratisBeautyPage
 * Uygulama baslatilir
 * Gratis Beauty sayfasina gecilir
-* Geri butonu ile ana sayfaya donulur
+//* Geri butonu ile ana sayfaya donulur
 
 IOS Scenario Stores Province County Store Search
 ------------------------------------------------
