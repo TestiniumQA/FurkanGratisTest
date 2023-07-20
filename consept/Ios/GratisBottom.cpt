@@ -9,7 +9,6 @@
 # Kampanyalar swipe edilir
 * Elementin yüklenmesini bekle "KampanyaSec"
 * "KampanyaSec" elementinin hizasından sağdan sola "2" kere kaydır
-* "2" saniye bekle
 * "KampanyaSec" elementinin hizasından soldan sağa "2" kere kaydır
 
 # Kampanyaya tiklanir
