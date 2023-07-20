@@ -43,6 +43,7 @@
 * Elementin yüklenmesini bekle "SearchNoResultFound"
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
+* "1" saniye bekle
 
 # Aratilan urun adina ait urunlerin listelendigi gorulur
 * "1" saniye bekle
@@ -50,11 +51,13 @@
 * "SearchToolbarTitle" elementinin "Pastel Oje 106" textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
+* "1" saniye bekle
 
 # Urun detay sayfasinin acildigi gorulur
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "ProductDetailTitle"
 * "ProductDetailTitle" elementinin "Ürün Detay" textini içerdiği kontrol edilir
+* "1" saniye bekle
 
 # Kategori adi <text> yazilir, kategori secilir
 * "5" saniye bekle
