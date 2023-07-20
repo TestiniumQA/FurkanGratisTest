@@ -77,7 +77,7 @@ This is a concept file with following syntax for each concept.
 # En Son Gezdiklerim alanına gidilir.
 * "8" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "key"
-* "visitedAddBtn"li elementi bulana kadar "7" kere swipe yap ve elementi bul
+* "visitedAddBtn"li elementi bulana kadar "10" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "visitedAddBtn"
 
 # En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
