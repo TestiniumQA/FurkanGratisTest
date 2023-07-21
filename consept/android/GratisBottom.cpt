@@ -30,7 +30,7 @@ This is a concept file with following syntax for each concept.
 
 # İkinci indirim kampanyasına tiklanir.
 * Elementin yüklenmesini bekle "kampanyaSec"
-* "2" kere aşağıya kaydır
+* "3" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "%60indirim"
 * "%60indirim" elementinin koordinatlarına x="0" y="200" degerlerini ekleyerek tıkla
 * Elementin yüklenmesini bekle "toolbarUrunler"
