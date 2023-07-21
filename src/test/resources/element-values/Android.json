@@ -1328,5 +1328,10 @@
     "key": "visitedText",
     "androidValue": "com.gratis.android:id/visited_desc_txt",
     "androidType": "id"
+  },
+  {
+    "key": "beautyPopup",
+    "androidValue": "//android.view.View[@text='X']",
+    "androidType": "xpath"
   }
 ]
