@@ -62,6 +62,7 @@ This is a concept file with following syntax for each concept.
 # Alışverişe devam edilir.
 * Elementin yüklenmesini bekle "AddedToCartText"
 * Elementine tıkla "alisveriseDevamEt"
+* "1" saniye bekle
 
 # Sepete git'e tıklanır.
 * Elementin yüklenmesini bekle "AddedToCartText"
