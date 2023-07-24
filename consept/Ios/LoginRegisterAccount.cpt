@@ -426,7 +426,7 @@
 * Elementine tıkla "PopupOkayBtnIos"
 
 # Yeni favori listesi olusturulur ve secilen urun favori eklenir
-* Element var mı kontrol et "AddListButton"
+* Elementin yüklenmesini bekle "AddListButton"
 * Elementine tıkla "AddListButton"
 * Elementin yüklenmesini bekle "AddListPopupTitle"
 //* Element var mı kontrol et "AddListTextbox"
