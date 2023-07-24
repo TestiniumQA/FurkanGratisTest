@@ -121,3 +121,15 @@ tags:Gratis_Android_EnSonGezdiklerimNonLoginSepetDevam
 * En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
 * Sepete Ekle butonu ile login olunur.
 * Alışverişe devam edilir.
+
+Non-Login Visited Add To Cart And Go To Cart
+--------------------------------------------
+tags:Gratis_Android_EnSonGezdiklerimNonLoginSepeteGit
+* Uygulama baslatilir.
+* En Çok Satanlar ürünlerine tıklanır.
+* En Son Gezdiklerim alanına gidilir.
+* En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
+* Sepete Ekle butonu ile login olunur.
+* Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Sepet kontrol edilerek temizlenir.
