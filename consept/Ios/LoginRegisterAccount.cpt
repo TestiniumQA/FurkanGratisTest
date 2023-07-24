@@ -23,6 +23,7 @@
 * Elementin yüklenmesini bekle "RegisterBtnIos"
 
 # Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* "1" saniye bekle
 * Elementin yüklenmesini bekle "ProfileRoot"
 * "ProfileRoot" elementine sayacli tikla "PageToolbarTitle" value degerini bekle
 
@@ -35,6 +36,7 @@
 * "PageCloseIcon" li element varsa tıkla yoksa devam et
 * Elementin yüklenmesini bekle "digerSekmesi"
 * "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
+* "1" saniye bekle
 
 # Sifre basarili sekilde degistirilir
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
@@ -404,7 +406,8 @@
 //* Elementin yüklenmesini bekle "EnCokSatanlarProduct"
 * "FavBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "FavBtn"
-* Element var mı kontrol et "AddFavoritePopup"
+* "2" saniye bekle
+//* Element var mı kontrol et "AddFavoritePopup"
 
 # Urun favorilere eklenir
 * Elementin yüklenmesini bekle "AddFavoritePopup"
