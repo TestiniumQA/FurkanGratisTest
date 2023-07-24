@@ -899,7 +899,7 @@
     "key": "FavBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//XCUIElementTypeButton[@name='favoriteOffPurpleIcon'])[1]",
+    "iosValue": "//XCUIElementTypeButton[@name='favoriteOffPurpleIcon']",
     "iosType": "xpath"
   },
   {
@@ -1883,6 +1883,27 @@
     "iosType": "xpath"
   },
   {
+    "key": "ProductNameOne",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ProductNameTwo",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ProductNameThree",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]",
+    "iosType": "xpath"
+  },
+  {
     "key": "MainPageCampaignOne",
     "androidValue": "",
     "androidType": "",
@@ -1986,6 +2007,944 @@
     "androidType": "",
     "iosValue": "**/XCUIElementTypeButton[`label == \"Kullan\"`]",
     "iosType": "classChain"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "xxxx",
+    "iosType": "xpath"
   },
   {
     "key": "xxxx",
