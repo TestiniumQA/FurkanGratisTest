@@ -97,3 +97,17 @@ tags:Gratis_Android_NonLoginEnSonGezdiklerimFavori
 * Profil sayfasındaki Favori butonuna tiklanir.
 * Listeden yeni eklenen favori listesi secilir.
 * Favori listesi silinir.
+
+Visited Add To Cart
+-------------------
+tags:Gratis_Android_EnSonGezdiklerimSepet
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* En Çok Satanlar ürünlerine tıklanır.
+* En Son Gezdiklerim alanına gidilir.
+* En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
+* Alışverişe devam edilir.
+* En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
+* Sepete git'e tıklanır.
+* Sepet kontrol edilerek temizlenir.

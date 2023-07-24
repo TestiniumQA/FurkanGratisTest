@@ -63,7 +63,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "AddedToCartText"
 * Elementine tıkla "alisveriseDevamEt"
 
-#Sepete git'e tıklanır.
+# Sepete git'e tıklanır.
 * Elementin yüklenmesini bekle "AddedToCartText"
 * Elementine tıkla "goToCartButton"
 
@@ -82,4 +82,9 @@ This is a concept file with following syntax for each concept.
 # En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
 * Element var mı kontrol et "favBtn"
 * Elementine tıkla "favBtn"
+* "2" saniye bekle
+
+# En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
+* Element var mı kontrol et "visitedAddBtn"
+* Elementine tıkla "visitedAddBtn"
 * "2" saniye bekle
