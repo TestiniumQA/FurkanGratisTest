@@ -114,7 +114,7 @@ tags:Gratis_Android_EnSonGezdiklerimSepet
 
 Non-Login Visited Add To Cart
 -----------------------------
-tags:Gratis_Android_EnSonGezdiklerimNonLoginSepet
+tags:Gratis_Android_EnSonGezdiklerimNonLoginSepetDevam
 * Uygulama baslatilir.
 * En Çok Satanlar ürünlerine tıklanır.
 * En Son Gezdiklerim alanına gidilir.
