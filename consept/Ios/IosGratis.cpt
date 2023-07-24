@@ -26,7 +26,7 @@
 * "IOSmail" csv dosyasindan rastgele kullanici sec
 * Elementin yüklenmesini bekle "EpostaInputAlani"
 * Elementin yüklenmesini bekle "sifreInputAlani"
-*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 * Elementin yüklenmesini bekle "profilim"
@@ -76,8 +76,9 @@
 * "sepetimAlisveriseDevamEt" elementine sayacli tikla "kategorilerSekmesi" value degerini bekle
 
 # Uygulamadan cikis yapilir
+* "digerSekmesi" elementine sayacli tikla "profilim" value degerini bekle
 * "1" saniye bekle
-* "cikisYapBtnn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* "cikisYapBtnn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "cikisYapBtnn"
 * Elementine tıkla "cikisYapBtnn"
