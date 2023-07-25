@@ -1140,14 +1140,14 @@ public class StepImpl extends HookImpl {
         endY = (height * endY) / 100;
 
         int swipeDistanceX = endX - startX;
-        int swipeDistanceY = startY - endY; // Yönü tersine çeviriyoruz.
+        int swipeDistanceY = startY - endY;
 
         for (int i = 0; i < count; i++) {
             waitBySecond(1);
             TouchAction action = new TouchAction(appiumDriver);
             action.press(PointOption.point(startX, startY))
                     .waitAction(WaitOptions.waitOptions(ofMillis(1000)))
-                    .moveTo(PointOption.point(startX + swipeDistanceX, startY + swipeDistanceY)) // Yönü tersine çevrilen değerleri kullanıyoruz.
+                    .moveTo(PointOption.point(startX + swipeDistanceX, startY + swipeDistanceY))
                     .release().perform();
         }
     }
