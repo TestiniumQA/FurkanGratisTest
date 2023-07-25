@@ -1147,6 +1147,15 @@ public class StepImpl extends HookImpl {
         pointToPointSwipeWithCoordinats(40, elementLocation.getY(),  width - 50, elementLocation.getY(), times);
     }
 
+    @Step("<key> elementinin hizasından aşağıdan yukarıya <times> kere kaydır")
+    public void swipeFromDownToUpAligned(String key, int times) throws InterruptedException {
+        Dimension d = appiumDriver.manage().window().getSize();
+
+        int height = d.height;
+        Point elementLocation = findElementByKeyWithoutAssert(key).getLocation();
+        pointToPointSwipeWithCoordinats(40, elementLocation.getX(),  height - 50, elementLocation.getX(), times);
+    }
+
     @Step("<key> li elementi hizala ve sagdan sola kaydır <times> kere y cordinatına <number> ekle")
     public void horizontalSwipeWithElement(String key, int times, int number) throws InterruptedException {
 
