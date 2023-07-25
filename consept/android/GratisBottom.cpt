@@ -324,3 +324,35 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "catalogFav"
 * Element var mı kontrol et "catalogFav"
 * Elementine tıkla "catalogOptions"
+
+# Sırala butonuna tıklanır.
+* Elementin yüklenmesini bekle "sıralaBtn"
+* Elementine tıkla "sıralaBtn"
+* Elementin yüklenmesini bekle "sortByMost"
+
+# Çok Satanlar butonuna tıklanır.
+* Element var mı kontrol et "sortByMost"
+* Elementine tıkla "sortByMost"
+* Element var mı kontrol et "productName"
+
+# Akıllı Sıralama butonuna tıklanır.
+* Element var mı kontrol et "sortBySmart"
+* Elementine tıkla "sortBySmart"
+* Element var mı kontrol et "productName"
+
+# En Yeniler butonuna tıklanır.
+* Element var mı kontrol et "sortByNew"
+* Elementine tıkla "sortByNew"
+* Element var mı kontrol et "productName"
+
+# En Düşük Fiyat butonuna tıklanır.
+* Element var mı kontrol et "sortByLowPrice"
+* Elementine tıkla "sortByLowPrice"
+* "1" saniye bekle
+* Fiyatların yazdığı "gratisCardPrice" li elementin degerinin fiyata gore artan oldugu kontrol edilir
+
+# En Yüksek Fiyat butonuna tıklanır.
+* Element var mı kontrol et "sortByHighPrice"
+* Elementine tıkla "sortByHighPrice"
+* "1" saniye bekle
+* Fiyatların yazdığı "gratisCardPrice" li elementin degerinin fiyata gore azalan oldugu kontrol edilir

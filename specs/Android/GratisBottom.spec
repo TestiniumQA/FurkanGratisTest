@@ -86,3 +86,20 @@ tags:Gratis_Android_GratisKatalog
 * Katalog seceneklerine tiklanir.
 * Favorilerim sayfasina gecilir.
 * Katalog pdf indirmeye tiklanir.
+
+Sort By
+-------
+tags:Gratis_Android_Siralama
+* Uygulama baslatilir.
+* Kategoriler sayfasina gecilir.
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
+* Sırala butonuna tıklanır.
+* Çok Satanlar butonuna tıklanır.
+* Sırala butonuna tıklanır.
+* Akıllı Sıralama butonuna tıklanır.
+* Sırala butonuna tıklanır.
+* En Yeniler butonuna tıklanır.
+* Sırala butonuna tıklanır.
+* En Düşük Fiyat butonuna tıklanır.
+* Sırala butonuna tıklanır.
+* En Yüksek Fiyat butonuna tıklanır.

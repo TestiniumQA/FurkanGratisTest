@@ -1333,5 +1333,30 @@
     "key": "beautyPopup",
     "androidValue": "//android.view.View[@text='X']",
     "androidType": "xpath"
+  },
+  {
+    "key": "sortByMost",
+    "androidValue": "//android.widget.TextView[@text='Çok Satanlar']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "sortBySmart",
+    "androidValue": "//android.widget.TextView[@text='Akıllı Sıralama']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "sortByNew",
+    "androidValue": "//android.widget.TextView[@text='En Yeniler']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "sortByLowPrice",
+    "androidValue": "//android.widget.TextView[@text='En Düşük Fiyat']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "sortByHighPrice",
+    "androidValue": "//android.widget.TextView[@text='En Yüksek Fiyat']",
+    "androidType": "xpath"
   }
 ]
