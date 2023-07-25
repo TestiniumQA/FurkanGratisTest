@@ -973,7 +973,7 @@ public class StepImpl extends HookImpl {
 
             int swipeStartWidth = width / 2, swipeEndWidth = width / 2;
             int swipeStartHeight = (height * 75) / 100;
-            int swipeEndHeight = (height * 50) / 100;
+            int swipeEndHeight = (height * 25) / 100;
             //appiumDriver.swipe(swipeStartWidth, swipeStartHeight, swipeEndWidth, swipeEndHeight, 1000);
             new TouchAction(appiumDriver)
                     .press(PointOption.point(swipeStartWidth, swipeStartHeight))
@@ -2075,8 +2075,6 @@ public class StepImpl extends HookImpl {
             firstValue =Long.parseLong(firtKeyTxt);
             logger.info(key1+" elementinin degeri : "+firstValue);
 
-            swipeDownAccordingToPhoneSize();
-            swipeDownAccordingToPhoneSize();
             swipeDownAccordingToPhoneSize();
             waitBySecond(1);
 
