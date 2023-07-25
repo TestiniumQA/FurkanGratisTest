@@ -2033,15 +2033,15 @@ public class StepImpl extends HookImpl {
         long secondValue = 0;
 
         while (firstValue==secondValue)
-        { String firtKeyTxt = findElementByKey(key1).getText();
-            firtKeyTxt = firtKeyTxt.replaceAll("\\s", "");
+        { String firstKeyTxt = findElementByKey(key1).getText();
+            firstKeyTxt = firstKeyTxt.replaceAll("\\s", "");
             //firtKeyTxt = firtKeyTxt.replace(firtKeyTxt.substring(firtKeyTxt.length()-2), "");
             //firtKeyTxt = firtKeyTxt.replaceAll(",", "");
             //firtKeyTxt = firtKeyTxt.replaceAll("\\.", "");
-            firstValue =Long.parseLong(firtKeyTxt);
+            firstValue =Long.parseLong(firstKeyTxt);
             logger.info("1.elementinin degeri : "+firstValue);
 
-            swipe(1);
+            swipe(3);
 
             String secondKeyText = findElementByKey(key1).getText();
             secondKeyText = secondKeyText.replaceAll("\\s", "");
@@ -2075,6 +2075,8 @@ public class StepImpl extends HookImpl {
             firstValue =Long.parseLong(firtKeyTxt);
             logger.info(key1+" elementinin degeri : "+firstValue);
 
+            swipeDownAccordingToPhoneSize();
+            swipeDownAccordingToPhoneSize();
             swipeDownAccordingToPhoneSize();
             waitBySecond(1);
 
