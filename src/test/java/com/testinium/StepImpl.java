@@ -1128,6 +1128,31 @@ public class StepImpl extends HookImpl {
 
     }
 
+    @Step("<StartX>,<StartY> oranlarından <EndX>,<EndY> oranlarına <times> kere yukarı swipe et")
+    public void pointToPointSwipeUp(int startX, int startY, int endX, int endY, int count) throws InterruptedException {
+        Dimension d = appiumDriver.manage().window().getSize();
+
+        int height = d.height;
+        int width = d.width;
+        startX = (width * startX) / 100;
+        startY = (height * startY) / 100;
+        endX = (width * endX) / 100;
+        endY = (height * endY) / 100;
+
+        int swipeDistanceX = endX - startX;
+        int swipeDistanceY = startY - endY; // Yönü tersine çeviriyoruz.
+
+        for (int i = 0; i < count; i++) {
+            waitBySecond(1);
+            TouchAction action = new TouchAction(appiumDriver);
+            action.press(PointOption.point(startX, startY))
+                    .waitAction(WaitOptions.waitOptions(ofMillis(1000)))
+                    .moveTo(PointOption.point(startX + swipeDistanceX, startY + swipeDistanceY)) // Yönü tersine çevrilen değerleri kullanıyoruz.
+                    .release().perform();
+        }
+    }
+
+
     @Step("<key> elementinin hizasından sağdan sola <times> kere kaydır")
     public void swipeFromLeftToRightAligned(String key, int times) throws InterruptedException {
         Dimension d = appiumDriver.manage().window().getSize();
@@ -1153,7 +1178,7 @@ public class StepImpl extends HookImpl {
 
         int height = d.height;
         Point elementLocation = findElementByKeyWithoutAssert(key).getLocation();
-        pointToPointSwipeWithCoordinats(elementLocation.getX(), height - 50,  elementLocation.getX(),40 , times);
+        pointToPointSwipeWithCoordinats(elementLocation.getX(), 160,  elementLocation.getX(), height + 50, times);
     }
 
     @Step("<key> li elementi hizala ve sagdan sola kaydır <times> kere y cordinatına <number> ekle")
