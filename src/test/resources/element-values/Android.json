@@ -936,7 +936,7 @@
   },
   {
     "key": "locationPermissionBtn",
-    "androidValue": "com.android.permissioncontroller:id/permission_allow_one_time_button",
+    "androidValue": "com.android.permissioncontroller:id/permission_allow_foreground_only_button",
     "androidType": "id"
   },
   {
@@ -1121,7 +1121,7 @@
   },
   {
     "key": "instagramPage",
-    "androidValue": "//android.widget.Button",
+    "androidValue": "//android.view.View[@text='Gratis']",
     "androidType": "xpath"
   },
   {
