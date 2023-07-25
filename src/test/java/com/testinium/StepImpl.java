@@ -1153,7 +1153,7 @@ public class StepImpl extends HookImpl {
 
         int height = d.height;
         Point elementLocation = findElementByKeyWithoutAssert(key).getLocation();
-        pointToPointSwipeWithCoordinats(40, elementLocation.getX(),  height - 50, elementLocation.getX(), times);
+        pointToPointSwipeWithCoordinats(elementLocation.getX(), 40,  elementLocation.getX(),height- 50 , times);
     }
 
     @Step("<key> li elementi hizala ve sagdan sola kaydır <times> kere y cordinatına <number> ekle")
