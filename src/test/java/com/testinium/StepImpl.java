@@ -2035,9 +2035,9 @@ public class StepImpl extends HookImpl {
         while (firstValue==secondValue)
         { String firtKeyTxt = findElementByKey(key1).getText();
             firtKeyTxt = firtKeyTxt.replaceAll("\\s", "");
-            firtKeyTxt = firtKeyTxt.replace(firtKeyTxt.substring(firtKeyTxt.length()-2), "");
-            firtKeyTxt = firtKeyTxt.replaceAll(",", "");
-            firtKeyTxt = firtKeyTxt.replaceAll("\\.", "");
+            //firtKeyTxt = firtKeyTxt.replace(firtKeyTxt.substring(firtKeyTxt.length()-2), "");
+            //firtKeyTxt = firtKeyTxt.replaceAll(",", "");
+            //firtKeyTxt = firtKeyTxt.replaceAll("\\.", "");
             firstValue =Long.parseLong(firtKeyTxt);
             logger.info("1.elementinin degeri : "+firstValue);
 
@@ -2045,9 +2045,9 @@ public class StepImpl extends HookImpl {
 
             String secondKeyText = findElementByKey(key1).getText();
             secondKeyText = secondKeyText.replaceAll("\\s", "");
-            secondKeyText = secondKeyText.replace(secondKeyText.substring(secondKeyText.length()-2), "");
-            secondKeyText = secondKeyText.replaceAll(",", "");
-            secondKeyText = secondKeyText.replaceAll("\\.", "");
+            //secondKeyText = secondKeyText.replace(secondKeyText.substring(secondKeyText.length()-2), "");
+            //secondKeyText = secondKeyText.replaceAll(",", "");
+            //secondKeyText = secondKeyText.replaceAll("\\.", "");
             secondValue =Long.parseLong(secondKeyText);
             logger.info("2.elementinin degeri : "+secondValue);
 
@@ -2069,9 +2069,9 @@ public class StepImpl extends HookImpl {
         while (firstValue==secondValue)
         { String firtKeyTxt = findElementByKey(key1).getText();
             firtKeyTxt = firtKeyTxt.replaceAll("\\s", "");
-            firtKeyTxt = firtKeyTxt.replace(firtKeyTxt.substring(firtKeyTxt.length()-2), "");
-            firtKeyTxt = firtKeyTxt.replaceAll(",", "");
-            firtKeyTxt = firtKeyTxt.replaceAll("\\.", "");
+            //firtKeyTxt = firtKeyTxt.replace(firtKeyTxt.substring(firtKeyTxt.length()-2), "");
+            //firtKeyTxt = firtKeyTxt.replaceAll(",", "");
+            //firtKeyTxt = firtKeyTxt.replaceAll("\\.", "");
             firstValue =Long.parseLong(firtKeyTxt);
             logger.info(key1+" elementinin degeri : "+firstValue);
 
@@ -2080,9 +2080,9 @@ public class StepImpl extends HookImpl {
 
             String secondKeyText = findElementByKey(key1).getText();
             secondKeyText = secondKeyText.replaceAll("\\s", "");
-            secondKeyText = secondKeyText.replace(secondKeyText.substring(secondKeyText.length()-2), "");
-            secondKeyText = secondKeyText.replaceAll(",", "");
-            secondKeyText = secondKeyText.replaceAll("\\.", "");
+            //secondKeyText = secondKeyText.replace(secondKeyText.substring(secondKeyText.length()-2), "");
+            //secondKeyText = secondKeyText.replaceAll(",", "");
+            //secondKeyText = secondKeyText.replaceAll("\\.", "");
             secondValue =Long.parseLong(secondKeyText);
             logger.info(key1+" elementinin degeri : "+secondValue);
 
