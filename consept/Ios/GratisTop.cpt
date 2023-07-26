@@ -56,8 +56,9 @@
 * Element var mı kontrol et "StoreName"
 
 # Listeden bir magaza secilir
-* "2" kere aşağıya kaydır
-* "1" kere yukarı doğru kaydır
+* "1" saniye bekle
+* "3" kere aşağıya kaydır
+//* "1" kere yukarı doğru kaydır
 * Elementin yüklenmesini bekle "ElementListOne"
 * Elementine tıkla "ElementListOne"
 * Elementin yüklenmesini bekle "ElementListTwo"
