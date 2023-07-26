@@ -106,7 +106,7 @@ tags:Gratis_Android_Siralama
 
 Choose Category and Add To Cart
 --------------------
-tags:Gratis_Android_KategoriSecimi
+tags:Gratis_Android_KategoriSecimiVeSepet
 * Uygulama baslatilir.
 * Kategoriler sayfasina gecilir.
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
