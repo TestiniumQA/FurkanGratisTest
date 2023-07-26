@@ -90,6 +90,7 @@ tags:Gratis_Android_NonLoginEnSonGezdiklerimFavori
 * En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
 * Uygulamadan cikis yapilir.
 * Ana sayfa tab'ına tıklanır.
+* En Son Gezdiklerim alanına gidilir.
 * En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
 * Favori ikonu ile login olunur.
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir.
