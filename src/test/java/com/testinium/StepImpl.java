@@ -2219,6 +2219,14 @@ public class StepImpl extends HookImpl {
         logger.info(key +" text degerine sahip elemente tiklandi");
     }
 
+    @Step("<String> text degerine sahip elemente tikla.")
+    public void clickWithTextAnd(String key) {
+
+        String element = "//android.widget.TextView[@text=\""+key+"\"]";
+        appiumDriver.findElement(MobileBy.xpath(element)).click();
+        logger.info(key +" text degerine sahip elemente tiklandi");
+    }
+
     @Step("<String> text degerine sahip butonun goruntulendigi kontrol edilir")
     public void findButtonWithText(String key) {
 

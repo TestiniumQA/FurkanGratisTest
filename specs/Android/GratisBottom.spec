@@ -103,3 +103,31 @@ tags:Gratis_Android_Siralama
 * En Düşük Fiyat butonuna tıklanır.
 * Sırala butonuna tıklanır.
 * En Yüksek Fiyat butonuna tıklanır.
+
+Choose Category and Add To Cart
+--------------------
+tags:Gratis_Android_KategoriSecimi
+* Uygulama baslatilir.
+* Kategoriler sayfasina gecilir.
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
+* Başa Dön butonuna bas.
+* Uygulama geri butonuna bas.
+* Alt kategorilerden biri seçilir.
+* Urun detay sayfasına geçilir.
+* Uygulama geri butonuna bas.
+* Sepete Ekle butonuna tıklanır.
+* Sepete Ekle butonu ile login olunur.
+* Sepete git'e tıklanır.
+* Uygulamadan cikis yapilir.
+* Kategoriler sayfasina gecilir.
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
+* Sepete Ekle butonuna tıklanır.
+* Sepete Ekle butonu ile login olunur.
+* Alışverişe devam edilir.
+* Kategoriler sayfasina gecilir.
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
+* Sepete Ekle butonuna tıklanır.
+* Alışverişe devam edilir.
+* Sepete Ekle butonuna tıklanır.
+* Sepete git'e tıklanır.
+* Sepet kontrol edilerek temizlenir.

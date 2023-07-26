@@ -1358,5 +1358,10 @@
     "key": "sortByHighPrice",
     "androidValue": "//android.widget.TextView[@text='En Yüksek Fiyat']",
     "androidType": "xpath"
+  },
+  {
+    "key": "scrollToTop",
+    "androidValue": "com.gratis.android:id/scroll_to_top_btn",
+    "androidType": "id"
   }
 ]

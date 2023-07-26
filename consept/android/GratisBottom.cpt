@@ -356,3 +356,35 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "sortByHighPrice"
 * "1" saniye bekle
 * Fiyatların yazdığı "gratisCardPrice" li elementin degerinin fiyata gore azalan oldugu kontrol edilir
+
+# Uygulama geri butonuna bas.
+* Element var mı kontrol et "geriBtn"
+* Elementine tıkla "geriBtn"
+
+# Alt kategorilerden biri seçilir.
+* "Göz Makyajı" text degerine sahip elemente tikla.
+* "Tüm Göz Makyajı Ürünleri" text degerine sahip elemente tikla.
+* "pageToolbarTitle" elementinin "Göz Makyajı" textini içerdiği kontrol edilir
+* Element var mı kontrol et "urunDetay"
+* Element var mı kontrol et "urunDetayy"
+
+# Başa Dön butonuna bas.
+* "productName" li elementi bul ve değerini "ilk ürün" olarak sakla
+* "3" kere aşağıya kaydır
+* Element var mı kontrol et "scrollToTop"
+* Elementine tıkla "scrollToTop"
+* "productName" li elementin text degeri hafizada "ilk ürün" olarak saklanan text ile esit mi kontrol et
+
+# Urun detay sayfasına geçilir.
+* Element var mı kontrol et "productName"
+* Elementine tıkla "productName"
+* "pageToolbarTitle" elementinin "Ürün Detay" textini içerdiği kontrol edilir
+
+# Non-Login ürün detayda urun sepete eklenir.
+* "pageToolbarTitle" elementinin "Ürün Detay" textini içerdiği kontrol edilir
+* "productAddButton"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementine tıkla "productAddButton"
+
+# Sepete Ekle butonuna tıklanır.
+* "productAddButton"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementine tıkla "productAddButton"
