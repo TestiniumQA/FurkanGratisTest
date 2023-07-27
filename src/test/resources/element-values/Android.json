@@ -1363,5 +1363,10 @@
     "key": "scrollToTop",
     "androidValue": "com.gratis.android:id/scroll_to_top_btn",
     "androidType": "id"
+  },
+  {
+    "key": "productCartName",
+    "androidValue": "com.gratis.android:id/shopping_item_title",
+    "androidType": "id"
   }
 ]
