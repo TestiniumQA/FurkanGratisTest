@@ -77,7 +77,6 @@ tags:Gratis_Android_EnSonGezdiklerimFavori
 * Listeden yeni eklenen favori listesi secilir.
 * Favori listesi silinir.
 
-
 Non-Login Visited Add Favorite
 ------------------------------
 tags:Gratis_Android_NonLoginEnSonGezdiklerimFavori
