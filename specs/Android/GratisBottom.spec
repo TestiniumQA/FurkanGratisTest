@@ -131,3 +131,45 @@ tags:Gratis_Android_KategoriSecimiVeSepet
 * Sepete Ekle butonuna tıklanır.
 * Sepete git'e tıklanır.
 * Sepet kontrol edilerek temizlenir.
+
+Non-Login Category and Add To Favorite
+-----------------------------------
+tags:Gratis_Android_NonLoginKategoriFavoriEkleme
+* Uygulama baslatilir.
+* Kategoriler sayfasina gecilir.
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
+* Listeleme alanından bir ürünün favori butonuna tıklanır.
+* Favori ikonu ile login olunur.
+* Urun favorilere eklenir.
+
+Non-Login Category and Add To Favorite List
+-------------------------------------------
+tags:Gratis_Android_NonLoginKategoriFavoriListesiOlusturma
+* Uygulama baslatilir.
+* Kategoriler sayfasina gecilir.
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
+* Listeleme alanından bir ürünün favori butonuna tıklanır.
+* Favori ikonu ile login olunur.
+* Yeni favori listesi olusturulur ve secilen urun favori eklenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Profil sayfasındaki Favori butonuna tiklanir.
+* Listeden yeni eklenen favori listesi secilir.
+* Favori listesi silinir.
+
+Category and Add To Favorite and Favorite List
+----------------------------------------------
+tags:Gratis_Android_KategoriFavoriEklemeVeListeOlusturma
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Kategoriler sayfasina gecilir.
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
+* Listeleme alanından bir ürünün favori butonuna tıklanır.
+* Urun favorilere eklenir.
+* Listeleme alanından bir ürünün favori butonuna tıklanır.
+* Listeleme alanından bir ürünün favori butonuna tıklanır.
+* Yeni favori listesi olusturulur ve secilen urun favori eklenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Profil sayfasındaki Favori butonuna tiklanir.
+* Listeden yeni eklenen favori listesi secilir.
+* Favori listesi silinir.

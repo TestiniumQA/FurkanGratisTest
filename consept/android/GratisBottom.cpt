@@ -388,3 +388,9 @@ This is a concept file with following syntax for each concept.
 # Sepete Ekle butonuna tıklanır.
 * "productAddButton"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementine tıkla "productAddButton"
+
+# Listeleme alanından bir ürünün favori butonuna tıklanır.
+* "productName" li elementi bul ve değerini "ürün adı" olarak sakla
+* Element var mı kontrol et "urunDetay"
+* Elementine tıkla "favBtn"
+* "2" saniye bekle
