@@ -141,6 +141,7 @@ tags:Gratis_Android_NonLoginKategoriFavoriEkleme
 * Listeleme alanından bir ürünün favori butonuna tıklanır.
 * Favori ikonu ile login olunur.
 * Urun favorilere eklenir.
+* Favori listesi kontrol edilerek temizlenir.
 
 Non-Login Category and Add To Favorite List
 -------------------------------------------
