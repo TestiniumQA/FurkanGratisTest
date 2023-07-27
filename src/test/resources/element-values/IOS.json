@@ -2072,53 +2072,46 @@
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "ScrollToTop",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeButton[`label == 'upArrow icon'`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "MakyajTab",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == 'Makyaj'`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "TumMakyajUrunleriTab",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == 'Tüm Makyaj Ürünleri'`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "PageToolbarTitleText",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeApplication[@name='Gratis']/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeStaticText[1]",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "GozMakyajTab",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeStaticText[`label == 'Göz Makyajı'`]",
+    "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "TumGozMakyajUrunleriTab",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeStaticText[`label == 'Tüm Göz Makyajı Ürünleri'`]",
+    "iosType": "classChain"
   },
   {
     "key": "xxxx",
