@@ -222,8 +222,9 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "kampanyaSec"
 * "favBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "favBtn"
-* "productName" li elementi bul ve değerini "ürün adı" olarak sakla
 * Elementine tıkla "favBtn"
+* "productName"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "productName" li elementi bul ve değerini "ürün adı" olarak sakla
 
 # Yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * Elementine tıkla "addListButton"
