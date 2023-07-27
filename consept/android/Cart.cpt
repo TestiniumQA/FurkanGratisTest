@@ -82,6 +82,7 @@ This is a concept file with following syntax for each concept.
 
 # Sepette favori butonuna tiklanir.
 * Element var mı kontrol et "shoppingItemFavBtn"
+* "productName" li elementi bul ve değerini "ürün adı" olarak sakla
 * Elementine tıkla "shoppingItemFavBtn"
 
 # Sepete gidilir.
