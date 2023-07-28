@@ -225,6 +225,7 @@ This is a concept file with following syntax for each concept.
 * "1" kere yukarı doğru kaydır
 * "favBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "favBtn"
+* "2" saniye bekle
 * Elementine tıkla "favBtn"
 
 # Yeni favori listesi olusturulur ve secilen urun favori eklenir.
