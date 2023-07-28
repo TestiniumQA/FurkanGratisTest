@@ -425,6 +425,7 @@
 * Elementine tıkla "AnasayfaTab"
 //* Elementin yüklenmesini bekle "KampanyaSec"
 //* Elementin yüklenmesini bekle "EnCokSatanlarProduct"
+* "ProductName" li elementi bul ve değerini "ürün adı" olarak sakla
 * "FavBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "FavBtn"
 * "2" saniye bekle
@@ -479,6 +480,7 @@
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * "FavListSpinnerText" elementinin "Yeni Liste Adı" textini içerdiği kontrol edilir
+* "ProductDetailFromFavoriteListText" li elementin text degeri hafizada "ürün adı" olarak saklanan text ile esit mi kontrol et
 
 # Favori listesi silinir
 * "1" saniye bekle

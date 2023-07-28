@@ -91,6 +91,8 @@
 * "1" saniye bekle
 
 # Sepette favori butonuna tiklanir
+* Elementin yüklenmesini bekle "PageToolbarTitle"
+* "CartPageProductsName" li elementi bul ve değerini "ürün adı" olarak sakla
 * Elementin yüklenmesini bekle "ShoppingItemFavBtn"
 * Elementine tıkla "ShoppingItemFavBtn"
 
