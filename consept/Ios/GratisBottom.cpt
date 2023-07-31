@@ -8,13 +8,13 @@
 
 # Kampanyalar swipe edilir
 * "KampanyaSec" elementi bulunana kadar en fazla "25" saniye kadar bekle
-* "KampanyaSec" elementinin hizasından sağdan sola "1" kere kaydır
+//* "KampanyaSec" elementinin hizasından sağdan sola "1" kere kaydır
 //* "KampanyaSec" elementinin hizasından soldan sağa "2" kere kaydır
 
 # Kampanyaya tiklanir
 * "KampanyaSec" elementi bulunana kadar en fazla "25" saniye kadar bekle
 * "KampanyaSec" li  elementin x ekseninde yukaridan %"20" deger, y ekseninde yukaridan %"20" deger kadar asagisina tikla
-* Elementin yüklenmesini bekle "PageToolbarTitle"
+* Elementin yüklenmesini bekle "PageToolbarTitleText"
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
