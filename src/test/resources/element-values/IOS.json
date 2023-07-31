@@ -1809,7 +1809,7 @@
     "key": "CatalogPage",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeOther[@name=\"Publication Content - GRATIS - temmuz insert, region\"]/XCUIElementTypeOther",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeImage",
     "iosType": "xpath"
   },
   {
