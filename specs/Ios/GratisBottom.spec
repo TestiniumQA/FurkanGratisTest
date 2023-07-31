@@ -141,5 +141,104 @@ tags:Gratis_IOS_GratisKatalog
 * Favorilerim sayfasina gecilir
 * Katalog pdf indirmeye tiklanir
 
+IOS Scenario Sort By
+--------------------
+tags:Gratis_IOS_Siralama
+* Uygulama baslatilir
+* Kategoriler sayfasina gecilir
+* Kategorilerden rastgele biri secilirek urun listeleme sayfasina gecilir
+* Sırala butonuna tıklanır
+* Akıllı Sıralama butonuna tıklanır
+* Sırala butonuna tıklanır
+* Çok Satanlar butonuna tıklanır
+* Sırala butonuna tıklanır
+* En Yeniler butonuna tıklanır
+* Sırala butonuna tıklanır
+* En Düşük Fiyat butonuna tıklanır
+* Sırala butonuna tıklanır
+* En Yüksek Fiyat butonuna tıklanır
+* Sırala butonuna tıklanır
+* En Yüksek Puan butonuna tıklanır
+
+IOS Scenario Non-Login Choose Category and Add To Cart
+------------------------------------------------------
+tags:Gratis_IOS_KategoriSecimiVeNonLoginSepeteEkleme
+* Uygulama baslatilir
+* Kategoriler sayfasina gecilir
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* Başa Dön butonuna bas
+* Uygulama geri butonuna bas
+* Alt kategorilerden biri seçilir
+* Urun detay sayfasına geçilir
+* Uygulama geri butonuna bas
+* Sepete Ekle butonuna tıklanır
+* Sepete Ekle butonu ile login olunur
+* Sepete git'e tıklanır
+* Uygulamadan cikis yapilir
+* Kategoriler sayfasina gecilir
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* Sepete Ekle butonuna tıklanır
+* Sepete Ekle butonu ile login olunur
+* Alışverişe devam edilir
+
+IOS Scenario Login Choose Category and Add To Cart
+--------------------------------------------------
+tags:Gratis_IOS_KategoriSecimiVeLoginSepeteEkleme
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Giris yapilir
+* Kategoriler sayfasina gecilir
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* Sepete Ekle butonuna tıklanır
+* Alışverişe devam edilir
+* Sepete Ekle butonuna tıklanır
+* Sepete git'e tıklanır
+* Sepet kontrol edilerek temizlenir
+
+IOS Scenario Non-Login Category and Add To Favorite
+---------------------------------------------------
+tags:Gratis_IOS_NonLoginKategoriFavoriEkleme
+* Uygulama baslatilir
+* Kategoriler sayfasina gecilir
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* Listeleme alanından bir ürünün favori butonuna tıklanır
+* Favori ikonu ile login olunur
+* Urun favorilere eklenir
+//* Ana sayfadaki urun favorilerden cikarilir
+
+IOS Scenario Non-Login Category and Add To Favorite List
+--------------------------------------------------------
+tags:Gratis_IOS_NonLoginKategoriFavoriListesiOlusturma
+* Uygulama baslatilir
+* Kategoriler sayfasina gecilir
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* Listeleme alanından bir ürünün favori butonuna tıklanır
+* Favori ikonu ile login olunur
+* Yeni favori listesi olusturulur ve secilen urun favori eklenir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Profil sayfasındaki Favori butonuna tiklanir
+* Listeden yeni eklenen favori listesi secilir
+* Favori listesi silinir
+
+IOS Scenario Category and Add To Favorite and Favorite List
+-----------------------------------------------------------
+tags:Gratis_IOS_KategoriFavoriEklemeVeListeOlusturma
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Giris yapilir
+* Kategoriler sayfasina gecilir
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* Listeleme alanından bir ürünün favori butonuna tıklanır
+* Urun favorilere eklenir
+* Ana sayfadaki urun favorilerden cikarilir
+* Listeleme alanından bir ürünün favori butonuna tıklanır
+* Yeni favori listesi olusturulur ve secilen urun favori eklenir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Profil sayfasındaki Favori butonuna tiklanir
+* Listeden yeni eklenen favori listesi secilir
+* Favori listesi silinir
+
 
 

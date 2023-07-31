@@ -2135,17 +2135,17 @@
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "BeautyPopup",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeButton[@name='closeSearchIcon']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "BeautyPopupTwo",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//*[@name='X']",
     "iosType": "xpath"
   },
   {

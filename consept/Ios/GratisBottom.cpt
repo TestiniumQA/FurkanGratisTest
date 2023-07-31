@@ -331,6 +331,9 @@
 * Elementin yüklenmesini bekle "PageToolbarTitle"
 * Elementin yüklenmesini bekle "CatalogBtn"
 * Elementine tıkla "CatalogBtn"
+* "5" saniye bekle
+* "BeautyPopup" li element varsa tıkla
+* "BeautyPopupTwo" li element varsa tıkla
 * Elementin yüklenmesini bekle "CatalogOptions"
 * "1" saniye bekle
 
@@ -373,3 +376,129 @@
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
+
+# Sırala butonuna tıklanır
+* Elementin yüklenmesini bekle "SıralaBtn"
+* Elementine tıkla "SıralaBtn"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+
+# Akıllı Sıralama butonuna tıklanır
+* Element var mı kontrol et "SortBySmart"
+* Elementine tıkla "SortBySmart"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Element var mı kontrol et "ProductsName"
+
+# Çok Satanlar butonuna tıklanır
+* Element var mı kontrol et "SortBySmart"
+* "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "SortByMost"
+* Elementine tıkla "SortByMost"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Element var mı kontrol et "ProductsName"
+
+# En Yeniler butonuna tıklanır
+* Elementin yüklenmesini bekle "SortByMost"
+* "70","90" oranlarından "70","70" oranlarına "1" kere yukarı swipe et
+* "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "SortByNew"
+* Elementine tıkla "SortByNew"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Element var mı kontrol et "ProductsName"
+
+# En Düşük Fiyat butonuna tıklanır
+* Elementin yüklenmesini bekle "SortByNew"
+* "70","90" oranlarından "70","70" oranlarına "1" kere yukarı swipe et
+* "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* "SortByNew" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "SortByLowPrice"
+* Elementine tıkla "SortByLowPrice"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Element var mı kontrol et "ProductsName"
+* Fiyatların yazdığı "GratisProductPrice" li elementin degerinin fiyata gore artan oldugu kontrol edilir
+
+# En Yüksek Fiyat butonuna tıklanır
+* Elementin yüklenmesini bekle "SortByLowPrice"
+* "70","90" oranlarından "70","70" oranlarına "2" kere yukarı swipe et
+* "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* "SortByNew" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* "SortByLowPrice" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "SortByHighPrice"
+* Elementine tıkla "SortByHighPrice"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Element var mı kontrol et "ProductsName"
+* Fiyatların yazdığı "GratisProductPrice" li elementin degerinin fiyata gore azalan oldugu kontrol edilir
+
+# En Yüksek Puan butonuna tıklanır
+* Elementin yüklenmesini bekle "SortByHighPrice"
+* "70","90" oranlarından "70","70" oranlarına "2" kere yukarı swipe et
+* "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* "SortByNew" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* "SortByLowPrice" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* "SortByHighPrice" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "SortByHighPoint"
+* Elementine tıkla "SortByHighPoint"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Element var mı kontrol et "ProductsName"
+
+# Başa Dön butonuna bas
+* "ProductsName" li elementi bul ve değerini "ilk ürün" olarak sakla
+* "2" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "ScrollToTop"
+* Elementine tıkla "ScrollToTop"
+* "ProductsName" li elementin text degeri hafizada "ilk ürün" olarak saklanan text ile esit mi kontrol et
+
+# Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* Elementin yüklenmesini bekle "PageToolbarTitleText"
+* Elementin yüklenmesini bekle "MakyajTab"
+* "MakyajTab" elementine sayacli tikla "TumMakyajUrunleriTab" value degerini bekle
+* Elementin yüklenmesini bekle "PageToolbarTitleText"
+* "TumMakyajUrunleriTab" elementine sayacli tikla "ProductsName" value degerini bekle
+
+# Uygulama geri butonuna bas
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "1" saniye bekle
+
+# Alt kategorilerden biri seçilir
+* Elementin yüklenmesini bekle "PageToolbarTitleText"
+* Elementin yüklenmesini bekle "GozMakyajTab"
+* Elementine tıkla "GozMakyajTab"
+* Elementin yüklenmesini bekle "TumGozMakyajUrunleriTab"
+* Elementine tıkla "TumGozMakyajUrunleriTab"
+* "PageToolbarTitleText" elementinin "Göz Makyajı" textini içerdiği kontrol edilir
+* Element var mı kontrol et "ProductsName"
+* Element var mı kontrol et "UrunDetay"
+
+# Urun detay sayfasına geçilir
+* Elementin yüklenmesini bekle "PageToolbarTitleText"
+* Elementin yüklenmesini bekle "ProductsName"
+* Elementine tıkla "ProductsName"
+* "PageToolbarTitleText" elementinin "Ürün Detay" textini içerdiği kontrol edilir
+
+# Sepete Ekle butonuna tıklanır
+* Elementin yüklenmesini bekle "ProductAddButton"
+* Elementine tıkla "ProductAddButton"
+
+# Listeleme alanından bir ürünün favori butonuna tıklanır
+* "ProductsName" li elementi bul ve değerini "ürün adı" olarak sakla
+* Element var mı kontrol et "PageToolbarTitleText"
+* Elementin yüklenmesini bekle "UrunDetay"
+* Elementin yüklenmesini bekle "FavBtn"
+* Elementine tıkla "FavBtn"
+* "2" saniye bekle
