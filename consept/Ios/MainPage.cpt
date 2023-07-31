@@ -155,7 +155,7 @@
 //* "MainPageCampaignEleven" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # En Son Gezdiklerim urunleri swipe edilir ve tiklanir
-* "1" saniye bekle
+* "2" saniye bekle
 * "5" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "kampanyalarSekmesi"
 * Elementin yüklenmesini bekle "anasayfa"
