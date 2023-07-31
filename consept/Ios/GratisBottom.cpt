@@ -14,8 +14,7 @@
 # Kampanyaya tiklanir
 * "KampanyaSec" elementi bulunana kadar en fazla "25" saniye kadar bekle
 //* Elementine tıkla "KampanyaSec"
-* "KampanyaSec" li  elementin x ekseninde yukaridan %"60" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
-//* Element var mı kontrol et "ToolbarUrunler"
+* "KampanyaSec" li  elementin x ekseninde yukaridan %"80" deger, y ekseninde yukaridan %"80" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "PageToolbarTitle"
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
