@@ -13,7 +13,8 @@
 
 # Kampanyaya tiklanir
 * "KampanyaSec" elementi bulunana kadar en fazla "25" saniye kadar bekle
-* Elementine tıkla "KampanyaSec"
+//* Elementine tıkla "KampanyaSec"
+* "KampanyaSec" li  elementin x ekseninde yukaridan %"30" deger, y ekseninde yukaridan %"30" deger kadar asagisina tikla
 //* Element var mı kontrol et "ToolbarUrunler"
 * Elementin yüklenmesini bekle "PageToolbarTitle"
 * "2" saniye bekle
