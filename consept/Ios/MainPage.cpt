@@ -1,0 +1,241 @@
+
+# En Cok Satanlar basliklari swipe edilir ve tiklanir
+* Elementin yüklenmesini bekle "anasayfa"
+* Elementin yüklenmesini bekle "TabHeader"
+* "TabHeader" elementinin hizasından sağdan sola "1" kere kaydır
+* "2" saniye bekle
+* "TabHeader" elementinin hizasından soldan sağa "1" kere kaydır
+* Elementin yüklenmesini bekle "TabHeader"
+* Elementine tıkla "TabHeader"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "TabHeaderSlct"
+
+# En Cok Satanlar urunleri swipe edilir ve tiklanir
+* "ProductName"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "ProductName"
+* "ProductName" elementinin hizasından sağdan sola "1" kere kaydır
+* Elementin yüklenmesini bekle "ProductNameTwo"
+* Elementine tıkla "ProductNameTwo"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "ProductNameThree"
+* Elementine tıkla "ProductNameThree"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "2" saniye bekle
+* "ProductName" elementinin hizasından soldan sağa "1" kere kaydır
+* Elementin yüklenmesini bekle "ProductNameOne"
+* Elementine tıkla "ProductNameOne"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "ProductName"
+* Elementine tıkla "ProductName"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "ProductDetailTitle"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "3" saniye bekle
+
+# Ana sayfa kampanyalarina tiklanir
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "MainPageCampaignOne"
+* Elementine tıkla "MainPageCampaignOne"
+* "1" saniye bekle
+* "MainPageCampaignOne" değerini sayfa olmadığını kontrol et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "3" saniye bekle
+* "MainPageCampaignOne" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "MainPageCampaignTwo"
+* Elementine tıkla "MainPageCampaignTwo"
+* "1" saniye bekle
+* "MainPageCampaignTwo" değerini sayfa olmadığını kontrol et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "3" saniye bekle
+* "MainPageCampaignTwo" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "MainPageCampaignThree"
+* Elementine tıkla "MainPageCampaignThree"
+* "1" saniye bekle
+* "MainPageCampaignThree" değerini sayfa olmadığını kontrol et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "3" saniye bekle
+* "MainPageCampaignThree" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "MainPageCampaignFour"
+* Elementine tıkla "MainPageCampaignFour"
+* "1" saniye bekle
+* "MainPageCampaignFour" değerini sayfa olmadığını kontrol et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "3" saniye bekle
+* "MainPageCampaignFour" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "MainPageCampaignFive"
+* Elementine tıkla "MainPageCampaignFive"
+* "1" saniye bekle
+* "MainPageCampaignFive" değerini sayfa olmadığını kontrol et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "3" saniye bekle
+* "MainPageCampaignFive" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "MainPageCampaignSix"
+* Elementine tıkla "MainPageCampaignSix"
+* "1" saniye bekle
+* "MainPageCampaignSix" değerini sayfa olmadığını kontrol et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "3" saniye bekle
+* "MainPageCampaignSix" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "MainPageCampaignSeven"
+* Elementine tıkla "MainPageCampaignSeven"
+* "1" saniye bekle
+* "MainPageCampaignSeven" değerini sayfa olmadığını kontrol et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "3" saniye bekle
+* "MainPageCampaignSeven" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "MainPageCampaignEight"
+* Elementine tıkla "MainPageCampaignEight"
+* "1" saniye bekle
+* "MainPageCampaignEight" değerini sayfa olmadığını kontrol et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "3" saniye bekle
+* "MainPageCampaignEight" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "MainPageCampaignNine"
+* Elementine tıkla "MainPageCampaignNine"
+* "1" saniye bekle
+* "MainPageCampaignNine" değerini sayfa olmadığını kontrol et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "3" saniye bekle
+* "MainPageCampaignNine" elementi bulunana kadar en fazla "10" saniye kadar bekle
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "MainPageCampaignTen"
+* Elementine tıkla "MainPageCampaignTen"
+* "1" saniye bekle
+* "MainPageCampaignTen" değerini sayfa olmadığını kontrol et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "3" saniye bekle
+* "MainPageCampaignTen" elementi bulunana kadar en fazla "10" saniye kadar bekle
+//* "1" kere aşağıya kaydır
+//* Elementin yüklenmesini bekle "MainPageCampaignEleven"
+//* Elementine tıkla "MainPageCampaignEleven"
+//* "1" saniye bekle
+//* "MainPageCampaignEleven" değerini sayfa olmadığını kontrol et
+//* "1" saniye bekle
+//* Elementin yüklenmesini bekle "geriBtn"
+//* Elementine tıkla "geriBtn"
+//* "3" saniye bekle
+//* "MainPageCampaignEleven" elementi bulunana kadar en fazla "10" saniye kadar bekle
+
+# En Son Gezdiklerim urunleri swipe edilir ve tiklanir
+* Elementin yüklenmesini bekle "kampanyalarSekmesi"
+* Elementin yüklenmesini bekle "anasayfa"
+* "VisitedAddBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "VisitedTitle"
+* "VisitedText" elementinin hizasından sağdan sola "1" kere kaydır
+* Elementin yüklenmesini bekle "VisitedAddBtn"
+* "VisitedText" elementinin hizasından soldan sağa "1" kere kaydır
+* Elementin yüklenmesini bekle "VisitedText"
+* Elementine tıkla "VisitedText"
+* Elementin yüklenmesini bekle "ProductDetailTitle"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "5" saniye bekle
+
+# Favori ikonu ile login olunur
+* "IOSmail" csv dosyasindan rastgele kullanici sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+
+# Non-Login ana sayfadan bir urun sepete eklenir
+* Elementin yüklenmesini bekle "anasayfa"
+* Elementin yüklenmesini bekle "KampanyaSec"
+* "1" kere aşağıya kaydır
+* "ProductAddButton"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "ProductAddButton"
+* Elementine tıkla "ProductAddButton"
+
+# Sepete Ekle butonu ile login olunur
+* "IOSmail" csv dosyasindan rastgele kullanici sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
+
+# Alışverişe devam edilir
+* Elementin yüklenmesini bekle "ContinueShoppingButton"
+* Elementine tıkla "ContinueShoppingButton"
+
+# Ana sayfa tab'ına tıklanır
+* Elementin yüklenmesini bekle "AnasayfaTab"
+* Elementine tıkla "AnasayfaTab"
+* "2" saniye bekle
+
+# Sepete git'e tıklanır
+* Elementin yüklenmesini bekle "GoToCartButton"
+* Elementine tıkla "GoToCartButton"
+
+# Sepet kasa arkasi popup'i varsa kapatilir
+* Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
+
+# En Çok Satanlar ürünlerine tıklanır
+* "ProductName"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "ProductName"
+* Elementine tıkla "ProductName"
+* "2" saniye bekle
+* Element var mı kontrol et "ProductDetailTitle"
+* Element var mı kontrol et "ProductAddButton"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "1" saniye bekle
+
+# En Son Gezdiklerim alanına gidilir
+* "12" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "VisitedAddBtn"
+* Elementin yüklenmesini bekle "VisitedTitle"
+* Elementin yüklenmesini bekle "VisitedText"
+
+# En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır
+* "VisitedText" li elementi bul ve değerini "ürün adı" olarak sakla
+* Elementin yüklenmesini bekle "FavBtn"
+* Elementine tıkla "FavBtn"
+* "2" saniye bekle
+
+# En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir
+* Element var mı kontrol et "VisitedAddBtn"
+* Elementine tıkla "VisitedAddBtn"
+* "2" saniye bekle
