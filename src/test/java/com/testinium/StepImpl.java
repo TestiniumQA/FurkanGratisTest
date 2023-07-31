@@ -700,6 +700,13 @@ public class StepImpl extends HookImpl {
         logger.info("["+StoreHelper.INSTANCE.getValue(saveKey)+"]" + " degeri ["+ saveKey + "] ismiyle hafizaya kaydedildi");
     }
 
+    @Step({"<key> li elementli markayı bul ve değerini <saveKey> olarak sakla",
+            "Find element by <key> and save text <saveKey>"})
+    public void saveTextByKeyy(String key, String saveKey) {
+        StoreHelper.INSTANCE.saveValue(saveKey, findElementByKey(key).getText().substring(0,findElementByKey(key).getText().length()-5));
+        logger.info("["+StoreHelper.INSTANCE.getValue(saveKey)+"]" + " degeri ["+ saveKey + "] ismiyle hafizaya kaydedildi");
+    }
+
     @Step({"<key> li ve değeri <text> e eşit olan elementli bul ve tıkla",
             "Find element by <key> text equals <text> and click"})
     public void clickByIdWithContains(String key, String text) {

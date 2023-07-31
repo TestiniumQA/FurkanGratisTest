@@ -1368,5 +1368,40 @@
     "key": "productCartName",
     "androidValue": "com.gratis.android:id/shopping_item_title",
     "androidType": "id"
+  },
+  {
+    "key": "filterBtn",
+    "androidValue": "com.gratis.android:id/filter_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "filterName",
+    "androidValue": "com.gratis.android:id/filter_name",
+    "androidType": "id"
+  },
+  {
+    "key": "subFilterName",
+    "androidValue": "com.gratis.android:id/filter_inner_name",
+    "androidType": "id"
+  },
+  {
+    "key": "subFilterCheck",
+    "androidValue": "(//android.widget.ImageView)[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "filterOkayBtn",
+    "androidValue": "com.gratis.android:id/filter_inner_button",
+    "androidType": "id"
+  },
+  {
+    "key": "priceFilter",
+    "androidValue": "com.gratis.android:id/range_seekbar",
+    "androidType": "id"
+  },
+  {
+    "key": "filterResetBtn",
+    "androidValue": "com.gratis.android:id/reset_button",
+    "androidType": "id"
   }
 ]

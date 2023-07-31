@@ -395,3 +395,31 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 * Elementine tıkla "favBtn"
 * "2" saniye bekle
+
+# Filtreleme butonuna tıklanır.
+* Elementin yüklenmesini bekle "filterBtn"
+* Element var mı kontrol et "urunDetay"
+* Element var mı kontrol et "urunDetayy"
+* Elementine tıkla "filterBtn"
+* Elementin yüklenmesini bekle "filterName"
+* "pageToolbarTitle" li elementin değeri "Filtrele" e eşitliğini kontrol et
+
+# Marka filtresine tıklanır.
+* "filterName" li ve değeri "Marka" e eşit olan elementli bulana kadar swipe et ve tıkla
+* "subFilterName" li elementli markayı bul ve değerini "marka adı" olarak sakla
+* Elementine tıkla "subFilterName"
+* "1" saniye bekle
+* Elementine tıkla "filterOkayBtn"
+* "productName" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
+
+# Form filtresine tıklanır.
+* "filterName" li ve değeri "Form" e eşit olan elementli bulana kadar swipe et ve tıkla
+* "subFilterName" li elementli markayı bul ve değerini "marka adı" olarak sakla
+* Elementine tıkla "subFilterName"
+* "1" saniye bekle
+* Elementine tıkla "filterOkayBtn"
+* "productName" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
+
+# Filtre sıfırla butonuna tıklanır.
+* Element var mı kontrol et "filterResetBtn"
+* Elementine tıkla "filterResetBtn"

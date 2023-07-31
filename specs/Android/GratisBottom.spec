@@ -174,3 +174,15 @@ tags:Gratis_Android_KategoriFavoriEklemeVeListeOlusturma
 * Profil sayfasındaki Favori butonuna tiklanir.
 * Listeden yeni eklenen favori listesi secilir.
 * Favori listesi silinir.
+
+Category Filter and List
+------------------------
+tags:Gratis_Android_KategoriFiltreler
+* Uygulama baslatilir.
+* Kategoriler sayfasina gecilir.
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
+* Filtreleme butonuna tıklanır.
+* Marka filtresine tıklanır.
+* Filtreleme butonuna tıklanır.
+* Filtre sıfırla butonuna tıklanır.
+* Form filtresine tıklanır.
