@@ -156,7 +156,7 @@
 
 # En Son Gezdiklerim urunleri swipe edilir ve tiklanir
 * "1" saniye bekle
-* "3" kere aşağıya kaydır
+* "5" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "kampanyalarSekmesi"
 * Elementin yüklenmesini bekle "anasayfa"
 * "VisitedAddBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
