@@ -1809,7 +1809,7 @@
     "key": "CatalogPage",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeOther[@name=\"Publication Content - GRATIS - temmuz insert v2, region\"]/XCUIElementTypeOther",
+    "iosValue": "//XCUIElementTypeOther[@name=\"Publication Content - GRATIS - temmuz insert, region\"]/XCUIElementTypeOther",
     "iosType": "xpath"
   },
   {
