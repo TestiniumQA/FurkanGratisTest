@@ -362,7 +362,7 @@
 # Favorilerim sayfasina gecilir
 * Elementin yüklenmesini bekle "CatalogFav"
 * Elementine tıkla "CatalogFav"
-* Elementin yüklenmesini bekle "CatalogFav"
+* Elementin yüklenmesini bekle "PageToolbarTitleText"
 * Elementin yüklenmesini bekle "CatalogCloseIcon"
 * Elementine tıkla "CatalogCloseIcon"
 * Elementin yüklenmesini bekle "CatalogOptions"
@@ -371,7 +371,8 @@
 * Elementin yüklenmesini bekle "CatalogPdf"
 * Elementine tıkla "CatalogPdf"
 * "2" saniye bekle
-* Safari'de "CatalogDownloadPage" kontrolu yapilir ve uygulamaya geri donulur
+//* Safari'de "CatalogDownloadPage" kontrolu yapilir ve uygulamaya geri donulur
+* Safari'de element kontrolu yapilir ve uygulamaya geri donulur
 * Elementin yüklenmesini bekle "CatalogPdf"
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"

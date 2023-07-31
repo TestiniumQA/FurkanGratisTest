@@ -1816,8 +1816,8 @@
     "key": "CatalogPagesBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeStaticText[@name='Bu yayındaki sayfaların listesi olarak sayfaya genel bakış']",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeLink[`label == \"Bu yayındaki sayfaların listesi olarak sayfaya genel bakış\"`][1]",
+    "iosType": "classChain"
   },
   {
     "key": "CatalogPages",
@@ -1830,8 +1830,8 @@
     "key": "CatalogFav",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeStaticText[@name='Favorilerim']",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeLink[`label == \"Paylaşılacak ürünlerin listesi olarak favorilerim\"`]",
+    "iosType": "classChain"
   },
   {
     "key": "CatalogCloseIcon",
@@ -1844,8 +1844,8 @@
     "key": "CatalogPdf",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeStaticText[@name='Bu yayını PDF olarak indirin (erişilebilir)']",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeLink[`label == \"Bu yayını PDF olarak indirin (erişilebilir)\"`][1]",
+    "iosType": "classChain"
   },
   {
     "key": "CatalogDownloadPage",
