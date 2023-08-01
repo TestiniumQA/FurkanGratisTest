@@ -1410,8 +1410,8 @@
     "androidType": "id"
   },
   {
-    "key": "shareTitle",
-    "androidValue": "android:id/title",
+    "key": "shareDrag",
+    "androidValue": "android:id/drag",
     "androidType": "id"
   },
   {
