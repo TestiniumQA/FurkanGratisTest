@@ -1403,5 +1403,35 @@
     "key": "filterResetBtn",
     "androidValue": "com.gratis.android:id/reset_button",
     "androidType": "id"
+  },
+  {
+    "key": "detailShareBtn",
+    "androidValue": "com.gratis.android:id/detail_share_btn",
+    "androidType": "id"
+  },
+  {
+    "key": "shareTitle",
+    "androidValue": "android:id/title",
+    "androidType": "id"
+  },
+  {
+    "key": "detailZoomBtn",
+    "androidValue": "com.gratis.android:id/detail_zoom_btn",
+    "androidType": "id"
+  },
+  {
+    "key": "zoomPhoto",
+    "androidValue": "com.gratis.android:id/photo",
+    "androidType": "id"
+  },
+  {
+    "key": "closeImg",
+    "androidValue": "com.gratis.android:id/closeImg",
+    "androidType": "id"
+  },
+  {
+    "key": "detailGratisCardBtn",
+    "androidValue": "com.gratis.android:id/card_price_root",
+    "androidType": "id"
   }
 ]

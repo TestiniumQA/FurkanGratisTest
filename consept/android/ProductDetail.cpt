@@ -1,0 +1,49 @@
+Created by testinium on 1.08.2023
+
+This is a concept file with following syntax for each concept.
+# En Çok Satanlar alanında bir ürünün ürün detay sayfasına geçilir.
+* "productName"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "productName"
+* Elementine tıkla "productName"
+* "2" saniye bekle
+* Element var mı kontrol et "productDetailTitle"
+* Element var mı kontrol et "kampanyaSec"
+* "1" saniye bekle
+
+# Ürün detayda ürün fotosu swipe yapılır.
+* Elementin yüklenmesini bekle "kampanyaSec"
+* "kampanyaSec" elementinin hizasından sağdan sola "1" kere kaydır
+* "1" saniye bekle
+* "kampanyaSec" elementinin hizasından soldan sağa "1" kere kaydır
+* "1" saniye bekle
+
+# Ürünün paylaş ikonuna tıklanır.
+* "detailShareBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "detailShareBtn"
+* Element var mı kontrol et "shareTitle"
+* "1" saniye bekle
+* Geri butonuna bas
+* "1" saniye bekle
+
+# Ürünün zoom ikonuna tıklanır.
+* "detailZoomBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "detailZoomBtn"
+* Element var mı kontrol et "zoomPhoto"
+* Element var mı kontrol et "closeImg"
+* "1" saniye bekle
+* "1" kere sağa kaydirilir
+* "1" saniye bekle
+* "1" kere sola kaydirilir
+* "1" saniye bekle
+* Elementine tıkla "closeImg"
+
+# Gratis Card ile ürün detayda login olunur.
+* "detailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "detailGratisCardBtn"
+* "AndroidMail" csv dosyasindan rastgele kullanici sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "detailShareBtn"
+* Element var mı kontrol et "detailZoomBtn"
+* Element var mı kontrol et "kampanyaSec"
