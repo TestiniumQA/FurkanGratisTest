@@ -112,12 +112,13 @@ tags:Gratis_Android_KategoriSecimiVeSepet
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
 * Başa Dön butonuna bas.
 * Uygulama geri butonuna bas.
-* Alt kategorilerden biri seçilir.
+* Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir.
 * Urun detay sayfasına geçilir.
 * Uygulama geri butonuna bas.
 * Sepete Ekle butonuna tıklanır.
 * Sepete Ekle butonu ile login olunur.
 * Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 * Uygulamadan cikis yapilir.
 * Kategoriler sayfasina gecilir.
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir.

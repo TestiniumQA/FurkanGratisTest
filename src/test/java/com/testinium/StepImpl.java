@@ -1485,6 +1485,39 @@ public class StepImpl extends HookImpl {
 
     }
 
+    @Step("<key>li elementi bulana kadar <limit> kere yukarı swipe yap ve elementi bul")
+    public void swipeUpKeyy(String key, int limit) throws InterruptedException {
+
+
+        boolean isAppear = false;
+
+        int windowHeight = this.getScreenHeight();
+        for (int i = 0; i < limit; ++i) {
+            logger.info((i+1)+". kere swipe edilecek");
+            try {
+
+                Dimension phoneSize = appiumDriver.manage().window().getSize();
+                Point elementLocation = findElementByKeyWithoutAssert(key).getLocation();
+                logger.info(elementLocation.x + "  " + elementLocation.y);
+                Dimension elementDimension = findElementByKeyWithoutAssert(key).getSize();
+                logger.info(elementDimension.width + "  " + elementDimension.height);
+                // logger.info(appiumDriver.getPageSource());
+                if ((0 < elementLocation.y) && (elementLocation.y <= phoneSize.height - 30)) {
+                    isAppear = true;
+                    logger.info("aranan elementi buldu");
+                    break;
+                }
+            } catch (Exception e) {
+                System.out.println("Element ekranda görülmedi. Tekrar swipe ediliyor");
+            }
+            System.out.println("Element ekranda görülmedi. Tekrar swipe ediliyor");
+
+            swipeUpAccordingToPhoneSize();
+            waitBySecond(1);
+        }
+
+    }
+
 
     @Step("<key> li  telefonun  <x> ve elementin <y> kordinatına göre tıkla")
     public void elementFindwithXandYcoordinate(String key, int x, int y) {

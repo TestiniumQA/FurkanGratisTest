@@ -361,10 +361,10 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "geriBtn"
 * Elementine tıkla "geriBtn"
 
-# Alt kategorilerden biri seçilir.
-* "Göz Makyajı" text degerine sahip elemente tikla.
-* "Tüm Göz Makyajı Ürünleri" text degerine sahip elemente tikla.
-* "pageToolbarTitle" elementinin "Göz Makyajı" textini içerdiği kontrol edilir
+# Alt kategorilerden biri <alt1>, <alt2> seçilir.
+* <alt1> text degerine sahip elemente tikla.
+* <alt2> text degerine sahip elemente tikla.
+* "pageToolbarTitle" elementinin <alt2> textini içerdiği kontrol edilir
 * Element var mı kontrol et "urunDetay"
 * Element var mı kontrol et "urunDetayy"
 

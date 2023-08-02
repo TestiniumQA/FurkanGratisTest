@@ -1305,7 +1305,7 @@
     "androidType": "xpath"
   },
   {
-    "key": "productDetailTitle",
+    "key": "productDetailToolbarTitle",
     "androidValue": "//android.widget.TextView[@text='Ürün Detay']",
     "androidType": "xpath"
   },
@@ -1432,6 +1432,31 @@
   {
     "key": "detailGratisCardBtn",
     "androidValue": "com.gratis.android:id/card_price_root",
+    "androidType": "id"
+  },
+  {
+    "key": "categoryName",
+    "androidValue": "com.gratis.android:id/category_name",
+    "androidType": "id"
+  },
+  {
+    "key": "colorList",
+    "androidValue": "com.gratis.android:id/color_list_view",
+    "androidType": "id"
+  },
+  {
+    "key": "secondColor",
+    "androidValue": "(//*[@resource-id='com.gratis.android:id/item_color_root'])[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "pieceSpinner",
+    "androidValue": "com.gratis.android:id/piece_spinner",
+    "androidType": "id"
+  },
+  {
+    "key": "alertTitle",
+    "androidValue": "com.gratis.android:id/alertTitle",
     "androidType": "id"
   }
 ]

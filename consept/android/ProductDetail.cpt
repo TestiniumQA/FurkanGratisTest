@@ -47,3 +47,27 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "detailShareBtn"
 * Element var mı kontrol et "detailZoomBtn"
 * Element var mı kontrol et "kampanyaSec"
+
+# <text> isimli kategori seçilir.
+* "categoryName" li ve değeri <text> e eşit olan elementli bulana kadar swipe et ve tıkla
+
+# Ürünün renk tonu değiştirilir.
+* "productDetailTitle" li elementi bul ve değerini "varsayılanRenkAd" olarak sakla
+* "colorList"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Element var mı kontrol et "secondColor"
+* "1" saniye bekle
+* Elementine tıkla "secondColor"
+* "productDetailTitle"li elementi bulana kadar "2" kere yukarı swipe yap ve elementi bul
+* "productDetailTitle" li elementin text degerini hafizada "varsayılanRenkAd" olarak saklanan text ayni olmadigini kontrol et
+
+# Ürün detayda <adetSayi> kadar ürün adedi seçilir.
+* "addBasketBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Elementine tıkla "pieceSpinner"
+* <adetSayi> text degerine sahip elemente tikla.
+* "pieceSpinner" elementinin <adetSayi> textini içerdiği kontrol edilir
+
+# Non-Login ürün detay sayfasinda urun sepete eklenir.
+* "addBasketBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "addBasketBtn"
+* Elementine tıkla "addBasketBtn"
+* Element var mı kontrol et "emailInput"
