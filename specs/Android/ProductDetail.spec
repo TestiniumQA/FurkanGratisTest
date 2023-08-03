@@ -15,8 +15,8 @@ tags:Gratis_Android_UrunDetayPaylasZoomNonLoginGratisKart
 * Ürünün zoom ikonuna tıklanır.
 * Gratis Card ile ürün detayda login olunur.
 
-Colour and Add To Cart
-----------------------
+Colour and Non-Login Add To Cart
+--------------------------------
 tags:Gratis_Android_UrunDetayRenkVeAdetSecimiNonLoginSepeteEkleme
 * Uygulama baslatilir.
 * Kategoriler sayfasina gecilir.
@@ -37,3 +37,21 @@ tags:Gratis_Android_UrunDetayRenkVeAdetSecimiNonLoginSepeteEkleme
 * Sepete Ekle butonu ile login olunur.
 * Sepete git'e tıklanır.
 * Sepet kontrol edilerek temizlenir.
+
+Non-Login Gratis Card and Login Add To Cart
+-------------------------------------------
+tags:Gratis_Android_UrunDetayGratisKartVeSepeteEkleme
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Kategoriler sayfasina gecilir.
+* "Parfüm & Deodorant" isimli kategori seçilir.
+* Alt kategorilerden biri "Parfüm", "Kadın Parfüm" seçilir.
+* Urun detay sayfasına geçilir.
+* Ürün detayda "2" kadar ürün adedi seçilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Alışverişe devam edilir.
+* Ürün detayda "1" kadar ürün adedi seçilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
