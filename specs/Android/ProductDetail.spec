@@ -38,9 +38,9 @@ tags:Gratis_Android_UrunDetayRenkVeAdetSecimiNonLoginSepeteEkleme
 * Sepete git'e tıklanır.
 * Sepet kontrol edilerek temizlenir.
 
-Non-Login Gratis Card and Login Add To Cart
+Add To Cart
 -------------------------------------------
-tags:Gratis_Android_UrunDetayGratisKartVeSepeteEkleme
+tags:Gratis_Android_UrunDetaySepeteEkleme
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Login olunur.
