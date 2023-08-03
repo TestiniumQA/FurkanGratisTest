@@ -254,7 +254,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "popupOkayButton"
 * "1" saniye bekle
 * "popupOkayButton" değerini sayfa üzerinde olmadıgını kontrol et
-* "2" saniye bekle
+* "1" saniye bekle
 
 # Ana sayfadaki urun favorilerden cikarilir.
 * Elementine tıkla "favBtn"
@@ -281,7 +281,9 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "favListDeleteButton"
 * "favListDeletePopupButton" li element varsa tıkla
 * Elementin yüklenmesini bekle "favListSpinner"
-* "favListSpinner" elementinin "yeni liste adı" textini içermediği kontrol edilir
+
+# <yeniListe> isimli favori listesi silindiği kontrol edilir.
+* "favListSpinner" elementinin <yeniListe> textini içermediği kontrol edilir
 * "favListItem" değerini sayfa üzerinde olmadıgını kontrol et
 
 # Favorilerden urun detay sayfasına gecilir.

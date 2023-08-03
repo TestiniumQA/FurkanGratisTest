@@ -76,3 +76,31 @@ tags:Gratis_Android_UrunDetayFavori
 * Profil sayfasındaki Favori butonuna tiklanir.
 * Listeden adı "Ürün detay favori listesi" olan favori listesi secilir.
 * Favori listesi silinir.
+* "Ürün detay favori listesi" isimli favori listesi silindiği kontrol edilir.
+
+Non-Login Add To Favorite
+-------------------------
+tags:Gratis_Android_UrunDetayNonLoginFavori
+* Uygulama baslatilir.
+* Kategoriler sayfasina gecilir.
+* "Saç Bakım" isimli kategori seçilir.
+* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir.
+* Urun detay sayfasına geçilir.
+* Ürün detay sayfasında ürün favori butonuna tıklanır.
+* Favori ikonu ile login olunur.
+* Urun favorilere eklenir.
+* Uygulamadan cikis yapilir.
+* Kategoriler sayfasina gecilir.
+* "Ev & Yaşam" isimli kategori seçilir.
+* Alt kategorilerden biri "Dekorasyon", "Aydınlatma" seçilir.
+* Urun detay sayfasına geçilir.
+* Ürün detay sayfasında ürün favori butonuna tıklanır.
+* Favori ikonu ile login olunur.
+* "nonLoginFavori" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir.
+* Uygulama geri butonuna bas.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Profil sayfasındaki Favori butonuna tiklanir.
+* Favori listesi kontrol edilerek temizlenir.
+* Listeden adı "nonLoginFavori" olan favori listesi secilir.
+* Favori listesi silinir.
+* "nonLoginFavori" isimli favori listesi silindiği kontrol edilir.
