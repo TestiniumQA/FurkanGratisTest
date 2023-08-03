@@ -97,7 +97,6 @@ tags:Gratis_Android_UrunDetayNonLoginFavori
 * Ürün detay sayfasında ürün favori butonuna tıklanır.
 * Favori ikonu ile login olunur.
 * "nonLoginFavori" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir.
-* Uygulama geri butonuna bas.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
 * Favori listesi kontrol edilerek temizlenir.
