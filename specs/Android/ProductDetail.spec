@@ -54,4 +54,4 @@ tags:Gratis_Android_UrunDetayGratisKartVeSepeteEkleme
 * Ürün detayda "1" kadar ürün adedi seçilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
-* Sepet kasa arkasi popup'i varsa kapatilir.
+* Sepet kontrol edilerek temizlenir.

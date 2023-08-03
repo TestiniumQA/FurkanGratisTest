@@ -85,3 +85,4 @@ tags:Gratis_Android_KasaArkasiPopupUrunDetayVeSepeteEkleme
 * Ana sayfadan bir urun sepete eklenir.
 * Kasa arkasi urun detayina gidilir.
 * Urun detay sayfasinda urun sepete eklenir.
+* Sepet kontrol edilerek temizlenir.
