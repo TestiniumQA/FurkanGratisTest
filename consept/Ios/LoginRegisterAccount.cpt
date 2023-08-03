@@ -495,7 +495,8 @@
 //* Element var mı kontrol et "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
-* "FavListSpinnerTextTwo" elementinin "Yeni Liste Adı" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "EditListDropdownName"
+* "EditListDropdownName" elementinin "Yeni Liste Adı" textini içerdiği kontrol edilir
 * "ProductDetailFromFavoriteListText" li elementin text degeri hafizada "ürün adı" olarak saklanan text ile esit mi kontrol et
 
 # Listeden adı <yeniListe> olan favori listesi secilir
@@ -507,7 +508,8 @@
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
-* "FavListSpinnerTextTwo" elementinin <yeniListe> textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "EditListDropdownName"
+* "EditListDropdownName" elementinin <yeniListe> textini içerdiği kontrol edilir
 * "ProductDetailFromFavoriteListText" li elementin text degeri hafizada "ürün adı" olarak saklanan text ile esit mi kontrol et
 
 # Favori listesi silinir
@@ -518,7 +520,8 @@
 * Elementine tıkla "FavListDeletePopupButton"
 * Elementin yüklenmesini bekle "FavListSpinner"
 * "2" saniye bekle
-* "FavListSpinnerTextTwo" elementinin "Yeni Liste Adı" textini içermediği kontrol edilir
+* Elementin yüklenmesini bekle "EditListDropdownName"
+* "EditListDropdownName" elementinin "Yeni Liste Adı" textini içermediği kontrol edilir
 
 # Favorilerden urun detay sayfasına gecilir
 * Elementin yüklenmesini bekle "ProductDetailFromFavoriteList"
