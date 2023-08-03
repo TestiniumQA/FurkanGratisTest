@@ -53,6 +53,10 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
 * "2" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
+* "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+* "" değerini sayfa üzerinde olup olmadığını kontrol et.
 
 # Non-Login ana sayfadan bir urun sepete eklenir.
 * Elementin yüklenmesini bekle "kampanyaSec"

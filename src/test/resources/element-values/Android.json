@@ -1456,8 +1456,8 @@
   },
   {
     "key": "alertTitle",
-    "androidValue": "com.gratis.android:id/alertTitle",
-    "androidType": "id"
+    "androidValue": "//android.widget.TextView[@resource-id='android:id/alertTitle']",
+    "androidType": "xpath"
   },
   {
     "key": "detailFavBtn",
@@ -1467,6 +1467,11 @@
   {
     "key": "favListItem",
     "androidValue": "com.gratis.android:id/itemFavoriteRoot",
+    "androidType": "id"
+  },
+  {
+    "key": "popupText",
+    "androidValue": "(//android.widget.TextView)[3]",
     "androidType": "id"
   }
 ]
