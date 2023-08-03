@@ -983,8 +983,8 @@
     "key": "FavListSpinnerText",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeTextField[`value == \"Yeni Liste Adı\"`]",
-    "iosType": "classChain"
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeTextField",
+    "iosType": "xpath"
   },
   {
     "key": "FavListDeleteButton",
@@ -2296,17 +2296,17 @@
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "DetailFavBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeOther[2]/XCUIElementTypeButton",
+    "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "ProductDetailAddListTextbox",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeTextField",
     "iosType": "xpath"
   },
   {
