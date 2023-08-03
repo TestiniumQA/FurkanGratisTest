@@ -1458,5 +1458,15 @@
     "key": "alertTitle",
     "androidValue": "com.gratis.android:id/alertTitle",
     "androidType": "id"
+  },
+  {
+    "key": "detailFavBtn",
+    "androidValue": "com.gratis.android:id/product_detail_fav_btn",
+    "androidType": "id"
+  },
+  {
+    "key": "favListItem",
+    "androidValue": "com.gratis.android:id/itemFavoriteRoot",
+    "androidType": "id"
   }
 ]

@@ -55,3 +55,24 @@ tags:Gratis_Android_UrunDetayGratisKartVeSepeteEkleme
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kontrol edilerek temizlenir.
+
+Add To Favorite
+---------------
+tags:Gratis_Android_UrunDetayFavori
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Kategoriler sayfasina gecilir.
+* "Anne & Bebek" isimli kategori seçilir.
+* Alt kategorilerden biri "Bebek Banyo Ürünleri", "Bebek Sabunları" seçilir.
+* Urun detay sayfasına geçilir.
+* Ürün detay sayfasında ürün favori butonuna tıklanır.
+* Urun favorilere eklenir.
+* Ürün detay sayfasında ürün favorilerden çıkarılır.
+* Ürün detay sayfasında ürün favori butonuna tıklanır.
+* "Ürün detay favori listesi" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir.
+* Uygulama geri butonuna bas.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Profil sayfasındaki Favori butonuna tiklanir.
+* Listeden adı "Ürün detay favori listesi" olan favori listesi secilir.
+* Favori listesi silinir.

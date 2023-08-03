@@ -379,6 +379,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "productName"
 * Elementine tıkla "productName"
 * "pageToolbarTitle" elementinin "Ürün Detay" textini içerdiği kontrol edilir
+* "productDetailTitle" li elementi bul ve değerini "ürün adı" olarak sakla
 
 # Non-Login ürün detayda urun sepete eklenir.
 * "pageToolbarTitle" elementinin "Ürün Detay" textini içerdiği kontrol edilir
