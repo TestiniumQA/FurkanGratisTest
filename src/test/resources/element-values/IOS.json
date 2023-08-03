@@ -987,6 +987,13 @@
     "iosType": "xpath"
   },
   {
+    "key": "FavListSpinnerTextTwo",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeTextField[`value == \"Yeni Liste Adı\"`]",
+    "iosType": "classChain"
+  },
+  {
     "key": "FavListDeleteButton",
     "androidValue": "",
     "androidType": "",
