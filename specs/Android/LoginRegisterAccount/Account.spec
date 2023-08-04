@@ -87,7 +87,7 @@ tags:Gratis_Android_FavoriListesindenSepeteEkleme
 * Favorilerdeki urun sepete eklenir ve alısverise devam edilir.
 * Favorilerdeki urun sepete eklenir ve sepete gidilir.
 * Sepet kasa arkasi popup'i varsa kapatilir.
-* Urunlerin eklendigi kontrol edilir.
+* Urunlerin sepete eklendigi kontrol edilir.
 * Favori listesi kontrol edilerek temizlenir.
 
 From Favorite List to Home Page

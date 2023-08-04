@@ -303,12 +303,13 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "1"
 
 # Favorilerdeki urun sepete eklenir ve sepete gidilir.
+* "favAddCartButton"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementine tıkla "favAddCartButton"
 * Elementin yüklenmesini bekle "goToCartButton"
 * Elementine tıkla "goToCartButton"
 * Elementin yüklenmesini bekle "2"
 
-# Urunlerin eklendigi kontrol edilir.
+# Urunlerin sepete eklendigi kontrol edilir.
 * Element var mı kontrol et "favoriteAddToCartControl"
 * Elementine tıkla "sepetTemizleBtn"
 * Elementine tıkla "popupOkayButton"
