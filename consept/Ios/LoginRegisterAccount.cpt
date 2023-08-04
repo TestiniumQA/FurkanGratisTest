@@ -461,7 +461,23 @@
 * Elementin yüklenmesini bekle "PopupSavedBtnIos"
 * Elementine tıkla "PopupSavedBtnIos"
 * Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
-//* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+
+# <yeniListe> isimli yeni favori listesi olusturulur ve secilen urun favori eklenir
+* Elementin yüklenmesini bekle "AddListButton"
+* Elementine tıkla "AddListButton"
+* Elementin yüklenmesini bekle "AddListPopupTitle"
+//* Element var mı kontrol et "AddListTextbox"
+* <yeniListe> textini "ProductDetailAddListTextbox" elemente yaz
+* Elementin yüklenmesini bekle "PopupAddBtnIos"
+* Elementine tıkla "PopupAddBtnIos"
+* Elementin yüklenmesini bekle "AddListSuccessfulPopupIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "PopupSavedBtnIos"
+* Elementine tıkla "PopupSavedBtnIos"
+* Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 
@@ -479,7 +495,21 @@
 //* Element var mı kontrol et "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
-* "FavListSpinnerText" elementinin "Yeni Liste Adı" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "EditListDropdownName"
+* "EditListDropdownName" elementinin "Yeni Liste Adı" textini içerdiği kontrol edilir
+* "ProductDetailFromFavoriteListText" li elementin text degeri hafizada "ürün adı" olarak saklanan text ile esit mi kontrol et
+
+# Listeden adı <yeniListe> olan favori listesi secilir
+* Elementin yüklenmesini bekle "EditListNameButton"
+* Elementin yüklenmesini bekle "FavListSpinner"
+* "FavListSpinner" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "70","90" oranlarından "70","70" oranlarına "1" kere swipe et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "EditListDropdownName"
+* "EditListDropdownName" elementinin <yeniListe> textini içerdiği kontrol edilir
 * "ProductDetailFromFavoriteListText" li elementin text degeri hafizada "ürün adı" olarak saklanan text ile esit mi kontrol et
 
 # Favori listesi silinir
@@ -489,8 +519,9 @@
 * Elementin yüklenmesini bekle "FavListDeletePopupButton"
 * Elementine tıkla "FavListDeletePopupButton"
 * Elementin yüklenmesini bekle "FavListSpinner"
-* "1" saniye bekle
-* "FavListSpinnerText" değerini sayfa üzerinde olmadıgını kontrol et
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "EditListDropdownName"
+* "EditListDropdownName" elementinin "Yeni Liste Adı" textini içermediği kontrol edilir
 
 # Favorilerden urun detay sayfasına gecilir
 * Elementin yüklenmesini bekle "ProductDetailFromFavoriteList"
@@ -513,6 +544,7 @@
 * Elementine tıkla "FavAddCartButton"
 * Elementin yüklenmesini bekle "GoToCartButton"
 * Elementine tıkla "GoToCartButton"
+* "2" saniye bekle
 
 # Urunlerin eklendigi kontrol edilir
 //* Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
