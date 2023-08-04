@@ -4,12 +4,13 @@ This is a concept file with following syntax for each concept.
 
 # Register'a tıklanır.
 * Element var mı kontrol et "registerBtn"
+
 * "registerBtn" elementine sayacli tikla "digerTab" value degerini bekle
 
 # Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur.
 * "Mehmet" textini "newAddressCustomerName" elemente yaz
 * "Uludağ" textini "newAddressCustomerSurname" elemente yaz
-* "mehmtuldg@gmail.com" textini "registerMail" elemente yaz
+* "javatestautomation@gmail.com" textini "registerMail" elemente yaz
 * "5416412489" textini "registerPhone" elemente yaz
 * Elementine tıkla "registerBirth"
 * Element var mı kontrol et "popupOkayButton"
@@ -35,7 +36,7 @@ This is a concept file with following syntax for each concept.
 
 # Kayıtlı Telefon ile register olunur ve uyarı mesajı gorulur.
 * "2" kere yukarı doğru kaydır
-* "javatestautomation@gmail.com" textini "registerMail" elemente yaz
+* "mehmtuldg@gmail.com" textini "registerMail" elemente yaz
 * "2" kere aşağıya kaydır
 * "registerButton" li elementi bul ve varsa tıkla
 * Element var mı kontrol et "registerPhoneErrorPopup"
@@ -147,7 +148,7 @@ This is a concept file with following syntax for each concept.
 //* Element var mı kontrol et "myPasswordChangesEditDone"
 
 # Profil'e tiklanir profilim sayfasinin acildigi gorulur.
-* Element var mı kontrol et "digerTab"
+* Elementin yüklenmesini bekle "digerTab"
 * Elementine tıkla "digerTab"
 * Element var mı kontrol et "profileRoot"
 * "profileRoot" elementine sayacli tikla "pageToolbarTitle" value degerini bekle
