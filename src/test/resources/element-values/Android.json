@@ -1456,7 +1456,7 @@
   },
   {
     "key": "alertTitle",
-    "androidValue": "//android.widget.TextView[@resource-id='android:id/alertTitle']",
+    "androidValue": "//*[@resource-id='android:id/alertTitle']",
     "androidType": "xpath"
   },
   {

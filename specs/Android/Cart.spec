@@ -10,7 +10,6 @@ Gratis Card Discount Product Add To Cart
 tags:Gratis_Android_GratisKartliUrunSepeteEkleme
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Sepet kontrol edilerek temizlenir.
 * Ana sayfa tab'ına tıklanır.
 * Gratis Kart indirimli urun sepete eklenir.
 
@@ -19,7 +18,6 @@ Cart Popup Slider And Add To Cart
 tags:Gratis_Android_KasaArkasiPopupSlideVeUrunEkleme
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Sepet kontrol edilerek temizlenir.
 * Ana sayfa tab'ına tıklanır.
 * Ana sayfadan bir urun sepete eklenir.
 * Kasa arkası popup'inda swipe yapilir ve urun sepete eklenir.
@@ -53,7 +51,6 @@ Add And Delete A Product To Favorite List From Cart
 tags:Gratis_Android_SepetteFavoriEklemeCikarma
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Sepet kontrol edilerek temizlenir.
 * Ana sayfa tab'ına tıklanır.
 * Ana sayfadan bir urun sepete eklenir.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -64,7 +61,6 @@ Add A Favorite List From Cart
 tags:Gratis_Android_SepetteFavoriListesiOlusturmaVeSilme
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Sepet kontrol edilerek temizlenir.
 * Ana sayfa tab'ına tıklanır.
 * Ana sayfadan bir urun sepete eklenir.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -80,7 +76,6 @@ Cart Popup Slider Product Detail And Add To Cart
 tags:Gratis_Android_KasaArkasiPopupUrunDetayVeSepeteEkleme
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Sepet kontrol edilerek temizlenir.
 * Ana sayfa tab'ına tıklanır.
 * Ana sayfadan bir urun sepete eklenir.
 * Kasa arkasi urun detayina gidilir.
