@@ -15,13 +15,13 @@
 * "AddedToCartSuccessfulPopupIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementin yüklenmesini bekle "GoToCartButton"
 * Elementine tıkla "GoToCartButton"
+* "2" saniye bekle
 
 # Sepet kontrol edilerek temizlenir
-* "sepetPopUpKapatBtn" li element varsa tıkla
+//* "sepetPopUpKapatBtn" li element varsa tıkla
 * Elementin yüklenmesini bekle "sepetimSilBtn"
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-* Elementin yüklenmesini bekle "1"
 * Elementin yüklenmesini bekle "PageCloseIcon"
 * Elementin yüklenmesini bekle "BosSepetListesi"
 //* "BosSepetListesi" elementi bulunana kadar en fazla "25" saniye kadar bekle
@@ -37,6 +37,7 @@
 * "AddedToCartSuccessfulPopupIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementin yüklenmesini bekle "GoToCartButton"
 * Elementine tıkla "GoToCartButton"
+* "2" saniye bekle
 
 # Urun adedi arttirilir
 //* Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
@@ -49,8 +50,6 @@
 * Elementin yüklenmesini bekle "NumberPlusBtn"
 * Elementine tıkla "NumberPlusBtn"
 * Elementin yüklenmesini bekle "NumberPlusBtn"
-//* Elementine tıkla "NumberPlusBtn"
-//* Elementin yüklenmesini bekle "NumberPlusBtn"
 
 # Urun adedi azaltilir
 * Elementin yüklenmesini bekle "1"

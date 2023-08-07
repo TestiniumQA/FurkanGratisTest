@@ -12,6 +12,7 @@ tags:Gratis_IOS_GratisKartliUrunSepeteEkleme
 * Login sayfasina gecilir
 * Giris yapilir
 * Gratis Kart indirimli urun sepete eklenir
+* Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
 
 IOS Scenario Cart Popup Slider And Add To Cart
