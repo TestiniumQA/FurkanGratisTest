@@ -2037,6 +2037,13 @@
     "iosType": "classChain"
   },
   {
+    "key": "ProductsNameTwo",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeStaticText",
+    "iosType": "classChain"
+  },
+  {
     "key": "CartPageProductsName",
     "androidValue": "",
     "androidType": "",

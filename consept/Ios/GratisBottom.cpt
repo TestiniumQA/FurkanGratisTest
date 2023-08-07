@@ -528,7 +528,7 @@
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "FilterOkayBtn"
 * Elementine tıkla "FilterOkayBtn"
-* "ProductsName" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
+* "ProductsNameTwo" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
 
 # Filtre sıfırla butonuna tıklanır
 * Element var mı kontrol et "FilterResetBtn"
