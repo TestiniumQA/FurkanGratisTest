@@ -475,13 +475,10 @@
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
 
-# Alt kategorilerden biri seçilir
-* Elementin yüklenmesini bekle "PageToolbarTitleText"
-* Elementin yüklenmesini bekle "GozMakyajTab"
-* Elementine tıkla "GozMakyajTab"
-* Elementin yüklenmesini bekle "TumGozMakyajUrunleriTab"
-* Elementine tıkla "TumGozMakyajUrunleriTab"
-* "PageToolbarTitleText" elementinin "Göz Makyajı" textini içerdiği kontrol edilir
+# Alt kategorilerden biri <alt1>, <alt2> seçilir
+* <alt1> text degerine sahip elemente tikla
+* <alt2> text degerine sahip elemente tikla
+* "PageToolbarTitleText" elementinin <alt2> textini içerdiği kontrol edilir
 * Element var mı kontrol et "ProductsName"
 * Element var mı kontrol et "UrunDetay"
 
@@ -490,6 +487,7 @@
 * Elementin yüklenmesini bekle "ProductsName"
 * Elementine tıkla "ProductsName"
 * "PageToolbarTitleText" elementinin "Ürün Detay" textini içerdiği kontrol edilir
+* "ProductSubDetailTitle" li elementi bul ve değerini "ürün adı" olarak sakla
 
 # Sepete Ekle butonuna tıklanır
 * Elementin yüklenmesini bekle "ProductAddButton"
@@ -502,3 +500,36 @@
 * Elementin yüklenmesini bekle "FavBtn"
 * Elementine tıkla "FavBtn"
 * "2" saniye bekle
+
+# Filtreleme butonuna tıklanır
+* Elementin yüklenmesini bekle "FilterBtn"
+* Element var mı kontrol et "UrunDetay"
+* Elementine tıkla "FilterBtn"
+* Elementin yüklenmesini bekle "FilterName"
+* "PageToolbarTitleTextTwo" elementinin "Filtrele" textini içerdiği kontrol edilir
+
+# Marka filtresine tıklanır
+* Elementin yüklenmesini bekle "FilterName"
+* "FilterName" li ve değeri "Marka" e eşit olan elementli bulana kadar swipe et ve tıkla
+* "SubFilterName" li elementli markayı bul ve değerini "marka adı" olarak sakla
+* Elementine tıkla "SubFilterName"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "FilterOkayBtn"
+* Elementine tıkla "FilterOkayBtn"
+* "ProductsName" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
+
+# Form filtresine tıklanır
+* Elementin yüklenmesini bekle "FilterName"
+* "FilterName" li ve değeri "Form" e eşit olan elementli bulana kadar swipe et ve tıkla
+* "SubFilterName" li elementli markayı bul ve değerini "marka adı" olarak sakla
+* Elementine tıkla "SubFilterName"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "FilterOkayBtn"
+* Elementine tıkla "FilterOkayBtn"
+* "ProductsName" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
+
+# Filtre sıfırla butonuna tıklanır
+* Element var mı kontrol et "FilterResetBtn"
+* Elementine tıkla "FilterResetBtn"
+* "1" saniye bekle
+

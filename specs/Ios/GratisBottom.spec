@@ -168,18 +168,23 @@ tags:Gratis_IOS_KategoriSecimiVeNonLoginSepeteEkleme
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir
 * Başa Dön butonuna bas
 * Uygulama geri butonuna bas
-* Alt kategorilerden biri seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir
 * Urun detay sayfasına geçilir
 * Uygulama geri butonuna bas
 * Sepete Ekle butonuna tıklanır
 * Sepete Ekle butonu ile login olunur
 * Sepete git'e tıklanır
+* Sepet kasa arkasi popup'i kapatilir
 * Uygulamadan cikis yapilir
 * Kategoriler sayfasina gecilir
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir
 * Sepete Ekle butonuna tıklanır
 * Sepete Ekle butonu ile login olunur
 * Alışverişe devam edilir
+* Sepete Ekle butonuna tıklanır
+* Sepete git'e tıklanır
+* Sepet kasa arkasi popup'i kapatilir
+* Sepet kontrol edilerek temizlenir
 
 IOS Scenario Login Choose Category and Add To Cart
 --------------------------------------------------
@@ -193,6 +198,7 @@ tags:Gratis_IOS_KategoriSecimiVeLoginSepeteEkleme
 * Alışverişe devam edilir
 * Sepete Ekle butonuna tıklanır
 * Sepete git'e tıklanır
+* Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
 
 IOS Scenario Non-Login Category and Add To Favorite
@@ -204,7 +210,7 @@ tags:Gratis_IOS_NonLoginKategoriFavoriEkleme
 * Listeleme alanından bir ürünün favori butonuna tıklanır
 * Favori ikonu ile login olunur
 * Urun favorilere eklenir
-//* Ana sayfadaki urun favorilerden cikarilir
+* Ana sayfadaki urun favorilerden cikarilir
 
 IOS Scenario Non-Login Category and Add To Favorite List
 --------------------------------------------------------
@@ -240,5 +246,17 @@ tags:Gratis_IOS_KategoriFavoriEklemeVeListeOlusturma
 * Listeden yeni eklenen favori listesi secilir
 * Favori listesi silinir
 
+IOS Scenario Category Filter and List
+-------------------------------------
+tags:Gratis_IOS_KategoriFiltreler
+* Uygulama baslatilir
+* Kategoriler sayfasina gecilir
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* Filtreleme butonuna tıklanır
+* Marka filtresine tıklanır
+* Filtreleme butonuna tıklanır
+* Filtre sıfırla butonuna tıklanır
+* Filtreleme butonuna tıklanır
+* Form filtresine tıklanır
 
 
