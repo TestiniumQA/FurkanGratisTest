@@ -87,7 +87,8 @@ tags:Gratis_IOS_FavoriListesindenSepeteEkleme
 * Favorilerden urun detay sayfasına gecilir
 * Favorilerdeki urun sepete eklenir ve alısverise devam edilir
 * Favorilerdeki urun sepete eklenir ve sepete gidilir
-* Urunlerin eklendigi kontrol edilir
+* Sepet kasa arkasi popup'i kapatilir
+* Urunlerin sepete eklendigi kontrol edilir
 * Favori listesi kontrol edilerek temizlenir
 * Favori listesi silinir
 
