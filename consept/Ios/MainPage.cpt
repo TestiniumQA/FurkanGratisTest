@@ -84,79 +84,10 @@
 * "3" saniye bekle
 * "MainPageCampaignFour" elementi bulunana kadar en fazla "10" saniye kadar bekle
 * "1" kere aşağıya kaydır
-* Elementin yüklenmesini bekle "MainPageCampaignFive"
-* Elementine tıkla "MainPageCampaignFive"
-* "1" saniye bekle
-* "MainPageCampaignFive" değerini sayfa olmadığını kontrol et
-* "1" saniye bekle
-* Elementin yüklenmesini bekle "geriBtn"
-* Elementine tıkla "geriBtn"
-* "3" saniye bekle
-* "MainPageCampaignFive" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* "1" kere aşağıya kaydır
-* Elementin yüklenmesini bekle "MainPageCampaignSix"
-* Elementine tıkla "MainPageCampaignSix"
-* "1" saniye bekle
-* "MainPageCampaignSix" değerini sayfa olmadığını kontrol et
-* "1" saniye bekle
-* Elementin yüklenmesini bekle "geriBtn"
-* Elementine tıkla "geriBtn"
-* "3" saniye bekle
-* "MainPageCampaignSix" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* "1" kere aşağıya kaydır
-* Elementin yüklenmesini bekle "MainPageCampaignSeven"
-* Elementine tıkla "MainPageCampaignSeven"
-* "1" saniye bekle
-* "MainPageCampaignSeven" değerini sayfa olmadığını kontrol et
-* "1" saniye bekle
-* Elementin yüklenmesini bekle "geriBtn"
-* Elementine tıkla "geriBtn"
-* "3" saniye bekle
-* "MainPageCampaignSeven" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* "1" kere aşağıya kaydır
-* Elementin yüklenmesini bekle "MainPageCampaignEight"
-* Elementine tıkla "MainPageCampaignEight"
-* "1" saniye bekle
-* "MainPageCampaignEight" değerini sayfa olmadığını kontrol et
-* "1" saniye bekle
-* Elementin yüklenmesini bekle "geriBtn"
-* Elementine tıkla "geriBtn"
-* "3" saniye bekle
-* "MainPageCampaignEight" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* "1" kere aşağıya kaydır
-* Elementin yüklenmesini bekle "MainPageCampaignNine"
-* Elementine tıkla "MainPageCampaignNine"
-* "1" saniye bekle
-* "MainPageCampaignNine" değerini sayfa olmadığını kontrol et
-* "1" saniye bekle
-* Elementin yüklenmesini bekle "geriBtn"
-* Elementine tıkla "geriBtn"
-* "3" saniye bekle
-* "MainPageCampaignNine" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* "1" kere aşağıya kaydır
-* Elementin yüklenmesini bekle "MainPageCampaignTen"
-* Elementine tıkla "MainPageCampaignTen"
-* "1" saniye bekle
-* "MainPageCampaignTen" değerini sayfa olmadığını kontrol et
-* "1" saniye bekle
-* Elementin yüklenmesini bekle "geriBtn"
-* Elementine tıkla "geriBtn"
-* "3" saniye bekle
-* "MainPageCampaignTen" elementi bulunana kadar en fazla "10" saniye kadar bekle
-//* "1" kere aşağıya kaydır
-//* Elementin yüklenmesini bekle "MainPageCampaignEleven"
-//* Elementine tıkla "MainPageCampaignEleven"
-//* "1" saniye bekle
-//* "MainPageCampaignEleven" değerini sayfa olmadığını kontrol et
-//* "1" saniye bekle
-//* Elementin yüklenmesini bekle "geriBtn"
-//* Elementine tıkla "geriBtn"
-//* "3" saniye bekle
-//* "MainPageCampaignEleven" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # En Son Gezdiklerim urunleri swipe edilir ve tiklanir
 * "2" saniye bekle
-* "6" kere aşağıya kaydır
+* "VisitedAddBtn"li elementi bulana kadar "4" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "kampanyalarSekmesi"
 * Elementin yüklenmesini bekle "anasayfa"
 * "VisitedAddBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
@@ -227,7 +158,7 @@
 * "1" saniye bekle
 
 # En Son Gezdiklerim alanına gidilir
-* "17" kere aşağıya kaydır
+* "VisitedAddBtn"li elementi bulana kadar "10" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "VisitedAddBtn"
 * Elementin yüklenmesini bekle "VisitedTitle"
 * Elementin yüklenmesini bekle "VisitedText"

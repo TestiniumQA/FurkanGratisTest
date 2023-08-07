@@ -14,6 +14,7 @@
 # Kampanyaya tiklanir
 * Elementin yüklenmesini bekle "KampanyaSec"
 * "KampanyaSec" li  elementin x ekseninde yukaridan %"20" deger, y ekseninde yukaridan %"20" deger kadar asagisina tikla
+* "2" saniye bekle
 * Elementin yüklenmesini bekle "PageToolbarTitleText"
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "geriBtn"
