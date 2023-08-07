@@ -522,6 +522,12 @@
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "EditListDropdownName"
 * "EditListDropdownName" elementinin "Yeni Liste Adı" textini içermediği kontrol edilir
+* Elementin yüklenmesini bekle "EmptyFavoriteList"
+
+# <yeniListe> isimli favori listesi silindiği kontrol edilir
+* Elementin yüklenmesini bekle "EditListDropdownName"
+* "EditListDropdownName" elementinin <yeniListe> textini içermediği kontrol edilir
+* Elementin yüklenmesini bekle "EmptyFavoriteList"
 
 # Favorilerden urun detay sayfasına gecilir
 * Elementin yüklenmesini bekle "ProductDetailFromFavoriteList"
@@ -546,10 +552,10 @@
 * Elementine tıkla "GoToCartButton"
 * "2" saniye bekle
 
-# Urunlerin eklendigi kontrol edilir
+# Urunlerin sepete eklendigi kontrol edilir
 //* Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
 //* Elementine tıkla "sepetPopUpKapatBtn"
-* "sepetPopUpKapatBtn" li element varsa tıkla
+//* "sepetPopUpKapatBtn" li element varsa tıkla
 * Element var mı kontrol et "FavoriteAddToCartControl"
 * Elementin yüklenmesini bekle "sepetimSilBtn"
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
