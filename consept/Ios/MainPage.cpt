@@ -179,6 +179,7 @@
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
+* "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 
 # Non-Login ana sayfadan bir urun sepete eklenir
 * Elementin yüklenmesini bekle "anasayfa"
@@ -196,6 +197,8 @@
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 * Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
+//* "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
+//* "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
 
 # Alışverişe devam edilir
 * Elementin yüklenmesini bekle "ContinueShoppingButton"
@@ -209,9 +212,7 @@
 # Sepete git'e tıklanır
 * Elementin yüklenmesini bekle "GoToCartButton"
 * Elementine tıkla "GoToCartButton"
-
-# Sepet kasa arkasi popup'i varsa kapatilir
-* Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
+* "2" saniye bekle
 
 # En Çok Satanlar ürünlerine tıklanır
 * "ProductName"li elementi bulana kadar "1" kere swipe yap ve elementi bul

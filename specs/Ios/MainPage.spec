@@ -50,7 +50,7 @@ tags:Gratis_IOS_NonLoginSepeteEkleme
 * Non-Login ana sayfadan bir urun sepete eklenir
 * Sepete Ekle butonu ile login olunur
 * Sepete git'e tıklanır
-* Sepet kasa arkasi popup'i varsa kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
 
 IOS Scenario Visited Add Favorite
@@ -82,11 +82,9 @@ tags:Gratis_IOS_NonLoginEnSonGezdiklerimFavori
 * En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır
 * Favori ikonu ile login olunur
 * Urun favorilere eklenir
-//* En Son Gezdiklerim alanına gidilir
 * Ana sayfadaki urun favorilerden cikarilir
 * Uygulamadan cikis yapilir
 * Ana sayfa tab'ına tıklanır
-//* En Son Gezdiklerim alanına gidilir
 * En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır
 * Favori ikonu ile login olunur
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir
@@ -110,6 +108,7 @@ tags:Gratis_IOS_EnSonGezdiklerimSepet
 * Alışverişe devam edilir
 * En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir
 * Sepete git'e tıklanır
+* Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
 
 IOS Scenario Non-Login Visited Add To Cart
@@ -131,5 +130,5 @@ tags:Gratis_IOS_EnSonGezdiklerimNonLoginSepeteGit
 * En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir
 * Sepete Ekle butonu ile login olunur
 * Sepete git'e tıklanır
-* Sepet kasa arkasi popup'i varsa kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
