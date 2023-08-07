@@ -103,3 +103,12 @@ tags:Gratis_Android_UrunDetayNonLoginFavori
 * Listeden adı "nonLoginFavori" olan favori listesi secilir.
 * Favori listesi silinir.
 * "nonLoginFavori" isimli favori listesi silindiği kontrol edilir.
+
+Sub-Bars
+--------
+tags:Gratis_Android_UrunDetayAltBarlar
+* Uygulama baslatilir.
+* En Çok Satanlar alanında bir ürünün ürün detay sayfasına geçilir.
+* Alt bar alanları kontrol edilir.
+* Ürün bilgileri kontrol edilir.
+* Anahtar kelimelerden birine tıklanır.

@@ -88,3 +88,24 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "detailFavBtn"
 * "addFavoritePopup" değerini sayfa üzerinde olmadıgını kontrol et
 * "1" saniye bekle
+
+# Alt bar alanları kontrol edilir.
+* "1" kere aşağıya kaydır
+* Element var mı kontrol et "productReturn"
+* Elementine tıkla "productReturn"
+* "returnTxt" li elementin değeri "Gratis Kolay ve Koşulsuz İade Sistemi" e içerdiğini kontrol et
+* Element var mı kontrol et "productPayment"
+* Elementine tıkla "productPayment"
+* "Kredi Kartı ya da Banka Kartı ile yapılan alışverişler" değerini sayfa üzerinde olup olmadığını kontrol et.
+
+# Ürün bilgileri kontrol edilir.
+* Elementine tıkla "productFeatures"
+* "productInfoTable"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+
+# Anahtar kelimelerden birine tıklanır.
+* "keyword"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* "keyword" li elementi bul ve değerini "anahtarKelime" olarak sakla
+* Elementine tıkla "keyword"
+* "pageToolbarTitle" li elementin text degeri hafizada "anahtarKelime" olarak saklanan text ile esit mi kontrol et
+* Element var mı kontrol et "urunDetay"
+* Element var mı kontrol et "urunDetayy"

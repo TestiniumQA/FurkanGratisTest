@@ -1473,5 +1473,35 @@
     "key": "popupText",
     "androidValue": "(//android.widget.TextView)[3]",
     "androidType": "id"
+  },
+  {
+    "key": "productInfoTable",
+    "androidValue": "com.gratis.android:id/product_info_table",
+    "androidType": "id"
+  },
+  {
+    "key": "productReturn",
+    "androidValue": "//android.widget.TextView[@text='İade Koşulları']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "returnTxt",
+    "androidValue": "com.gratis.android:id/conditions_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "productPayment",
+    "androidValue": "//android.widget.TextView[@text='Ödeme Seçenekleri']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "productFeatures",
+    "androidValue": "//android.widget.TextView[@text='Ürün Özellikleri']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "keyword",
+    "androidValue": "//*[@resource-id='com.gratis.android:id/item_keyword_root']/android.widget.TextView",
+    "androidType": "xpath"
   }
 ]
