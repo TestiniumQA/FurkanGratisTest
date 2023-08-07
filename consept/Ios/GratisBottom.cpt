@@ -402,7 +402,7 @@
 
 # En Yeniler butonuna tıklanır
 * Elementin yüklenmesini bekle "SortByMost"
-* "70","90" oranlarından "70","70" oranlarına "1" kere yukarı swipe et
+* "70","85" oranlarından "70","60" oranlarına "1" kere yukarı swipe et
 * "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
@@ -414,7 +414,7 @@
 
 # En Düşük Fiyat butonuna tıklanır
 * Elementin yüklenmesini bekle "SortByNew"
-* "70","90" oranlarından "70","70" oranlarına "1" kere yukarı swipe et
+* "70","85" oranlarından "70","60" oranlarına "1" kere yukarı swipe et
 * "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByNew" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
@@ -428,7 +428,7 @@
 
 # En Yüksek Fiyat butonuna tıklanır
 * Elementin yüklenmesini bekle "SortByLowPrice"
-* "70","90" oranlarından "70","70" oranlarına "2" kere yukarı swipe et
+* "70","85" oranlarından "70","60" oranlarına "2" kere yukarı swipe et
 * "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByNew" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
@@ -443,7 +443,7 @@
 
 # En Yüksek Puan butonuna tıklanır
 * Elementin yüklenmesini bekle "SortByHighPrice"
-* "70","90" oranlarından "70","70" oranlarına "2" kere yukarı swipe et
+* "70","85" oranlarından "70","60" oranlarına "2" kere yukarı swipe et
 * "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByNew" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
