@@ -78,8 +78,8 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
 * Elementin yüklenmesini bekle "AddedToCartText"
-* "alertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
-* "alertSuccessfulPopup" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
+* "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
 
 # En Son Gezdiklerim alanına gidilir.
 * "8" kere aşağıya kaydır
