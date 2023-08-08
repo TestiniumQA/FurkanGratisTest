@@ -402,7 +402,7 @@
 
 # En Yeniler butonuna tıklanır
 * Elementin yüklenmesini bekle "SortByMost"
-* "70","90" oranlarından "70","70" oranlarına "1" kere yukarı swipe et
+* "70","80" oranlarından "70","75" oranlarına "2" kere yukarı swipe et
 * "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
@@ -414,7 +414,7 @@
 
 # En Düşük Fiyat butonuna tıklanır
 * Elementin yüklenmesini bekle "SortByNew"
-* "70","90" oranlarından "70","70" oranlarına "1" kere yukarı swipe et
+* "70","80" oranlarından "70","75" oranlarına "3" kere yukarı swipe et
 * "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByNew" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
@@ -428,7 +428,7 @@
 
 # En Yüksek Fiyat butonuna tıklanır
 * Elementin yüklenmesini bekle "SortByLowPrice"
-* "70","90" oranlarından "70","70" oranlarına "2" kere yukarı swipe et
+* "70","80" oranlarından "70","75" oranlarına "5" kere yukarı swipe et
 * "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByNew" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
@@ -443,7 +443,7 @@
 
 # En Yüksek Puan butonuna tıklanır
 * Elementin yüklenmesini bekle "SortByHighPrice"
-* "70","90" oranlarından "70","70" oranlarına "2" kere yukarı swipe et
+* "70","80" oranlarından "70","75" oranlarına "5" kere yukarı swipe et
 * "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByNew" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
@@ -458,7 +458,9 @@
 
 # Başa Dön butonuna bas
 * "ProductsName" li elementi bul ve değerini "ilk ürün" olarak sakla
-* "2" kere aşağıya kaydır
+//* "2" kere aşağıya kaydır
+* "1" kere teması devam ettirmeden aşağıya kaydır
+* "5" saniye bekle
 * Elementin yüklenmesini bekle "ScrollToTop"
 * Elementine tıkla "ScrollToTop"
 * "ProductsName" li elementin text degeri hafizada "ilk ürün" olarak saklanan text ile esit mi kontrol et
@@ -527,7 +529,7 @@
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "FilterOkayBtn"
 * Elementine tıkla "FilterOkayBtn"
-* "ProductsName" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
+* "ProductsNameTwo" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
 
 # Filtre sıfırla butonuna tıklanır
 * Element var mı kontrol et "FilterResetBtn"
