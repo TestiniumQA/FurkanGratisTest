@@ -1014,9 +1014,16 @@ public class StepImpl extends HookImpl {
 
             int swipeStartWidth = width / 2;
             int swipeStartHeight = (height * 75) / 100;
+            int swipeEndHeight = (height * 20) / 100;
 
-            new TouchAction(appiumDriver)
-                    .press(PointOption.point(swipeStartWidth, swipeStartHeight))
+            TouchAction touchAction = new TouchAction(appiumDriver);
+            touchAction.press(PointOption.point(swipeStartWidth, swipeStartHeight))
+                    .waitAction(WaitOptions.waitOptions(Duration.ofMillis(1000)))
+                    .moveTo(PointOption.point(swipeStartWidth, swipeEndHeight))
+                    .release()
+                    .perform();
+
+            touchAction.press(PointOption.point(swipeStartWidth, swipeEndHeight))
                     .release()
                     .perform();
         } else {
@@ -1026,9 +1033,16 @@ public class StepImpl extends HookImpl {
 
             int swipeStartWidth = width / 2;
             int swipeStartHeight = (height * 75) / 100;
+            int swipeEndHeight = (height * 30) / 100;
 
-            new TouchAction(appiumDriver)
-                    .press(PointOption.point(swipeStartWidth, swipeStartHeight))
+            TouchAction touchAction = new TouchAction(appiumDriver);
+            touchAction.press(PointOption.point(swipeStartWidth, swipeStartHeight))
+                    .waitAction(WaitOptions.waitOptions(Duration.ofMillis(1000)))
+                    .moveTo(PointOption.point(swipeStartWidth, swipeEndHeight))
+                    .release()
+                    .perform();
+
+            touchAction.press(PointOption.point(swipeStartWidth, swipeEndHeight))
                     .release()
                     .perform();
         }
