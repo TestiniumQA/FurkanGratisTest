@@ -7,6 +7,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
      
 Purchasing below shipping cost
 ------------------------------
+tags:Gratis_Android_KargoIndirimsiz
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Login olunur.
