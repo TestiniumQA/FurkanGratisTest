@@ -13,9 +13,8 @@ tags:Gratis_Android_KargoIndirimsiz
 * Login olunur.
 * Ana sayfadan bir urun sepete eklenir.
 * Sepet kasa arkasi popup'i varsa kapatilir.
-* "priceTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
-* "secondPriceTwo" li elementli küsüratı bul ve değerini "ikinciKüsür" olarak sakla
-* "priceOne" li elementi bul ve değerini "fiyat1" olarak sakla
-* "secondPriceOne" li elementi bul ve değerini "fiyat2" olarak sakla
-* "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
-* Saklanan fiyat değerlerini "ilkKüsür", "ikinciKüsür", "fiyat1", "fiyat2" toplam fiyat "salePriceOne", "salePriceTwo" ile eşit mi kontrol et
+* Ürünlerin ve toplam fiyatın kontrolü yapılır.
+* Teslimat Bilgileri alanı kontrol edilir.
+* Teslimat alanı kontrol edilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı fiyat konrol edilir.

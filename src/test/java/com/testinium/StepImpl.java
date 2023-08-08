@@ -22,13 +22,11 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.io.*;
 import java.sql.SQLOutput;
 import java.util.Random;
 import javax.annotation.Nullable;
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
+import javax.imageio.ImageIO;
 import java.sql.Timestamp;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -1945,6 +1943,31 @@ public class StepImpl extends HookImpl {
         assertEquals(toplam,count,"Degerler birbirine esit degil");
     }
 
+    @Step("Saklanan fiyat değerlerini <priceTwo>, <secondPriceTwo>, <priceOne>, <secondPriceOne> toplam fiyat <sum> ile eşit mi kontrol et")
+    public void sumAllPricesStr(String priceTwo, String secondPriceTwo, String priceOne, String secondPriceOne, String sum)
+    {
+        String priceTwos= StoreHelper.INSTANCE.getValue(priceTwo);
+        String secondPriceTwos= StoreHelper.INSTANCE.getValue(secondPriceTwo);
+        String priceOnes= StoreHelper.INSTANCE.getValue(priceOne);
+        String secondPriceOnes= StoreHelper.INSTANCE.getValue(secondPriceOne);
+
+        logger.info("Expected Value : "+priceTwos);
+        logger.info("Expected Value : "+secondPriceTwos);
+        logger.info("Expected Value : "+priceOnes);
+        logger.info("Expected Value : "+secondPriceOnes);
+
+        String sums = findElementByKey(sum).getText().substring(0,findElementByKey(sum).getText().length()-7);
+        sums = sums.replace(",", ".");
+        double toplam = Double.parseDouble(sums);
+        double count = (Double.parseDouble(priceTwos)/100) + (Double.parseDouble(secondPriceTwos)/100)
+                + Double.parseDouble(priceOnes) + Double.parseDouble(secondPriceOnes);
+
+        logger.info("Expected Value : "+count);
+        logger.info("Actual Value : "+toplam);
+
+        assertEquals(toplam,count,"Degerler birbirine esit degil");
+    }
+
     @Step("Sipariste bulunan urunlerin toplam fiyati <key> degeri ile kontrol edilirerek <saveKey> ile saklanir")
     public void pointToPointSwipeWithCoordinatsForProduct(String key, String saveKey) throws InterruptedException {
         String strCount = appiumDriver.findElement(By.id("com.mobisoft.beymen:id/tvOrderStatus")).getText();
@@ -2692,8 +2715,6 @@ public class StepImpl extends HookImpl {
     public void closeKeyboard() {
         appiumDriver.hideKeyboard();
     }
-
-
 
 }
 

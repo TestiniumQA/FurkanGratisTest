@@ -1,5 +1,54 @@
 Created by testinium on 8.08.2023
 
 This is a concept file with following syntax for each concept.
-# Concept Heading
-* Elementine tıkla "secondPriceTwo"
+# Mağazadan seç popup'ı varsa kapatilir.
+* "storeCloseImg" li element varsa tıkla yoksa devam et
+
+# Ürünlerin ve toplam fiyatın kontrolü yapılır.
+* "productCartName" li elementi bul ve değerini "urun1" olarak sakla
+* "productSecondCartName" li elementi bul ve değerini "urun2" olarak sakla
+* "priceTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
+* "secondPriceTwo" li elementli küsüratı bul ve değerini "ikinciKüsür" olarak sakla
+* "priceOne" li elementi bul ve değerini "fiyat1" olarak sakla
+* "secondPriceOne" li elementi bul ve değerini "fiyat2" olarak sakla
+* "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Saklanan fiyat değerlerini "ilkKüsür", "ikinciKüsür", "fiyat1", "fiyat2" toplam fiyat "salePriceOne", "salePriceTwo" ile eşit mi kontrol et
+* Elementine tıkla "continueBtn"
+
+# Teslimat Bilgileri alanı kontrol edilir.
+* "Teslim Türü" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Adrese Teslim" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Teslimat Adresi" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementine tıkla "continueBtn"
+
+# Teslimat alanı kontrol edilir.
+* Mağazadan seç popup'ı varsa kapatilir.
+* "headerTxt" elementinin "Teslimat ve Ödeme" textini içerdiği kontrol edilir
+* "infoTxt" elementinin "300 TL ve üzeri ÜCRETSİZ" textini içerdiği kontrol edilir
+* "shippingPriceOne" li elementi bul ve değerini "fiyat2" olarak sakla
+* "shippingPriceTwo" li elementli küsüratı bul ve değerini "ikinciKüsür" olarak sakla
+* Elementine tıkla "shippingCheckBox"
+* "1" saniye bekle
+* "salePriceOne" li elementi bul ve değerini "fiyat1" olarak sakla
+* "salePriceTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
+* "1" saniye bekle
+* Elementine tıkla "continueBtn"
+
+# Sipariş Özeti alanı kontrol edilir.
+* "productCartName" li elementin text degerini hafizada "urun2" olarak saklanan text ile karsilastir
+* "productSecondCartName" li elementin text degerini hafizada "urun1" olarak saklanan text ile karsilastir
+* "continueBtn"li elementi bulana kadar "4" kere swipe yap ve elementi bul
+* "preInfo" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "registerAgreementText" elementi "" degerine esit mi
+* Elementine tıkla "popupOkayButton"
+* "salesContact" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "registerAgreementText" elementi "" degerine esit mi
+* Elementine tıkla "popupOkayButton"
+* Elementine tıkla "infoCheckbox"
+* Elementine tıkla "salesContractCheckbox"
+* Elementine tıkla "continueBtn"
+
+# Iyzico alanı fiyat konrol edilir.
+* "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Saklanan fiyat değerlerini "ilkKüsür", "ikinciKüsür", "fiyat1", "fiyat2" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et

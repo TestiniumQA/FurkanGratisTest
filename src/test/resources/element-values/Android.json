@@ -1370,6 +1370,11 @@
     "androidType": "id"
   },
   {
+    "key": "productSecondCartName",
+    "androidValue": "(//*[@resource-id='com.gratis.android:id/shopping_item_title'])[2]",
+    "androidType": "xpath"
+  },
+  {
     "key": "filterBtn",
     "androidValue": "com.gratis.android:id/filter_txt",
     "androidType": "id"
@@ -1538,5 +1543,80 @@
     "key": "salePriceTwo",
     "androidValue": "com.gratis.android:id/detail_sale_price_two_txt",
     "androidType": "id"
+  },
+  {
+    "key": "storeCloseImg",
+    "androidValue": "com.gratis.android:id/close_img",
+    "androidType": "id"
+  },
+  {
+    "key": "headerTxt",
+    "androidValue": "com.gratis.android:id/headerTxt",
+    "androidType": "id"
+  },
+  {
+    "key": "infoTxt",
+    "androidValue": "com.gratis.android:id/infoTxt",
+    "androidType": "id"
+  },
+  {
+    "key": "shippingPriceOne",
+    "androidValue": "com.gratis.android:id/shipping_price_one_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "shippingPriceOneCheck",
+    "androidValue": "(//*[@resource-id='com.gratis.android:id/shipping_price_one_txt'])[2]",
+    "androidType": "id"
+  },
+  {
+    "key": "shippingPriceTwoCheck",
+    "androidValue": "(//*[@resource-id='com.gratis.android:id/shipping_price_two_txt'])[2]",
+    "androidType": "id"
+  },
+  {
+    "key": "shippingPriceTwo",
+    "androidValue": "com.gratis.android:id/shipping_price_two_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "totalPriceOne",
+    "androidValue": "//android.widget.LinearLayout[@resource-id='com.gratis.android:id/totalPriceTxt']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "totalPriceTwo",
+    "androidValue": "(//*[@resource-id='com.gratis.android:id/totalPriceTxt']//android.widget.TextView)[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "shippingCheckBox",
+    "androidValue": "com.gratis.android:id/shippingCheckBox",
+    "androidType": "id"
+  },
+  {
+    "key": "preInfo",
+    "androidValue": "com.gratis.android:id/info_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "salesContact",
+    "androidValue": "com.gratis.android:id/sales_contract_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "infoCheckbox",
+    "androidValue": "com.gratis.android:id/info_checkbox",
+    "androidType": "id"
+  },
+  {
+    "key": "salesContractCheckbox",
+    "androidValue": "com.gratis.android:id/sales_contract_checkbox",
+    "androidType": "id"
+  },
+  {
+    "key": "iyzPaymentBtn",
+    "androidValue": "//*[@resource-id='iyz-payment-button']",
+    "androidType": "xpath"
   }
 ]
