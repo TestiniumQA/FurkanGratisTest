@@ -1014,7 +1014,7 @@ public class StepImpl extends HookImpl {
 
             int swipeStartWidth = width / 2;
             int swipeStartHeight = (height * 75) / 100;
-            int swipeEndHeight = (height * 20) / 100;
+            int swipeEndHeight = (height * 10) / 100;
 
             TouchAction touchAction = new TouchAction(appiumDriver);
             touchAction.press(PointOption.point(swipeStartWidth, swipeStartHeight))
@@ -1033,7 +1033,7 @@ public class StepImpl extends HookImpl {
 
             int swipeStartWidth = width / 2;
             int swipeStartHeight = (height * 75) / 100;
-            int swipeEndHeight = (height * 30) / 100;
+            int swipeEndHeight = (height * 15) / 100;
 
             TouchAction touchAction = new TouchAction(appiumDriver);
             touchAction.press(PointOption.point(swipeStartWidth, swipeStartHeight))
