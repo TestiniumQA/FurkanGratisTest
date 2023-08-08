@@ -1006,6 +1006,35 @@ public class StepImpl extends HookImpl {
         }
     }
 
+    public void quickSwipeDownAccordingToPhoneSize() {
+        if (appiumDriver instanceof AndroidDriver) {
+            Dimension d = appiumDriver.manage().window().getSize();
+            int width = d.width;
+            int height = d.height;
+
+            int swipeStartWidth = width / 2;
+            int swipeStartHeight = (height * 75) / 100;
+
+            new TouchAction(appiumDriver)
+                    .press(PointOption.point(swipeStartWidth, swipeStartHeight))
+                    .release()
+                    .perform();
+        } else {
+            Dimension d = appiumDriver.manage().window().getSize();
+            int width = d.width;
+            int height = d.height;
+
+            int swipeStartWidth = width / 2;
+            int swipeStartHeight = (height * 75) / 100;
+
+            new TouchAction(appiumDriver)
+                    .press(PointOption.point(swipeStartWidth, swipeStartHeight))
+                    .release()
+                    .perform();
+        }
+    }
+
+
     public boolean isElementPresent(By by) {
         return findElementWithoutAssert(by) != null;
     }
@@ -1015,6 +1044,19 @@ public class StepImpl extends HookImpl {
     public void swipe(int times) throws InterruptedException {
         for (int i = 0; i < times; i++) {
             swipeDownAccordingToPhoneSize();
+            waitBySecond(1);
+
+            System.out.println("-----------------------------------------------------------------");
+            System.out.println("SWİPE EDİLDİ");
+            System.out.println("-----------------------------------------------------------------");
+
+        }
+    }
+
+    @Step({"<times> kere teması devam ettirmeden aşağıya kaydır", "Swipe times <times>"})
+    public void quickSwipe(int times) throws InterruptedException {
+        for (int i = 0; i < times; i++) {
+            quickSwipeDownAccordingToPhoneSize();
             waitBySecond(1);
 
             System.out.println("-----------------------------------------------------------------");
