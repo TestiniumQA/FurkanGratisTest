@@ -707,6 +707,14 @@ public class StepImpl extends HookImpl {
         logger.info("["+StoreHelper.INSTANCE.getValue(saveKey)+"]" + " degeri ["+ saveKey + "] ismiyle hafizaya kaydedildi");
     }
 
+    @Step({"<key> li elementli küsüratı bul ve değerini <saveKey> olarak sakla",
+            "Find element by <key> and save text <saveKey>"})
+    public void savePriceByKeyy(String key, String saveKey) {
+        String kusur = findElementByKey(key).getText().substring(1,findElementByKey(key).getText().length());
+        StoreHelper.INSTANCE.saveValue(saveKey,kusur);
+        logger.info("["+StoreHelper.INSTANCE.getValue(saveKey)+"]" + " degeri ["+ saveKey + "] ismiyle hafizaya kaydedildi");
+    }
+
     @Step({"<key> li ve değeri <text> e eşit olan elementli bul ve tıkla",
             "Find element by <key> text equals <text> and click"})
     public void clickByIdWithContains(String key, String text) {
@@ -1116,6 +1124,17 @@ public class StepImpl extends HookImpl {
 
         logger.info(text + " sayfa üzerinde bulundu");
     }
+
+    @Step({"<saveKey> olarak saklanan değerin sayfa üzerinde olup olmadığını kontrol et"})
+    public void getPageSourceFindSaveKey(String saveKey) {
+        String saveElementTxt= StoreHelper.INSTANCE.getValue(saveKey);
+
+        assertTrue(appiumDriver.getPageSource().contains(saveElementTxt), saveElementTxt + " sayfa üzerinde bulunamadı."
+        );
+
+        logger.info(saveElementTxt + " sayfa üzerinde bulundu");
+    }
+
     @Step({"<key> değerini sayfa üzerinde olmadıgını kontrol et"})
     public void getPageSourceFindWordKey(String key) {
 
@@ -1845,6 +1864,86 @@ public class StepImpl extends HookImpl {
 
     }
 
+    @Step({"<key> li elementin text degerini, saklanan <saveKey> degeriyle ile <islem>"})
+    public void calculateAndSavePrices(String key, String saveKey,String islem) {
+
+        MobileElement element;
+        element = findElementByKeyWithoutAssert(key);
+
+        if (element!=null){
+            String lastSaveKey = StoreHelper.INSTANCE.getValue(saveKey);
+
+            lastSaveKey = lastSaveKey.replaceAll("\\s", "");
+            lastSaveKey = lastSaveKey.replaceAll(",", ".");
+            lastSaveKey = lastSaveKey.replaceAll("TL", "");
+            Float floatLastSaveKey =Float.parseFloat(lastSaveKey);
+            logger.info("Birikimli odenecek tutar : "+lastSaveKey);
+
+            String elementTxt = findElementByKey(key).getText();
+
+            String price = findElementByKey(key).getText();
+            elementTxt = elementTxt.replaceAll("\\s", "");
+            elementTxt = elementTxt.replaceAll(",", ".");
+            elementTxt = elementTxt.replace(elementTxt.substring(elementTxt.length()-2), "");
+            Float floatElementTxt =Float.parseFloat(elementTxt);
+            logger.info(key+" : "+elementTxt);
+
+
+            if (islem.equals("topla"))
+            {
+                floatLastSaveKey = (floatLastSaveKey*100)+(floatElementTxt*100);
+                floatLastSaveKey/=100;
+                logger.info("Islem sonucu : "+floatLastSaveKey);
+
+            }
+            else if (islem.equals("cikar"))
+            {
+                floatLastSaveKey = (floatLastSaveKey*100)-(floatElementTxt*100);
+                floatLastSaveKey/=100;
+                logger.info("Islem sonucu : "+floatLastSaveKey);
+            }
+            else{
+                logger.info("Islem adi yanlis girilmiştir!");
+                assertTrue(0>1);
+
+            }
+
+            String strValue = Float.toString(floatLastSaveKey);
+            strValue = strValue.replaceAll("\\.", ",");
+            StoreHelper.INSTANCE.saveValue(saveKey,strValue);
+        }
+
+        else {
+            logger.info("------ Islem icin ["+key+"] li element bulunamadi ------");
+        }
+
+    }
+
+    @Step("Saklanan fiyat değerlerini <priceTwo>, <secondPriceTwo>, <priceOne>, <secondPriceOne> toplam fiyat <sum>, <sumKusur> ile eşit mi kontrol et")
+    public void sumAllPrices(String priceTwo, String secondPriceTwo, String priceOne, String secondPriceOne, String sum, String sumKusur)
+    {
+        String priceTwos= StoreHelper.INSTANCE.getValue(priceTwo);
+        String secondPriceTwos= StoreHelper.INSTANCE.getValue(secondPriceTwo);
+        String priceOnes= StoreHelper.INSTANCE.getValue(priceOne);
+        String secondPriceOnes= StoreHelper.INSTANCE.getValue(secondPriceOne);
+
+        logger.info("Expected Value : "+priceTwos);
+        logger.info("Expected Value : "+secondPriceTwos);
+        logger.info("Expected Value : "+priceOnes);
+        logger.info("Expected Value : "+secondPriceOnes);
+
+        String sums = findElementByKey(sum).getText();
+        String sumKusurs = findElementByKey(sumKusur).getText().substring(1,findElementByKey(sumKusur).getText().length());
+
+        double toplam = (Double.parseDouble(sumKusurs)/100) + Double.parseDouble(sums);
+        double count = (Double.parseDouble(priceTwos)/100) + (Double.parseDouble(secondPriceTwos)/100)
+                + Double.parseDouble(priceOnes) + Double.parseDouble(secondPriceOnes);
+
+        logger.info("Expected Value : "+count);
+        logger.info("Actual Value : "+toplam);
+
+        assertEquals(toplam,count,"Degerler birbirine esit degil");
+    }
 
     @Step("Sipariste bulunan urunlerin toplam fiyati <key> degeri ile kontrol edilirerek <saveKey> ile saklanir")
     public void pointToPointSwipeWithCoordinatsForProduct(String key, String saveKey) throws InterruptedException {
