@@ -25,7 +25,7 @@ This is a concept file with following syntax for each concept.
 # Teslimat alanı kontrol edilir.
 * Mağazadan seç popup'ı varsa kapatilir.
 * "headerTxt" elementinin "Teslimat ve Ödeme" textini içerdiği kontrol edilir
-* "infoTxt" elementinin "300 TL ve üzeri ÜCRETSİZ" textini içerdiği kontrol edilir
+* "infoTxt" elementinin "250 TL ve üzeri ÜCRETSİZ" textini içerdiği kontrol edilir
 * "shippingPriceOne" li elementi bul ve değerini "fiyat2" olarak sakla
 * "shippingPriceTwo" li elementli küsüratı bul ve değerini "ikinciKüsür" olarak sakla
 * Elementine tıkla "shippingCheckBox"
