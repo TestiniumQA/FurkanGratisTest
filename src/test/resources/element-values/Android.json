@@ -1503,5 +1503,40 @@
     "key": "keyword",
     "androidValue": "//*[@resource-id='com.gratis.android:id/item_keyword_root']/android.widget.TextView",
     "androidType": "xpath"
+  },
+  {
+    "key": "priceTwo",
+    "androidValue": "com.gratis.android:id/shopping_item_price_two",
+    "androidType": "id"
+  },
+  {
+    "key": "secondPriceTwo",
+    "androidValue": "(//*[@resource-id='com.gratis.android:id/shopping_item_price_two'])[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "priceOne",
+    "androidValue": "com.gratis.android:id/shopping_item_price_one",
+    "androidType": "id"
+  },
+  {
+    "key": "secondPriceOne",
+    "androidValue": "(//*[@resource-id='com.gratis.android:id/shopping_item_price_one'])[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "continueBtn",
+    "androidValue": "com.gratis.android:id/continueBtn",
+    "androidType": "id"
+  },
+  {
+    "key": "salePriceOne",
+    "androidValue": "com.gratis.android:id/detail_sale_price_one_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "salePriceTwo",
+    "androidValue": "com.gratis.android:id/detail_sale_price_two_txt",
+    "androidType": "id"
   }
 ]
