@@ -458,7 +458,8 @@
 
 # Başa Dön butonuna bas
 * "ProductsName" li elementi bul ve değerini "ilk ürün" olarak sakla
-* "2" kere aşağıya kaydır
+//* "2" kere aşağıya kaydır
+* "2" kere teması devam ettirmeden aşağıya kaydır
 * "5" saniye bekle
 * Elementin yüklenmesini bekle "ScrollToTop"
 * Elementine tıkla "ScrollToTop"
