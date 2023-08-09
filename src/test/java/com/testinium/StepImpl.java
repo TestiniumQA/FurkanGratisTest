@@ -1943,6 +1943,27 @@ public class StepImpl extends HookImpl {
         assertEquals(toplam,count,"Degerler birbirine esit degil");
     }
 
+    @Step("Saklanan tek ürün fiyat değerlerini <priceTwo>, <priceOne> toplam fiyat <sum>, <sumKusur> ile eşit mi kontrol et")
+    public void sumAllPrices(String priceTwo, String priceOne, String sum, String sumKusur)
+    {
+        String priceTwos= StoreHelper.INSTANCE.getValue(priceTwo);
+        String priceOnes= StoreHelper.INSTANCE.getValue(priceOne);
+
+        logger.info("Expected Value : "+priceTwos);
+        logger.info("Expected Value : "+priceOnes);
+
+        String sums = findElementByKey(sum).getText();
+        String sumKusurs = findElementByKey(sumKusur).getText().substring(1,findElementByKey(sumKusur).getText().length());
+
+        double toplam = (Double.parseDouble(sumKusurs)/100) + Double.parseDouble(sums);
+        double count = (Double.parseDouble(priceTwos)/100) + Double.parseDouble(priceOnes);
+
+        logger.info("Expected Value : "+count);
+        logger.info("Actual Value : "+toplam);
+
+        assertEquals(toplam,count,"Degerler birbirine esit degil");
+    }
+
     @Step("Saklanan fiyat değerlerini <priceTwo>, <secondPriceTwo>, <priceOne>, <secondPriceOne> toplam fiyat <sum> ile eşit mi kontrol et")
     public void sumAllPricesStr(String priceTwo, String secondPriceTwo, String priceOne, String secondPriceOne, String sum)
     {

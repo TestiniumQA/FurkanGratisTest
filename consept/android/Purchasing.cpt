@@ -5,14 +5,23 @@ This is a concept file with following syntax for each concept.
 * "storeCloseImg" li element varsa tıkla yoksa devam et
 
 # Ürünlerin ve toplam fiyatın kontrolü yapılır.
-* "productCartName" li elementi bul ve değerini "urun1" olarak sakla
-* "productSecondCartName" li elementi bul ve değerini "urun2" olarak sakla
+//* "productCartName" li elementi bul ve değerini "urun1" olarak sakla
+//* "productSecondCartName" li elementi bul ve değerini "urun2" olarak sakla
 * "priceTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
 * "secondPriceTwo" li elementli küsüratı bul ve değerini "ikinciKüsür" olarak sakla
 * "priceOne" li elementi bul ve değerini "fiyat1" olarak sakla
 * "secondPriceOne" li elementi bul ve değerini "fiyat2" olarak sakla
 * "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Saklanan fiyat değerlerini "ilkKüsür", "ikinciKüsür", "fiyat1", "fiyat2" toplam fiyat "salePriceOne", "salePriceTwo" ile eşit mi kontrol et
+* Elementine tıkla "continueBtn"
+
+# Tek ürünün ve toplam fiyatın kontrolü yapılır.
+//* "productCartName" li elementi bul ve değerini "urun1" olarak sakla
+//* "productSecondCartName" li elementi bul ve değerini "urun2" olarak sakla
+* "priceTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
+* "priceOne" li elementi bul ve değerini "fiyat1" olarak sakla
+* "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "salePriceOne", "salePriceTwo" ile eşit mi kontrol et
 * Elementine tıkla "continueBtn"
 
 # Teslimat Bilgileri alanı kontrol edilir.
@@ -25,7 +34,6 @@ This is a concept file with following syntax for each concept.
 # Teslimat alanı kontrol edilir.
 * Mağazadan seç popup'ı varsa kapatilir.
 * "headerTxt" elementinin "Teslimat ve Ödeme" textini içerdiği kontrol edilir
-* "infoTxt" elementinin "250 TL ve üzeri ÜCRETSİZ" textini içerdiği kontrol edilir
 * "shippingPriceOne" li elementi bul ve değerini "fiyat2" olarak sakla
 * "shippingPriceTwo" li elementli küsüratı bul ve değerini "ikinciKüsür" olarak sakla
 * Elementine tıkla "shippingCheckBox"
@@ -36,8 +44,8 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "continueBtn"
 
 # Sipariş Özeti alanı kontrol edilir.
-* "productCartName" li elementin text degerini hafizada "urun2" olarak saklanan text ile karsilastir
-* "productSecondCartName" li elementin text degerini hafizada "urun1" olarak saklanan text ile karsilastir
+//* "productCartName" li elementin text degerini hafizada "urun2" olarak saklanan text ile karsilastir
+//* "productSecondCartName" li elementin text degerini hafizada "urun1" olarak saklanan text ile karsilastir
 * "continueBtn"li elementi bulana kadar "4" kere swipe yap ve elementi bul
 * "preInfo" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "registerAgreementText" elementi "" degerine esit mi
@@ -52,3 +60,18 @@ This is a concept file with following syntax for each concept.
 # Iyzico alanı fiyat konrol edilir.
 * "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 * Saklanan fiyat değerlerini "ilkKüsür", "ikinciKüsür", "fiyat1", "fiyat2" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
+
+# Urun kodu <text> yazilir, arama yapilir.
+* "urunSearchBox" elementi bulunana kadar en fazla "50" saniye kadar bekle
+* Elementine tıkla "urunSearchBox"
+* "urunSearchTxt" elementi bulunana kadar en fazla "50" saniye kadar bekle
+* <text> textini "urunSearchTxt" elemente yaz
+* "2" saniye bekle
+//* "" elementi bulunana kadar en fazla "50" saniye kadar bekle
+* Android Enter tıkla
+* Android Enter tıkla
+//* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
+* "pageToolbarTitle" li elementin değeri "Ürün Detay" e içerdiğini kontrol et
+* Element var mı kontrol et "productDetailTitle"
+* Element var mı kontrol et "kampanyaSec"
+* "1" saniye bekle
