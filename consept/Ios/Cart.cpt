@@ -19,7 +19,7 @@
 
 # Sepet kontrol edilerek temizlenir
 //* "sepetPopUpKapatBtn" li element varsa tıkla
-* Elementin yüklenmesini bekle "sepetimSilBtn"
+//* Elementin yüklenmesini bekle "sepetimSilBtn"
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * Elementin yüklenmesini bekle "PageCloseIcon"
