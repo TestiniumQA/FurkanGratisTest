@@ -55,4 +55,3 @@ tags:Gratis_IOS_Search_Deneme
 * Search ikonuna tiklanir
 * Arama sayfasinin acildigi gorulur
 * Search texti aramasi yapilir
-* "5" saniye bekle
