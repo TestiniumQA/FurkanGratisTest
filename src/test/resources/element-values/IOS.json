@@ -1393,10 +1393,10 @@
     "iosType": "classChain"
   },
   {
-    "key": "SearchBoxText1",
+    "key": "SearchBoxTextOne",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeTextField[`value == \"Ürün, kategori veya marka ara..\"`]",
+    "iosValue": "**/XCUIElementTypeTextField[`value == 'Ürün, kategori veya marka ara..'`]",
     "iosType": "classChain"
   },
   {

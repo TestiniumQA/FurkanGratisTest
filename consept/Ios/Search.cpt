@@ -38,6 +38,15 @@
 * Elementine tıkla "KeyboardSearchButtonNew"
 * "1" saniye bekle
 
+# Search texti aramasi yapilir
+//* "SearchBoxTextOne" elementi bulunana kadar en fazla "50" saniye kadar bekle
+//* Elementine tıkla "SearchBoxTextOne"
+* "SearchBoxTextOne" elementi bulunana kadar en fazla "60" saniye kadar bekle
+* <text> textini "SearchBoxTextOne" elemente yaz
+* "KeyboardSearchButtonNew" elementi bulunana kadar en fazla "60" saniye kadar bekle
+* Elementin yüklenmesini bekle "KeyboardSearchButtonNew"
+* Elementine tıkla "KeyboardSearchButtonNew"
+
 # Aradiginiz sonuc bulunamadi sayfasinin acildigi gorulur
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "SearchNoResultFound"
