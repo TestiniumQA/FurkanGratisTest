@@ -25,7 +25,7 @@ tags:Gratis_Android_KargoIndirimsiz
 
 Purchasing above shipping cost
 ------------------------------
-tags:Gratis_Android_KargoIndirimsiz
+tags:Gratis_Android_KargoIndirimli
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
