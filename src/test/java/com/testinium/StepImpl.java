@@ -24,6 +24,7 @@ import org.slf4j.LoggerFactory;
 
 import java.io.*;
 import java.sql.SQLOutput;
+import java.text.DecimalFormat;
 import java.util.Random;
 import javax.annotation.Nullable;
 import javax.imageio.ImageIO;
@@ -1982,6 +1983,50 @@ public class StepImpl extends HookImpl {
         double toplam = Double.parseDouble(sums);
         double count = (Double.parseDouble(priceTwos)/100) + (Double.parseDouble(secondPriceTwos)/100)
                 + Double.parseDouble(priceOnes) + Double.parseDouble(secondPriceOnes);
+
+        logger.info("Expected Value : "+count);
+        logger.info("Actual Value : "+toplam);
+
+        assertEquals(toplam,count,"Degerler birbirine esit degil");
+    }
+
+    @Step("Saklanan fiyat değerlerini kargo indirimine bağlı <priceTwo>, <secondPriceTwo>, <priceOne>, <secondPriceOne> toplam fiyat <sum> ile eşit mi kontrol et")
+    public void sumAllPricesWithShippingStr(String priceTwo, String secondPriceTwo, String priceOne, String secondPriceOne, String sum)
+    {
+        String priceTwos= StoreHelper.INSTANCE.getValue(priceTwo);
+        String secondPriceTwos= StoreHelper.INSTANCE.getValue(secondPriceTwo);
+        String priceOnes= StoreHelper.INSTANCE.getValue(priceOne);
+        String secondPriceOnes= StoreHelper.INSTANCE.getValue(secondPriceOne);
+
+        logger.info("Expected Value : "+priceTwos);
+        logger.info("Expected Value : "+secondPriceTwos);
+        logger.info("Expected Value : "+priceOnes);
+        logger.info("Expected Value : "+secondPriceOnes);
+
+        String sums = findElementByKey(sum).getText().substring(0,findElementByKey(sum).getText().length()-7);
+        sums = sums.replace(",", ".");
+        double toplam = Double.parseDouble(sums);
+        logger.info("toplam Value : "+toplam);
+        double countOne = Double.parseDouble(priceOnes) + (Double.parseDouble(priceTwos)/100);
+        logger.info("countOne Value : "+countOne);
+        double countTwo = Double.parseDouble(secondPriceOnes) + (Double.parseDouble(secondPriceTwos)/100);
+        logger.info("countTwo Value : "+countTwo);
+        double count = 0;
+        double indirim = 300;
+
+        DecimalFormat decimalFormat = new DecimalFormat("#.00");
+        String strcountOne = decimalFormat.format(countOne);
+        String strcountTwo = decimalFormat.format(countTwo);
+        strcountOne = strcountOne.replace(",", ".");
+        strcountTwo = strcountTwo.replace(",", ".");
+
+        double countOnes = Double.parseDouble(strcountOne);
+        double countTwos = Double.parseDouble(strcountTwo);
+
+        if(countOne >= indirim)
+            count = countOnes;
+        else
+            count =  countOnes + countTwos;
 
         logger.info("Expected Value : "+count);
         logger.info("Actual Value : "+toplam);

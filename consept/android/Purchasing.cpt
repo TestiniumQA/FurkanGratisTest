@@ -47,19 +47,19 @@ This is a concept file with following syntax for each concept.
 //* "productCartName" li elementin text degerini hafizada "urun2" olarak saklanan text ile karsilastir
 //* "productSecondCartName" li elementin text degerini hafizada "urun1" olarak saklanan text ile karsilastir
 * "continueBtn"li elementi bulana kadar "4" kere swipe yap ve elementi bul
-* "preInfo" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-* "registerAgreementText" elementi "" degerine esit mi
-* Elementine tıkla "popupOkayButton"
-* "salesContact" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-* "registerAgreementText" elementi "" degerine esit mi
-* Elementine tıkla "popupOkayButton"
+//* "preInfo" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+//* "registerAgreementText" elementi "" degerine esit mi
+//* Elementine tıkla "popupOkayButton"
+//* "salesContact" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+//* "registerAgreementText" elementi "" degerine esit mi
+//* Elementine tıkla "popupOkayButton"
 * Elementine tıkla "infoCheckbox"
 * Elementine tıkla "salesContractCheckbox"
 * Elementine tıkla "continueBtn"
 
 # Iyzico alanı fiyat konrol edilir.
 * "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
-* Saklanan fiyat değerlerini "ilkKüsür", "ikinciKüsür", "fiyat1", "fiyat2" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
+* Saklanan fiyat değerlerini kargo indirimine bağlı "ilkKüsür", "ikinciKüsür", "fiyat1", "fiyat2" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
 
 # Urun kodu <text> yazilir, arama yapilir.
 * "urunSearchBox" elementi bulunana kadar en fazla "50" saniye kadar bekle
