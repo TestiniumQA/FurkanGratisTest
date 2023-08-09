@@ -47,11 +47,3 @@ tags:Gratis_IOS_PopulerKategoriVePopulerMarkaArama
 * Arama sayfasinin acildigi gorulur
 * Populer markalar altindan marka uzerine tiklanir
 * Aramaya gore urunlerin listelendigi gorulur
-
-IOS Scenario Search Deneme
---------------------------
-tags:Gratis_IOS_Search_Deneme
-* Uygulama baslatilir
-* Search ikonuna tiklanir
-* Arama sayfasinin acildigi gorulur
-* Search texti aramasi yapilir
