@@ -50,7 +50,7 @@ tags:Gratis_IOS_PopulerKategoriVePopulerMarkaArama
 
 IOS Scenario Search Deneme
 --------------------------
-tags:Gratis_IOS_Search Deneme
+tags:Gratis_IOS_Search_Deneme
 * Uygulama baslatilir
 * Search ikonuna tiklanir
 * Arama sayfasinin acildigi gorulur
