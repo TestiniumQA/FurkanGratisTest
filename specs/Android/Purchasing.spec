@@ -13,7 +13,7 @@ tags:Gratis_Android_KargoIndirimsiz
 * Sepet ikonu ile login olunur.
 * Sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "" yazilir, arama yapilir.
+* Urun kodu "10000368" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -29,7 +29,7 @@ tags:Gratis_Android_KargoIndirimli
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-//* Sepet kontrol edilerek temizlenir.
+* Sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
 * Urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
