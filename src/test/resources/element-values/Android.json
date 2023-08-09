@@ -1618,5 +1618,20 @@
     "key": "iyzPaymentBtn",
     "androidValue": "//*[@resource-id='iyz-payment-button']",
     "androidType": "xpath"
+  },
+  {
+    "key": "addressTypeTxt",
+    "androidValue": "com.gratis.android:id/addressTypeTxt",
+    "androidType": "id"
+  },
+  {
+    "key": "addressBtn",
+    "androidValue": "com.gratis.android:id/addressBtn",
+    "androidType": "id"
+  },
+  {
+    "key": "shippingAddressBtn",
+    "androidValue": "com.gratis.android:id/newShippingAddressBtn",
+    "androidType": "id"
   }
 ]

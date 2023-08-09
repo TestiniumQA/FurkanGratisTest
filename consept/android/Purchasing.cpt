@@ -25,11 +25,31 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "continueBtn"
 
 # Teslimat Bilgileri alanı kontrol edilir.
+* Elementine tıkla "addressBtn"
 * "Teslim Türü" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * "Adrese Teslim" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * "Teslimat Adresi" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "1" saniye bekle
+
+# Adrese Teslim seçeneğine tıklanır ve devam edilir.
+* Elementine tıkla "addressBtn"
 * "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementine tıkla "continueBtn"
+
+# Teslimat bilgileri alanında yeni adres eklenir.
+* Elementine tıkla "addressBtn"
+* Elementine tıkla "shippingAddressBtn"
+* Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
+* "newAddressCustomerAddressTitle" li elementi bul ve değerini "AdresIsmi" olarak sakla
+* Adres Ekle Sehir ismi secilir.
+* Adres Ekle Ilce ismi secilir.
+* Adres Ekle Mahalle ismi secilir.
+* Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
+
+# Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
+* Elementine tıkla "profilePageMyPasswordSaved"
+* Elementine tıkla "addressBtn"
+* "addressTypeTxt" li elementin text degeri hafizada "AdresIsmi" olarak saklanan text ile esit mi kontrol et
 
 # Teslimat alanı kontrol edilir.
 * Mağazadan seç popup'ı varsa kapatilir.
@@ -47,12 +67,12 @@ This is a concept file with following syntax for each concept.
 //* "productCartName" li elementin text degerini hafizada "urun2" olarak saklanan text ile karsilastir
 //* "productSecondCartName" li elementin text degerini hafizada "urun1" olarak saklanan text ile karsilastir
 * "continueBtn"li elementi bulana kadar "4" kere swipe yap ve elementi bul
-//* "preInfo" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-//* "registerAgreementText" elementi "" degerine esit mi
-//* Elementine tıkla "popupOkayButton"
-//* "salesContact" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-//* "registerAgreementText" elementi "" degerine esit mi
-//* Elementine tıkla "popupOkayButton"
+* "preInfo" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "registerAgreementText" elementi "" degerine esit mi
+* Elementine tıkla "popupOkayButton"
+* "salesContact" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "registerAgreementText" elementi "" degerine esit mi
+* Elementine tıkla "popupOkayButton"
 * Elementine tıkla "infoCheckbox"
 * Elementine tıkla "salesContractCheckbox"
 * Elementine tıkla "continueBtn"
