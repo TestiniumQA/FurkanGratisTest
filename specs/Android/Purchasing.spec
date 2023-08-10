@@ -89,7 +89,7 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 
 Purchasing with Editing Address
 ----------------------------------
-tags:Gratis_Android_AdresDüzenleme
+tags:Gratis_Android_AdresDuzenleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
