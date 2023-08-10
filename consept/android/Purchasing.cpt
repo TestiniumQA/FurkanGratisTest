@@ -50,6 +50,8 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "profilePageMyPasswordSaved"
 * Elementine tıkla "addressBtn"
 * "addressTypeTxt" li elementin text degeri hafizada "AdresIsmi" olarak saklanan text ile esit mi kontrol et
+* "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementine tıkla "continueBtn"
 
 # Teslimat alanı kontrol edilir.
 * Mağazadan seç popup'ı varsa kapatilir.

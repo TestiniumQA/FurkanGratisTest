@@ -2017,21 +2017,27 @@ public class StepImpl extends HookImpl {
         DecimalFormat decimalFormat = new DecimalFormat("#.00");
         String strcountOne = decimalFormat.format(countOne);
         String strcountTwo = decimalFormat.format(countTwo);
+
         strcountOne = strcountOne.replace(",", ".");
         strcountTwo = strcountTwo.replace(",", ".");
 
         double countOnes = Double.parseDouble(strcountOne);
         double countTwos = Double.parseDouble(strcountTwo);
 
-        if(countOne >= indirim)
+        if(countOnes >= indirim)
             count = countOnes;
         else
             count =  countOnes + countTwos;
 
-        logger.info("Expected Value : "+count);
+        String strcount = decimalFormat.format(count);
+        strcount = strcount.replace(",", ".");
+        double counts = Double.parseDouble(strcount);
+
+
+        logger.info("Expected Value : "+counts);
         logger.info("Actual Value : "+toplam);
 
-        assertEquals(toplam,count,"Degerler birbirine esit degil");
+        assertEquals(toplam,counts,"Degerler birbirine esit degil");
     }
 
     @Step("Sipariste bulunan urunlerin toplam fiyati <key> degeri ile kontrol edilirerek <saveKey> ile saklanir")
