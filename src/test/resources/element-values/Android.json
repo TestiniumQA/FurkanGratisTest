@@ -1653,5 +1653,10 @@
     "key": "billingAddressTitle",
     "androidValue": "(//android.widget.LinearLayout[@resource-id='com.gratis.android:id/selectBillingAddressRoot']/android.widget.TextView)[2]",
     "androidType": "xpath"
+  },
+  {
+    "key": "editAddressBtn",
+    "androidValue": "com.gratis.android:id/editAddressBtn",
+    "androidType": "id"
   }
 ]

@@ -57,7 +57,8 @@ tags:Gratis_Android_YeniAdresEkleme
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Teslimat Bilgileri alanı kontrol edilir.
-* Teslimat bilgileri alanında yeni adres eklenir.
+* Yeni teslimat adresi alanına gidilir.
+* Teslimat bilgileri alanında adres bilgileri girilir.
 * Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
 * Satın alma alanında devam et butonuna tıklanır.
 * Teslimat alanı kontrol edilir.
@@ -81,6 +82,28 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 * Yeni fatura adresi alanına gidilir.
 * Fatura adresi alanında yeni adres eklenir.
 * Fatura Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
+* Satın alma alanında devam et butonuna tıklanır.
+* Teslimat alanı kontrol edilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı fiyat konrol edilir.
+
+Purchasing with Editing Address
+----------------------------------
+tags:Gratis_Android_AdresDüzenleme
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile login olunur.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Ana sayfaya geçilir.
+* Urun kodu "10022111" yazilir, arama yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+* Teslimat Bilgileri alanı kontrol edilir.
+* Adres düzenleme alanına gidilir.
+* Teslimat bilgileri alanında adres bilgileri girilir.
+* Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
 * Satın alma alanında devam et butonuna tıklanır.
 * Teslimat alanı kontrol edilir.
 * Sipariş Özeti alanı kontrol edilir.

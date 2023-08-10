@@ -36,9 +36,11 @@ This is a concept file with following syntax for each concept.
 * "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementine tıkla "continueBtn"
 
-# Teslimat bilgileri alanında yeni adres eklenir.
+# Yeni teslimat adresi alanına gidilir.
 * Elementine tıkla "addressBtn"
 * Elementine tıkla "shippingAddressBtn"
+
+# Teslimat bilgileri alanında adres bilgileri girilir.
 * Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
 * "newAddressCustomerAddressTitle" li elementi bul ve değerini "AdresIsmi" olarak sakla
 * Adres Ekle Sehir ismi secilir.
@@ -65,6 +67,11 @@ This is a concept file with following syntax for each concept.
 * "selectAddressCheckbox"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementine tıkla "selectAddressCheckbox"
 * Elementine tıkla "newBillingAddressBtn"
+
+# Adres düzenleme alanına gidilir.
+* "editAddressBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementine tıkla "editAddressBtn"
+* "1" saniye bekle
 
 # Fatura adresi alanında yeni adres eklenir.
 * Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
