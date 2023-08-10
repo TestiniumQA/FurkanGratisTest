@@ -1633,5 +1633,25 @@
     "key": "shippingAddressBtn",
     "androidValue": "com.gratis.android:id/newShippingAddressBtn",
     "androidType": "id"
+  },
+  {
+    "key": "selectAddressCheckbox",
+    "androidValue": "com.gratis.android:id/selectAddressCheckbox",
+    "androidType": "id"
+  },
+  {
+    "key": "newBillingAddressBtn",
+    "androidValue": "com.gratis.android:id/newBillingAddressBtn",
+    "androidType": "id"
+  },
+  {
+    "key": "billingHeaderTxt",
+    "androidValue": "com.gratis.android:id/billingHeaderTxt",
+    "androidType": "id"
+  },
+  {
+    "key": "billingAddressTitle",
+    "androidValue": "(//android.widget.LinearLayout[@resource-id='com.gratis.android:id/selectBillingAddressRoot']/android.widget.TextView)[2]",
+    "androidType": "xpath"
   }
 ]

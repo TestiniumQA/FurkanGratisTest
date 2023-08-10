@@ -46,12 +46,33 @@ This is a concept file with following syntax for each concept.
 * Adres Ekle Mahalle ismi secilir.
 * Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
 
-# Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
+# Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
 * Elementine tıkla "profilePageMyPasswordSaved"
 * Elementine tıkla "addressBtn"
 * "addressTypeTxt" li elementin text degeri hafizada "AdresIsmi" olarak saklanan text ile esit mi kontrol et
+
+# Fatura Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
+* Elementine tıkla "profilePageMyPasswordSaved"
+* Elementine tıkla "addressBtn"
+* "billingHeaderTxt"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "billingAddressTitle" li elementin text degeri hafizada "FaturaAdres" olarak saklanan text ile esit mi kontrol et
+
+# Satın alma alanında devam et butonuna tıklanır.
 * "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementine tıkla "continueBtn"
+
+# Yeni fatura adresi alanına gidilir.
+* "selectAddressCheckbox"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementine tıkla "selectAddressCheckbox"
+* Elementine tıkla "newBillingAddressBtn"
+
+# Fatura adresi alanında yeni adres eklenir.
+* Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
+* "newAddressCustomerAddressTitle" li elementi bul ve değerini "FaturaAdres" olarak sakla
+* Adres Ekle Sehir ismi secilir.
+* Adres Ekle Ilce ismi secilir.
+* Adres Ekle Mahalle ismi secilir.
+* Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
 
 # Teslimat alanı kontrol edilir.
 * Mağazadan seç popup'ı varsa kapatilir.
