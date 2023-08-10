@@ -401,7 +401,7 @@
 * Element var mı kontrol et "ProductsName"
 
 # En Yeniler butonuna tıklanır
-* Elementin yüklenmesini bekle "SortByMost"
+//* Elementin yüklenmesini bekle "SortByMost"
 * "70","80" oranlarından "70","75" oranlarına "2" kere yukarı swipe et
 * "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
@@ -413,7 +413,7 @@
 * Element var mı kontrol et "ProductsName"
 
 # En Düşük Fiyat butonuna tıklanır
-* Elementin yüklenmesini bekle "SortByNew"
+//* Elementin yüklenmesini bekle "SortByNew"
 * "70","80" oranlarından "70","75" oranlarına "3" kere yukarı swipe et
 * "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
@@ -427,7 +427,7 @@
 * Fiyatların yazdığı "GratisProductPrice" li elementin degerinin fiyata gore artan oldugu kontrol edilir
 
 # En Yüksek Fiyat butonuna tıklanır
-* Elementin yüklenmesini bekle "SortByLowPrice"
+//* Elementin yüklenmesini bekle "SortByLowPrice"
 * "70","80" oranlarından "70","75" oranlarına "5" kere yukarı swipe et
 * "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
@@ -442,7 +442,7 @@
 * Fiyatların yazdığı "GratisProductPrice" li elementin degerinin fiyata gore azalan oldugu kontrol edilir
 
 # En Yüksek Puan butonuna tıklanır
-* Elementin yüklenmesini bekle "SortByHighPrice"
+//* Elementin yüklenmesini bekle "SortByHighPrice"
 * "70","80" oranlarından "70","75" oranlarına "5" kere yukarı swipe et
 * "SortBySmart" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "SortByMost" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
