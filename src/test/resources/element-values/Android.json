@@ -1658,5 +1658,10 @@
     "key": "editAddressBtn",
     "androidValue": "com.gratis.android:id/editAddressBtn",
     "androidType": "id"
+  },
+  {
+    "key": "deleteAddressBtn",
+    "androidValue": "com.gratis.android:id/deleteBtn",
+    "androidType": "id"
   }
 ]

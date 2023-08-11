@@ -41,15 +41,19 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "shippingAddressBtn"
 
 # Teslimat bilgileri alanında adres bilgileri girilir.
+* "registerPhone"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
 * "newAddressCustomerAddressTitle" li elementi bul ve değerini "AdresIsmi" olarak sakla
 * Adres Ekle Sehir ismi secilir.
 * Adres Ekle Ilce ismi secilir.
 * Adres Ekle Mahalle ismi secilir.
+* "continueBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
 
 # Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
-* Elementine tıkla "profilePageMyPasswordSaved"
+* "profilePageMyPasswordSaved" li element varsa tıkla yoksa devam et
+* "continueBtn" li element varsa tıkla yoksa devam et
+* "addressBtn"li elementi bulana kadar "4" kere yukarı swipe yap ve elementi bul
 * Elementine tıkla "addressBtn"
 * "addressTypeTxt" li elementin text degeri hafizada "AdresIsmi" olarak saklanan text ile esit mi kontrol et
 
@@ -125,3 +129,12 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "productDetailTitle"
 * Element var mı kontrol et "kampanyaSec"
 * "1" saniye bekle
+
+# Adres silme butonuna tıklanır ve adres silinir.
+* Element var mı kontrol et "deleteAddressBtn"
+* "addressTypeTxt" li elementi bul ve değerini "silinecekAdres" olarak sakla
+* Elementine tıkla "deleteAddressBtn"
+* "alertTitle" li elementin text degerini hafizada "silinecekAdres" olarak saklanan text ile karsilastir
+* "popupOkayButton" li elementin değeri "SİL" e içerdiğini kontrol et
+* Elementine tıkla "popupOkayButton"
+* Elementine tıkla "addressBtn"
