@@ -176,7 +176,7 @@ This is a concept file with following syntax for each concept.
 * Adres icin Ad "newAddressCustomerName" elementine, Soyad "newAddressCustomerSurname" elementine, Telefon "newAddressCustomerPhone" elementine, Adres Ismi "newAddressCustomerAddressTitle" elementine yazilir
 
 # Adres Ekle Sehir ismi secilir.
-* "2" kere aşağıya kaydır
+* "newAddressCustomerAddressDetail"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Element var mı kontrol et "newAddressAddCityDropdown"
 * Elementine tıkla "newAddressAddCityDropdown"
 * "2" saniye bekle
