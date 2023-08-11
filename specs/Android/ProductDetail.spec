@@ -109,7 +109,7 @@ Sub-Bars
 --------
 tags:Gratis_Android_UrunDetayAltBarlar
 * Uygulama baslatilir.
-* En Çok Satanlar alanında bir ürünün ürün detay sayfasına geçilir.
+* Urun kodu "10394253" yazilir, arama yapilir.
 * Alt bar alanları kontrol edilir.
 * Ürün bilgileri kontrol edilir.
 * Anahtar kelimelerden birine tıklanır.
