@@ -46,7 +46,7 @@ tags:Gratis_Android_UrunDetaySepeteEkleme
 * Login olunur.
 * Kategoriler sayfasina gecilir.
 * "Parfüm & Deodorant" isimli kategori seçilir.
-* Alt kategorilerden biri "Parfüm", "Kadın Parfüm" seçilir.
+* Alt kategorilerden biri "Parfüm", "Erkek Parfüm" seçilir.
 * Urun detay sayfasına geçilir.
 * Ürün detayda "2" kadar ürün adedi seçilir.
 * Ürün detayda "1" kadar ürün adedi seçilir.
