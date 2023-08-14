@@ -297,7 +297,7 @@
 * "1" kere aşağıya kaydır
 * Element var mı kontrol et "NewAddressCustomerAddressDetailFull"
 * "NewAddressCustomerAddressDetailFull" li elementi bul, temizle ve "İş detayı için tarif giriliyordur" değerini yaz
-* Klavye kapatilir
+* "KeyboardDismisserIcon" li element varsa tıkla yoksa devam et
 * Element var mı kontrol et "NewAddressCustomerPostcodeFull"
 * "NewAddressCustomerPostcodeFull" li elementi bul, temizle ve "34599" değerini yaz
 //* Yeni Adres Ekleme icin Adres Detay "NewAddressCustomerAddressDetailFull" elementine, Posta Kodu "NewAddressCustomerPostcodeFull" elementine yazilir
@@ -372,7 +372,7 @@
 //* Yeni Adres Ekleme icin Adres Detay "NewAddressCustomerAddressDetail" elementine, Posta Kodu "NewAddressCustomerPostcode" elementine yazilir
 * Element var mı kontrol et "NewAddressCustomerAddressDetail"
 * "NewAddressCustomerAddressDetail" li elementi bul, temizle ve "Test ortamı icin adres detay bilgisi No:109" değerini yaz
-* Klavye kapatilir
+* "KeyboardDismisserIcon" li element varsa tıkla yoksa devam et
 * Element var mı kontrol et "NewAddressCustomerPostcode"
 * "NewAddressCustomerPostcode" li elementi bul, temizle ve "35917" değerini yaz
 
