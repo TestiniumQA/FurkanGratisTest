@@ -276,21 +276,13 @@
 * "MyAddressNewAddAddress" elementine sayacli tikla "PageToolbarTitle" value degerini bekle
 
 # Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir
-/* "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
-/* Adres icin Ad "NewAddressCustomerName" elementine, Soyad "NewAddressCustomerSurname" elementine, Telefon "NewAddressCustomerPhone" elementine, Adres Ismi "NewAddressCustomerAddressTitle" elementine yazilir
-* Element var mı kontrol et "NewAddressCustomerName"
-* "Burhan" textini "NewAddressCustomerName" elemente yaz
-* Element var mı kontrol et "NewAddressCustomerSurname"
-* "Aydın" textini "NewAddressCustomerSurname" elemente yaz
-* Element var mı kontrol et "NewAddressCustomerPhone"
-* "326637272" textini "NewAddressCustomerPhone" elemente yaz
-* Element var mı kontrol et "NewAddressCustomerAddressTitle"
-* "EV" textini "NewAddressCustomerAddressTitle" elemente yaz
+* "IOS" csv dosyasindan rastgele adres bilgileri sec
+* Adres icin Ad "NewAddressCustomerName" elementine, Soyad "NewAddressCustomerSurname" elementine, Telefon "NewAddressCustomerPhone" elementine, Adres Ismi "NewAddressCustomerAddressTitle" elementine yazilir
 * Klavye kapatilir
 
 # Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgilerinin guncelleri girilir
-/* "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
-/* Adres icin Ad "NewAddressCustomerName" elementine, Soyad "NewAddressCustomerSurname" elementine, Telefon "NewAddressCustomerPhone" elementine, Adres Ismi "NewAddressCustomerAddressTitle" elementine yazilir
+/* "IOS" csv dosyasindan rastgele adres bilgileri sec
+/* Adres icin Ad "NewAddressCustomerNameFull" elementine, Soyad "NewAddressCustomerSurnameFull" elementine, Telefon "NewAddressCustomerPhoneFull" elementine, Adres Ismi "NewAddressCustomerAddressTitleFull" elementine yazilir
 * Element var mı kontrol et "NewAddressCustomerNameFull"
 * "NewAddressCustomerNameFull" li elementi bul, temizle ve "Fatih" değerini yaz
 * Element var mı kontrol et "NewAddressCustomerSurnameFull"
@@ -305,9 +297,10 @@
 * "1" kere aşağıya kaydır
 * Element var mı kontrol et "NewAddressCustomerAddressDetailFull"
 * "NewAddressCustomerAddressDetailFull" li elementi bul, temizle ve "İş detayı için tarif giriliyordur" değerini yaz
+* Klavye kapatilir
 * Element var mı kontrol et "NewAddressCustomerPostcodeFull"
 * "NewAddressCustomerPostcodeFull" li elementi bul, temizle ve "34599" değerini yaz
-//* Yeni Adres Ekleme icin Adres Detay "NewAddressCustomerPostcodeFull" elementine, Posta Kodu "NewAddressCustomerPostcodeFull" elementine yazilir
+//* Yeni Adres Ekleme icin Adres Detay "NewAddressCustomerAddressDetailFull" elementine, Posta Kodu "NewAddressCustomerPostcodeFull" elementine yazilir
 
 # Adres Ekle Sehir ismi secilir
 * "1" kere yukarı doğru kaydır
@@ -375,8 +368,13 @@
 
 # Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir
 * "1" kere aşağıya kaydır
-* "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
-* Yeni Adres Ekleme icin Adres Detay "NewAddressCustomerAddressDetail" elementine, Posta Kodu "NewAddressCustomerPostcode" elementine yazilir
+//* "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
+//* Yeni Adres Ekleme icin Adres Detay "NewAddressCustomerAddressDetail" elementine, Posta Kodu "NewAddressCustomerPostcode" elementine yazilir
+* Element var mı kontrol et "NewAddressCustomerAddressDetail"
+* "NewAddressCustomerAddressDetail" li elementi bul, temizle ve "Test ortamı icin adres detay bilgisi No:109" değerini yaz
+* Klavye kapatilir
+* Element var mı kontrol et "NewAddressCustomerPostcode"
+* "NewAddressCustomerPostcode" li elementi bul, temizle ve "35917" değerini yaz
 
 # Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur
 * Element var mı kontrol et "NewAddressSavedBtn"
