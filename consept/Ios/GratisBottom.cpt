@@ -529,7 +529,12 @@
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "FilterOkayBtn"
 * Elementine tıkla "FilterOkayBtn"
-* "ProductsNameTwo" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
+* "1" saniye bekle
+* Urun detay sayfasına geçilir
+* "ProductInfoTable"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "ProductInfoTable"
+* "marka adı" olarak saklanan değerin sayfa üzerinde olup olmadığını kontrol et
+//* "ProductsNameTwo" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
 
 # Filtre sıfırla butonuna tıklanır
 * Element var mı kontrol et "FilterResetBtn"
