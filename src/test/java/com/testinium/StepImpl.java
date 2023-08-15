@@ -669,6 +669,14 @@ public class StepImpl extends HookImpl {
         logger.info(key+" texti "+text+" key elementine temizlenip yazildi");
     }
 
+    @Step({"<key> li elementi bul ve temizle",
+            "Find element by <key> and clear"})
+    public void clearFieldByKey(String key) {
+        MobileElement webElement = findElementByKey(key);
+        webElement.clear();
+        logger.info(key + " elementi temizlendi");
+    }
+
     @Step({"<key> li elementin text degeri silinir"})
     public void keyClear(String key) {
         findElementByKey(key).clear();
