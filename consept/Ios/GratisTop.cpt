@@ -99,5 +99,5 @@
 //* "girisYapBtn" elementine sayacli tikla "sepetPopUpKapatBtn" value degerini bekle
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-* "sepetPopUpKapatBtn" li element varsa tıkla
+//* "sepetPopUpKapatBtn" li element varsa tıkla
 * Element var mı kontrol et "CartToolbar"
