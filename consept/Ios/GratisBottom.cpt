@@ -536,7 +536,8 @@
 * "1" saniye bekle
 * "ProductInfoInTableTextForm"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 //* "marka adı" olarak saklanan değerin sayfa üzerinde olup olmadığını kontrol et
-* "ProductInfoInTableText" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
+//* "ProductInfoInTableText" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
+* Elementin yüklenmesini bekle "ProductInfoInTableText"
 
 # Filtre sıfırla butonuna tıklanır
 * Element var mı kontrol et "FilterResetBtn"
