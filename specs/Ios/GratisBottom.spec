@@ -162,7 +162,7 @@ tags:Gratis_IOS_Siralama
 
 IOS Scenario Non-Login Choose Category and Add To Cart
 ------------------------------------------------------
-tags:Gratis_IOS_KategoriSecimiVeNonLoginSepeteEkleme
+tags:Gratis_IOS_KategoriSecimiVeNonLoginSepeteGit
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir
@@ -175,7 +175,12 @@ tags:Gratis_IOS_KategoriSecimiVeNonLoginSepeteEkleme
 * Sepete Ekle butonu ile login olunur
 * Sepete git'e tıklanır
 * Sepet kasa arkasi popup'i kapatilir
-* Uygulamadan cikis yapilir
+* Sepet kontrol edilerek temizlenir
+
+IOS Scenario Non-Login Choose Category and Add To Cart And Go To Cart
+---------------------------------------------------------------------
+tags:Gratis_IOS_KategoriSecimiVeNonLoginSepetDevam
+* Uygulama baslatilir
 * Kategoriler sayfasina gecilir
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir
 * Sepete Ekle butonuna tıklanır
