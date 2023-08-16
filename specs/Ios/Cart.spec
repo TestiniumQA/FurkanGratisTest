@@ -43,6 +43,7 @@ tags:Gratis_IOS_UrunAdediArttirmaVeAzaltma
 * Login sayfasina gecilir
 * Giris yapilir
 * Ana sayfadan bir urun sepete eklenir
+* Sepet kasa arkasi popup'i kapatilir
 * Urun adedi arttirilir
 * Urun adedi azaltilir
 * Bos sepetten ana sayfaya yonlendirme yapilir
