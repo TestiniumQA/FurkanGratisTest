@@ -128,8 +128,8 @@
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 * Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
-//* "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
-//* "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
+* "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
+* "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
 
 # Alışverişe devam edilir
 * Elementin yüklenmesini bekle "ContinueShoppingButton"
