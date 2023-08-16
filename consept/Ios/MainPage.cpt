@@ -158,7 +158,7 @@
 * "1" saniye bekle
 
 # En Son Gezdiklerim alanına gidilir
-* "VisitedAddBtn"li elementi bulana kadar "15" kere swipe yap ve elementi bul
+* "VisitedAddBtn"li elementi bulana kadar "20" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "VisitedAddBtn"
 * Elementin yüklenmesini bekle "VisitedTitle"
 * Elementin yüklenmesini bekle "VisitedText"
