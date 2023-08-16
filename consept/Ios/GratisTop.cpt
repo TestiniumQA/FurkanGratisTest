@@ -89,8 +89,8 @@
 //* "GetDirectionsBtn" değerini sayfa üzerinde olmadıgını kontrol et
 
 # Ana sayfa sepet ikonuna tiklanir
-* Elementin yüklenmesini bekle "KampanyaSec"
-* Element var mı kontrol et "SepetBtn"
+//* Elementin yüklenmesini bekle "KampanyaSec"
+* Elementin yüklenmesini bekle "SepetBtn"
 * Elementine tıkla "SepetBtn"
 
 # Sepet ikonu ile login olunur
