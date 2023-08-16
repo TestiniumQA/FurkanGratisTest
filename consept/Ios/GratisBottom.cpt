@@ -144,8 +144,6 @@
 * Elementine tıkla "CareerBtn"
 * "CareerPage" elementi bulunana kadar en fazla "25" saniye kadar bekle
 * "3" saniye bekle
-/* "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
-//* Elementine tıkla "geriBtn"
 * "geriBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
 * Elementine tıkla "geriBtn"
 * "3" saniye bekle
@@ -195,10 +193,6 @@
 * Elementin yüklenmesini bekle "AboutPageToolbar"
 * "PageToolbarTitle" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "3" saniye bekle
-//* "geriBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
-//* Elementine tıkla "geriBtn"
-//* "3" saniye bekle
-//* "digerSekmesi" elementi bulunana kadar en fazla "10" saniye kadar bekle
 
 # Iletisim sayfasina gecilir
 * Elementin yüklenmesini bekle "Contact"
