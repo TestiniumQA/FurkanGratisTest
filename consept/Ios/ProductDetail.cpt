@@ -1,0 +1,133 @@
+
+# En Çok Satanlar alanında bir ürünün ürün detay sayfasına geçilir
+* "ProductName"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "ProductName"
+* Elementine tıkla "ProductName"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "ProductDetailTitle"
+* Elementin yüklenmesini bekle "ProductAddButton"
+* "1" saniye bekle
+
+# Ürün detayda ürün fotosu swipe yapılır
+* Elementin yüklenmesini bekle "ProductDetailImage"
+* "ProductDetailImage" elementinin hizasından sağdan sola "1" kere kaydır
+* "1" saniye bekle
+* "ProductDetailImage" elementinin hizasından soldan sağa "1" kere kaydır
+* "1" saniye bekle
+
+# Ürünün paylaş ikonuna tıklanır
+* "DetailShareBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "DetailShareBtn"
+* Elementine tıkla "DetailShareBtn"
+* Elementin yüklenmesini bekle "ShareDrag"
+* Elementine tıkla "ShareDrag"
+* "1" saniye bekle
+
+# Ürünün zoom ikonuna tıklanır
+* "DetailZoomBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "DetailZoomBtn"
+* Elementine tıkla "DetailZoomBtn"
+* Element var mı kontrol et "ZoomPhoto"
+* Element var mı kontrol et "CloseImg"
+* "1" saniye bekle
+* "1" kere sağa kaydirilir
+* "1" saniye bekle
+* "1" kere sola kaydirilir
+* "1" saniye bekle
+* Element var mı kontrol et "ZoomPhoto"
+* Elementine tıkla "ZoomPhoto"
+* Elementine tıkla "CloseImg"
+
+# Gratis Card ile ürün detayda login olunur
+* "DetailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "DetailGratisCardBtn"
+* "IOSmail" csv dosyasindan rastgele kullanici sec
+*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "ProductDetailTitle"
+* Elementin yüklenmesini bekle "DetailShareBtn"
+* Element var mı kontrol et "DetailZoomBtn"
+* Element var mı kontrol et "ProductDetailImage"
+* Elementine tıkla "DetailGratisCardBtn"
+* "girisYapBtn" değerini sayfa üzerinde olmadıgını kontrol et
+
+# <text> isimli kategori seçilir
+* "CategoryName" li ve değeri <text> e eşit olan elementli bulana kadar swipe et ve tıkla
+
+# Ürünün renk tonu değiştirilir
+* "ProductSubDetailTitle" li elementi bul ve değerini "varsayılanRenkAd" olarak sakla
+* "ColorList"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Element var mı kontrol et "SecondColor"
+* "1" saniye bekle
+* Elementine tıkla "SecondColor"
+* "ProductSubDetailTitle"li elementi bulana kadar "2" kere yukarı swipe yap ve elementi bul
+* "ProductSubDetailTitle" li elementin text degerini hafizada "varsayılanRenkAd" olarak saklanan text ayni olmadigini kontrol et
+
+# Ürün detayda <adetSayi> kadar ürün adedi seçilir
+* "ProductAddButton"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PieceSpinner"
+* Elementine tıkla "PieceSpinner"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+//* "PieceSpinnerNumber" li ve değeri <adetSayi> e eşit olan elementli bulana kadar swipe et ve tıkla
+* Element var mı kontrol et "PieceSpinnerNumber"
+* "PieceSpinnerNumber" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* "PieceSpinnerNumber" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* "PieceSpinnerNumber" li ve değeri <adetSayi> e eşit olan elementli bul ve tıkla
+* Elementine tıkla "PopupOkayBtnIos"
+//* "PieceSpinner" elementinin <adetSayi> textini içerdiği kontrol edilir
+
+# Non-Login ürün detay sayfasinda urun sepete eklenir
+* "ProductAddButton"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "ProductAddButton"
+* Elementine tıkla "ProductAddButton"
+* Element var mı kontrol et "EpostaInputAlani"
+
+# Ürün detay sayfasinda urun sepete eklenir
+* "ProductAddButton"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "ProductAddButton"
+* Elementine tıkla "ProductAddButton"
+
+# Ürün detay sayfasında ürün favori butonuna tıklanır
+* "1" saniye bekle
+* "DetailFavBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "DetailFavBtn"
+* Elementine tıkla "DetailFavBtn"
+
+# Ürün detay sayfasında ürün favorilerden çıkarılır
+* Elementin yüklenmesini bekle "DetailFavBtn"
+* Elementine tıkla "DetailFavBtn"
+* Elementin yüklenmesini bekle "RemoveFavoriteSuccessfulPopupIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+
+# Alt bar alanları kontrol edilir
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "ProductReturn"
+* Elementine tıkla "ProductReturn"
+* Elementin yüklenmesini bekle "ReturnTxt"
+//* "ReturnTxt" li elementin değeri "Gratis Kolay ve Koşulsuz İade Sistemi" e içerdiğini kontrol et
+* "ReturnTxt" elementinin "Gratis Kolay ve Koşulsuz İade Sistemi" textini içerdiği kontrol edilir
+* "Gratis Kolay ve Koşulsuz İade Sistemi" değerini sayfa üzerinde olup olmadığını kontrol et.
+* Elementin yüklenmesini bekle "ProductPayment"
+* Elementine tıkla "ProductPayment"
+* "Kredi Kartı ya da Banka Kartı ile yapılan alışverişlerde" değerini sayfa üzerinde olup olmadığını kontrol et.
+
+# Ürün bilgileri kontrol edilir
+* Elementin yüklenmesini bekle "ProductFeatures"
+* Elementine tıkla "ProductFeatures"
+* "ProductInfoTable"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "ProductInfoTable"
+
+# Anahtar kelimelerden birine tıklanır
+* Elementin yüklenmesini bekle "Keyword"
+* "Keyword"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* "Keyword" li elementi bul ve değerini "anahtarKelime" olarak sakla
+* Elementine tıkla "Keyword"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "PageToolbarTitleText"
+* "PageToolbarTitleText" li elementin text degeri hafizada "anahtarKelime" olarak saklanan text ile esit mi kontrol et
+* Elementin yüklenmesini bekle "UrunDetay"
