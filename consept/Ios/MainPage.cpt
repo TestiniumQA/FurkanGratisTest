@@ -87,7 +87,7 @@
 
 # En Son Gezdiklerim urunleri swipe edilir ve tiklanir
 * "2" saniye bekle
-* "VisitedAddBtn"li elementi bulana kadar "4" kere swipe yap ve elementi bul
+* "VisitedAddBtn"li elementi bulana kadar "15" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "kampanyalarSekmesi"
 * Elementin yüklenmesini bekle "anasayfa"
 * "VisitedAddBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
