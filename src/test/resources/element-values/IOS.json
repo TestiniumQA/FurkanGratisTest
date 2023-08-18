@@ -1340,7 +1340,7 @@
     "key": "ElementListFour",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeStaticText[@name='Papia']",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Parex']",
     "iosType": "xpath"
   },
   {
