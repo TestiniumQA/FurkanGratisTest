@@ -126,7 +126,7 @@ tags:Gratis_IOS_UrunDetayNonLoginFavoriListesi
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Profil sayfasındaki Favori butonuna tiklanir
-* Favori listesi kontrol edilerek temizlenir
+//* Favori listesi kontrol edilerek temizlenir
 * Listeden adı "nonLoginFavori" olan favori listesi secilir
 * Favori listesi silinir
 * "nonLoginFavori" isimli favori listesi silindiği kontrol edilir
