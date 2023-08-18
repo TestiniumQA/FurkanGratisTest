@@ -73,10 +73,10 @@
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 //* "PieceSpinnerNumber" li ve değeri <adetSayi> e eşit olan elementli bulana kadar swipe et ve tıkla
-* Element var mı kontrol et "PieceSpinnerNumber"
-* "PieceSpinnerNumber" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
-* "PieceSpinnerNumber" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
-* "PieceSpinnerNumber" li ve değeri <adetSayi> e eşit olan elementli bul ve tıkla
+* Elementin yüklenmesini bekle "PieceSpinnerNumberOne"
+* "PieceSpinnerNumberOne" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* "PieceSpinnerNumberTwo" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
+* "PieceSpinnerNumberThree" li ve değeri <adetSayi> e eşit olan elementli bul ve tıkla
 * Elementine tıkla "PopupOkayBtnIos"
 //* "PieceSpinner" elementinin <adetSayi> textini içerdiği kontrol edilir
 
