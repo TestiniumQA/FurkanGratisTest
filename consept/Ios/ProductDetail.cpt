@@ -109,7 +109,6 @@
 * Elementin yüklenmesini bekle "ProductReturn"
 * Elementine tıkla "ProductReturn"
 * Elementin yüklenmesini bekle "ReturnTxt"
-//* "ReturnTxt" li elementin değeri "Gratis Kolay ve Koşulsuz İade Sistemi" e içerdiğini kontrol et
 * "ReturnTxt" elementinin "Gratis Kolay ve Koşulsuz İade Sistemi" textini içerdiği kontrol edilir
 * "Gratis Kolay ve Koşulsuz İade Sistemi" değerini sayfa üzerinde olup olmadığını kontrol et.
 * Elementin yüklenmesini bekle "ProductPayment"
