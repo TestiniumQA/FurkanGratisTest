@@ -24,11 +24,19 @@ This is a concept file with following syntax for each concept.
 * Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "salePriceOne", "salePriceTwo" ile eşit mi kontrol et
 * Elementine tıkla "continueBtn"
 
-# Teslimat Bilgileri alanı kontrol edilir.
+# Adrese Teslim butonuna tıklanır.
 * Elementine tıkla "addressBtn"
+
+# Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
 * "Teslim Türü" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * "Adrese Teslim" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * "Teslimat Adresi" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "1" saniye bekle
+
+# Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* "Teslim Türü" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Mağazadan Teslim (ÜCRETSİZ)" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Mağaza Bul" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * "1" saniye bekle
 
 # Adrese Teslim seçeneğine tıklanır ve devam edilir.
@@ -85,6 +93,46 @@ This is a concept file with following syntax for each concept.
 * Adres Ekle Mahalle ismi secilir.
 * Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
 
+# Fatura bilgileri şehir ismi secilir.
+* "storeBilCitySpinner"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "storeBilCitySpinner"
+* "2" saniye bekle
+* sayfadaki "20" "60" alana dokun
+* "2" saniye bekle
+
+# Fatura bilgileri ilce ismi secilir.
+* "storeBilTownSpinner"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "storeBilTownSpinner"
+* "2" saniye bekle
+* "storeBilTownSpinner" elementinin koordinatlarına x="0" y="150" degerlerini ekleyerek tıkla
+* "2" saniye bekle
+
+# Fatura bilgileri mahalle ismi secilir.
+* "storeBilDistrictSpinner"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "storeBilDistrictSpinner"
+* "2" saniye bekle
+* "storeBilDistrictSpinner" elementinin koordinatlarına x="0" y="150" degerlerini ekleyerek tıkla
+
+# Fatura bilgileri alanında yeni adres eklenir.
+* Fatura bilgileri için Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
+* Fatura bilgileri şehir ismi secilir.
+* Fatura bilgileri ilce ismi secilir.
+* Fatura bilgileri mahalle ismi secilir.
+* Fatura bilgileri icin Adres Detay ve Posta Kodu bilgileri girilir.
+
+# Fatura bilgileri için Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
+* Klavyeyi kapat
+* "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
+* "storeFirstName"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Adres Ismi "storeAddressName", Adres icin Ad "storeFirstName" elementine elementine yazilir
+* "storePhoneNumber"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Soyad "storeSurName" elementine, Telefon "storePhoneNumber" elementine yazilir
+
+# Fatura bilgileri icin Adres Detay ve Posta Kodu bilgileri girilir.
+* "storeAddressPostCode"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
+* Yeni Adres Ekleme icin Adres Detay "storeAddressDetail" elementine, Posta Kodu "storeAddressPostCode" elementine yazilir
+
 # Teslimat alanı kontrol edilir.
 * Mağazadan seç popup'ı varsa kapatilir.
 * "headerTxt" elementinin "Teslimat ve Ödeme" textini içerdiği kontrol edilir
@@ -138,3 +186,28 @@ This is a concept file with following syntax for each concept.
 * "popupOkayButton" li elementin değeri "SİL" e içerdiğini kontrol et
 * Elementine tıkla "popupOkayButton"
 * Elementine tıkla "addressBtn"
+
+# Mağazadan Teslim Sehir ismi secilir.
+* "storeCitySpinner"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Element var mı kontrol et "storeCitySpinner"
+* Elementine tıkla "storeCitySpinner"
+* "2" saniye bekle
+* sayfadaki "20" "80" alana dokun
+* "2" saniye bekle
+
+# Mağazadan Teslim Ilce ismi secilir.
+* "storeTownSpinner"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "storeTownSpinner"
+* "2" saniye bekle
+* "storeTownSpinner" elementinin koordinatlarına x="0" y="150" degerlerini ekleyerek tıkla
+* "2" saniye bekle
+
+# Mağazadan Teslim mağazası seçilir.
+* "selectStoreRoot"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "selectStoreRoot"
+* "Mağaza Seçildi" text degerine sahip elementin sayfada gorundugu kontrol edilir
+
+# Kendim Teslim alacağım seçeneği seçilir.
+* "meRadioBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "meRadioBtn" li element varsa tıkla
+* Element var mı kontrol et "meRadioCheckedBtn"

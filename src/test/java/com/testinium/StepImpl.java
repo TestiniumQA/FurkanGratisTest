@@ -563,6 +563,17 @@ public class StepImpl extends HookImpl {
         findElementByKey(key3).sendKeys(customerPhone);
         findElementByKey(key4).sendKeys(customerAddressTitle);
     }
+    @Step({"Adres Ismi <key>, Adres icin Ad <key> elementine elementine yazilir"})
+    public void existElementAddAddressTitleName(String key,String key2) {
+        findElementByKey(key).sendKeys(customerAddressTitle);
+        findElementByKey(key2).sendKeys(customerName);
+    }
+
+    @Step({"Soyad <key> elementine, Telefon <key> elementine yazilir"})
+    public void existElementAddAddressSurnamePhone(String key,String key2) {
+        findElementByKey(key).sendKeys(customerSurname);
+        findElementByKey(key2).sendKeys(customerPhone);
+    }
 
     @Step({"Yeni Adres Ekleme icin Adres Detay <key> elementine, Posta Kodu <key> elementine yazilir"})
     public void existElementtAddAddressContinue(String key,String key2) {

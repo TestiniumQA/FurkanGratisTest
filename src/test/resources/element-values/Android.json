@@ -1551,7 +1551,7 @@
   },
   {
     "key": "headerTxt",
-    "androidValue": "com.gratis.android:id/headerTxt",
+    "androidValue": "ocm.gratis.android:id/headerTxt",
     "androidType": "id"
   },
   {
@@ -1662,6 +1662,76 @@
   {
     "key": "deleteAddressBtn",
     "androidValue": "com.gratis.android:id/deleteBtn",
+    "androidType": "id"
+  },
+  {
+    "key": "storeCitySpinner",
+    "androidValue": "com.gratis.android:id/storeCitySpinner",
+    "androidType": "id"
+  },
+  {
+    "key": "storeTownSpinner",
+    "androidValue": "com.gratis.android:id/storeTownSpinner",
+    "androidType": "id"
+  },
+  {
+    "key": "selectStoreRoot",
+    "androidValue": "com.gratis.android:id/selectStoreRoot",
+    "androidType": "id"
+  },
+  {
+    "key": "meRadioBtn",
+    "androidValue": "com.gratis.android:id/meRadioBtn",
+    "androidType": "id"
+  },
+  {
+    "key": "meRadioCheckedBtn",
+    "androidValue": "//*[@resource-id='com.gratis.android:id/meRadioBtn'][@checked='true']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "storeAddressName",
+    "androidValue": "com.gratis.android:id/et_store_address_name",
+    "androidType": "id"
+  },
+  {
+    "key": "storeFirstName",
+    "androidValue": "com.gratis.android:id/store_et_bil_firstName",
+    "androidType": "id"
+  },
+  {
+    "key": "storeSurName",
+    "androidValue": "com.gratis.android:id/store_et_bil_surName",
+    "androidType": "id"
+  },
+  {
+    "key": "storePhoneNumber",
+    "androidValue": "com.gratis.android:id/store_et_phoneNumber",
+    "androidType": "id"
+  },
+  {
+    "key": "storeAddressDetail",
+    "androidValue": "com.gratis.android:id/store_bil_et_address",
+    "androidType": "id"
+  },
+  {
+    "key": "storeAddressPostCode",
+    "androidValue": "com.gratis.android:id/store_et_bil_post_code",
+    "androidType": "id"
+  },
+  {
+    "key": "storeBilCitySpinner",
+    "androidValue": "com.gratis.android:id/store_bil_city_spinner",
+    "androidType": "id"
+  },
+  {
+    "key": "storeBilTownSpinner",
+    "androidValue": "com.gratis.android:id/store_bil_town_spinner",
+    "androidType": "id"
+  },
+  {
+    "key": "storeBilDistrictSpinner",
+    "androidValue": "com.gratis.android:id/store_bil_district_spinner",
     "androidType": "id"
   }
 ]

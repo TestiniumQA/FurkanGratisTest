@@ -18,7 +18,8 @@ tags:Gratis_Android_KargoIndirimsiz
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
-* Teslimat Bilgileri alanı kontrol edilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
 * Adrese Teslim seçeneğine tıklanır ve devam edilir.
 * Teslimat alanı kontrol edilir.
 * Sipariş Özeti alanı kontrol edilir.
@@ -37,7 +38,8 @@ tags:Gratis_Android_KargoIndirimli
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
-* Teslimat Bilgileri alanı kontrol edilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
 * Adrese Teslim seçeneğine tıklanır ve devam edilir.
 * Teslimat alanı kontrol edilir.
 * Sipariş Özeti alanı kontrol edilir.
@@ -56,7 +58,8 @@ tags:Gratis_Android_AdresDuzenleme
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
-* Teslimat Bilgileri alanı kontrol edilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
 * Adres düzenleme alanına gidilir.
 * Teslimat bilgileri alanında adres bilgileri girilir.
 * Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
@@ -78,7 +81,8 @@ tags:Gratis_Android_YeniAdresSilipEkleme
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
-* Teslimat Bilgileri alanı kontrol edilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
 * Adres silme butonuna tıklanır ve adres silinir.
 * Teslimat bilgileri alanında adres bilgileri girilir.
 * Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
@@ -100,7 +104,8 @@ tags:Gratis_Android_YeniAdresEkleme
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
-* Teslimat Bilgileri alanı kontrol edilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
 * Yeni teslimat adresi alanına gidilir.
 * Teslimat bilgileri alanında adres bilgileri girilir.
 * Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
@@ -122,11 +127,35 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
-* Teslimat Bilgileri alanı kontrol edilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
 * Yeni fatura adresi alanına gidilir.
 * Fatura adresi alanında yeni adres eklenir.
 * Fatura Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
 * Satın alma alanında devam et butonuna tıklanır.
 * Teslimat alanı kontrol edilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı fiyat konrol edilir.
+
+Purchasing with Store
+---------------------
+tags:Gratis_Android_MagazadanKendimTeslimat
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile login olunur.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Urun kodu "10022111" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Fatura bilgileri alanında yeni adres eklenir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Satın alma alanında devam et butonuna tıklanır.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı fiyat konrol edilir.

@@ -191,13 +191,14 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 
 # Adres Ekle Mahalle ismi secilir.
-* Element var mı kontrol et "newAddressAddNeighbourhoodDropdown"
+* "newAddressAddNeighbourhoodDropdown"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementine tıkla "newAddressAddNeighbourhoodDropdown"
 * "2" saniye bekle
 * sayfadaki "20" "80" alana dokun
 * Elementin yüklenmesini bekle "newAddressCustomerAddressDetail"
 
 # Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
+* "newAddressCustomerAddressDetail"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
 * Yeni Adres Ekleme icin Adres Detay "newAddressCustomerAddressDetail" elementine, Posta Kodu "newAddressCustomerPostcode" elementine yazilir
 
