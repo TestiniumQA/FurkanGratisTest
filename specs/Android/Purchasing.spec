@@ -139,7 +139,7 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 
 Purchasing with Store
 ---------------------
-tags:Gratis_Android_MagazadanKendimTeslimat
+tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
