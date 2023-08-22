@@ -144,6 +144,11 @@ tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Ana sayfaya geçilir.
 * Urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
@@ -167,6 +172,9 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Ana sayfaya geçilir.
 * Urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
