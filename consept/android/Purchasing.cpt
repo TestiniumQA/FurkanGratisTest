@@ -159,9 +159,13 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "salesContractCheckbox"
 * Elementine tıkla "continueBtn"
 
-# Iyzico alanı fiyat konrol edilir.
+# Iyzico alanı fiyat kontrol edilir.
 * "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 * Saklanan fiyat değerlerini kargo indirimine bağlı "ilkKüsür", "ikinciKüsür", "fiyat1", "fiyat2" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
+
+# Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
+* "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
 
 # Urun kodu <text> yazilir, arama yapilir.
 * "urunSearchBox" elementi bulunana kadar en fazla "50" saniye kadar bekle
@@ -211,3 +215,12 @@ This is a concept file with following syntax for each concept.
 * "meRadioBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * "meRadioBtn" li element varsa tıkla
 * Element var mı kontrol et "meRadioCheckedBtn"
+
+# Başkası teslim alacak seçeneği seçilir.
+* "otherRadioBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "otherRadioBtn" li element varsa tıkla
+* Element var mı kontrol et "otherRadioCheckedBtn"
+* "receiverSurNameEt"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* "Başkasına" textini "receiverNameEt" elemente yaz
+* "Teslim" textini "receiverSurNameEt" elemente yaz
+* "5556564789" textini "receiverPhoneNumber" elemente yaz

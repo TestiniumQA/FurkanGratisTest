@@ -1733,5 +1733,30 @@
     "key": "storeBilDistrictSpinner",
     "androidValue": "com.gratis.android:id/store_bil_district_spinner",
     "androidType": "id"
+  },
+  {
+    "key": "otherRadioBtn",
+    "androidValue": "com.gratis.android:id/otherRadioBtn",
+    "androidType": "id"
+  },
+  {
+    "key": "otherRadioCheckedBtn",
+    "androidValue": "//*[@resource-id='com.gratis.android:id/otherRadioBtn'][@checked='true']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "receiverNameEt",
+    "androidValue": "com.gratis.android:id/receiverNameEt",
+    "androidType": "id"
+  },
+  {
+    "key": "receiverSurNameEt",
+    "androidValue": "com.gratis.android:id/receiverSurNameEt",
+    "androidType": "id"
+  },
+  {
+    "key": "receiverPhoneNumber",
+    "androidValue": "com.gratis.android:id/receiverPhoneNumber",
+    "androidType": "id"
   }
 ]
