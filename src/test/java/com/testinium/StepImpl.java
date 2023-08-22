@@ -1994,6 +1994,7 @@ public class StepImpl extends HookImpl {
         logger.info("Expected Value : "+priceOnes);
 
         String sums = findElementByKey(sum).getText();
+        sums = sums.replace(",", ".");
 
         double toplam = Double.parseDouble(sums);
         double count = (Double.parseDouble(priceTwos)/100) + Double.parseDouble(priceOnes);
