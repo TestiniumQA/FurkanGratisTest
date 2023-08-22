@@ -192,7 +192,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "storeCitySpinner"
 * Elementine tıkla "storeCitySpinner"
 * "2" saniye bekle
-* sayfadaki "20" "80" alana dokun
+* "storeCitySpinner" elementinin koordinatlarına x="0" y="350" degerlerini ekleyerek tıkla
 * "2" saniye bekle
 
 # Mağazadan Teslim Ilce ismi secilir.
