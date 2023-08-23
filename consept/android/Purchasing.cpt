@@ -224,3 +224,9 @@ This is a concept file with following syntax for each concept.
 * "Başkasına" textini "receiverNameEt" elemente yaz
 * "Teslim" textini "receiverSurNameEt" elemente yaz
 * "5556564789" textini "receiverPhoneNumber" elemente yaz
+
+# Başka Adres Seç seçeneğine tıklanır.
+* "addressTypeTxt" li elementi bul ve değerini "ilkAdres" olarak sakla
+* Elementine tıkla "otherShippingAddressBtn"
+* "Teslimat Adresi Olarak Seç" text degerine sahip elemente tikla.
+* "addressTypeTxt" li elementin text degerini hafizada "ilkAdres" olarak saklanan text ayni olmadigini kontrol et

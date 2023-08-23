@@ -137,6 +137,27 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı fiyat kontrol edilir.
 
+Choosing Another Address
+------------------------
+tags:Gratis_Android_BaskaAdresSecerekSiparis
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile login olunur.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Ana sayfaya geçilir.
+* Urun kodu "10022111" yazilir, arama yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Başka Adres Seç seçeneğine tıklanır.
+* Adrese Teslim seçeneğine tıklanır ve devam edilir.
+* Teslimat alanı kontrol edilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı fiyat kontrol edilir.
+
 Purchasing with Store Deliver Myself and Adding Bil Address
 -----------------------------------------------------
 tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle

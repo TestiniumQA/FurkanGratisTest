@@ -1758,5 +1758,15 @@
     "key": "receiverPhoneNumber",
     "androidValue": "com.gratis.android:id/receiverPhoneNumber",
     "androidType": "id"
+  },
+  {
+    "key": "otherShippingAddressBtn",
+    "androidValue": "com.gratis.android:id/otherShippingAddressBtn",
+    "androidType": "id"
+  },
+  {
+    "key": "selectAddressBtn",
+    "androidValue": "com.gratis.android:id/selectAddressBtn",
+    "androidType": "id"
   }
 ]
