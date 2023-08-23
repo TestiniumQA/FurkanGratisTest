@@ -1416,7 +1416,7 @@
   },
   {
     "key": "shareDrag",
-    "androidValue": "android:id/drag",
+    "androidValue": "android:id/chooser_header",
     "androidType": "id"
   },
   {
