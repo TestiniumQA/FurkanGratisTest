@@ -20,7 +20,6 @@ This is a concept file with following syntax for each concept.
 # Ürünün paylaş ikonuna tıklanır.
 * "detailShareBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementine tıkla "detailShareBtn"
-* Element var mı kontrol et "shareDrag"
 * "1" saniye bekle
 * Geri butonuna bas
 * "1" saniye bekle
