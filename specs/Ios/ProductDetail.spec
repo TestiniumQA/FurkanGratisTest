@@ -83,8 +83,8 @@ tags:Gratis_IOS_UrunDetayFavori
 * Login sayfasina gecilir
 * Giris yapilir
 * Kategoriler sayfasina gecilir
-* "Anne & Bebek" isimli kategori seçilir
-* Alt kategorilerden biri "Bebek Banyo Ürünleri", "Bebek Sabunları" seçilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
 * Urun favorilere eklenir
@@ -116,8 +116,8 @@ IOS Scenario Non-Login Add To Favorite List
 tags:Gratis_IOS_UrunDetayNonLoginFavoriListesi
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
-* "Ev & Yaşam" isimli kategori seçilir
-* Alt kategorilerden biri "Dekorasyon", "Mum" seçilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
 * Favori ikonu ile login olunur
