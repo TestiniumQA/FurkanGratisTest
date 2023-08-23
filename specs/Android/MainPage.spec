@@ -76,6 +76,7 @@ tags:Gratis_Android_EnSonGezdiklerimFavori
 * Profil sayfasındaki Favori butonuna tiklanir.
 * Listeden yeni eklenen favori listesi secilir.
 * Favori listesi silinir.
+* "ürün adı" olarak saklanan değerin sayfa üzerinde olup olmadığını kontrol et
 
 Non-Login Visited Add Favorite
 ------------------------------
@@ -111,7 +112,7 @@ tags:Gratis_Android_EnSonGezdiklerimSepet
 * Alışverişe devam edilir.
 * En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
 * Sepete git'e tıklanır.
-* Sepet kontrol edilerek temizlenir.
+* Bir ürün için sepet kontrol edilerek temizlenir.
 
 Non-Login Visited Add To Cart
 -----------------------------
@@ -132,5 +133,4 @@ tags:Gratis_Android_EnSonGezdiklerimNonLoginSepeteGit
 * En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
 * Sepete Ekle butonu ile login olunur.
 * Sepete git'e tıklanır.
-* Sepet kasa arkasi popup'i varsa kapatilir.
-* Sepet kontrol edilerek temizlenir.
+* Bir ürün için sepet kontrol edilerek temizlenir.
