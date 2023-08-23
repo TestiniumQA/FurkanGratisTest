@@ -1768,5 +1768,10 @@
     "key": "selectAddressBtn",
     "androidValue": "com.gratis.android:id/selectAddressBtn",
     "androidType": "id"
+  },
+  {
+    "key": "otherBillingAddressBtn",
+    "androidValue": "com.gratis.android:id/otherBillingAddressBtn",
+    "androidType": "id"
   }
 ]

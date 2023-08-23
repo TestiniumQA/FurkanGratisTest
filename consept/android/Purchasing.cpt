@@ -80,6 +80,12 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "selectAddressCheckbox"
 * Elementine tıkla "newBillingAddressBtn"
 
+# Fatura adresi değiştirilir.
+* "selectAddressCheckbox"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementine tıkla "selectAddressCheckbox"
+* Elementine tıkla "otherBillingAddressBtn"
+* "Fatura Adresi Olarak Seç" text degerine sahip elemente tikla.
+
 # Adres düzenleme alanına gidilir.
 * "editAddressBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementine tıkla "editAddressBtn"
