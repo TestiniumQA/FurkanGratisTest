@@ -49,7 +49,6 @@ tags:Gratis_Android_UrunDetaySepeteEkleme
 * Alt kategorilerden biri "Parfüm", "Erkek Parfüm" seçilir.
 * Urun detay sayfasına geçilir.
 * Ürün detayda "2" kadar ürün adedi seçilir.
-* Ürün detayda "1" kadar ürün adedi seçilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Alışverişe devam edilir.
 * Ürün detayda "1" kadar ürün adedi seçilir.
