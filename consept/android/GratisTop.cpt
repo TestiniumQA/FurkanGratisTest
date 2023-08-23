@@ -40,7 +40,7 @@ This is a concept file with following syntax for each concept.
 # Magazalarda magaza ismi aratilir.
 * "İZM HİLLTOWN AVM" textini "urunSearchTxt" elemente yaz
 * "1" saniye bekle
-* Android Enter tıkla
+//* Android Enter tıkla
 * "1" saniye bekle
 * "storeName" elementinin "İZM HİLLTOWN AVM" textini içerdiği kontrol edilir
 
