@@ -22,6 +22,7 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen il adi "urunSearchTxt" elementine yazilir
 * "1" saniye bekle
 * Elementine tıkla "urunSearchTxt"
+* Klavyeyi kapat
 * Android Enter tıkla
 * "3" saniye bekle
 * Element var mı kontrol et "storeChosenList"
@@ -29,15 +30,18 @@ This is a concept file with following syntax for each concept.
 # Magazalarda rastgele bir ilce aratilir.
 * "Cities" csv dosyasindan rastgele il ve ilce sec
 * Rastgele secilen ilce adi "urunSearchTxt" elementine yazilir
-* "2" saniye bekle
+* "1" saniye bekle
+* "urunSearchTxt" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Klavyeyi kapat
+* Android Enter tıkla
+* "1" saniye bekle
 * Element var mı kontrol et "storeChosenList"
 
 # Magazalarda magaza ismi aratilir.
 * "İZM HİLLTOWN AVM" textini "urunSearchTxt" elemente yaz
-* "2" saniye bekle
-* Elementine tıkla "urunSearchTxt"
+* "1" saniye bekle
 * Android Enter tıkla
-* "2" saniye bekle
+* "1" saniye bekle
 * "storeName" elementinin "İZM HİLLTOWN AVM" textini içerdiği kontrol edilir
 
 # Listeden bir magaza secilir.
