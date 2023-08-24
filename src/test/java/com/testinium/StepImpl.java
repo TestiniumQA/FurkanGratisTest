@@ -2044,6 +2044,7 @@ public class StepImpl extends HookImpl {
         logger.info("Expected Value : "+secondPriceOnes);
 
         String sums = findElementByKey(sum).getText().substring(0,findElementByKey(sum).getText().length()-7);
+        sums = sums.replace(".", "");
         sums = sums.replace(",", ".");
         double toplam = Double.parseDouble(sums);
         logger.info("toplam Value : "+toplam);
