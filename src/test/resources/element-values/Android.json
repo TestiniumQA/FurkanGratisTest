@@ -1778,5 +1778,30 @@
     "key": "filterCtrl",
     "androidValue": "(//android.widget.TableLayout/android.widget.TableRow)[4]/android.widget.TextView[2]",
     "androidType": "xpath"
+  },
+  {
+    "key": "bilAddressEditBtn",
+    "androidValue": "com.gratis.android:id/addressEditBtn",
+    "androidType": "id"
+  },
+  {
+    "key": "bilAddressRemoveBtn",
+    "androidValue": "com.gratis.android:id/addressRemoveBtn",
+    "androidType": "id"
+  },
+  {
+    "key": "addBillingAddressBtn",
+    "androidValue": "com.gratis.android:id/addBillingAddressBtn",
+    "androidType": "id"
+  },
+  {
+    "key": "storeBillingAddressHeaderTxt",
+    "androidValue": "com.gratis.android:id/storeBillingAddressHeaderTxt",
+    "androidType": "id"
+  },
+  {
+    "key": "storeBillingAddressName",
+    "androidValue": "com.gratis.android:id/storeBillingAddressName",
+    "androidType": "id"
   }
 ]
