@@ -113,11 +113,11 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 
 # Fatura bilgileri ilce ismi secilir.
-* "storeBilTownSpinner"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* "storeBilDistrictSpinner"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * "1" saniye bekle
 * Elementine tıkla "storeBilTownSpinner"
 * "2" saniye bekle
-* "storeBilTownSpinner" elementinin koordinatlarına x="0" y="200" degerlerini ekleyerek tıkla
+* sayfadaki "20" "70" alana dokun
 * "2" saniye bekle
 
 # Fatura bilgileri mahalle ismi secilir.
@@ -125,7 +125,7 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 * Elementine tıkla "storeBilDistrictSpinner"
 * "2" saniye bekle
-* "storeBilDistrictSpinner" elementinin koordinatlarına x="0" y="250" degerlerini ekleyerek tıkla
+* sayfadaki "20" "85" alana dokun
 
 # Fatura bilgileri alanında yeni adres eklenir.
 * Fatura bilgileri için Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
