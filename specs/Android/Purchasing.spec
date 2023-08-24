@@ -200,6 +200,7 @@ tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
 * Mağazadan Teslim Ilce ismi secilir.
+* Mağaza saatleri kontrol edilir.
 * Mağazadan Teslim mağazası seçilir.
 * Fatura bilgileri alanında yeni adres eklenir.
 * Kendim Teslim alacağım seçeneği seçilir.
@@ -226,6 +227,7 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
 * Mağazadan Teslim Ilce ismi secilir.
+* Mağaza saatleri kontrol edilir.
 * Mağazadan Teslim mağazası seçilir.
 * Fatura bilgileri alanında yeni adres eklenir.
 * Başkası teslim alacak seçeneği seçilir.
@@ -249,6 +251,7 @@ tags:Gratis_Android_MagazadanKendimTeslimat
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
 * Mağazadan Teslim Ilce ismi secilir.
+* Mağaza saatleri kontrol edilir.
 * Mağazadan Teslim mağazası seçilir.
 * Kendim Teslim alacağım seçeneği seçilir.
 * Satın alma alanında devam et butonuna tıklanır.
@@ -271,6 +274,7 @@ tags:Gratis_Android_MagazadanBaskasiTeslimat
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
 * Mağazadan Teslim Ilce ismi secilir.
+* Mağaza saatleri kontrol edilir.
 * Mağazadan Teslim mağazası seçilir.
 * Başkası teslim alacak seçeneği seçilir.
 * Satın alma alanında devam et butonuna tıklanır.
@@ -293,10 +297,36 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDuzenle
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
 * Mağazadan Teslim Ilce ismi secilir.
+* Mağaza saatleri kontrol edilir.
 * Mağazadan Teslim mağazası seçilir.
 * Fatura bilgileri adresi düzenle butonuna tıklanır.
 * Fatura adresi alanında yeni adres eklenir.
 * Mağazadan Teslimat Fatura Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
+* Satın alma alanında devam et butonuna tıklanır.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
+
+Purchasing with Store Deliver Someone and Delete and Adding Bil Address
+-----------------------------------------------------------------------
+tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile login olunur.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Ana sayfaya geçilir.
+* Urun kodu "10022111" yazilir, arama yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağaza saatleri kontrol edilir.
+* Fatura bilgileri adresi sil butonuna tıklanır.
+* Android klavye kapatılır
+* Mağazadan Teslim mağazası seçilir.
+* Fatura bilgileri alanında yeni adres eklenir.
 * Satın alma alanında devam et butonuna tıklanır.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.

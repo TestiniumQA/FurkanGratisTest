@@ -249,3 +249,19 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "addBillingAddressBtn"
 * "storeBillingAddressHeaderTxt" li elementin değeri "Fatura Bilgileri" e içerdiğini kontrol et
 * Elementine tıkla "bilAddressEditBtn"
+
+# Fatura bilgileri adresi sil butonuna tıklanır.
+* "bilAddressEditBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Element var mı kontrol et "bilAddressEditBtn"
+* Element var mı kontrol et "addBillingAddressBtn"
+* "storeBillingAddressHeaderTxt" li elementin değeri "Fatura Bilgileri" e içerdiğini kontrol et
+* Elementine tıkla "bilAddressRemoveBtn"
+* "isimli adresi silmek istediğinize emin misiniz?" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "popupOkayButton" li elementin değeri "SİL" e içerdiğini kontrol et
+* Elementine tıkla "popupOkayButton"
+
+# Mağaza saatleri kontrol edilir.
+* "storeHours"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "storeHours"
+* "alertSuccessfulPopup" elementi "" degerine esit mi
+* Elementine tıkla "popupOkayButton"
