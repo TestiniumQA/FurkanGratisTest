@@ -1481,8 +1481,8 @@
   },
   {
     "key": "productInfoTable",
-    "androidValue": "com.gratis.android:id/product_info_table",
-    "androidType": "id"
+    "androidValue": "//*[@resource-id='com.gratis.android:id/product_info_table']",
+    "androidType": "xpath"
   },
   {
     "key": "productReturn",
@@ -1773,5 +1773,10 @@
     "key": "otherBillingAddressBtn",
     "androidValue": "com.gratis.android:id/otherBillingAddressBtn",
     "androidType": "id"
+  },
+  {
+    "key": "filterCtrl",
+    "androidValue": "(//android.widget.TableLayout/android.widget.TableRow)[4]/android.widget.TextView[2]",
+    "androidType": "xpath"
   }
 ]

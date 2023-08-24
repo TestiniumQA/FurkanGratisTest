@@ -355,6 +355,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "sortByHighPrice"
 * Elementine tıkla "sortByHighPrice"
 * "1" saniye bekle
+* "gratisCardPrice"li elementi bulana kadar "5" kere swipe yap ve elementi bul
 * Fiyatların yazdığı "gratisCardPrice" li elementin degerinin fiyata gore azalan oldugu kontrol edilir
 
 # Uygulama geri butonuna bas.
@@ -419,7 +420,13 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "subFilterName"
 * "1" saniye bekle
 * Elementine tıkla "filterOkayBtn"
-* "productName" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
+
+# Filtre kontrol edilir.
+* Elementine tıkla "urunDetay"
+* "4" kere aşağıya kaydır
+* Element var mı kontrol et "com.gratis.android:id/product_info_table"
+//* "marka adı" olarak saklanan değerin sayfa üzerinde olup olmadığını kontrol et
+* "filterCtrl" li elementin text degeri hafizada "marka adı" olarak saklanan text ile esit mi kontrol et
 
 # Filtre sıfırla butonuna tıklanır.
 * Element var mı kontrol et "filterResetBtn"

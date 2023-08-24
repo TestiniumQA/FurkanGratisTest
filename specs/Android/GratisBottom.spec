@@ -187,3 +187,4 @@ tags:Gratis_Android_KategoriFiltreler
 * Filtreleme butonuna tıklanır.
 * Filtre sıfırla butonuna tıklanır.
 * Form filtresine tıklanır.
+//* Filtre kontrol edilir.
