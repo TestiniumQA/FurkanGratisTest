@@ -188,8 +188,7 @@ tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
-* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
-* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Adres silinir.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Ana sayfaya geçilir.
 * Urun kodu "10022111" yazilir, arama yapilir.

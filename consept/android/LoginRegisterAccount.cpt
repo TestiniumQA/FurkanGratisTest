@@ -157,6 +157,12 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "profilePageMyAddress"
 * "profilePageMyAddress" elementine sayacli tikla "pageToolbarTitle" value degerini bekle
 
+# Adres silinir.
+* Elementine tıkla "deleteAddressButton"
+* "isimli adresi silmek istediğinize emin misiniz?" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "deleteAddressPopupButton" li elementin değeri "SİL" e içerdiğini kontrol et
+* Elementine tıkla "deleteAddressPopupButton"
+
 # Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * "deleteAddressButton" li elementi bul ve varsa tıkla
 * "deleteAddressPopupButton" li elementi bul ve varsa tıkla
