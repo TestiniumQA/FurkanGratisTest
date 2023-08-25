@@ -1,0 +1,84 @@
+# Mağazadan seç popup'ı varsa kapatilir
+* "StoreCloseImg" li element varsa tıkla yoksa devam et
+
+# Tek ürünün ve toplam fiyatın kontrolü yapılır
+//* "ProductCartName" li elementi bul ve değerini "urun1" olarak sakla
+//* "ProductSecondCartName" li elementi bul ve değerini "urun2" olarak sakla
+* Elementin yüklenmesini bekle "PriceTwo"
+* "PriceTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
+* Elementin yüklenmesini bekle "PriceOne"
+* "PriceOne" li elementi bul ve değerini "fiyat1" olarak sakla
+* "PurchaseButton"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "SalePriceOne"
+* Elementin yüklenmesini bekle "SalePriceTwo"
+* Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "SalePriceOne", "SalePriceTwo" ile eşit mi kontrol et
+* Elementin yüklenmesini bekle "PurchaseButton"
+* Elementine tıkla "PurchaseButton"
+
+# Adrese Teslim butonuna tıklanır
+* Elementin yüklenmesini bekle "AddressBtn"
+* Elementine tıkla "AddressBtn"
+
+# Adrese Teslim teslimat Bilgileri alanı kontrol edilir
+* "Teslim Türü" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Adrese Teslim" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Teslimat Adresi" text degerine sahip elementin goruntulendigi kontrol edilir
+
+# Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
+//* "Mağazadan Teslim (ÜCRETSİZ)" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Teslim Türü" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Mağazadan Teslim ( ÜCRETSİZ )" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Mağaza Bul" text degerine sahip elementin goruntulendigi kontrol edilir
+
+# Adrese Teslim seçeneğine tıklanır ve devam edilir
+* Elementin yüklenmesini bekle "AddressBtn"
+* Elementine tıkla "AddressBtn"
+* "ContinueBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "ContinueBtn"
+
+# Teslimat alanı kontrol edilir
+* Mağazadan seç popup'ı varsa kapatilir
+//* "HeaderTxt" elementinin "Teslimat ve Ödeme" textini içerdiği kontrol edilir
+* "ShippingPriceOne" li elementi bul ve değerini "fiyat2" olarak sakla
+* "ShippingPriceTwo" li elementli küsüratı bul ve değerini "ikinciKüsür" olarak sakla
+* Elementin yüklenmesini bekle "ShippingCheckBox"
+* "ShippingCheckBox" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "SalePriceOnee" li elementi bul ve değerini "fiyat1" olarak sakla
+* "SalePriceTwoo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "ContinueBtn"
+* Elementine tıkla "ContinueBtn"
+
+# Sipariş Özeti alanı kontrol edilir
+//* "ProductCartName" li elementin text degerini hafizada "urun2" olarak saklanan text ile karsilastir
+//* "ProductSecondCartName" li elementin text degerini hafizada "urun1" olarak saklanan text ile karsilastir
+* "ContinueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "PreInfo"
+* "PreInfo" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "PurchaseAgreementToolbarTitle" elementinin "Ön Bilgilendirme Formu" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "PreInfoText"
+* Elementin yüklenmesini bekle "PopupOkayBTNIos"
+* Elementine tıkla "PopupOkayBTNIos"
+* Elementin yüklenmesini bekle "SalesContact"
+* "SalesContact" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "PurchaseAgreementToolbarTitle" elementinin "Mesafeli Satış Sözleşmesi" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "SalesContactText"
+* Elementin yüklenmesini bekle "PopupOkayBTNIos"
+* Elementine tıkla "PopupOkayBTNIos"
+* Elementin yüklenmesini bekle "InfoCheckbox"
+* Elementine tıkla "InfoCheckbox"
+* Elementin yüklenmesini bekle "SalesContractCheckbox"
+* Elementine tıkla "SalesContractCheckbox"
+* Elementin yüklenmesini bekle "ContinueBtn"
+* Elementine tıkla "ContinueBtn"
+
+# Iyzico alanı fiyat kontrol edilir
+* Elementin yüklenmesini bekle "IyzPaymentBtn"
+* "IyzPaymentBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Saklanan fiyat değerlerini kargo indirimine bağlı "ilkKüsür", "ikinciKüsür", "fiyat1", "fiyat2" toplam fiyat "IyzPaymentBtn" ile eşit mi kontrol et
+
+# Iyzico alanı mağazadan teslimat için fiyat kontrol edilir
+* Elementin yüklenmesini bekle "IyzPaymentBtn"
+* "IyzPaymentBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "IyzPaymentBtn" ile eşit mi kontrol et
