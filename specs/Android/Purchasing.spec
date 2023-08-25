@@ -323,7 +323,6 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Mağazadan Teslim Ilce ismi secilir.
 * Mağaza saatleri kontrol edilir.
 * Fatura bilgileri adresi sil butonuna tıklanır.
-* Android klavye kapatılır
 * Mağazadan Teslim mağazası seçilir.
 * Fatura bilgileri alanında yeni adres eklenir.
 * Satın alma alanında devam et butonuna tıklanır.
