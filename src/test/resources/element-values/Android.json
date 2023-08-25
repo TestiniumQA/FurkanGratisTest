@@ -1803,5 +1803,10 @@
     "key": "storeBillingAddressName",
     "androidValue": "com.gratis.android:id/storeBillingAddressName",
     "androidType": "id"
+  },
+  {
+    "key": "storeBillingAddressBook",
+    "androidValue": "com.gratis.android:id/otherAddressBtn",
+    "androidType": "id"
   }
 ]
