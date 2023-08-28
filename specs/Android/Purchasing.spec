@@ -185,12 +185,12 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDegistirme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-//* Bir ürün için sepet kontrol edilerek temizlenir.
-//* Ana sayfaya geçilir.
-//* Urun kodu "10022111" yazilir, arama yapilir.
-//* Ürün detay sayfasinda urun sepete eklenir.
-//* Sepete git'e tıklanır.
-//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Ana sayfaya geçilir.
+* Urun kodu "10022111" yazilir, arama yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
@@ -203,7 +203,7 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDegistirme
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 
 Purchasing with Store Deliver Myself and Adding Bil Address
------------------------------------------------------
+-----------------------------------------------------------
 tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.

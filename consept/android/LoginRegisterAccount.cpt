@@ -10,7 +10,7 @@ This is a concept file with following syntax for each concept.
 # Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur.
 * "Mehmet" textini "newAddressCustomerName" elemente yaz
 * "Uludağ" textini "newAddressCustomerSurname" elemente yaz
-* "javatestautomation@gmail.com" textini "registerMail" elemente yaz
+* "mehmtuldg@gmail.com" textini "registerMail" elemente yaz
 * "5416412489" textini "registerPhone" elemente yaz
 * Elementine tıkla "registerBirth"
 * Element var mı kontrol et "popupOkayButton"
@@ -36,7 +36,7 @@ This is a concept file with following syntax for each concept.
 
 # Kayıtlı Telefon ile register olunur ve uyarı mesajı gorulur.
 * "2" kere yukarı doğru kaydır
-* "mehmtuldg@gmail.com" textini "registerMail" elemente yaz
+* "javatestautomation@gmail.com" textini "registerMail" elemente yaz
 * "2" kere aşağıya kaydır
 * "registerButton" li elementi bul ve varsa tıkla
 * Element var mı kontrol et "registerPhoneErrorPopup"
