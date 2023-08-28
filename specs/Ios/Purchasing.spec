@@ -44,3 +44,28 @@ tags:Gratis_IOS_KargoIndirimli
 * Teslimat alanı kontrol edilir
 * Sipariş Özeti alanı kontrol edilir
 * Iyzico alanı fiyat kontrol edilir
+
+IOS Scenario Purchasing with Editing Address
+--------------------------------------------
+tags:Gratis_IOS_AdresDuzenleme
+* Uygulama baslatilir
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet ikonu ile login olunur
+* Sepet kontrol edilerek temizlenir
+* Kategoriler sayfasina gecilir
+* "Elektrikli Ürünler" isimli kategori seçilir
+* Alt kategorilerden biri "Elektrikli Kişisel Bakım", "Epilasyon" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
+//* Sepet kasa arkasi popup'i kapatilir
+* Tek ürünün ve toplam fiyatın kontrolü yapılır
+* Adrese Teslim butonuna tıklanır
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir
+* Adres düzenleme alanına gidilir
+* Teslimat bilgileri alanında guncel adres bilgileri girilir
+* Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir
+* Satın alma alanında devam et butonuna tıklanır
+* Teslimat alanı kontrol edilir
+* Sipariş Özeti alanı kontrol edilir
+* Iyzico alanı fiyat kontrol edilir

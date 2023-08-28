@@ -82,3 +82,97 @@
 * Elementin yüklenmesini bekle "IyzPaymentBtn"
 * "IyzPaymentBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "IyzPaymentBtn" ile eşit mi kontrol et
+
+# Adres düzenleme alanına gidilir
+* "EditAddressBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "EditAddressBtn"
+* Elementine tıkla "EditAddressBtn"
+* "1" saniye bekle
+
+# Teslimat bilgileri Adresi icin Ad, Soyad, Telefon ve Adres Ismi bilgilerinin guncelleri girilir
+* Element var mı kontrol et "ShippingCustomerName"
+* "ShippingCustomerName" li elementi bul, temizle ve "Mauro" değerini yaz
+* Element var mı kontrol et "ShippingCustomerSurname"
+* "ShippingCustomerSurname" li elementi bul, temizle ve "Icardi" değerini yaz
+* Element var mı kontrol et "ShippingCustomerPhone"
+* "ShippingCustomerPhone" li elementi bul, temizle ve "326637275" değerini yaz
+* Element var mı kontrol et "ShippingCustomerAddressTitle"
+* "ShippingCustomerAddressTitle" li elementi bul, temizle ve "Galatasaray" değerini yaz
+* Klavye kapatilir
+
+# Teslimat bilgileri Adresi icin Adres Detay ve Posta Kodu bilgilerinin guncelleri girilir
+* "1" kere aşağıya kaydır
+* Element var mı kontrol et "ShippingCustomerAddressDetail"
+* "ShippingCustomerAddressDetail" li elementi bul, temizle ve "Test ortamı icin adres detay bilgisi No:109" değerini yaz
+* Klavye kapatilir
+* Element var mı kontrol et "ShippingCustomerPostcode"
+* "ShippingCustomerPostcode" li elementi bul, temizle ve "35917" değerini yaz
+
+# Teslimat bilgileri alanında guncel adres bilgileri girilir
+* Teslimat bilgileri Adresi icin Ad, Soyad, Telefon ve Adres Ismi bilgilerinin guncelleri girilir
+* Elementin yüklenmesini bekle "ShippingNewAddressCustomerAddressTitle"
+* "ShippingNewAddressCustomerAddressTitle" li elementi bul ve değerini "AdresIsmi" olarak sakla
+* Adres Ekle Sehir ismi guncelleme icin "2" swipe ile secilir
+* Adres Ekle Ilce ismi guncelleme icin "1" swipe ile secilir
+* Adres Ekle Mahalle ismi guncelleme icin "1" swipe ile secilir
+* Teslimat bilgileri Adresi icin Adres Detay ve Posta Kodu bilgilerinin guncelleri girilir
+
+# Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir
+* "NewAddressSavedBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "NewAddressSavedBtn"
+* Elementine tıkla "NewAddressSavedBtn"
+* Elementin yüklenmesini bekle "AddressTypeTxt"
+* "AddressTypeTxt" li elementin text degeri hafizada "AdresIsmi" olarak saklanan text ile esit mi kontrol et
+
+# Satın alma alanında devam et butonuna tıklanır
+* "ContinueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementine tıkla "ContinueBtn"
+
+# Adres silme butonuna tıklanır ve adres silinir
+* Elementin yüklenmesini bekle "DeleteAddressBtn"
+* Elementin yüklenmesini bekle "AddressTypeTxt"
+* "AddressTypeTxt" li elementi bul ve değerini "silinecekAdres" olarak sakla
+* Elementin yüklenmesini bekle "AddressTypeTxt"
+* Elementine tıkla "DeleteAddressBtn"
+* Elementin yüklenmesini bekle "AlertTitleText"
+* "AlertTitleText" li elementin text degerini hafizada "silinecekAdres" olarak saklanan text ile karsilastir
+* Elementin yüklenmesini bekle "PopupDeleteBtnIos"
+* "PopupDeleteBtnIos" li elementin değeri "Sil" e içerdiğini kontrol et
+* Elementine tıkla "PopupDeleteBtnIos"
+* Elementin yüklenmesini bekle "AddressBtn"
+* Elementine tıkla "AddressBtn"
+
+# Teslimat bilgileri alanında yeni adres bilgileri girilir
+* Teslimat bilgileri Yeni Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir
+* Elementin yüklenmesini bekle "NewShippingAddressCustomerAddressTitle"
+* "NewShippingAddressCustomerAddressTitle" li elementi bul ve değerini "AdresIsmi" olarak sakla
+* "1" kere aşağıya kaydır
+* Adres Ekle Sehir ismi secilir
+* Adres Ekle Ilce ismi secilir
+* Adres Ekle Mahalle ismi secilir
+* Teslimat bilgileri Yeni Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir
+
+# Teslimat bilgileri Yeni Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir
+* Element var mı kontrol et "NewShippingCustomerName"
+* "NewShippingCustomerName" li elementi bul, temizle ve "Fernando" değerini yaz
+* Element var mı kontrol et "NewShippingCustomerSurname"
+* "NewShippingCustomerSurname" li elementi bul, temizle ve "Muslera" değerini yaz
+* Element var mı kontrol et "NewShippingCustomerPhone"
+* "NewShippingCustomerPhone" li elementi bul, temizle ve "390637275" değerini yaz
+* Element var mı kontrol et "NewShippingCustomerAddressTitle"
+* "NewShippingCustomerAddressTitle" li elementi bul, temizle ve "ŞampiyonGalatasaray" değerini yaz
+* Klavye kapatilir
+
+# Teslimat bilgileri Yeni Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir
+* "1" kere aşağıya kaydır
+* Element var mı kontrol et "NewShippingCustomerAddressDetail"
+* "NewShippingCustomerAddressDetail" li elementi bul, temizle ve "Test ortamı icin teslimat adres detay bilgisi No:109" değerini yaz
+* Klavye kapatilir
+* Element var mı kontrol et "NewShippingCustomerPostcode"
+* "NewShippingCustomerPostcode" li elementi bul, temizle ve "35999" değerini yaz
+* Klavye kapatilir
+
+# Teslimat Adresi devam et ikonuna tıklanır ve seçildiği kontrol edilir
+* Satın alma alanında devam et butonuna tıklanır
+* Elementin yüklenmesini bekle "AddressTypeTxt"
+* "AddressTypeTxt" li elementin text degeri hafizada "AdresIsmi" olarak saklanan text ile esit mi kontrol et
