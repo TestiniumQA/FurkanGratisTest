@@ -1186,7 +1186,7 @@
     "key": "StoreBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeNavigationBar[@name='Gratis.HomeView']/XCUIElementTypeButton[1]",
+    "iosValue": "//XCUIElementTypeNavigationBar[@name='Gratis.HomeView']/XCUIElementTypeButton[2]",
     "iosType": "xpath"
   },
   {
@@ -1606,7 +1606,7 @@
     "key": "SepetBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeNavigationBar[@name='Gratis.HomeView']/XCUIElementTypeButton[2]",
+    "iosValue": "//XCUIElementTypeNavigationBar[@name='Gratis.HomeView']/XCUIElementTypeButton[3]",
     "iosType": "xpath"
   },
   {
