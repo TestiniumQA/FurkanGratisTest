@@ -297,20 +297,25 @@
 * Elementine tıkla "HsPay"
 
 # Siparis ve Teslimat Sureci alanına tıklanır
+* "HsOrder"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "HsOrder"
 * Elementine tıkla "HsOrder"
+* "HsOrderSolution"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "HsOrderSolution"
 * Elementine tıkla "HsOrderSolution"
 * Elementin yüklenmesini bekle "HsOrderSolutionText"
 * "HsOrderSolutionText" elementinin "İstediğiniz ürünü sepetinize ekleyebilirsiniz." textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
+* "HsOrder"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "HsOrder"
 * Elementine tıkla "HsOrder"
 
 # Iade, Urun ve Sikayet alanına tıklanır
+* "HsProduct"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "HsProduct"
 * Elementine tıkla "HsProduct"
+* "HsProductSolution"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "HsProductSolution"
 * Elementine tıkla "HsProductSolution"
 * Elementin yüklenmesini bekle "HsProductSolutionText"
@@ -333,7 +338,7 @@
 
 # Katalog sayfaları swipe edilir
 * "3" kere sağa kaydirilir
-* Element var mı kontrol et "CatalogPage"
+* Element var mı kontrol et "PageToolbarTitle"
 * "3" saniye bekle
 * "2" kere sola kaydirilir
 * "1" saniye bekle
