@@ -64,13 +64,13 @@ tags:Gratis_Android_UrunDetayFavori
 * Login olunur.
 * Kategoriler sayfasina gecilir.
 * "Anne & Bebek" isimli kategori seçilir.
-* Alt kategorilerden biri "Bebek Banyo Ürünleri", "Bebek Sabunları" seçilir.
+* Alt kategorilerden biri "Bebek Banyo Ürünleri", "Bebek & Çocuk Şampuanları" seçilir.
 * Urun detay sayfasına geçilir.
 * Ürün detay sayfasında ürün favori butonuna tıklanır.
 * Urun favorilere eklenir.
 * Ürün detay sayfasında ürün favorilerden çıkarılır.
 * Ürün detay sayfasında ürün favori butonuna tıklanır.
-* "Ürün detay favori listesi" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir.
+* "Ürün detay favori" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * Uygulama geri butonuna bas.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
