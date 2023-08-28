@@ -108,7 +108,7 @@ Sub-Bars
 --------
 tags:Gratis_Android_UrunDetayAltBarlar
 * Uygulama baslatilir.
-* Urun kodu "10394253" yazilir, arama yapilir.
+* Urun kodu "10016061" yazilir, arama yapilir.
 * Alt bar alanları kontrol edilir.
 * Ürün bilgileri kontrol edilir.
 * Anahtar kelimelerden birine tıklanır.
