@@ -2884,10 +2884,10 @@
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "StoreBillingAddressBook",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeButton[`label == 'Adres Defteri'`]",
     "iosType": "classChain"
   },
   {
