@@ -2,7 +2,7 @@ Created by testinium on 1.08.2023
 
 This is a concept file with following syntax for each concept.
 # En Çok Satanlar alanında bir ürünün ürün detay sayfasına geçilir.
-* "productName"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "gratisCardPrice"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "productName"
 * Elementine tıkla "productName"
 * "2" saniye bekle
