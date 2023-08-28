@@ -2441,6 +2441,7 @@ public class StepImpl extends HookImpl {
             logger.info(key1+" elementinin degeri : "+firstValue);
 
             swipeDownAccordingToPhoneSize();
+            swipeDownAccordingToPhoneSize();
             waitBySecond(1);
 
             String secondKeyText = findElementByKey(key1).getText();
