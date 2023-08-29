@@ -36,6 +36,21 @@
 * "ContinueBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementine tıkla "ContinueBtn"
 
+# Yeni teslimat adresi alanına gidilir
+* Elementin yüklenmesini bekle "AddressBtn"
+* Elementine tıkla "AddressBtn"
+* Elementin yüklenmesini bekle "ShippingAddressBtn"
+* Elementine tıkla "ShippingAddressBtn"
+
+# Teslimat bilgileri alanında adres bilgileri girilir
+* Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir
+* Elementin yüklenmesini bekle "ShippingNewAddressCustomerAddressTitle"
+* "ShippingNewAddressCustomerAddressTitle" li elementi bul ve değerini "AdresIsmi" olarak sakla
+* Adres Ekle Sehir ismi secilir
+* Adres Ekle Ilce ismi secilir
+* Adres Ekle Mahalle ismi secilir
+* Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir
+
 # Teslimat alanı kontrol edilir
 * Mağazadan seç popup'ı varsa kapatilir
 //* "HeaderTxt" elementinin "Teslimat ve Ödeme" textini içerdiği kontrol edilir
