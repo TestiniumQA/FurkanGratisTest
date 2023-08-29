@@ -377,3 +377,34 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiEkle
 * Satın alma alanında devam et butonuna tıklanır.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
+
+Purchasing with Store Deliver and Change Delivery Information
+-------------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimatTeslimatBilgileriDegistirme
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile login olunur.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Ana sayfaya geçilir.
+* Urun kodu "10022111" yazilir, arama yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağaza saatleri kontrol edilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Satın alma alanında devam et butonuna tıklanır.
+* Teslimat Bilgileri değiştirme butonuna tıklanır.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağaza saatleri kontrol edilir.
+* Mağazadan Teslim mağazası seçilir.
+* Başkası teslim alacak seçeneği seçilir.
+* Satın alma alanında devam et butonuna tıklanır.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.

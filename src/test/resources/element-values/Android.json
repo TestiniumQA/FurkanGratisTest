@@ -1808,5 +1808,10 @@
     "key": "storeBillingAddressBook",
     "androidValue": "com.gratis.android:id/otherAddressBtn",
     "androidType": "id"
+  },
+  {
+    "key": "changeAddressBtn",
+    "androidValue": "com.gratis.android:id/changeAddressBtn",
+    "androidType": "id"
   }
 ]

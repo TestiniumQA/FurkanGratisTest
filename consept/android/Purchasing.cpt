@@ -173,6 +173,10 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 * Elementine tıkla "continueBtn"
 
+# Teslimat Bilgileri değiştirme butonuna tıklanır.
+* Element var mı kontrol et "changeAddressBtn"
+* Elementine tıkla "changeAddressBtn"
+
 # Sipariş Özeti alanı kontrol edilir.
 //* "productCartName" li elementin text degerini hafizada "urun2" olarak saklanan text ile karsilastir
 //* "productSecondCartName" li elementin text degerini hafizada "urun1" olarak saklanan text ile karsilastir
