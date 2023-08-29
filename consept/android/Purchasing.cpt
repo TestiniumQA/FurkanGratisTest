@@ -293,3 +293,8 @@ This is a concept file with following syntax for each concept.
 * "storeBillingAddressHeaderTxt" li elementin değeri "Fatura Bilgileri" e içerdiğini kontrol et
 * Elementine tıkla "addBillingAddressBtn"
 * "pageToolbarTitle" li elementin değeri "Adres Ekle" e içerdiğini kontrol et
+
+# Mağaza Seç popup'ına tıklanır.
+* Elementin yüklenmesini bekle "selectStoreBtn"
+* Element var mı kontrol et "cargo_info_txt"
+* Elementine tıkla "selectStoreBtn"

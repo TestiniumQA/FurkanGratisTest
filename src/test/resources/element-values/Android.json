@@ -1813,5 +1813,20 @@
     "key": "changeAddressBtn",
     "androidValue": "com.gratis.android:id/changeAddressBtn",
     "androidType": "id"
+  },
+  {
+    "key": "selectStoreBtn",
+    "androidValue": "com.gratis.android:id/selectStoreBtn",
+    "androidType": "id"
+  },
+  {
+    "key": "info_img",
+    "androidValue": "com.gratis.android:id/info_img",
+    "androidType": "id"
+  },
+  {
+    "key": "cargo_info_txt",
+    "androidValue": "com.gratis.android:id/cargo_info_txt",
+    "androidType": "id"
   }
 ]

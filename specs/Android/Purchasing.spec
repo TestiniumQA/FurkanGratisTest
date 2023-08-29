@@ -408,3 +408,29 @@ tags:Gratis_Android_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Satın alma alanında devam et butonuna tıklanır.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
+
+Choose Store Popup
+------------------
+tags:Gratis_Android_MagazaSecPopup
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile login olunur.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Ana sayfaya geçilir.
+* Urun kodu "10000368" yazilir, arama yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Adrese Teslim seçeneğine tıklanır ve devam edilir.
+* Mağaza Seç popup'ına tıklanır.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağaza saatleri kontrol edilir.
+* Mağazadan Teslim mağazası seçilir.
+* Satın alma alanında devam et butonuna tıklanır.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
