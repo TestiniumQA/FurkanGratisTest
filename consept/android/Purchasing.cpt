@@ -74,6 +74,7 @@ This is a concept file with following syntax for each concept.
 # Mağazadan Teslimat Fatura Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
 * "profilePageMyPasswordSaved"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementine tıkla "profilePageMyPasswordSaved"
+* Element var mı kontrol et "storeName"
 * "addBillingAddressBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 * "storeBillingAddressName" li elementin text degeri hafizada "FaturaAdres" olarak saklanan text ile esit mi kontrol et
 
