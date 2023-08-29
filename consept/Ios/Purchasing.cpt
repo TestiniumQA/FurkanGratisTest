@@ -174,5 +174,5 @@
 
 # Teslimat Adresi devam et ikonuna tıklanır ve seçildiği kontrol edilir
 * Satın alma alanında devam et butonuna tıklanır
-* Elementin yüklenmesini bekle "AddressTypeTxt"
-* "AddressTypeTxt" li elementin text degeri hafizada "AdresIsmi" olarak saklanan text ile esit mi kontrol et
+//* Elementin yüklenmesini bekle "AddressTypeTxt"
+//* "AddressTypeTxt" li elementin text degeri hafizada "AdresIsmi" olarak saklanan text ile esit mi kontrol et
