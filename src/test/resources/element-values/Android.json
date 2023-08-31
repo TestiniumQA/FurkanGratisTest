@@ -1828,5 +1828,30 @@
     "key": "cargo_info_txt",
     "androidValue": "com.gratis.android:id/cargo_info_txt",
     "androidType": "id"
+  },
+  {
+    "key": "topBtnSearch",
+    "androidValue": "com.gratis.android:id/btnSearch",
+    "androidType": "id"
+  },
+  {
+    "key": "barcode_img",
+    "androidValue": "com.gratis.android:id/barcode_img",
+    "androidType": "id"
+  },
+  {
+    "key": "searchResultTxt",
+    "androidValue": "com.gratis.android:id/search_result_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "popularCategorySearchTitle",
+    "androidValue": "//*[@resource-id='com.gratis.android:id/popular_categories_recycler']/android.widget.FrameLayout",
+    "androidType": "xpath"
+  },
+  {
+    "key": "popularTrademarkSearchTitle",
+    "androidValue": "//*[@resource-id='com.gratis.android:id/popular_brands_recycler']/android.widget.FrameLayout",
+    "androidType": "xpath"
   }
 ]

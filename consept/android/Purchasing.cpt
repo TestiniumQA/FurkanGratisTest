@@ -199,21 +199,6 @@ This is a concept file with following syntax for each concept.
 * "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 * Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
 
-# Urun kodu <text> yazilir, arama yapilir.
-* "urunSearchBox" elementi bulunana kadar en fazla "50" saniye kadar bekle
-* Elementine tıkla "urunSearchBox"
-* "urunSearchTxt" elementi bulunana kadar en fazla "50" saniye kadar bekle
-* <text> textini "urunSearchTxt" elemente yaz
-* "2" saniye bekle
-//* "" elementi bulunana kadar en fazla "50" saniye kadar bekle
-* Android Enter tıkla
-* Android Enter tıkla
-//* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* "pageToolbarTitle" li elementin değeri "Ürün Detay" e içerdiğini kontrol et
-* Element var mı kontrol et "productDetailTitle"
-* Element var mı kontrol et "kampanyaSec"
-* "1" saniye bekle
-
 # Adres silme butonuna tıklanır ve adres silinir.
 * Element var mı kontrol et "deleteAddressBtn"
 * "addressTypeTxt" li elementi bul ve değerini "silinecekAdres" olarak sakla

@@ -1,0 +1,130 @@
+# Search ikonuna tiklanir.
+* "urunSearchBox" elementi bulunana kadar en fazla "5" saniye kadar bekle
+* Elementine tıkla "urunSearchBox"
+
+# Search alanında arama textbox'ına tıklanır.
+* "urunSearchTxt" li elementi bul ve temizle
+
+# Diger sayfasindan search ikonuna tiklanir.
+* Elementin yüklenmesini bekle "digerTab"
+* "digerTab" elementi "Diğer" degerine esit mi
+* Elementine tıkla "digerTab"
+* Elementin yüklenmesini bekle "topBtnSearch"
+* Elementine tıkla "topBtnSearch"
+
+# Arama sayfasinin acildigi gorulur.
+* Element var mı kontrol et "barcode_img"
+* "Popüler Kategoriler" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Popüler Markalar" text degerine sahip elementin sayfada gorundugu kontrol edilir
+
+# Urun adi <text> yazilir, arama yapilir.
+* "urunSearchTxt" elementi bulunana kadar en fazla "5" saniye kadar bekle
+* Elementine tıkla "urunSearchTxt"
+* <text> textini "urunSearchTxt" elemente yaz
+* Android Enter tıkla
+* "1" saniye bekle
+
+# Urun kodu <text> yazilir, arama yapilir.
+* "urunSearchTxt" elementi bulunana kadar en fazla "5" saniye kadar bekle
+* Elementine tıkla "urunSearchTxt"
+* "urunSearchTxt" elementi bulunana kadar en fazla "5" saniye kadar bekle
+* <text> textini "urunSearchTxt" elemente yaz
+* "2" saniye bekle
+* Android Enter tıkla
+* Android Enter tıkla
+* "pageToolbarTitle" li elementin değeri "Ürün Detay" e içerdiğini kontrol et
+* Element var mı kontrol et "productDetailTitle"
+* Element var mı kontrol et "kampanyaSec"
+* "1" saniye bekle
+
+# Aradiginiz sonuc bulunamadi sayfasinin acildigi gorulur.
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "searchNoResultFound"
+* Elementin yüklenmesini bekle "geriBtn"
+* Element var mı kontrol et "bosSepetListesi"
+* "En Çok Satanlar" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Element var mı kontrol et "urunDetay"
+* Element var mı kontrol et "urunDetayy"
+* Elementine tıkla "geriBtn"
+* "1" saniye bekle
+
+# Aratilan urun adina ait urunlerin listelendigi gorulur.
+* "1" saniye bekle
+* "pageToolbarTitle" elementinin "Pastel Oje 106" textini içerdiği kontrol edilir
+* Element var mı kontrol et "searchResultTxt"
+* "searchResultTxt" li elementin değeri "Pastel Oje 106" e içerdiğini kontrol et
+* Element var mı kontrol et "urunDetay"
+* Element var mı kontrol et "urunDetayy"
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "1" saniye bekle
+
+# Urun detay sayfasinin acildigi gorulur.
+* "pageToolbarTitle" elementinin "Ürün Detay" textini içerdiği kontrol edilir
+* Element var mı kontrol et "kampanyaSec"
+* "1" saniye bekle
+
+# Kategori adi <text> yazilir, kategori secilir.
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "urunSearchTxt"
+* "1" saniye bekle
+* Elementine tıkla "urunSearchTxt"
+* "1" saniye bekle
+* <text> textini "urunSearchTxt" elemente yaz
+* "1" saniye bekle
+* "Kategoriler" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* <text> text degerine sahip elementin sayfada gorundugu kontrol edilir
+* <text> text degerine sahip elemente tikla.
+* "1" saniye bekle
+
+# Kategori ile ilgili urunlerin listelendigi gorulur.
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "pageToolbarTitle"
+* "pageToolbarTitle" elementinin "Erkek Parfüm" textini içerdiği kontrol edilir
+* Element var mı kontrol et "urunDetay"
+* Element var mı kontrol et "urunDetayy"
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "1" saniye bekle
+
+# Marka adi <text> yazilir, marka secilir.
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "urunSearchTxt"
+* "1" saniye bekle
+* Elementine tıkla "urunSearchTxt"
+* "1" saniye bekle
+* <text> textini "urunSearchTxt" elemente yaz
+* "1" saniye bekle
+* "Markalar" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* <text> text degerine sahip elementin sayfada gorundugu kontrol edilir
+* <text> text degerine sahip elemente tikla.
+* "1" saniye bekle
+
+# Marka ile ilgili urunlerin listelendigi gorulur.
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "pageToolbarTitle"
+* "pageToolbarTitle" elementinin "Arko Men" textini içerdiği kontrol edilir
+* Element var mı kontrol et "urunDetay"
+* Element var mı kontrol et "urunDetayy"
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "1" saniye bekle
+
+# Populer kategoriler altindan kategori uzerine tiklanir.
+* Elementin yüklenmesini bekle "popularCategorySearchTitle"
+* Elementine tıkla "popularCategorySearchTitle"
+
+# Populer markalar altindan marka uzerine tiklanir.
+* Elementin yüklenmesini bekle "popularTrademarkSearchTitle"
+* Elementine tıkla "popularTrademarkSearchTitle"
+
+# Aramaya gore urunlerin listelendigi gorulur.
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "pageToolbarTitle"
+* "pageToolbarTitle" li elementi bul ve değerini "markaAdı" olarak sakla
+* Element var mı kontrol et "urunDetay"
+* Element var mı kontrol et "urunDetayy"
+* "pageToolbarTitle" li elementin text degerini hafizada "markaAdı" olarak saklanan text ile karsilastir
+* "geriBtn" elementi bulunana kadar en fazla "5" saniye kadar bekle
+* Elementine tıkla "geriBtn"
+* "3" saniye bekle
