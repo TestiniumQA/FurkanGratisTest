@@ -35,8 +35,9 @@
 * "1" kere sola kaydirilir
 * "1" saniye bekle
 * Element var mı kontrol et "ZoomPhoto"
-* Elementine tıkla "ZoomPhoto"
-* Elementine tıkla "CloseImg"
+//* Elementine tıkla "ZoomPhoto"
+//* Elementine tıkla "CloseImg"
+* "ZoomPhoto" li element varsa tıkla "CloseImg" tıkla
 
 # Gratis Card ile ürün detayda login olunur
 * "DetailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
