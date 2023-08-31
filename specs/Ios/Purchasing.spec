@@ -128,7 +128,7 @@ tags:Gratis_IOS_YeniFaturaAdresiEkleme
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
 * "Elektrikli Ürünler" isimli kategori seçilir
-* Alt kategorilerden biri "Elektrikli Kişisel Bakım", "Epilasyon" seçilir
+* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
