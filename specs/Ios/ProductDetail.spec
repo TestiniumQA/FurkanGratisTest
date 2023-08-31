@@ -64,8 +64,8 @@ tags:Gratis_IOS_UrunDetaySepeteEkleme
 * Login sayfasina gecilir
 * Giris yapilir
 * Kategoriler sayfasina gecilir
-* "Parfüm & Deodorant" isimli kategori seçilir
-* Alt kategorilerden biri "Parfüm", "Kadın Parfüm" seçilir
+* "Cilt Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "El Bakımı", "Vazelin" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detayda "3" kadar ürün adedi seçilir
 * Ürün detay sayfasinda urun sepete eklenir
