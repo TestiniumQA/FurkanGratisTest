@@ -162,8 +162,8 @@ tags:Gratis_IOS_BaskaAdresSecerekSiparis
 * Adrese Teslim butonuna tıklanır
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir
 * Başka Adres Seç seçeneğine tıklanır
-* Adrese Teslim seçeneğine tıklanır ve devam edilir
-//* Satın alma alanında devam et butonuna tıklanır
+//* Adrese Teslim seçeneğine tıklanır ve devam edilir
+* Satın alma alanında devam et butonuna tıklanır
 * Teslimat alanı kontrol edilir
 * Sipariş Özeti alanı kontrol edilir
 * Iyzico alanı fiyat kontrol edilir
