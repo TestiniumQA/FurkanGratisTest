@@ -104,6 +104,15 @@
 * Elementine tıkla "EditAddressBtn"
 * "1" saniye bekle
 
+# Fatura adresi alanında yeni adres eklenir
+* Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir
+* Elementin yüklenmesini bekle "ShippingNewAddressCustomerAddressTitle"
+* "ShippingNewAddressCustomerAddressTitle" li elementi bul ve değerini "FaturaAdres" olarak sakla
+* Adres Ekle Sehir ismi secilir
+* Adres Ekle Ilce ismi secilir
+* Adres Ekle Mahalle ismi secilir
+* Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir
+
 # Teslimat bilgileri Adresi icin Ad, Soyad, Telefon ve Adres Ismi bilgilerinin guncelleri girilir
 * Element var mı kontrol et "ShippingCustomerName"
 * "ShippingCustomerName" li elementi bul, temizle ve "Mauro" değerini yaz
@@ -142,6 +151,14 @@
 # Satın alma alanında devam et butonuna tıklanır
 * "ContinueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementine tıkla "ContinueBtn"
+
+# Yeni fatura adresi alanına gidilir
+* "SelectAddressCheckbox"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "SelectAddressCheckbox"
+* Elementine tıkla "SelectAddressCheckbox"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "NewBillingAddressBtn"
+* Elementine tıkla "NewBillingAddressBtn"
 
 # Adres silme butonuna tıklanır ve adres silinir
 * Elementin yüklenmesini bekle "DeleteAddressBtn"
@@ -191,3 +208,9 @@
 * Satın alma alanında devam et butonuna tıklanır
 //* Elementin yüklenmesini bekle "AddressTypeTxt"
 //* "AddressTypeTxt" li elementin text degeri hafizada "AdresIsmi" olarak saklanan text ile esit mi kontrol et
+
+# Adrese Teslim Fatura Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir
+* Elementin yüklenmesini bekle "NewAddressSavedBtn"
+* Elementine tıkla "NewAddressSavedBtn"
+* "BillingHeaderTxt"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* "BillingHeaderTxt" li elementin text degeri hafizada "FaturaAdres" olarak saklanan text ile esit mi kontrol et
