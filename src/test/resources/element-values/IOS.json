@@ -2891,38 +2891,38 @@
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "PageToolbarTitleThree",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "ChangeAddressBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeButton[`label == 'Değiştir'`]",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "SelectStoreBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeButton[`label == 'Mağaza Seç!'`]",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "Cargo_info_txt",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeStaticText",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "Cargo_info_img",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeImage",
     "iosType": "classChain"
   },
   {
@@ -3199,9 +3199,3 @@
     "iosType": "classChain"
   }
 ]
-
-
-
-
-
-

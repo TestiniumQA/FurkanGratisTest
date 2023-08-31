@@ -174,6 +174,15 @@
 * Elementin yüklenmesini bekle "AddressBtn"
 * Elementine tıkla "AddressBtn"
 
+# Başka Adres Seç seçeneğine tıklanır
+* "AddressTypeTxt" li elementi bul ve değerini "ilkAdres" olarak sakla
+* Elementin yüklenmesini bekle "OtherShippingAddressBtn"
+* Elementine tıkla "OtherShippingAddressBtn"
+* "Teslimat Adresi Olarak Seç" text degerine sahip elemente tikla
+* "AddressTypeTxt" li elementin text degerini hafizada "ilkAdres" olarak saklanan text ayni olmadigini kontrol et
+* Elementin yüklenmesini bekle "PageCloseIcon"
+* Elementine tıkla "PageCloseIcon"
+
 # Teslimat bilgileri alanında yeni adres bilgileri girilir
 * Teslimat bilgileri Yeni Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir
 * Elementin yüklenmesini bekle "NewShippingAddressCustomerAddressTitle"
