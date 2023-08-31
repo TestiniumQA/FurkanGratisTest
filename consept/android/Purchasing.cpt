@@ -283,3 +283,19 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "selectStoreBtn"
 * Element var mı kontrol et "cargo_info_txt"
 * Elementine tıkla "selectStoreBtn"
+
+# Iyzico alanı express ödeme yapılır.
+* Elementin yüklenmesini bekle "iyzOthersTab"
+* Elementine tıkla "iyzOthersTab"
+* "1" saniye bekle
+* Elementine tıkla "iyz-BkmExpress"
+* Elementine tıkla "iyzPaymentBtn"
+* Elementine tıkla "iyz-submitBtn"
+
+# Siparişin tamamlandığı kontrol edilir.
+* Elementin yüklenmesini bekle "orderOkBtn"
+* "Siparişiniz Onaylandı" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Sipariş Numarası" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Element var mı kontrol et "orderNo"
+* "Siparişiniz onaylanmıştır. Siparişiniz hazır olduğunda e-posta/SMS yoluyla bilgilendirileceksiniz." text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Elementine tıkla "orderOkBtn"

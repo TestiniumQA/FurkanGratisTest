@@ -13,7 +13,7 @@ tags:Gratis_Android_KargoIndirimsiz
 * Sepet ikonu ile login olunur.
 * Sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10000368" yazilir, arama yapilir.
+* Anasayfa urun kodu "10330101" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -33,7 +33,7 @@ tags:Gratis_Android_KargoIndirimli
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -53,7 +53,7 @@ tags:Gratis_Android_AdresDuzenleme
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -76,7 +76,7 @@ tags:Gratis_Android_YeniAdresSilipEkleme
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -99,7 +99,7 @@ tags:Gratis_Android_YeniAdresEkleme
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -122,7 +122,7 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -145,7 +145,7 @@ tags:Gratis_Android_BaskaAdresSecerekSiparis
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -166,7 +166,7 @@ tags:Gratis_Android_BaskaFaturaAdresiSecerekSiparis
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -187,7 +187,7 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDegistirme
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -215,7 +215,7 @@ tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -242,7 +242,7 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -266,7 +266,7 @@ tags:Gratis_Android_MagazadanKendimTeslimat
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -289,7 +289,7 @@ tags:Gratis_Android_MagazadanBaskasiTeslimat
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -312,7 +312,7 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDuzenle
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -337,7 +337,7 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -361,7 +361,7 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiEkle
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -386,7 +386,7 @@ tags:Gratis_Android_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10022111" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -417,7 +417,7 @@ tags:Gratis_Android_MagazaSecPopup
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Urun kodu "10000368" yazilir, arama yapilir.
+* Anasayfa urun kodu "10330101" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -434,3 +434,5 @@ tags:Gratis_Android_MagazaSecPopup
 * Satın alma alanında devam et butonuna tıklanır.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
+* Iyzico alanı express ödeme yapılır.
+* Siparişin tamamlandığı kontrol edilir.

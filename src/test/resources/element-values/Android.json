@@ -1853,5 +1853,30 @@
     "key": "popularTrademarkSearchTitle",
     "androidValue": "//*[@resource-id='com.gratis.android:id/popular_brands_recycler']/android.widget.FrameLayout",
     "androidType": "xpath"
+  },
+  {
+    "key": "iyzOthersTab",
+    "androidValue": "//*[@resource-id='iyz-tab-others']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "iyz-BkmExpress",
+    "androidValue": "//*[@resource-id='iyz-checkbox-bkmExpress']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "iyz-submitBtn",
+    "androidValue": "//*[@resource-id='submitBtn']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "orderOkBtn",
+    "androidValue": "//*[@resource-id='com.gratis.android:id/ok_button']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "orderNo",
+    "androidValue": "//*[@resource-id='com.gratis.android:id/order_no']",
+    "androidType": "xpath"
   }
 ]

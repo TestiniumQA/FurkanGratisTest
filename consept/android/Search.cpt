@@ -37,6 +37,19 @@
 * Element var mı kontrol et "kampanyaSec"
 * "1" saniye bekle
 
+# Anasayfa urun kodu <text> yazilir, arama yapilir.
+* "urunSearchBox" elementi bulunana kadar en fazla "5" saniye kadar bekle
+* Elementine tıkla "urunSearchBox"
+* "urunSearchTxt" elementi bulunana kadar en fazla "5" saniye kadar bekle
+* <text> textini "urunSearchTxt" elemente yaz
+* "2" saniye bekle
+* Android Enter tıkla
+* Android Enter tıkla
+* "pageToolbarTitle" li elementin değeri "Ürün Detay" e içerdiğini kontrol et
+* Element var mı kontrol et "productDetailTitle"
+* Element var mı kontrol et "kampanyaSec"
+* "1" saniye bekle
+
 # Aradiginiz sonuc bulunamadi sayfasinin acildigi gorulur.
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "searchNoResultFound"
