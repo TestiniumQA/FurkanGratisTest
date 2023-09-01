@@ -160,6 +160,19 @@
 * Elementin yüklenmesini bekle "NewBillingAddressBtn"
 * Elementine tıkla "NewBillingAddressBtn"
 
+# Adrese Teslim Fatura adresi değiştirilir
+* "SelectAddressCheckbox"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "SelectAddressCheckbox"
+* Elementine tıkla "SelectAddressCheckbox"
+* "BillingHeaderTxt" li elementi bul ve değerini "ilkFaturaAdresi" olarak sakla
+* Elementin yüklenmesini bekle "OtherBillingAddressBtn"
+* Elementine tıkla "OtherBillingAddressBtn"
+* "Fatura Adresi Olarak Seç" text degerine sahip elemente tikla
+//* "Teslimat Adresi Olarak Seç" text degerine sahip elemente tikla
+* Elementin yüklenmesini bekle "PageCloseIcon"
+* Elementine tıkla "PageCloseIcon"
+* "BillingHeaderTxt" li elementin text degerini hafizada "ilkFaturaAdresi" olarak saklanan text ayni olmadigini kontrol et
+
 # Adres silme butonuna tıklanır ve adres silinir
 * Elementin yüklenmesini bekle "DeleteAddressBtn"
 * Elementin yüklenmesini bekle "AddressTypeTxt"
