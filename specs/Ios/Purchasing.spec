@@ -190,3 +190,28 @@ tags:Gratis_IOS_BaskaFaturaAdresiSecerekSiparis
 * Teslimat alanı kontrol edilir
 * Sipariş Özeti alanı kontrol edilir
 * Iyzico alanı fiyat kontrol edilir
+
+IOS Scenario Purchasing with Store Deliver Changing Bill Address
+---------------------------------------------------------------
+tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDegistirme
+* Uygulama baslatilir
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet ikonu ile login olunur
+* Sepet kontrol edilerek temizlenir
+* Kategoriler sayfasina gecilir
+* "Elektrikli Ürünler" isimli kategori seçilir
+* Alt kategorilerden biri "Elektrikli Kişisel Bakım", "Epilasyon" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
+//* Sepet kasa arkasi popup'i kapatilir
+* Tek ürünün ve toplam fiyatın kontrolü yapılır
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
+* Mağazadan Teslim Sehir ismi secilir
+* Mağazadan Teslim Ilce ismi secilir
+* Mağaza saatleri kontrol edilir
+* Mağazadan Teslim mağazası seçilir
+* Mağazadan Teslimat Fatura adresi değiştirilir
+* Satın alma alanında devam et butonuna tıklanır
+* Sipariş Özeti alanı kontrol edilir
+* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir

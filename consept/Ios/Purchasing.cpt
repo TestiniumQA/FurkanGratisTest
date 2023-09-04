@@ -98,6 +98,18 @@
 * "IyzPaymentBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "IyzPaymentBtn" ile eşit mi kontrol et
 
+# Mağazadan Teslimat Fatura adresi değiştirilir
+* "StoreBillingAddressBook"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "StoreBillingAddressBook"
+* "StoreBillingAddressName" li elementi bul ve değerini "ilkFaturaAdresi" olarak sakla
+* Elementine tıkla "StoreBillingAddressBook"
+* "1" saniye bekle
+//* "Fatura Adresi Olarak Seç" text degerine sahip elemente tikla.
+* "Teslimat Adresi Olarak Seç" text degerine sahip elemente tikla
+* Elementin yüklenmesini bekle "PageCloseIcon"
+* Elementine tıkla "PageCloseIcon"
+* "StoreBillingAddressName" li elementin text degerini hafizada "ilkFaturaAdresi" olarak saklanan text ayni olmadigini kontrol et
+
 # Adres düzenleme alanına gidilir
 * "EditAddressBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "EditAddressBtn"
@@ -187,6 +199,46 @@
 * Elementin yüklenmesini bekle "AddressBtn"
 * Elementine tıkla "AddressBtn"
 
+# Mağazadan Teslim Sehir ismi secilir
+//* "1" kere aşağıya kaydır
+//* "1" kere yukarı doğru kaydır
+* "1" saniye bekle
+* "StoreCitySpinner"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Element var mı kontrol et "StoreCitySpinner"
+* "StoreCitySpinner" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "50","90" oranlarından "50","70" oranlarına "1" kere swipe et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "1" saniye bekle
+
+# Mağazadan Teslim Ilce ismi secilir
+//* "1" kere aşağıya kaydır
+//* "1" kere yukarı doğru kaydır
+* "1" saniye bekle
+* "StoreTownSpinner"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Element var mı kontrol et "StoreTownSpinner"
+* "StoreTownSpinner" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "50","90" oranlarından "50","70" oranlarına "1" kere swipe et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "1" saniye bekle
+
+# Mağazadan Teslim mağazası seçilir
+* "SelectStoreRoot"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "SelectStoreRoot"
+* Elementine tıkla "SelectStoreRoot"
+* "Mağaza seçildi" text degerine sahip elementin goruntulendigi kontrol edilir
+
+# Kendim Teslim alacağım seçeneği seçilir
+* "MeRadioBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "MeRadioBtn"
+* "MeRadioBtn" li element varsa tıkla
+//* Element var mı kontrol et "MeRadioCheckedBtn"
+
 # Başka Adres Seç seçeneğine tıklanır
 * "AddressTypeTxt" li elementi bul ve değerini "ilkAdres" olarak sakla
 * Elementin yüklenmesini bekle "OtherShippingAddressBtn"
@@ -195,6 +247,14 @@
 * "AddressTypeTxt" li elementin text degerini hafizada "ilkAdres" olarak saklanan text ayni olmadigini kontrol et
 * Elementin yüklenmesini bekle "PageCloseIcon"
 * Elementine tıkla "PageCloseIcon"
+
+# Mağaza saatleri kontrol edilir
+* "StoreHours"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "StoreHours"
+* Elementine tıkla "StoreHours"
+* Elementin yüklenmesini bekle "StoreHoursPopupIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
 
 # Teslimat bilgileri alanında yeni adres bilgileri girilir
 * Teslimat bilgileri Yeni Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir
