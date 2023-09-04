@@ -643,28 +643,42 @@
   },
   {
     "key": "SmsCheckbox",
-    "androidValue": "//android.widget.CheckBox",
+    "androidValue": "(//android.widget.CheckBox)[2]",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
   },
   {
     "key": "SmsCheckboxChecked",
-    "androidValue": "//android.widget.CheckBox[@checked='true']",
+    "androidValue": "(//android.widget.CheckBox[@checked='true'])[2]",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
   },
   {
     "key": "EmailCheckbox",
-    "androidValue": "//android.widget.CheckBox[2]",
+    "androidValue": "(//android.widget.CheckBox)[3]",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
   },
   {
     "key": "EmailCheckboxChecked",
-    "androidValue": "//android.widget.CheckBox[2][@checked='true']",
+    "androidValue": "(//android.widget.CheckBox[@checked='true'])[3]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "callCheckbox",
+    "androidValue": "(//android.widget.CheckBox)[4]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "callCheckboxChecked",
+    "androidValue": "(//android.widget.CheckBox[@checked='true'])[4]",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
@@ -1877,6 +1891,11 @@
   {
     "key": "orderNo",
     "androidValue": "//*[@resource-id='com.gratis.android:id/order_no']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "permissionDenyBtn",
+    "androidValue": "//*[@resource-id='com.android.permissioncontroller:id/permission_deny_button']",
     "androidType": "xpath"
   }
 ]

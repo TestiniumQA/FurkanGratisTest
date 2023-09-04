@@ -22,14 +22,17 @@ This is a concept file with following syntax for each concept.
 * "123456Asdf." textini "registerPassword" elemente yaz
 * "123456Asdf." textini "registerPasswordAgain" elemente yaz
 * "1" kere aşağıya kaydır
+* "registerOtherAgreementText" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "registerAgreementText"
+* "register2AgreementText" elementi "" degerine esit mi
+* Elementine tıkla "popupOkayButton"
+* "registerOtherAgreement" li elementi bul ve varsa tıkla
 * Elementine tıkla "SmsCheckbox"
 * Element var mı kontrol et "SmsCheckboxChecked"
 * Elementine tıkla "EmailCheckbox"
 * Element var mı kontrol et "EmailCheckboxChecked"
-* "1" kere aşağıya kaydır
-* "registerMembershipAgreement" li elementi bul ve varsa tıkla
-* "registerOtherAgreement" li elementi bul ve varsa tıkla
-* "registerPersonalInfo" li elementi bul ve varsa tıkla
+* Elementine tıkla "callCheckbox"
+* Element var mı kontrol et "callCheckboxChecked"
 * "registerButton" li elementi bul ve varsa tıkla
 * Element var mı kontrol et "registerEmailErrorPopup"
 * Elementine tıkla "popupOkayButton"
@@ -56,23 +59,24 @@ This is a concept file with following syntax for each concept.
 * "1" kere aşağıya kaydır
 
 # Kullanıcı şartlarına tıklanır ve üye olunur.
-* Elementine tıkla "SmsCheckbox"
-* Element var mı kontrol et "SmsCheckboxChecked"
-* Elementine tıkla "EmailCheckbox"
-* Element var mı kontrol et "EmailCheckboxChecked"
-* "1" kere aşağıya kaydır
-* "1" saniye bekle
-* "registerMembershipText" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-* Elementin yüklenmesini bekle "registerAgreementText"
-* "registerAgreementText" elementi "" degerine esit mi
-* Elementine tıkla "popupOkayButton"
 * "registerOtherAgreementText" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "registerAgreementText"
 * "register2AgreementText" elementi "" degerine esit mi
 * Elementine tıkla "popupOkayButton"
-* "registerMembershipAgreement" li elementi bul ve varsa tıkla
 * "registerOtherAgreement" li elementi bul ve varsa tıkla
-* "registerPersonalInfo" li elementi bul ve varsa tıkla
+* Elementine tıkla "SmsCheckbox"
+* Element var mı kontrol et "SmsCheckboxChecked"
+* Elementine tıkla "EmailCheckbox"
+* Element var mı kontrol et "EmailCheckboxChecked"
+* Elementine tıkla "callCheckbox"
+* Element var mı kontrol et "callCheckboxChecked"
+* "1" saniye bekle
+//* "registerMembershipText" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+//* Elementin yüklenmesini bekle "registerAgreementText"
+//* "registerAgreementText" elementi "" degerine esit mi
+//* Elementine tıkla "popupOkayButton"
+//* "registerMembershipAgreement" li elementi bul ve varsa tıkla
+//* "registerPersonalInfo" li elementi bul ve varsa tıkla
 * "registerButton" li elementi bul ve varsa tıkla
 * Element var mı kontrol et "registerSmsAcceptButton"
 
