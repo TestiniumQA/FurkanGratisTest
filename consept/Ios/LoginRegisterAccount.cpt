@@ -258,8 +258,9 @@
 * "1" saniye bekle
 
 # Klavye kapatilir
-* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Elementine tıkla "KeyboardDismisserIcon"
+//* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
+//* Elementine tıkla "KeyboardDismisserIcon"
+* "KeyboardDismisserIcon" li element varsa tıkla yoksa devam et
 
 # Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
 * Element var mı kontrol et "ProfilePageMyAddress"
