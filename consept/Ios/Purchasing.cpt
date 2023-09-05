@@ -51,6 +51,70 @@
 * Adres Ekle Mahalle ismi secilir
 * Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir
 
+# Fatura bilgileri alanında yeni adres eklenir
+* Fatura bilgileri için Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir
+* Fatura bilgileri şehir ismi secilir
+* Fatura bilgileri ilce ismi secilir
+* Fatura bilgileri mahalle ismi secilir
+* Fatura bilgileri icin Adres Detay ve Posta Kodu bilgileri girilir
+
+# Fatura bilgileri şehir ismi secilir
+* "1" saniye bekle
+* "StoreBilCitySpinner"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Element var mı kontrol et "StoreBilCitySpinner"
+* "StoreBilCitySpinner" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "50","90" oranlarından "50","70" oranlarına "1" kere swipe et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "1" saniye bekle
+
+# Fatura bilgileri ilce ismi secilir
+* "1" saniye bekle
+* "StoreBilTownSpinner"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Element var mı kontrol et "StoreBilTownSpinner"
+* "StoreBilTownSpinner" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "50","90" oranlarından "50","70" oranlarına "1" kere swipe et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "1" saniye bekle
+
+# Fatura bilgileri mahalle ismi secilir
+* "1" saniye bekle
+* "StoreBilDistrictSpinner"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Element var mı kontrol et "StoreBilDistrictSpinner"
+* "StoreBilDistrictSpinner" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "50","90" oranlarından "50","70" oranlarına "1" kere swipe et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+
+# Fatura bilgileri için Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir
+//* "storeFirstName"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+//* Adres Ismi "storeAddressName", Adres icin Ad "storeFirstName" elementine elementine yazilir
+//* "storePhoneNumber"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+//* Soyad "storeSurName" elementine, Telefon "storePhoneNumber" elementine yazilir
+* "IOS" csv dosyasindan rastgele adres bilgileri sec
+* "StoreFirstName"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Adres icin Ad "StoreFirstName" elementine, Soyad "StoreSurName" elementine, Telefon "StorePhoneNumber" elementine, Adres Ismi "StoreAddressName" elementine yazilir
+* Klavye kapatilir
+
+# Fatura bilgileri icin Adres Detay ve Posta Kodu bilgileri girilir
+* "StoreAddressPostCode"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "StoreAddressPostCode"
+//* "IOS" csv dosyasindan rastgele adres bilgileri sec
+//* Yeni Adres Ekleme icin Adres Detay "storeAddressDetail" elementine, Posta Kodu "storeAddressPostCode" elementine yazilir
+* Elementin yüklenmesini bekle "StoreAddressDetail"
+* "StoreAddressDetail" li elementi bul, temizle ve "Test ortamı icin adres detay bilgisi No:1000000000" değerini yaz
+* "KeyboardDismisserIcon" li element varsa tıkla yoksa devam et
+* Element var mı kontrol et "StoreAddressPostCode"
+* "StoreAddressPostCode" li elementi bul, temizle ve "33123" değerini yaz
+* "KeyboardDismisserIcon" li element varsa tıkla yoksa devam et
+
 # Teslimat alanı kontrol edilir
 * Mağazadan seç popup'ı varsa kapatilir
 //* "HeaderTxt" elementinin "Teslimat ve Ödeme" textini içerdiği kontrol edilir
