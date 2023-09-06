@@ -2926,59 +2926,59 @@
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "IyzOthersTab",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeOther[`label == 'iyzico Ortak Ödeme Sayfası'`]/XCUIElementTypeImage[2]",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "Iyz-BkmExpress",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "classChain"
+    "iosValue": "XCUIElementTypeSwitch",
+    "iosType": "class"
   },
   {
-    "key": "xxxx",
+    "key": "NewIyzPaymentBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "classChain"
+    "iosValue": "//XCUIElementTypeApplication[@name=\"GratisUAT\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton",
+    "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "Iyz-submitBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "classChain"
+    "iosValue": "//XCUIElementTypeButton[@name='Submit']",
+    "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "OrderOkBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "classChain"
+    "iosValue": "//XCUIElementTypeButton[@name='Devam Et']",
+    "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "OrderPopupClose",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "classChain"
+    "iosValue": "//XCUIElementTypeButton[@name='Bir daha gösterme']",
+    "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "OrderNo",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "classChain"
+    "iosValue": "//XCUIElementTypeApplication[@name=\"GratisUAT\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeStaticText[2]",
+    "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "EyeIcon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeButton[`label == 'eyeIcon'`]",
     "iosType": "classChain"
   },
   {
