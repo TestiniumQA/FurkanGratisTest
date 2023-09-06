@@ -303,6 +303,21 @@
 * "MeRadioBtn" li element varsa tıkla
 //* Element var mı kontrol et "MeRadioCheckedBtn"
 
+# Başkası teslim alacak seçeneği seçilir
+* "OtherRadioBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "OtherRadioBtn"
+* "OtherRadioBtn" li element varsa tıkla
+//* Element var mı kontrol et "otherRadioCheckedBtn"
+* "ReceiverSurNameEt"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "ReceiverNameEt"
+* "Başkasına" textini "ReceiverNameEt" elemente yaz
+* Elementin yüklenmesini bekle "ReceiverSurNameEt"
+* "Teslim" textini "ReceiverSurNameEt" elemente yaz
+* "ReceiverPhoneNumber"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "ReceiverPhoneNumber"
+* "556568989" textini "ReceiverPhoneNumber" elemente yaz
+* "KeyboardDismisserIcon" li element varsa tıkla yoksa devam et
+
 # Başka Adres Seç seçeneğine tıklanır
 * "AddressTypeTxt" li elementi bul ve değerini "ilkAdres" olarak sakla
 * Elementin yüklenmesini bekle "OtherShippingAddressBtn"
