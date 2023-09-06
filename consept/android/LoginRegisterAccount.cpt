@@ -79,6 +79,14 @@ This is a concept file with following syntax for each concept.
 //* "registerPersonalInfo" li elementi bul ve varsa tıkla
 * "registerButton" li elementi bul ve varsa tıkla
 * Element var mı kontrol et "registerSmsAcceptButton"
+* "alertTitle" li elementin değeri "SMS ONAYI" e içerdiğini kontrol et
+* "12345" textini "editListTextbox" elemente yaz
+* "popupOkayButton" li elementin değeri "GÖNDER" e içerdiğini kontrol et
+* Elementine tıkla "popupOkayButton"
+
+# Sms uyarısı kontrol edilir.
+* "alertSuccessfulPopup" li elementin değeri "Otp doğrulama başarısız." e içerdiğini kontrol et
+* Elementine tıkla "popupOkayButton"
 
 # Sifremi Unuttum ikonuna tiklanir.
 * Element var mı kontrol et "forgotPassword"
