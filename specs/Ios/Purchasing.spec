@@ -199,8 +199,8 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDegistirme
 * Sepet ikonu ile login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
-* "Elektrikli Ürünler" isimli kategori seçilir
-* Alt kategorilerden biri "Elektrikli Kişisel Bakım", "Epilasyon" seçilir
+* "Süpermarket" isimli kategori seçilir
+* Alt kategorilerden biri "Gıda", "Kahve & Çay" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
