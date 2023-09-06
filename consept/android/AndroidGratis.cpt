@@ -12,6 +12,7 @@ This is a concept file with following syntax for each concept.
 # Login olunur.
 * "AndroidMail" csv dosyasindan rastgele kullanici sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Element var mı kontrol et "textInputEndIcon"
 * "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
 * Elementine tıkla "anasayfaTab"
 

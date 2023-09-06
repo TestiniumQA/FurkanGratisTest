@@ -1897,5 +1897,10 @@
     "key": "permissionDenyBtn",
     "androidValue": "//*[@resource-id='com.android.permissioncontroller:id/permission_deny_button']",
     "androidType": "xpath"
+  },
+  {
+    "key": "textInputEndIcon",
+    "androidValue": "//*[@resource-id='com.gratis.android:id/text_input_end_icon']",
+    "androidType": "xpath"
   }
 ]
