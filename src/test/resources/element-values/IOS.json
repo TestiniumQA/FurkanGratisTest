@@ -2982,17 +2982,17 @@
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "RegisterSmsTextbox",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeTextField",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "AlertSuccessfulPopup",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeWindow[3]/XCUIElementTypeOther[2]/XCUIElementTypeAlert/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeScrollView[1]/XCUIElementTypeOther/XCUIElementTypeStaticText",
     "iosType": "classChain"
   },
   {
