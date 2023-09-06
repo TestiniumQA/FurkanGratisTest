@@ -21,6 +21,7 @@ tags:Gratis_IOS_Register
 * Register'a tıklanır
 * Kullanıcı bilgileri girilir
 * Kullanıcı şartlarına tıklanır ve üye olunur
+* Sms uyarısı kontrol edilir
 
 IOS Scenario Register Negative
 ------------------------------

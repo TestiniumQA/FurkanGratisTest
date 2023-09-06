@@ -84,13 +84,9 @@
 
 # Kullanıcı şartlarına tıklanır ve üye olunur
 * Element var mı kontrol et "SmsCheckboxIos"
-//* Elementine tıkla "SmsCheckboxIos"
 * "SmsCheckboxIos" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-//* Element var mı kontrol et "SmsCheckboxCheckedIos"
 * Element var mı kontrol et "EmailCheckboxIos"
-//* Elementine tıkla "EmailCheckboxIos"
 * "EmailCheckboxIos" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-//* Element var mı kontrol et "EmailCheckboxCheckedIos"
 * "1" saniye bekle
 * "RegisterMembershipText" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "RegisterAgreementTextOne"
@@ -116,6 +112,18 @@
 * Elementine tıkla "RegisterButton"
 * "RegisterSmsAcceptButton" elementi bulunana kadar en fazla "15" saniye kadar bekle
 //* Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
+* "SMS Onayı" text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementin yüklenmesini bekle "RegisterSmsTextbox"
+* "12345" textini "RegisterSmsTextbox" elemente yaz
+* Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
+* "RegisterSmsAcceptButton" elementinin "Gönder" textini içerdiği kontrol edilir
+* Elementine tıkla "RegisterSmsAcceptButton"
+
+# Sms uyarısı kontrol edilir
+* Elementin yüklenmesini bekle "AlertSuccessfulPopup"
+* "AlertSuccessfulPopup" elementinin "Sms kodu doğrulanmadı" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
 
 # 16 yasindan kucuk dogum tarihi secilir ve uyarı mesaji gorulur
 * Elementin yüklenmesini bekle "RegisterName"
