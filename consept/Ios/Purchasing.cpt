@@ -58,6 +58,15 @@
 * Fatura bilgileri mahalle ismi secilir
 * Fatura bilgileri icin Adres Detay ve Posta Kodu bilgileri girilir
 
+# Fatura bilgileri alanında guncel adres bilgileri girilir
+* Fatura bilgileri Adresi icin Ad, Soyad, Telefon ve Adres Ismi bilgilerinin guncelleri girilir
+* Elementin yüklenmesini bekle "ShippingNewAddressCustomerAddressTitle"
+* "ShippingNewAddressCustomerAddressTitle" li elementi bul ve değerini "Fatura Adres" olarak sakla
+* Adres Ekle Sehir ismi guncelleme icin "2" swipe ile secilir
+* Adres Ekle Ilce ismi guncelleme icin "1" swipe ile secilir
+* Adres Ekle Mahalle ismi guncelleme icin "1" swipe ile secilir
+* Fatura bilgileri Adresi icin Adres Detay ve Posta Kodu bilgilerinin guncelleri girilir
+
 # Fatura bilgileri şehir ismi secilir
 * "1" saniye bekle
 * "StoreBilCitySpinner"li elementi bulana kadar "2" kere swipe yap ve elementi bul
@@ -114,6 +123,26 @@
 * Element var mı kontrol et "StoreAddressPostCode"
 * "StoreAddressPostCode" li elementi bul, temizle ve "33123" değerini yaz
 * "KeyboardDismisserIcon" li element varsa tıkla yoksa devam et
+
+# Fatura bilgileri Adresi icin Ad, Soyad, Telefon ve Adres Ismi bilgilerinin guncelleri girilir
+* Element var mı kontrol et "ShippingCustomerName"
+* "ShippingCustomerName" li elementi bul, temizle ve "Fernando" değerini yaz
+* Element var mı kontrol et "ShippingCustomerSurname"
+* "ShippingCustomerSurname" li elementi bul, temizle ve "Muslera" değerini yaz
+* Element var mı kontrol et "ShippingCustomerPhone"
+* "ShippingCustomerPhone" li elementi bul, temizle ve "390637275" değerini yaz
+* Element var mı kontrol et "ShippingCustomerAddressTitle"
+* "ShippingCustomerAddressTitle" li elementi bul, temizle ve "ŞampiyonGalatasaray" değerini yaz
+* Klavye kapatilir
+
+# Fatura bilgileri Adresi icin Adres Detay ve Posta Kodu bilgilerinin guncelleri girilir
+* "ShippingCustomerAddressDetail"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Element var mı kontrol et "ShippingCustomerAddressDetail"
+* "ShippingCustomerAddressDetail" li elementi bul, temizle ve "Test ortamı icin teslimat adressss detay bilgisi No:109" değerini yaz
+* Klavye kapatilir
+* Element var mı kontrol et "ShippingCustomerPostcode"
+* "ShippingCustomerPostcode" li elementi bul, temizle ve "35999" değerini yaz
+* Klavye kapatilir
 
 # Teslimat alanı kontrol edilir
 * Mağazadan seç popup'ı varsa kapatilir
@@ -223,6 +252,14 @@
 * Elementine tıkla "NewAddressSavedBtn"
 * Elementin yüklenmesini bekle "AddressTypeTxt"
 * "AddressTypeTxt" li elementin text degeri hafizada "AdresIsmi" olarak saklanan text ile esit mi kontrol et
+
+# Mağazadan Teslimat Fatura Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir
+* "NewAddressSavedBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementine tıkla "NewAddressSavedBtn"
+* "AddBillingAddressBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "AddBillingAddressBtn"
+//* "StoreBillingAddressName" li elementin text degeri hafizada "FaturaAdres" olarak saklanan text ile esit mi kontrol et
+* "StoreBillingAddressName" li elementin text degerini hafizada "FaturaAdres" olarak saklanan text ile karsilastir
 
 # Satın alma alanında devam et butonuna tıklanır
 * "ContinueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
@@ -334,6 +371,16 @@
 * Elementin yüklenmesini bekle "StoreHoursPopupIos"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
+
+# Fatura bilgileri adresi düzenle butonuna tıklanır
+* "BilAddressEditBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "BilAddressRemoveBtn"
+* Elementin yüklenmesini bekle "AddBillingAddressBtn"
+* Elementin yüklenmesini bekle "StoreBillingAddressHeaderTxt"
+* "StoreBillingAddressHeaderTxt" li elementin değeri "Fatura Bilgileri" e içerdiğini kontrol et
+* "StoreBillingAddressHeaderTxt" elementinin "Fatura Bilgileri" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "BilAddressEditBtn"
+* Elementine tıkla "BilAddressEditBtn"
 
 # Teslimat bilgileri alanında yeni adres bilgileri girilir
 * Teslimat bilgileri Yeni Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir

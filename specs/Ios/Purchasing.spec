@@ -327,3 +327,30 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimat
 * Satın alma alanında devam et butonuna tıklanır
 * Sipariş Özeti alanı kontrol edilir
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir
+
+IOS Scenario Purchasing with Deliver Store Edit Billing Address
+---------------------------------------------------------------
+tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDuzenle
+* Uygulama baslatilir
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet ikonu ile login olunur
+* Sepet kontrol edilerek temizlenir
+* Kategoriler sayfasina gecilir
+* "Süpermarket" isimli kategori seçilir
+* Alt kategorilerden biri "Gıda", "Kahve & Çay" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
+//* Sepet kasa arkasi popup'i kapatilir
+* Tek ürünün ve toplam fiyatın kontrolü yapılır
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
+* Mağazadan Teslim Sehir ismi secilir
+* Mağazadan Teslim Ilce ismi secilir
+* Mağaza saatleri kontrol edilir
+* Mağazadan Teslim mağazası seçilir
+* Fatura bilgileri adresi düzenle butonuna tıklanır
+* Fatura bilgileri alanında guncel adres bilgileri girilir
+* Mağazadan Teslimat Fatura Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir
+* Satın alma alanında devam et butonuna tıklanır
+* Sipariş Özeti alanı kontrol edilir
+* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir
