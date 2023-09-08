@@ -382,6 +382,30 @@
 * Elementin yüklenmesini bekle "BilAddressEditBtn"
 * Elementine tıkla "BilAddressEditBtn"
 
+# Fatura bilgileri adresi sil butonuna tıklanır
+* "BilAddressEditBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Element var mı kontrol et "BilAddressEditBtn"
+* Element var mı kontrol et "AddBillingAddressBtn"
+* Elementin yüklenmesini bekle "StoreBillingAddressHeaderTxt"
+* "StoreBillingAddressHeaderTxt" li elementin değeri "Fatura Bilgileri" e içerdiğini kontrol et
+* "StoreBillingAddressHeaderTxt" elementinin "Fatura Bilgileri" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "BilAddressRemoveBtn"
+* Elementine tıkla "BilAddressRemoveBtn"
+//* "isimli adresi silmek istediğinize emin misiniz?" text degerine sahip elementin sayfada gorundugu kontrol edilir
+//* "popupOkayButton" li elementin değeri "SİL" e içerdiğini kontrol et
+
+# Fatura Bilgileri alanında yeni adres ekle butonuna tıklanır
+* "AddBillingAddressBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Element var mı kontrol et "BilAddressEditBtn"
+* Element var mı kontrol et "BilAddressRemoveBtn"
+* Elementin yüklenmesini bekle "StoreBillingAddressHeaderTxt"
+* "StoreBillingAddressHeaderTxt" li elementin değeri "Fatura Bilgileri" e içerdiğini kontrol et
+* "StoreBillingAddressHeaderTxt" elementinin "Fatura Bilgileri" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "AddBillingAddressBtn"
+* Elementine tıkla "AddBillingAddressBtn"
+* Elementin yüklenmesini bekle "PageToolbarTitleThree"
+* "PageToolbarTitleThree" elementinin "ADRES EKLE" textini içerdiği kontrol edilir
+
 # Teslimat bilgileri alanında yeni adres bilgileri girilir
 * Teslimat bilgileri Yeni Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir
 * Elementin yüklenmesini bekle "NewShippingAddressCustomerAddressTitle"
