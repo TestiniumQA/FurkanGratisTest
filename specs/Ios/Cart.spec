@@ -45,6 +45,7 @@ tags:Gratis_IOS_UrunAdediArttirmaVeAzaltma
 * Ana sayfadan bir urun sepete eklenir
 * Sepet kasa arkasi popup'i kapatilir
 * Urun adedi arttirilir
+* Maksimum ürün ekleme uyarisi kontrol edilir
 * Urun adedi azaltilir
 * Bos sepetten ana sayfaya yonlendirme yapilir
 
