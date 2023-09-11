@@ -661,8 +661,8 @@
     "key": "PageCloseIcon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='navigationCrossIcon']",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeButton[`label == 'navigationCrossIcon'`]",
+    "iosType": "classChain"
   },
   {
     "key": "RegisterMailFull",
