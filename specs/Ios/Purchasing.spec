@@ -433,11 +433,6 @@ tags:Gratis_IOS_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Kendim Teslim alacağım seçeneği seçilir
 * Satın alma alanında devam et butonuna tıklanır
 * Teslimat Bilgileri değiştirme butonuna tıklanır
-* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
-* Mağazadan Teslim Sehir guncel ismi secilir
-* Mağazadan Teslim Ilce ismi secilir
-* Mağaza saatleri kontrol edilir
-* Mağazadan Teslim mağazası seçilir
 * Başkası teslim alacak seçeneği seçilir
 * Satın alma alanında devam et butonuna tıklanır
 * Sipariş Özeti alanı kontrol edilir

@@ -164,7 +164,6 @@
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "ContinueBtn"
 * "1" saniye bekle
-* "4" kere yukarı doğru kaydır
 
 # Sipariş Özeti alanı kontrol edilir
 //* "ProductCartName" li elementin text degerini hafizada "urun2" olarak saklanan text ile karsilastir
