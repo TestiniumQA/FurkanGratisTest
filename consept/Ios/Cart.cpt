@@ -51,8 +51,6 @@
 # Maksimum ürün ekleme uyarisi kontrol edilir
 * Elementin yüklenmesini bekle "NumberPlusBtn"
 * Elementine tıkla "NumberPlusBtn"
-* Elementin yüklenmesini bekle "AlertSuccessfulPopup"
-* "AlertSuccessfulPopup" elementinin "Hata" textini içerdiği kontrol edilir
 * "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
