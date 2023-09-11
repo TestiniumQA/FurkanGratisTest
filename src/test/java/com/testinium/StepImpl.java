@@ -12,6 +12,7 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidKeyCode;
 import io.appium.java_client.touch.WaitOptions;
 import io.appium.java_client.touch.offset.PointOption;
+import org.assertj.core.api.Assert;
 import org.assertj.core.api.Assertions;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
@@ -943,6 +944,14 @@ public class StepImpl extends HookImpl {
                 return String.format("text contains be \"%s\". Current text: \"%s\"", text, currentValue);
             }
         }));
+    }
+
+    @Step("toast message <key> değerine eşit mi")
+    public void toastMessage(String key){
+        String toastMessage = appiumDriver.findElement(By.xpath("//android.widget.Toast[1]")).getAttribute("name");
+        System.out.println("The toast mesaage is: " + toastMessage);
+
+        assertEquals(toastMessage, key);
     }
 
     @Step({"<key> li elementin değeri <text> e eşitliğini kontrol et",
