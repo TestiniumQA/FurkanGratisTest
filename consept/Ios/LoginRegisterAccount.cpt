@@ -120,7 +120,7 @@
 * Elementine tıkla "RegisterSmsAcceptButton"
 
 # Sms uyarısı kontrol edilir
-* Elementin yüklenmesini bekle "AlertSuccessfulPopup"
+//* Elementin yüklenmesini bekle "AlertSuccessfulPopup"
 //* "AlertSuccessfulPopup" elementinin "Sms kodu doğrulanmadı" textini içerdiği kontrol edilir
 * "Sms kodu doğrulanmadı" text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
