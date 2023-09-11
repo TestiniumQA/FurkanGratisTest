@@ -50,6 +50,17 @@ tags:Gratis_Android_SifreDegistirme
 * Login olunur.
 * Sifre basarili sekilde degistirilir.
 
+Changing Password Negative
+--------------------------
+tags:Gratis_Android_SifreDegistirmeNegatif
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Sifre değiştirme alanına gidilir.
+* Eski şifre eksik yazılır ve uyarı mesajı görülür.
+* Yeni şifre ve tekrarı uyuşmuyor uyarı mesajı görülür.
+* Eski şifre hatalı uyarı mesajı görülür.
+
 Negative Login and Forget Password
 ----------------------------------
 tags:Gratis_Android_NegativeLoginAndForgetPassword

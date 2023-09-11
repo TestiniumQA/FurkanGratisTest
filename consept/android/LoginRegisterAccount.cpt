@@ -11,7 +11,7 @@ This is a concept file with following syntax for each concept.
 * "Mehmet" textini "newAddressCustomerName" elemente yaz
 * "Uludağ" textini "newAddressCustomerSurname" elemente yaz
 * "javatestautomation@gmail.com" textini "registerMail" elemente yaz
-* "5416412489" textini "registerPhone" elemente yaz
+* "5555217475" textini "registerPhone" elemente yaz
 * Elementine tıkla "registerBirth"
 * Element var mı kontrol et "popupOkayButton"
 * "30","40" oranlarından "30","65" oranlarına "2" kere swipe et
@@ -145,6 +145,30 @@ This is a concept file with following syntax for each concept.
 * Eski sifre "myPasswordOldPassword" elementine, yeni sifre "myPasswordNewPassword" elementine, tekrar yeni sifre "myPasswordAgainNewPassword" elementine yazilir
 //* Kaydet ikonuna tiklanir.
 //* Duzenlemeleriniz basariyla kaydedilmistir uyarisi gorulmelidir.
+
+# Sifre değiştirme alanına gidilir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Sifrem'e tiklanir sifre yenileme sayfasinin acildigi gorulur.
+
+# Eski şifre eksik yazılır ve uyarı mesajı görülür.
+* "12345" textini "myPasswordOldPassword" elemente yaz
+* Elementine tıkla "myPasswordSavedIcon"
+* toast message "Eski şifreniz en az 6 karakterden oluşmaktadır." değerine eşit mi
+
+# Yeni şifre ve tekrarı uyuşmuyor uyarı mesajı görülür.
+* "1A2s3d.." textini "myPasswordOldPassword" elemente yaz
+* "1A2s3d..." textini "myPasswordNewPassword" elemente yaz
+* "1A2s3d...." textini "myPasswordAgainNewPassword" elemente yaz
+* Elementine tıkla "myPasswordSavedIcon"
+* toast message "Yeni şifre ve tekrar alanları birbiriyle eşleşmiyor." değerine eşit mi
+
+# Eski şifre hatalı uyarı mesajı görülür.
+* "1A2s3d" textini "myPasswordOldPassword" elemente yaz
+* "1A2s3d..." textini "myPasswordNewPassword" elemente yaz
+* "1A2s3d..." textini "myPasswordAgainNewPassword" elemente yaz
+* Elementine tıkla "myPasswordSavedIcon"
+* "1" saniye bekle
+* "Eski şifreniz hatalı, lütfen kontrol ediniz." değerini sayfa üzerinde olup olmadığını kontrol et.
 
 # Sifrem'e tiklanir sifre yenileme sayfasinin acildigi gorulur.
 * Element var mı kontrol et "profilePageMyPassword"
