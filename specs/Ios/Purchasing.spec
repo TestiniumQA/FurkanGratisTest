@@ -409,3 +409,36 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiEkle
 * Satın alma alanında devam et butonuna tıklanır
 * Sipariş Özeti alanı kontrol edilir
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir
+
+IOS Scenario Purchasing with Store Deliver and Change Delivery Information
+--------------------------------------------------------------------------
+tags:Gratis_IOS_MagazadanTeslimatTeslimatBilgileriDegistirme
+* Uygulama baslatilir
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet ikonu ile login olunur
+* Sepet kontrol edilerek temizlenir
+* Kategoriler sayfasina gecilir
+* "Süpermarket" isimli kategori seçilir
+* Alt kategorilerden biri "Gıda", "Kahve & Çay" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
+//* Sepet kasa arkasi popup'i kapatilir
+* Tek ürünün ve toplam fiyatın kontrolü yapılır
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
+* Mağazadan Teslim Sehir ismi secilir
+* Mağazadan Teslim Ilce ismi secilir
+* Mağaza saatleri kontrol edilir
+* Mağazadan Teslim mağazası seçilir
+* Kendim Teslim alacağım seçeneği seçilir
+* Satın alma alanında devam et butonuna tıklanır
+* Teslimat Bilgileri değiştirme butonuna tıklanır
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
+* Mağazadan Teslim Sehir guncel ismi secilir
+* Mağazadan Teslim Ilce ismi secilir
+* Mağaza saatleri kontrol edilir
+* Mağazadan Teslim mağazası seçilir
+* Başkası teslim alacak seçeneği seçilir
+* Satın alma alanında devam et butonuna tıklanır
+* Sipariş Özeti alanı kontrol edilir
+* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir

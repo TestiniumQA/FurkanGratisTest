@@ -158,6 +158,14 @@
 * Elementin yüklenmesini bekle "ContinueBtn"
 * Elementine tıkla "ContinueBtn"
 
+# Teslimat Bilgileri değiştirme butonuna tıklanır
+* Elementin yüklenmesini bekle "ChangeAddressBtn"
+* Elementine tıkla "ChangeAddressBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "ContinueBtn"
+* "1" saniye bekle
+* "4" kere yukarı doğru kaydır
+
 # Sipariş Özeti alanı kontrol edilir
 //* "ProductCartName" li elementin text degerini hafizada "urun2" olarak saklanan text ile karsilastir
 //* "ProductSecondCartName" li elementin text degerini hafizada "urun1" olarak saklanan text ile karsilastir
@@ -309,6 +317,20 @@
 * "StoreCitySpinner" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "1" saniye bekle
 * "50","90" oranlarından "50","70" oranlarına "1" kere swipe et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "1" saniye bekle
+
+# Mağazadan Teslim Sehir guncel ismi secilir
+//* "1" kere aşağıya kaydır
+//* "1" kere yukarı doğru kaydır
+* "1" saniye bekle
+* "StoreCitySpinner"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Element var mı kontrol et "StoreCitySpinner"
+* "StoreCitySpinner" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "50","90" oranlarından "50","70" oranlarına "2" kere swipe et
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
