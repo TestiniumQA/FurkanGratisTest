@@ -51,6 +51,17 @@ tags:Gratis_IOS_SifreDegistirme
 * Giris yapilir
 * Sifre basarili sekilde degistirilir
 
+IOS Scenario Changing Password Negative
+---------------------------------------
+tags:Gratis_IOS_SifreDegistirmeNegatif
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Giris yapilir
+* Sifre değiştirme alanına gidilir
+* Eski şifre eksik yazılır ve uyarı mesajı görülür
+* Yeni şifre ve tekrarı uyuşmuyor uyarı mesajı görülür
+* Eski şifre hatalı uyarı mesajı görülür
+
 IOS Scenario Negative Login and Forget Password
 -----------------------------------------------
 tags:Gratis_IOS_NegatifLoginVeSifremiUnuttum

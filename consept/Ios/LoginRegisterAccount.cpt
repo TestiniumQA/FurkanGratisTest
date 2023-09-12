@@ -46,6 +46,47 @@
 //* Kaydet ikonuna tiklanir
 //* Duzenlemeleriniz basariyla kaydedilmistir uyarisi gorulmelidir
 
+# Sifre değiştirme alanına gidilir
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Sifrem'e tiklanir sifre yenileme sayfasinin acildigi gorulur
+
+# Eski şifre eksik yazılır ve uyarı mesajı görülür
+* Elementin yüklenmesini bekle "MyPasswordOldPassword"
+* "1A2s3d." textini "MyPasswordOldPassword" elemente yaz
+* Kaydet ikonuna tiklanir
+* Elementin yüklenmesini bekle "AlertSuccessfulPopupTwo"
+* "AlertSuccessfulPopupTwo" elementinin "Şifreniz en az 8 karakter olmalı, büyük ve küçük harf ve en az bir sayı ve özel karakter içermelidir." textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* Sifrem'e tiklanir sifre yenileme sayfasinin acildigi gorulur
+
+# Yeni şifre ve tekrarı uyuşmuyor uyarı mesajı görülür
+* Elementin yüklenmesini bekle "MyPasswordOldPassword"
+* "1A2s3d.." textini "MyPasswordOldPassword" elemente yaz
+* Elementin yüklenmesini bekle "MyPasswordNewPassword"
+* "1A2s3d..." textini "MyPasswordNewPassword" elemente yaz
+* Elementin yüklenmesini bekle "MyPasswordAgainNewPassword"
+* "1A2s3d...." textini "MyPasswordAgainNewPassword" elemente yaz
+* Kaydet ikonuna tiklanir
+* Elementin yüklenmesini bekle "AlertVisiblePopup"
+* "AlertVisiblePopup" elementinin "Yeni şifre ve tekrar alanları birbiriyle eşleşmiyor" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* Sifrem'e tiklanir sifre yenileme sayfasinin acildigi gorulur
+
+# Eski şifre hatalı uyarı mesajı görülür
+* Elementin yüklenmesini bekle "MyPasswordOldPassword"
+* "1A2s3d..." textini "MyPasswordOldPassword" elemente yaz
+* Elementin yüklenmesini bekle "MyPasswordNewPassword"
+* "1A2s3d...." textini "MyPasswordNewPassword" elemente yaz
+* Elementin yüklenmesini bekle "MyPasswordAgainNewPassword"
+* "1A2s3d...." textini "MyPasswordAgainNewPassword" elemente yaz
+* Kaydet ikonuna tiklanir
+* Elementin yüklenmesini bekle "AlertVisiblePopup"
+* "AlertVisiblePopup" elementinin "Eski şifreniz hatalı, lütfen kontrol ediniz." textini içerdiği kontrol edilir
+
 # Kaydet ikonuna tiklanir
 * Element var mı kontrol et "MyPasswordSavedIcon"
 * Elementine tıkla "MyPasswordSavedIcon"
