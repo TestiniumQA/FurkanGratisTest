@@ -43,6 +43,9 @@ tags:Gratis_Android_UrunAdediArttirmaVeAzaltma
 * Ana sayfadan bir urun sepete eklenir.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Urun adedi arttirilir.
+* Urun adedi arttirilir.
+* Urun adedi arttirilir.
+* Urun adedi arttirilir.
 * Urun adedi azaltilir.
 * Bos sepetten ana sayfaya yonlendirme yapilir.
 
@@ -81,3 +84,21 @@ tags:Gratis_Android_KasaArkasiPopupUrunDetayVeSepeteEkleme
 * Kasa arkasi urun detayina gidilir.
 * Urun detay sayfasinda urun sepete eklenir.
 * Sepet kontrol edilerek temizlenir.
+
+Add To Cart Max Product
+-----------------------
+tags:Gratis_Android_SepetteMaximumUrunEkleme
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Kategoriler sayfasina gecilir.
+* "Parfüm & Deodorant" isimli kategori seçilir.
+* Alt kategorilerden biri "Parfüm", "Erkek Parfüm" seçilir.
+* Listeleme alanından bir ürün sepete eklenir.
+* Sepete git'e tıklanır.
+* Urun adedi arttirilir.
+* Urun adedi arttirilir.
+* Urun adedi arttirilir.
+* Urun adedi arttirilir.
+* toast message "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." değerine eşit mi
+* Bir ürün için sepet kontrol edilerek temizlenir.

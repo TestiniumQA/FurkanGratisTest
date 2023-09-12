@@ -34,6 +34,11 @@ This is a concept file with following syntax for each concept.
 # Sepet kasa arkasi popup'i varsa kapatilir.
 * "sepetReklamKapat" li element varsa tıkla
 
+# Listeleme alanından bir ürün sepete eklenir.
+* Element var mı kontrol et "urunDetay"
+* Element var mı kontrol et "urunDetayy"
+* Elementine tıkla "productAddButton"
+
 # Kasa arkasında swipe yapilir ve urun sepete eklenir.
 * Elementin yüklenmesini bekle "cartHeaderText"
 * Elementine tıkla "cartHeaderText"
@@ -47,13 +52,6 @@ This is a concept file with following syntax for each concept.
 # Urun adedi arttirilir.
 * Element var mı kontrol et "numberPlusBtn"
 * Elementine tıkla "numberPlusBtn"
-* Elementin yüklenmesini bekle "numberPlusBtn"
-* Elementine tıkla "numberPlusBtn"
-* Elementin yüklenmesini bekle "numberPlusBtn"
-* Elementine tıkla "numberPlusBtn"
-* Elementin yüklenmesini bekle "numberPlusBtn"
-* Elementine tıkla "numberPlusBtn"
-* Elementin yüklenmesini bekle "numberPlusBtn"
 
 # Urun adedi azaltilir.
 * Element var mı kontrol et "numberMinusBtn"
