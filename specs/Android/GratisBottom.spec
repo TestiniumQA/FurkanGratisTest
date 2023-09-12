@@ -188,3 +188,24 @@ tags:Gratis_Android_KategoriFiltreler
 * Filtre sıfırla butonuna tıklanır.
 * Form filtresine tıklanır.
 //* Filtre kontrol edilir.
+
+Add To Cart Maximum From Product List
+-------------------------------------
+tags:Gratis_Android_ListedenMaximumSepeteEkleme
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile login olunur.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Kategoriler sayfasina gecilir.
+* "Makyaj" isimli kategori seçilir.
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir.
+* Listeleme alanından bir ürün sepete eklenir.
+* Alışverişe devam edilir.
+* Listeleme alanından bir ürün sepete eklenir.
+* Alışverişe devam edilir.
+* Listeleme alanından bir ürün sepete eklenir.
+* Alışverişe devam edilir.
+* Listeleme alanından bir ürün sepete eklenir.
+* Alışverişe devam edilir.
+* Listeleme alanından bir ürün sepete eklenir.
+* toast message "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." değerine eşit mi
