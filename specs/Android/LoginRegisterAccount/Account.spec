@@ -99,3 +99,28 @@ tags:Gratis_Android_FavorilerdenAnasayfayaYonlendirme
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Favori listesi kontrol edilerek temizlenir.
 * Favori listesinden ana sayfaya yonlendirme yapilir.
+
+Max Add To Cart in Favorites
+----------------------------
+tags:Gratis_Android_FavorilerdeMaximumSepeteEkleme
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile login olunur.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Kategoriler sayfasina gecilir.
+* "Makyaj" isimli kategori seçilir.
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir.
+* Listeleme alanından bir ürünün favori butonuna tıklanır.
+* Urun favorilere eklenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Profil sayfasındaki Favori butonuna tiklanir.
+* Favorilerdeki ürünün sepete ekleme butonuna tıklanır.
+* Alışverişe devam edilir.
+* Favorilerdeki ürünün sepete ekleme butonuna tıklanır.
+* Alışverişe devam edilir.
+* Favorilerdeki ürünün sepete ekleme butonuna tıklanır.
+* Alışverişe devam edilir.
+* Favorilerdeki ürünün sepete ekleme butonuna tıklanır.
+* Alışverişe devam edilir.
+* Favorilerdeki ürünün sepete ekleme butonuna tıklanır.
+* toast message "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." değerine eşit mi

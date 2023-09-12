@@ -299,7 +299,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "addFavoritePopup"
 * Elementine tıkla "popupOkayButton"
 * "1" saniye bekle
-* "popupOkayButton" değerini sayfa üzerinde olmadıgını kontrol et
+* toast message "Ürün favori listesine eklendi" değerine eşit mi
 * "1" saniye bekle
 
 # Ana sayfadaki urun favorilerden cikarilir.
@@ -347,6 +347,12 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "continueShoppingButton"
 * Elementin yüklenmesini bekle "favAddCartButton"
 * Elementin yüklenmesini bekle "1"
+
+# Favorilerdeki ürünün sepete ekleme butonuna tıklanır.
+* Elementin yüklenmesini bekle "favListSpinner"
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "favAddCartButton"
+* Elementine tıkla "favAddCartButton"
 
 # Favorilerdeki urun sepete eklenir ve sepete gidilir.
 * "favAddCartButton"li elementi bulana kadar "1" kere swipe yap ve elementi bul

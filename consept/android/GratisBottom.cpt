@@ -394,9 +394,9 @@ This is a concept file with following syntax for each concept.
 # Listeleme alanından bir ürünün favori butonuna tıklanır.
 * "productName" li elementi bul ve değerini "ürün adı" olarak sakla
 * Element var mı kontrol et "urunDetay"
-* "2" saniye bekle
+* "1" saniye bekle
 * Elementine tıkla "favBtn"
-* "2" saniye bekle
+* "1" saniye bekle
 
 # Filtreleme butonuna tıklanır.
 * Elementin yüklenmesini bekle "filterBtn"
