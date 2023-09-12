@@ -96,6 +96,7 @@ tags:Gratis_Android_SepetteMaximumUrunEkleme
 * Alt kategorilerden biri "Parfüm", "Erkek Parfüm" seçilir.
 * Listeleme alanından bir ürün sepete eklenir.
 * Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 * Urun adedi arttirilir.
 * Urun adedi arttirilir.
 * Urun adedi arttirilir.
