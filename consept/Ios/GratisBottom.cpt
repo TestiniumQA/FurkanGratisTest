@@ -543,3 +543,15 @@
 * Elementine tıkla "FilterResetBtn"
 * "1" saniye bekle
 
+# Seçilmiş filtre seçeneği kaldırılır
+* Elementin yüklenmesini bekle "FilterName"
+* "FilterName" li ve değeri "Marka" e eşit olan elementli bulana kadar swipe et ve tıkla
+* "SubFilterName" li elementli markayı bul ve değerini "marka adı" olarak sakla
+* Elementin yüklenmesini bekle "TickIconIos"
+* "TickIconIos" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "TickIconIos" değerini sayfa üzerinde olmadıgını kontrol et
+* Elementin yüklenmesini bekle "FilterOkayBtn"
+* Elementine tıkla "FilterOkayBtn"
+* "1" saniye bekle
+* "ProductsName" li elementin text degerini hafizada "marka adı" olarak saklanan text ayni olmadigini kontrol et

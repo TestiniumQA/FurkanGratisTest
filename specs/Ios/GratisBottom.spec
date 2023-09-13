@@ -284,4 +284,15 @@ tags:Gratis_IOS_KategoriFiltreler
 * Filtreleme butonuna tıklanır
 * Form filtresine tıklanır
 
+IOS Scenario Category Remove Filter and List
+--------------------------------------------
+tags:Gratis_IOS_KategoriSecilmisFiltreKaldirma
+* Uygulama baslatilir
+* Kategoriler sayfasina gecilir
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* Filtreleme butonuna tıklanır
+* Marka filtresine tıklanır
+* Filtreleme butonuna tıklanır
+* Seçilmiş filtre seçeneği kaldırılır
+
 
