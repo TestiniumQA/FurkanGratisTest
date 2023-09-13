@@ -284,9 +284,9 @@ tags:Gratis_IOS_KategoriFiltreler
 * Filtreleme butonuna tıklanır
 * Form filtresine tıklanır
 
-IOS Scenario Category Remove Filter and List
---------------------------------------------
-tags:Gratis_IOS_KategoriSecilmisFiltreKaldirma
+IOS Scenario Category Remove Filter and List Stock
+--------------------------------------------------
+tags:Gratis_IOS_KategoriSecilmisFiltreKaldirmaVeStoktaVar
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir
@@ -294,5 +294,9 @@ tags:Gratis_IOS_KategoriSecilmisFiltreKaldirma
 * Marka filtresine tıklanır
 * Filtreleme butonuna tıklanır
 * Seçilmiş filtre seçeneği kaldırılır
+* Filtreleme butonuna tıklanır
+* Stok filtresine tıklanır
+* Filtreleme butonuna tıklanır
+* Stok filtresi kaldırılır
 
 

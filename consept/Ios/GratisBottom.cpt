@@ -538,6 +538,22 @@
 //* "ProductInfoInTableText" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
 * Elementin yüklenmesini bekle "ProductInfoInTableText"
 
+# Stok filtresine tıklanır
+* Elementin yüklenmesini bekle "StockCheckBox"
+* Elementine tıkla "StockCheckBox"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "FilterOkayTwoBtn"
+* Elementine tıkla "FilterOkayTwoBtn"
+* "1" saniye bekle
+
+# Stok filtresi kaldırılır
+* Elementin yüklenmesini bekle "StockCheckBox"
+* Elementine tıkla "StockCheckBox"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "FilterOkayTwoBtn"
+* Elementine tıkla "FilterOkayTwoBtn"
+* "1" saniye bekle
+
 # Filtre sıfırla butonuna tıklanır
 * Element var mı kontrol et "FilterResetBtn"
 * Elementine tıkla "FilterResetBtn"

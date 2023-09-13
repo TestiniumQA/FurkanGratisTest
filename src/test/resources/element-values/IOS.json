@@ -2163,11 +2163,11 @@
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "FilterOkayTwoBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeButton[`label == 'Filtrele'`]",
+    "iosType": "classChain"
   },
   {
     "key": "FilterBtn",
@@ -3017,10 +3017,10 @@
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "StockCheckBox",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[2]",
     "iosType": "classChain"
   },
   {
