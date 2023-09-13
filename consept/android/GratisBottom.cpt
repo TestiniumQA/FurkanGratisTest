@@ -421,6 +421,18 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 * Elementine tıkla "filterOkayBtn"
 
+# Stok filtresine tıklanır.
+* Element var mı kontrol et "stockCheckbox"
+* Elementine tıkla "stockCheckbox"
+* Element var mı kontrol et "stockCheckedBox"
+* Elementine tıkla "filterButton"
+
+# Stok filtresi kaldırılır.
+* Element var mı kontrol et "stockCheckedBox"
+* Elementine tıkla "stockCheckedBox"
+* Element var mı kontrol et "stockCheckbox"
+* Elementine tıkla "filterButton"
+
 # Filtre kontrol edilir.
 * Elementine tıkla "urunDetay"
 * "4" kere aşağıya kaydır

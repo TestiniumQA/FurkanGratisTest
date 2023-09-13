@@ -209,3 +209,19 @@ tags:Gratis_Android_ListedenMaximumSepeteEkleme
 * Alışverişe devam edilir.
 * Listeleme alanından bir ürün sepete eklenir.
 * toast message "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." değerine eşit mi
+
+Category Filter List Stock And Click Cancel
+-------------------------------------------
+tags:Gratis_Android_FiltrelerTiklamaylaKaldirmaVeStok
+* Uygulama baslatilir.
+* Kategoriler sayfasina gecilir.
+* "Makyaj" isimli kategori seçilir.
+* Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir.
+* Filtreleme butonuna tıklanır.
+* Stok filtresine tıklanır.
+* Filtreleme butonuna tıklanır.
+* Stok filtresi kaldırılır.
+* Filtreleme butonuna tıklanır.
+* Marka filtresine tıklanır.
+* Filtreleme butonuna tıklanır.
+* Marka filtresine tıklanır.

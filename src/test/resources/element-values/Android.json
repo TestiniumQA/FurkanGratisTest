@@ -1902,5 +1902,20 @@
     "key": "textInputEndIcon",
     "androidValue": "//*[@resource-id='com.gratis.android:id/text_input_end_icon']",
     "androidType": "xpath"
+  },
+  {
+    "key": "stockCheckbox",
+    "androidValue": "//*[@resource-id='com.gratis.android:id/stockCheckbox']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "stockCheckedBox",
+    "androidValue": "//*[@resource-id='com.gratis.android:id/stockCheckbox'][@checked='true']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "filterButton",
+    "androidValue": "//*[@resource-id='com.gratis.android:id/filter_button']",
+    "androidType": "xpath"
   }
 ]
