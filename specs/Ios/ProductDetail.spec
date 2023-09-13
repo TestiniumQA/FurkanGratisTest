@@ -76,6 +76,27 @@ tags:Gratis_IOS_UrunDetaySepeteEkleme
 * Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
 
+IOS Scenario Max Add To Cart in Product Detail
+----------------------------------------------
+tags:Gratis_IOS_UrunDetayMaximumSepeteEkleme
+* Uygulama baslatilir
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet ikonu ile login olunur
+* Sepet kontrol edilerek temizlenir
+* Kategoriler sayfasina gecilir
+* "Cilt Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "El Bakımı", "Vazelin" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detayda "3" kadar ürün adedi seçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Alışverişe devam edilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Alışverişe devam edilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Maksimum ürün ekleme uyarisi kontrol edilir
+
 IOS Scenario Add To Favorite
 ----------------------------
 tags:Gratis_IOS_UrunDetayFavori
