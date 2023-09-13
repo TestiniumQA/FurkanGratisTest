@@ -412,6 +412,8 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "subFilterName"
 * "1" saniye bekle
 * Elementine tıkla "filterOkayBtn"
+
+# Ürünlerin filtrelendiği ismi ile kontrol edilir.
 * "productName" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
 
 # Form filtresine tıklanır.

@@ -184,6 +184,7 @@ tags:Gratis_Android_KategoriFiltreler
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
 * Filtreleme butonuna tıklanır.
 * Marka filtresine tıklanır.
+* Ürünlerin filtrelendiği ismi ile kontrol edilir.
 * Filtreleme butonuna tıklanır.
 * Filtre sıfırla butonuna tıklanır.
 * Form filtresine tıklanır.
@@ -223,5 +224,6 @@ tags:Gratis_Android_FiltrelerTiklamaylaKaldirmaVeStok
 * Stok filtresi kaldırılır.
 * Filtreleme butonuna tıklanır.
 * Marka filtresine tıklanır.
+* Ürünlerin filtrelendiği ismi ile kontrol edilir.
 * Filtreleme butonuna tıklanır.
 * Marka filtresine tıklanır.
