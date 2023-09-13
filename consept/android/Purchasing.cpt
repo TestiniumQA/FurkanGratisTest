@@ -213,7 +213,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "storeCitySpinner"
 * Elementine tıkla "storeCitySpinner"
 * "2" saniye bekle
-* "storeCitySpinner" elementinin koordinatlarına x="0" y="350" degerlerini ekleyerek tıkla
+* "storeCitySpinner" elementinin koordinatlarına x="0" y="450" degerlerini ekleyerek tıkla
 * "2" saniye bekle
 
 # Mağazadan Teslim Ilce ismi secilir.
@@ -226,6 +226,11 @@ This is a concept file with following syntax for each concept.
 # Mağazadan Teslim mağazası seçilir.
 * "selectStoreRoot"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementine tıkla "selectStoreRoot"
+* "Mağaza Seçildi" text degerine sahip elementin sayfada gorundugu kontrol edilir
+
+# Mağazadan Teslim ikinci mağazası seçilir.
+* "1" kere aşağıya kaydır
+* "Mağazayı Seç" text degerine sahip elemente tikla.
 * "Mağaza Seçildi" text degerine sahip elementin sayfada gorundugu kontrol edilir
 
 # Kendim Teslim alacağım seçeneği seçilir.
