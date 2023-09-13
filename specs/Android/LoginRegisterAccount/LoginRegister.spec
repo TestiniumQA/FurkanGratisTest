@@ -79,14 +79,3 @@ tags:Gratis_Android_NegativeLoginAndForgetPassword
 * E-posta alanina "javaautomationtest@gmail.com" girilir.
 * Sifre alanına "sifresifre" girilir.
 * Yanlıs sifre veya email/cep telefonu uyarısı gorulur.
-
-Scenario Updating Customer Information
-------------------------------------------
-tags:Gratis_Android_UyeBilgileriGuncelleme
-* Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Login olunur.
-* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
-* Uye bilgilerim sayfasina gecilir.
-* Uye bilgileri basarili sekilde guncellenir.
-* Uye bilgileri guncellendiği kontrol edilir.

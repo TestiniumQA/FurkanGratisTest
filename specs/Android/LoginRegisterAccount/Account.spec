@@ -120,3 +120,14 @@ tags:Gratis_Android_FavorilerdeMaximumSepeteEkleme
 * Favorilerdeki urun sepete eklenir ve alısverise devam edilir.
 * Favorilerdeki ürünün sepete ekleme butonuna tıklanır.
 * toast message "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." değerine eşit mi
+
+Scenario Updating Customer Information
+------------------------------------------
+tags:Gratis_Android_UyeBilgileriGuncelleme
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Login olunur.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Uye bilgilerim sayfasina gecilir.
+* Uye bilgileri basarili sekilde guncellenir.
+* Uye bilgileri guncellendiği kontrol edilir.
