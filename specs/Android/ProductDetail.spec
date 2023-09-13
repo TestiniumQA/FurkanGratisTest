@@ -58,7 +58,7 @@ tags:Gratis_Android_UrunDetaySepeteEkleme
 * Alışverişe devam edilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * toast message "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." değerine eşit mi
-* Ana sayfa sepet ikonuna tiklanir.
+* Sepete gidilir.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 
 Add To Favorite
