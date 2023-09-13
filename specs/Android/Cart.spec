@@ -89,16 +89,18 @@ Add To Cart Max Product
 -----------------------
 tags:Gratis_Android_SepetteMaximumUrunEkleme
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Login olunur.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile login olunur.
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Bir ürün için sepet kontrol edilerek temizlenir.
 * Kategoriler sayfasina gecilir.
 * "Parfüm & Deodorant" isimli kategori seçilir.
 * Alt kategorilerden biri "Parfüm", "Erkek Parfüm" seçilir.
 * Listeleme alanından bir ürün sepete eklenir.
 * Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 * Urun adedi arttirilir.
 * Urun adedi arttirilir.
 * Urun adedi arttirilir.
 * Urun adedi arttirilir.
 * toast message "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." değerine eşit mi
-* Bir ürün için sepet kontrol edilerek temizlenir.

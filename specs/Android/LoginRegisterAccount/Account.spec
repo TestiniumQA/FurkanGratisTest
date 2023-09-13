@@ -114,13 +114,9 @@ tags:Gratis_Android_FavorilerdeMaximumSepeteEkleme
 * Urun favorilere eklenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
-* Favorilerdeki ürünün sepete ekleme butonuna tıklanır.
-* Alışverişe devam edilir.
-* Favorilerdeki ürünün sepete ekleme butonuna tıklanır.
-* Alışverişe devam edilir.
-* Favorilerdeki ürünün sepete ekleme butonuna tıklanır.
-* Alışverişe devam edilir.
-* Favorilerdeki ürünün sepete ekleme butonuna tıklanır.
-* Alışverişe devam edilir.
+* Favorilerdeki urun sepete eklenir ve alısverise devam edilir.
+* Favorilerdeki urun sepete eklenir ve alısverise devam edilir.
+* Favorilerdeki urun sepete eklenir ve alısverise devam edilir.
+* Favorilerdeki urun sepete eklenir ve alısverise devam edilir.
 * Favorilerdeki ürünün sepete ekleme butonuna tıklanır.
 * toast message "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." değerine eşit mi
