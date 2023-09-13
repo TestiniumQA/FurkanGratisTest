@@ -384,8 +384,23 @@
 * Elementine tıkla "PopupOkayBtnIos"
 * "1" saniye bekle
 
+# Mağazadan Teslim Ilce ismi swipe yapmadan secilir
+* "1" saniye bekle
+* "StoreTownSpinner"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Element var mı kontrol et "StoreTownSpinner"
+* "StoreTownSpinner" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "1" saniye bekle
+
 # Mağazadan Teslim mağazası seçilir
 * "SelectStoreRoot"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "SelectStoreRoot"
+* Elementine tıkla "SelectStoreRoot"
+* "Mağaza seçildi" text degerine sahip elementin goruntulendigi kontrol edilir
+
+# Mağazadan Teslim ikinci mağazası seçilir
 * Elementin yüklenmesini bekle "SelectStoreRoot"
 * Elementine tıkla "SelectStoreRoot"
 * "Mağaza seçildi" text degerine sahip elementin goruntulendigi kontrol edilir
