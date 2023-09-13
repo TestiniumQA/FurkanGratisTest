@@ -371,3 +371,30 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "emptyFavButton"
 * Elementine tıkla "emptyFavButton"
 * Elementin yüklenmesini bekle "kampanyaSec"
+
+# Uye bilgilerim sayfasina gecilir.
+* Elementin yüklenmesini bekle "customerInformation"
+* Elementine tıkla "customerInformation"
+* "pageToolbarTitle" elementinin "Üye Bilgilerim" textini içerdiği kontrol edilir
+
+# Uye bilgileri basarili sekilde guncellenir.
+* "1" saniye bekle
+* "1" kere aşağıya kaydır
+* Element var mı kontrol et "customerInformationSMS"
+* Elementine tıkla "customerInformationSMS"
+* Element var mı kontrol et "customerInformationSMSCheck"
+* Element var mı kontrol et "customerInformationEmail"
+* Elementine tıkla "customerInformationEmail"
+* Element var mı kontrol et "customerInformationEmailCheck"
+* Element var mı kontrol et "customerInformationCall"
+* Elementine tıkla "customerInformationCall"
+* Element var mı kontrol et "customerInformationCallCheck"
+* "registerButton"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementine tıkla "registerButton"
+* toast message "Profil bilgileriniz başarıyla güncellendi" değerine eşit mi
+
+# Uye bilgileri guncellendiği kontrol edilir.
+* "1" kere aşağıya kaydır
+* Element var mı kontrol et "customerInformationSMSCheck"
+* Element var mı kontrol et "customerInformationEmailCheck"
+* Element var mı kontrol et "customerInformationCallCheck"

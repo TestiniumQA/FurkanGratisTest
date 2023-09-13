@@ -1917,5 +1917,40 @@
     "key": "filterButton",
     "androidValue": "//*[@resource-id='com.gratis.android:id/filter_button']",
     "androidType": "xpath"
+  },
+  {
+    "key": "customerInformation",
+    "androidValue": "//*[@resource-id='com.gratis.android:id/member_txt']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "customerInformationSMS",
+    "androidValue": "(//android.widget.CheckBox)[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "customerInformationSMSCheck",
+    "androidValue": "//android.widget.CheckBox[@checked='true']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "customerInformationEmail",
+    "androidValue": "(//android.widget.CheckBox)[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "customerInformationEmailCheck",
+    "androidValue": "(//android.widget.CheckBox[@checked='true'])[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "customerInformationCall",
+    "androidValue": "(//android.widget.CheckBox)[3]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "customerInformationCallCheck",
+    "androidValue": "(//android.widget.CheckBox[@checked='true'])[3]",
+    "androidType": "xpath"
   }
 ]
