@@ -46,15 +46,20 @@ tags:Gratis_Android_UrunDetaySepeteEkleme
 * Login olunur.
 * Kategoriler sayfasina gecilir.
 * "Parfüm & Deodorant" isimli kategori seçilir.
-* Alt kategorilerden biri "Parfüm", "Erkek Parfüm" seçilir.
+* Alt kategorilerden biri "Parfüm", "Kadın Parfüm" seçilir.
 * Urun detay sayfasına geçilir.
 * Ürün detayda "2" kadar ürün adedi seçilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Alışverişe devam edilir.
 * Ürün detayda "1" kadar ürün adedi seçilir.
 * Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
-* Sepet kontrol edilerek temizlenir.
+* Alışverişe devam edilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Alışverişe devam edilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* toast message "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." değerine eşit mi
+* Ana sayfa sepet ikonuna tiklanir.
+* Bir ürün için sepet kontrol edilerek temizlenir.
 
 Add To Favorite
 ---------------
