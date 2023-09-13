@@ -101,3 +101,23 @@ tags:Gratis_IOS_FavorilerdenAnasayfayaYonlendirme
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Profil sayfasındaki Favorilerim ikonuna tiklanir
 * Favori listesinden ana sayfaya yonlendirme yapilir
+
+IOS Scenario Max Add To Cart From Favorite List
+-----------------------------------------------
+tags:Gratis_IOS_FavorilerdeMaximumSepeteEkleme
+* Uygulama baslatilir
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet ikonu ile login olunur
+* Sepet kontrol edilerek temizlenir
+* En Cok Satanlar alanindan bir urunun favori butonuna tıklanir
+* Urun favorilere eklenir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Profil sayfasındaki Favorilerim ikonuna tiklanir
+* Favorilerdeki urun sepete eklenir ve alısverise devam edilir
+* Favorilerdeki urun sepete eklenir ve alısverise devam edilir
+* Favorilerdeki urun sepete eklenir ve alısverise devam edilir
+* Favorilerdeki urun sepete eklenir ve alısverise devam edilir
+* Favorilerdeki ürünün sepete ekleme butonuna tıklanır
+* Maksimum ürün ekleme uyarisi kontrol edilir
+* Favori listesi kontrol edilerek temizlenir

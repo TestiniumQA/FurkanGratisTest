@@ -601,6 +601,12 @@
 * Elementine tıkla "ContinueShoppingButton"
 * Elementin yüklenmesini bekle "FavAddCartButton"
 
+# Favorilerdeki ürünün sepete ekleme butonuna tıklanır
+* Elementin yüklenmesini bekle "FavListSpinner"
+* "1" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "FavAddCartButton"
+* Elementine tıkla "FavAddCartButton"
+
 # Favorilerdeki urun sepete eklenir ve sepete gidilir
 * Elementine tıkla "FavAddCartButton"
 * Elementin yüklenmesini bekle "GoToCartButton"
