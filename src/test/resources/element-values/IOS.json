@@ -3010,10 +3010,10 @@
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "TickIconIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeImage[`name == 'tickIcon'`]",
     "iosType": "classChain"
   },
   {

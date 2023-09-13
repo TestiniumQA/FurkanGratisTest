@@ -206,6 +206,26 @@ tags:Gratis_IOS_KategoriSecimiVeLoginSepeteEkleme
 * Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
 
+IOS Scenario Max Add To Cart in Choose Category and Product List
+----------------------------------------------------------------
+tags:Gratis_IOS_KategoriSecimiVeListelemeMaximumSepeteEkleme
+* Uygulama baslatilir
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet ikonu ile login olunur
+* Sepet kontrol edilerek temizlenir
+* Kategoriler sayfasina gecilir
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* Sepete Ekle butonuna tıklanır
+* Alışverişe devam edilir
+* Sepete Ekle butonuna tıklanır
+* Alışverişe devam edilir
+* Sepete Ekle butonuna tıklanır
+* Alışverişe devam edilir
+* Sepete Ekle butonuna tıklanır
+* Alışverişe devam edilir
+* Sepete Ekle butonuna tıklanır
+* Maksimum ürün ekleme uyarisi kontrol edilir
+
 IOS Scenario Non-Login Category and Add To Favorite
 ---------------------------------------------------
 tags:Gratis_IOS_NonLoginKategoriFavoriEkleme
