@@ -6,10 +6,13 @@ This is an executable specification file which follows markdown syntax.
 Every heading in this file denotes a scenario. Every bulleted point denotes a step.
 
 Share, Zoom, Slide, Non-Login Gratis Card
---------------------------------------------------------
+-----------------------------------------
 tags:Gratis_Android_UrunDetayPaylasZoomNonLoginGratisKart
 * Uygulama baslatilir.
-* En Çok Satanlar alanında bir ürünün ürün detay sayfasına geçilir.
+* Kategoriler sayfasina gecilir.
+* "Makyaj" isimli kategori seçilir.
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir.
+* Urun detay sayfasına geçilir.
 * Ürün detayda ürün fotosu swipe yapılır.
 * Ürünün paylaş ikonuna tıklanır.
 * Ürünün zoom ikonuna tıklanır.
@@ -23,7 +26,7 @@ tags:Gratis_Android_UrunDetayRenkVeAdetSecimiNonLoginSepeteEkleme
 * "Makyaj" isimli kategori seçilir.
 * Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir.
 * Urun detay sayfasına geçilir.
-* Ürünün renk tonu değiştirilir.
+//* Ürünün renk tonu değiştirilir.
 * Ürün detayda "3" kadar ürün adedi seçilir.
 * Non-Login ürün detay sayfasinda urun sepete eklenir.
 * Sepete Ekle butonu ile login olunur.

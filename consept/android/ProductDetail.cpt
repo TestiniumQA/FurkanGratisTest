@@ -2,9 +2,9 @@ Created by testinium on 1.08.2023
 
 This is a concept file with following syntax for each concept.
 # En Çok Satanlar alanında bir ürünün ürün detay sayfasına geçilir.
-* "gratisCardPrice"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "listSalePriceOne"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "productName"
-* Elementine tıkla "gratisCardPrice"
+* Elementine tıkla "listSalePriceOne2"
 * "2" saniye bekle
 * Element var mı kontrol et "productDetailTitle"
 * Element var mı kontrol et "kampanyaSec"
@@ -84,8 +84,9 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "detailFavBtn"
 
 # Ürün detay sayfasında ürün favorilerden çıkarılır.
+* "1" saniye bekle
 * Elementine tıkla "detailFavBtn"
-* "addFavoritePopup" değerini sayfa üzerinde olmadıgını kontrol et
+* toast message "Ürün favori listesinden çıkartıldı" değerine eşit mi
 * "1" saniye bekle
 
 # Alt bar alanları kontrol edilir.
