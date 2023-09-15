@@ -124,18 +124,7 @@
 * "1" kere aşağıya kaydır
 
 # Kullanıcı şartlarına tıklanır ve üye olunur
-* Element var mı kontrol et "SmsCheckboxIos"
-* "SmsCheckboxIos" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-* Element var mı kontrol et "EmailCheckboxIos"
-* "EmailCheckboxIos" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-* "1" saniye bekle
-* "RegisterMembershipText" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-* Elementin yüklenmesini bekle "RegisterAgreementTextOne"
-* "1" kere aşağıya kaydır
-* "1" saniye bekle
-* "PageRegisterAgreementBackBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* Elementine tıkla "PageRegisterAgreementBackBtn"
-* "1" saniye bekle
+* Elementin yüklenmesini bekle "RegisterOtherAgreementText"
 * "RegisterOtherAgreementText" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "RegisterAgreementTextTwo"
 * "1" kere aşağıya kaydır
@@ -143,16 +132,18 @@
 * "PageRegisterAgreementBackBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "PageRegisterAgreementBackBtn"
 * "1" saniye bekle
-* Element var mı kontrol et "RegisterMembershipAgreement"
-* Elementine tıkla "RegisterMembershipAgreement"
 * Element var mı kontrol et "RegisterOtherAgreement"
 * Elementine tıkla "RegisterOtherAgreement"
-* Element var mı kontrol et "RegisterPersonalInfo"
-* Elementine tıkla "RegisterPersonalInfo"
+* Element var mı kontrol et "CustomerInformationSMS"
+* "CustomerInformationSMS" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Element var mı kontrol et "CustomerInformationEmail"
+* "CustomerInformationEmail" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Element var mı kontrol et "CustomerInformationCall"
+* "CustomerInformationCall" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
 * Element var mı kontrol et "RegisterButton"
 * Elementine tıkla "RegisterButton"
-* "RegisterSmsAcceptButton" elementi bulunana kadar en fazla "15" saniye kadar bekle
-//* Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
+* Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
 * "SMS Onayı" text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "RegisterSmsTextbox"
 * "12345" textini "RegisterSmsTextbox" elemente yaz
@@ -195,12 +186,8 @@
 * "KeyboardDismisserIcon" li element varsa tıkla
 * "1" kere aşağıya kaydır
 * "1" saniye bekle
-* Element var mı kontrol et "RegisterMembershipAgreement"
-* Elementine tıkla "RegisterMembershipAgreement"
-* Element var mı kontrol et "RegisterOtherAgreement"
-* Elementine tıkla "RegisterOtherAgreement"
-* Element var mı kontrol et "RegisterPersonalInfo"
-* Elementine tıkla "RegisterPersonalInfo"
+* Element var mı kontrol et "RegisterOtherAgreementTwo"
+* Elementine tıkla "RegisterOtherAgreementTwo"
 * Elementin yüklenmesini bekle "RegisterButton"
 * Elementine tıkla "RegisterButton"
 * Elementin yüklenmesini bekle "RegisterAgeErrorPopup"

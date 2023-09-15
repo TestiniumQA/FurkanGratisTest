@@ -486,8 +486,8 @@
     "key": "CustomerInformationSMS",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[6]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[1]",
-    "iosType": "classChain"
+    "iosValue": "//XCUIElementTypeStaticText[@name='Cep telefonu numarama SMS yoluyla ticari elektronik ileti gönderilmesine ve bu kapsamda hizmet alınan tedarikçiye aktarılmasına, telefon numaramın sosyal medya ortamlarında bana özel reklamların sunulması için sunucuları yurt dışında bulunan Facebook, Twitter ve Google firmalarına aktarılmasına açık rızam vardır.']",
+    "iosType": "xpath"
   },
   {
     "key": "SmsCheckboxCheckedIos",
@@ -500,8 +500,8 @@
     "key": "CustomerInformationEmail",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[7]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[1]",
-    "iosType": "classChain"
+    "iosValue": "//XCUIElementTypeStaticText[@name='Elektronik postama ticari elektronik ileti gönderilmesine ve bu kapsamda hizmet alınan tedarikçiye eposta adresimin aktarılmasına, eposta adresimin sosyal medya ortamlarında bana özel reklamların sunulması için sunucuları yurt dışında bulunan Facebook, Twitter ve Google firmalarına aktarılmasına açık rızam vardır.']",
+    "iosType": "xpath"
   },
   {
     "key": "EmailCheckboxCheckedIos",
@@ -514,8 +514,8 @@
     "key": "CustomerInformationCall",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[8]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[1]",
-    "iosType": "classChain"
+    "iosValue": "//XCUIElementTypeStaticText[@name='Cep telefonu numarama arama yoluyla ticari elektronik ileti gönderilmesine ve bu kapsamda hizmet alınan tedarikçiye telefon numaramın aktarılmasına, telefon numaramın sosyal medya ortamlarında bana özel reklamların sunulması için sunucuları yurt dışında bulunan Facebook, Twitter ve Google firmalarına aktarılmasına açık rızam vardır.']",
+    "iosType": "xpath"
   },
   {
     "key": "RegisterMembershipText",
@@ -563,7 +563,14 @@
     "key": "RegisterOtherAgreement",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[11]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[1]",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[8]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[1]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "RegisterOtherAgreementTwo",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[8]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[1]",
     "iosType": "classChain"
   },
   {
