@@ -111,12 +111,12 @@ tags:Gratis_IOS_UrunDetayFavori
 * Urun favorilere eklenir
 * Ürün detay sayfasında ürün favorilerden çıkarılır
 * Ürün detay sayfasında ürün favori butonuna tıklanır
-* "Ürün detay favori listesi" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir
+* "yeni liste adı" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir
 * Uygulama geri butonuna bas
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Profil sayfasındaki Favori butonuna tiklanir
-* Listeden adı "Ürün detay favori listesi" olan favori listesi secilir
+* Listeden adı "yeni liste adı" olan favori listesi secilir
 * Favori listesi silinir
 
 IOS Scenario Non-Login Add To Favorite

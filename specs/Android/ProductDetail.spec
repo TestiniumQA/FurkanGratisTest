@@ -75,13 +75,13 @@ tags:Gratis_Android_UrunDetayFavori
 * Urun favorilere eklenir.
 * Ürün detay sayfasında ürün favorilerden çıkarılır.
 * Ürün detay sayfasında ürün favori butonuna tıklanır.
-* "Ürün detay favori" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir.
+* "yeni liste adı" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * Uygulama geri butonuna bas.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
-* Listeden adı "Ürün detay favori listesi" olan favori listesi secilir.
+* Listeden adı "yeni liste adı" olan favori listesi secilir.
 * Favori listesi silinir.
-* "Ürün detay favori listesi" isimli favori listesi silindiği kontrol edilir.
+* "yeni liste adı" isimli favori listesi silindiği kontrol edilir.
 
 Non-Login Add To Favorite
 -------------------------

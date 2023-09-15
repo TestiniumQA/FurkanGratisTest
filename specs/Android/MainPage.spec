@@ -27,7 +27,10 @@ Non-Login Add Favorite
 ----------------------------------------
 tags:Gratis_Android_AnasayfaNonLoginFavoriEkleme
 * Uygulama baslatilir.
-* En Cok Satanlar alanindan bir urunun favori butonuna tıklanir.
+* Kategoriler sayfasina gecilir.
+* "Makyaj" isimli kategori seçilir.
+* Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir.
+* Listeleme alanından bir ürünün favori butonuna tıklanır.
 * Favori ikonu ile login olunur.
 * Urun favorilere eklenir.
 * Favori listesi kontrol edilerek temizlenir.
