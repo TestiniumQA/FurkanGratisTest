@@ -655,14 +655,17 @@
 # Uye bilgileri basarili sekilde guncellenir
 * "1" saniye bekle
 * "1" kere aşağıya kaydır
-* Element var mı kontrol et "EmailCheckboxIos"
-* "EmailCheckboxIos" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-* Element var mı kontrol et "SmsCheckboxIos"
-* "SmsCheckboxIos" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Element var mı kontrol et "CustomerInformationSMS"
+* "CustomerInformationSMS" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Element var mı kontrol et "CustomerInformationEmail"
+* "CustomerInformationEmail" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Element var mı kontrol et "CustomerInformationCall"
+* "CustomerInformationCall" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "SavedBtnIos"
 * Elementine tıkla "SavedBtnIos"
 * Elementin yüklenmesini bekle "SuccessfulProfileInformationPopup"
+* "Profil bilgileriniz başarıyla güncellendi." text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "PopupOkayBTNIos"
 * Elementine tıkla "PopupOkayBTNIos"
 * Element var mı kontrol et "ProfileRoot"

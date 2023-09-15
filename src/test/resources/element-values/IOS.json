@@ -483,11 +483,11 @@
     "iosType": "xpath"
   },
   {
-    "key": "SmsCheckboxIos",
+    "key": "CustomerInformationSMS",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeStaticText[@name=\"SMS yoluyla elektronik ticari ileti almak istiyorum ve bu çerçevede tarafıma SMS yoluyla ticari elektronik ileti gönderilmesi için hizmet alınan tedarikçi firmaya telefon numaramın aktarılmasına onay veriyorum.\"]",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[6]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[1]",
+    "iosType": "classChain"
   },
   {
     "key": "SmsCheckboxCheckedIos",
@@ -497,11 +497,11 @@
     "iosType": "xpath"
   },
   {
-    "key": "EmailCheckboxIos",
+    "key": "CustomerInformationEmail",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeStaticText[@name=\"Elektronik posta yoluyla ticari ileti almak istiyorum ve bu çerçevede tarafıma elektronik posta yoluyla elektronik ileti gönderilmesi için hizmet alınan tedarikçi firmaya elektronik posta adresimin aktarılmasına onay veriyorum.\"]",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[7]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[1]",
+    "iosType": "classChain"
   },
   {
     "key": "EmailCheckboxCheckedIos",
@@ -509,6 +509,13 @@
     "androidType": "",
     "iosValue": "(//*[@name='checkboxUnselectedIcon'][@enabled='true'])[2]",
     "iosType": "xpath"
+  },
+  {
+    "key": "CustomerInformationCall",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[8]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[1]",
+    "iosType": "classChain"
   },
   {
     "key": "RegisterMembershipText",
