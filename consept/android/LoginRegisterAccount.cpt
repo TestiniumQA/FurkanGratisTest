@@ -135,7 +135,9 @@ This is a concept file with following syntax for each concept.
 
 # Popup Tamam butonuna tiklanir.
 * Element var mı kontrol et "popupOkayButton"
-* "popupOkayButton" elementine sayacli tikla "registerBtn" value degerini bekle
+* "Verilen bilgiler geçerliyse, şifre değiştirmenizi sağlayacak link e-posta adresinize gönderilmiştir." değerini sayfa üzerinde olup olmadığını kontrol et.
+* Elementine tıkla "popupOkayButton"
+* "pageToolbarTitle" li elementin değeri "Şifre Yenileme" e içerdiğini kontrol et
 
 # Sifre basarili sekilde degistirilir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
