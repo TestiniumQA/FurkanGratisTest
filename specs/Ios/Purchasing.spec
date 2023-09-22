@@ -323,7 +323,7 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimat
 * Mağazadan Teslim Ilce ismi swipe yapmadan secilir
 * Mağaza saatleri kontrol edilir
 * Mağazadan Teslim mağazası seçilir
-* Mağazadan Teslim ikinci mağazası seçilir
+//* Mağazadan Teslim ikinci mağazası seçilir
 * Başkası teslim alacak seçeneği seçilir
 * Satın alma alanında devam et butonuna tıklanır
 * Sipariş Özeti alanı kontrol edilir
