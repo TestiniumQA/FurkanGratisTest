@@ -62,7 +62,7 @@ tags:Gratis_Android_UrunDetaySepeteEkleme
 * Ürün detay sayfasinda urun sepete eklenir.
 * toast message "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." değerine eşit mi
 * Sepete gidilir.
-* Bir ürün için sepet kontrol edilerek temizlenir.
+* Sepet kontrol edilerek temizlenir.
 
 Add To Favorite
 ---------------
