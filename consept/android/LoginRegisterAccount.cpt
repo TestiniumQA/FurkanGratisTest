@@ -380,15 +380,37 @@ This is a concept file with following syntax for each concept.
 # Uye bilgileri basarili sekilde guncellenir.
 * "1" saniye bekle
 * "1" kere aşağıya kaydır
-* Element var mı kontrol et "customerInformationSMS"
-* Elementine tıkla "customerInformationSMS"
-* Element var mı kontrol et "customerInformationSMSCheck"
-* Element var mı kontrol et "customerInformationEmail"
-* Elementine tıkla "customerInformationEmail"
-* Element var mı kontrol et "customerInformationEmailCheck"
-* Element var mı kontrol et "customerInformationCall"
-* Elementine tıkla "customerInformationCall"
-* Element var mı kontrol et "customerInformationCallCheck"
+* Element var mı kontrol et "customerInformation1"
+* Element var mı kontrol et "customerInformation2"
+* Element var mı kontrol et "customerInformation3"
+
+* Elementine tıkla "customerInformation1"
+* Elementine tıkla "customerInformation1"
+* Elementine tıkla "customerInformation1"
+
+* Element var mı kontrol et "customerInformationCheck1"
+* Element var mı kontrol et "customerInformationCheck2"
+* Element var mı kontrol et "customerInformationCheck3"
+* "registerButton"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementine tıkla "registerButton"
+* toast message "Profil bilgileriniz başarıyla güncellendi" değerine eşit mi
+
+# Uye bilgileri güncellemesi geri alınır.
+* "1" saniye bekle
+* "1" kere aşağıya kaydır
+* Element var mı kontrol et "customerInformationCheck1"
+* Element var mı kontrol et "customerInformationCheck2"
+* Element var mı kontrol et "customerInformationCheck3"
+
+* Elementine tıkla "customerInformationCheck1"
+* Element var mı kontrol et "customerInformation1"
+
+* Elementine tıkla "customerInformationCheck1"
+* Element var mı kontrol et "customerInformation2"
+
+* Elementine tıkla "customerInformationCheck1"
+* Element var mı kontrol et "customerInformation3"
+"
 * "registerButton"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementine tıkla "registerButton"
 * toast message "Profil bilgileriniz başarıyla güncellendi" değerine eşit mi
@@ -398,3 +420,9 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "customerInformationSMSCheck"
 * Element var mı kontrol et "customerInformationEmailCheck"
 * Element var mı kontrol et "customerInformationCallCheck"
+
+# Uye bilgileri güncellemesi geri alındığı kontrol edilir.
+* "1" kere aşağıya kaydır
+* Element var mı kontrol et "customerInformationSMS"
+* Element var mı kontrol et "customerInformationEmail"
+* Element var mı kontrol et "customerInformationCall"

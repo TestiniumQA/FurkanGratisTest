@@ -1934,32 +1934,32 @@
     "androidType": "xpath"
   },
   {
-    "key": "customerInformationSMS",
-    "androidValue": "(//android.widget.CheckBox)[1]",
+    "key": "customerInformation1",
+    "androidValue": "(//android.widget.CheckBox[@checked='false'])[1]",
     "androidType": "xpath"
   },
   {
-    "key": "customerInformationSMSCheck",
+    "key": "customerInformationCheck1",
     "androidValue": "//android.widget.CheckBox[@checked='true']",
     "androidType": "xpath"
   },
   {
-    "key": "customerInformationEmail",
-    "androidValue": "(//android.widget.CheckBox)[2]",
+    "key": "customerInformation2",
+    "androidValue": "(//android.widget.CheckBox[@checked='false'])[2]",
     "androidType": "xpath"
   },
   {
-    "key": "customerInformationEmailCheck",
+    "key": "customerInformationCheck2",
     "androidValue": "(//android.widget.CheckBox[@checked='true'])[2]",
     "androidType": "xpath"
   },
   {
-    "key": "customerInformationCall",
-    "androidValue": "(//android.widget.CheckBox)[3]",
+    "key": "customerInformation3",
+    "androidValue": "(//android.widget.CheckBox[@checked='false'])[3]",
     "androidType": "xpath"
   },
   {
-    "key": "customerInformationCallCheck",
+    "key": "customerInformationCheck3",
     "androidValue": "(//android.widget.CheckBox[@checked='true'])[3]",
     "androidType": "xpath"
   }

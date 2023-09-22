@@ -130,4 +130,7 @@ tags:Gratis_Android_UyeBilgileriGuncelleme
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Uye bilgilerim sayfasina gecilir.
 * Uye bilgileri basarili sekilde guncellenir.
+* Uye bilgilerim sayfasina gecilir.
 * Uye bilgileri guncellendiği kontrol edilir.
+* Uye bilgileri güncellemesi geri alınır.
+* Uye bilgileri güncellemesi geri alındığı kontrol edilir.
