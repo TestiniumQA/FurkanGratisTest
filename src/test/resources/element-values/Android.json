@@ -1260,7 +1260,7 @@
   },
   {
     "key": "catalogPagesBtn",
-    "androidValue": "//android.widget.TextView[@text='Sayfa genel bakış']",
+    "androidValue": "//android.view.View[@text='Sayfa genel bakış']",
     "androidType": "xpath"
   },
   {
@@ -1270,7 +1270,7 @@
   },
   {
     "key": "catalogPdf",
-    "androidValue": "//android.widget.TextView[@text='PDF Indir']",
+    "androidValue": "//android.view.View[@text='PDF Indir']",
     "androidType": "xpath"
   },
   {
@@ -1295,7 +1295,7 @@
   },
   {
     "key": "catalogFav",
-    "androidValue": "//android.widget.TextView[@text='Favorilerim']",
+    "androidValue": "//*[@text='Favorilerim']",
     "androidType": "xpath"
   },
   {
