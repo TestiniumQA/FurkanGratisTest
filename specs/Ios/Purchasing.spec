@@ -199,8 +199,8 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDegistirme
 * Sepet ikonu ile login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
-* "Süpermarket" isimli kategori seçilir
-* Alt kategorilerden biri "Gıda", "Kahve & Çay" seçilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -230,8 +230,8 @@ tags:Gratis_IOS_MagazadanKendimTeslimatFaturaAdresiEkle
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
 //* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
 * Kategoriler sayfasina gecilir
-* "Süpermarket" isimli kategori seçilir
-* Alt kategorilerden biri "Gıda", "Kahve & Çay" seçilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -260,8 +260,8 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
 * Kategoriler sayfasina gecilir
-* "Süpermarket" isimli kategori seçilir
-* Alt kategorilerden biri "Gıda", "Kahve & Çay" seçilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -286,8 +286,8 @@ tags:Gratis_IOS_MagazadanKendimTeslimat
 * Sepet ikonu ile login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
-* "Süpermarket" isimli kategori seçilir
-* Alt kategorilerden biri "Gıda", "Kahve & Çay" seçilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -311,8 +311,8 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimat
 * Sepet ikonu ile login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
-* "Süpermarket" isimli kategori seçilir
-* Alt kategorilerden biri "Gıda", "Kahve & Çay" seçilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -337,8 +337,8 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDuzenle
 * Sepet ikonu ile login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
-* "Süpermarket" isimli kategori seçilir
-* Alt kategorilerden biri "Gıda", "Kahve & Çay" seçilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -364,8 +364,8 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Sepet ikonu ile login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
-* "Süpermarket" isimli kategori seçilir
-* Alt kategorilerden biri "Gıda", "Kahve & Çay" seçilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -392,8 +392,8 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiEkle
 * Sepet ikonu ile login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
-* "Süpermarket" isimli kategori seçilir
-* Alt kategorilerden biri "Gıda", "Kahve & Çay" seçilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -419,8 +419,8 @@ tags:Gratis_IOS_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Sepet ikonu ile login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
-* "Süpermarket" isimli kategori seçilir
-* Alt kategorilerden biri "Gıda", "Kahve & Çay" seçilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -447,8 +447,8 @@ tags:Gratis_IOS_MagazaSecPopup
 * Sepet ikonu ile login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
-* "Süpermarket" isimli kategori seçilir
-* Alt kategorilerden biri "Gıda", "Kahve & Çay" seçilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
