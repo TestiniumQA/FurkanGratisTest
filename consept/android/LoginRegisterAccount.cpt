@@ -105,7 +105,6 @@ This is a concept file with following syntax for each concept.
 # Sifremi unuttum bos mail uyarısı gorulur.
 * Element var mı kontrol et "forgetPasswordFailPopup"
 * Elementine tıkla "popupOkayButton"
-* Elementin yüklenmesini bekle "registerBtn"
 
 # Login icin bos mail ve sifre uyarısı gorulur.
 * Elementine tıkla "loginBtn"

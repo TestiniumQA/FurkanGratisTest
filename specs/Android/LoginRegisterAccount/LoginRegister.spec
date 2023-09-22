@@ -69,6 +69,7 @@ tags:Gratis_Android_NegativeLoginAndForgetPassword
 * Sifremi Unuttum ikonuna tiklanir.
 * Sifremi unuttum Gonder butonuna tiklanir.
 * Sifremi unuttum bos mail uyarısı gorulur.
+* Uygulama geri butonuna bas.
 * Login icin bos mail ve sifre uyarısı gorulur.
 * E-posta alanina "yanlış formatta eposta" girilir.
 * Sifre alanına "sifre" girilir.
