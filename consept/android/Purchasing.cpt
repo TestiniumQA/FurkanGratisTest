@@ -183,8 +183,10 @@ This is a concept file with following syntax for each concept.
 * "continueBtn"li elementi bulana kadar "4" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "preInfo"
 * "preInfo" li  elementin x ekseninde yukaridan %"25" deger, y ekseninde yukaridan %"5" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "registerAgreementText"
 * "registerAgreementText" elementi "" degerine esit mi
 * Elementine tıkla "popupOkayButton"
+* Elementin yüklenmesini bekle "salesContact"
 * "salesContact" li  elementin x ekseninde yukaridan %"50" deger, y ekseninde yukaridan %"5" deger kadar asagisina tikla
 * "registerAgreementText" elementi "" degerine esit mi
 * Elementine tıkla "popupOkayButton"
