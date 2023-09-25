@@ -54,7 +54,7 @@
 * Elementin yüklenmesini bekle "MyPasswordOldPassword"
 * "1A2s3d." textini "MyPasswordOldPassword" elemente yaz
 * Kaydet ikonuna tiklanir
-* Elementin yüklenmesini bekle "AlertSuccessfulPopupTwo"
+//* Elementin yüklenmesini bekle "AlertSuccessfulPopupTwo"
 * "AlertSuccessfulPopupTwo" elementinin "Şifreniz en az 8 karakter olmalı, büyük ve küçük harf ve en az bir sayı ve özel karakter içermelidir." textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
