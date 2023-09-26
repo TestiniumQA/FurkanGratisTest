@@ -84,3 +84,4 @@ This is a concept file with following syntax for each concept.
 * "AndroidMail" csv dosyasindan rastgele kullanici sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
+* "sepetReklamKapat" li element varsa tıkla
