@@ -77,7 +77,7 @@ Add To Cart From Favorite List
 tags:Gratis_Android_FavoriListesindenSepeteEkleme
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-//* Sepet kontrol edilerek temizlenir.
+* Sepet kontrol edilerek temizlenir.
 * Kategoriler sayfasina gecilir.
 * "Saç Bakım" isimli kategori seçilir.
 * Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir.
