@@ -102,7 +102,7 @@
 # Fatura bilgileri alanında guncel adres bilgileri girilir
 * Fatura bilgileri Adresi icin Ad, Soyad, Telefon ve Adres Ismi bilgilerinin guncelleri girilir
 * Elementin yüklenmesini bekle "ShippingNewAddressCustomerAddressTitle"
-* "ShippingNewAddressCustomerAddressTitle" li elementi bul ve değerini "Fatura Adres" olarak sakla
+* "ShippingNewAddressCustomerAddressTitle" li elementi bul ve değerini "FaturaAdres" olarak sakla
 * Adres Ekle Sehir ismi guncelleme icin "2" swipe ile secilir
 * Adres Ekle Ilce ismi guncelleme icin "1" swipe ile secilir
 * Adres Ekle Mahalle ismi guncelleme icin "1" swipe ile secilir
@@ -306,6 +306,7 @@
 * Elementine tıkla "NewAddressSavedBtn"
 * "AddBillingAddressBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "AddBillingAddressBtn"
+* Elementin yüklenmesini bekle "StoreBillingAddressName"
 //* "StoreBillingAddressName" li elementin text degeri hafizada "FaturaAdres" olarak saklanan text ile esit mi kontrol et
 * "StoreBillingAddressName" li elementin text degerini hafizada "FaturaAdres" olarak saklanan text ile karsilastir
 
@@ -460,6 +461,8 @@
 * "StoreBillingAddressHeaderTxt" elementinin "Fatura Bilgileri" textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "BilAddressRemoveBtn"
 * Elementine tıkla "BilAddressRemoveBtn"
+* Elementin yüklenmesini bekle "DeleteAddressButton"
+* Elementine tıkla "DeleteAddressButton"
 
 # Fatura Bilgileri alanında yeni adres ekle butonuna tıklanır
 * "AddBillingAddressBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
