@@ -77,9 +77,11 @@ Add To Cart From Favorite List
 tags:Gratis_Android_FavoriListesindenSepeteEkleme
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Sepet kontrol edilerek temizlenir.
-* Ana sayfa tab'ına tıklanır.
-* En Cok Satanlar alanindan bir urunun favori butonuna tıklanir.
+//* Sepet kontrol edilerek temizlenir.
+* Kategoriler sayfasina gecilir.
+* "Saç Bakım" isimli kategori seçilir.
+* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir.
+* Listeleme alanından bir ürünün favori butonuna tıklanır.
 * Urun favorilere eklenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
