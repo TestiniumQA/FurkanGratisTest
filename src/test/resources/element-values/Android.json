@@ -1962,5 +1962,10 @@
     "key": "customerInformationCheck3",
     "androidValue": "(//android.widget.CheckBox[@checked='true'])[3]",
     "androidType": "xpath"
+  },
+  {
+    "key": "iycCard",
+    "androidValue": "//*[@resource-id='iyz-tab-credit-card']",
+    "androidType": "xpath"
   }
 ]
