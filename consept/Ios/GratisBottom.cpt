@@ -515,7 +515,13 @@
 * "FilterName" li ve değeri "Marka" e eşit olan elementli bulana kadar swipe et ve tıkla
 * "SubFilterName" li elementli markayı bul ve değerini "marka adı" olarak sakla
 * Elementine tıkla "SubFilterName"
-* "1" saniye bekle
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "3" saniye bekle
+* "Golden Rose" text degerine sahip elementin goruntulendigi kontrol edilir
+* "2" saniye bekle
+* "FilterName" li ve değeri "Marka" e eşit olan elementli bulana kadar swipe et ve tıkla
 * Elementin yüklenmesini bekle "FilterOkayBtn"
 * Elementine tıkla "FilterOkayBtn"
 * "ProductsName" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
@@ -525,7 +531,13 @@
 * "FilterName" li ve değeri "Form" e eşit olan elementli bulana kadar swipe et ve tıkla
 * "SubFilterName" li elementli markayı bul ve değerini "marka adı" olarak sakla
 * Elementine tıkla "SubFilterName"
-* "1" saniye bekle
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "geriBtn"
+* Elementine tıkla "geriBtn"
+* "3" saniye bekle
+* "Likit" text degerine sahip elementin goruntulendigi kontrol edilir
+* "2" saniye bekle
+* "FilterName" li ve değeri "Form" e eşit olan elementli bulana kadar swipe et ve tıkla
 * Elementin yüklenmesini bekle "FilterOkayBtn"
 * Elementine tıkla "FilterOkayBtn"
 * "1" saniye bekle
