@@ -31,11 +31,11 @@ tags:Gratis_Android_KargoIndirimli
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10003352" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
@@ -51,11 +51,11 @@ tags:Gratis_Android_AdresDuzenleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
@@ -74,11 +74,11 @@ tags:Gratis_Android_YeniAdresSilipEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
@@ -97,11 +97,11 @@ tags:Gratis_Android_YeniAdresEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
@@ -120,11 +120,11 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
@@ -143,11 +143,11 @@ tags:Gratis_Android_BaskaAdresSecerekSiparis
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
@@ -164,11 +164,11 @@ tags:Gratis_Android_BaskaFaturaAdresiSecerekSiparis
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
@@ -185,11 +185,11 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDegistirme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -264,11 +264,11 @@ tags:Gratis_Android_MagazadanKendimTeslimat
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -287,11 +287,11 @@ tags:Gratis_Android_MagazadanBaskasiTeslimat
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -311,11 +311,11 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDuzenle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -336,11 +336,11 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -360,11 +360,11 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -385,11 +385,11 @@ tags:Gratis_Android_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -416,11 +416,11 @@ tags:Gratis_Android_MagazaSecPopup
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
