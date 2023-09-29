@@ -178,7 +178,7 @@
     "key": "sepetPopUpKapatBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeButton[`label == \"navigationCrossIcon\"`][1]",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"navigationCrossIcon\"`][2]",
     "iosType": "classChain"
   },
   {
