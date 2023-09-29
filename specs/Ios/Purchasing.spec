@@ -14,7 +14,7 @@ tags:Gratis_IOS_KargoIndirimsiz
 * Sepet kontrol edilerek temizlenir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir
@@ -36,7 +36,7 @@ tags:Gratis_IOS_KargoIndirimli
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir
@@ -58,7 +58,7 @@ tags:Gratis_IOS_AdresDuzenleme
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir
@@ -83,7 +83,7 @@ tags:Gratis_IOS_YeniAdresSilipEkleme
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir
@@ -107,7 +107,7 @@ tags:Gratis_IOS_YeniAdresEkleme
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir
@@ -132,7 +132,7 @@ tags:Gratis_IOS_YeniFaturaAdresiEkleme
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir
@@ -157,7 +157,7 @@ tags:Gratis_IOS_BaskaAdresSecerekSiparis
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir
@@ -181,7 +181,7 @@ tags:Gratis_IOS_BaskaFaturaAdresiSecerekSiparis
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir
@@ -204,7 +204,7 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDegistirme
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
 * Mağazadan Teslim Sehir ismi secilir
@@ -235,7 +235,7 @@ tags:Gratis_IOS_MagazadanKendimTeslimatFaturaAdresiEkle
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
 * Mağazadan Teslim Sehir ismi secilir
@@ -265,7 +265,7 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
 * Mağazadan Teslim Sehir ismi secilir
@@ -291,7 +291,7 @@ tags:Gratis_IOS_MagazadanKendimTeslimat
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
 * Mağazadan Teslim Sehir ismi secilir
@@ -316,7 +316,7 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimat
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
 * Mağazadan Teslim Sehir guncel ismi secilir
@@ -342,7 +342,7 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDuzenle
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
 * Mağazadan Teslim Sehir ismi secilir
@@ -369,7 +369,7 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
 * Mağazadan Teslim Sehir ismi secilir
@@ -397,7 +397,7 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiEkle
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
 * Mağazadan Teslim Sehir ismi secilir
@@ -424,7 +424,7 @@ tags:Gratis_IOS_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
 * Mağazadan Teslim Sehir ismi secilir
@@ -452,7 +452,7 @@ tags:Gratis_IOS_MagazaSecPopup
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir
