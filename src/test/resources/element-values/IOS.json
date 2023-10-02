@@ -196,6 +196,13 @@
     "iosType": "xpath"
   },
   {
+    "key": "sepetPopUpKapatTwoBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"navigationCrossIcon\"`][1]",
+    "iosType": "classChain"
+  },
+  {
     "key": "kategorilerSearchBox",
     "androidValue": "",
     "androidType": "",
