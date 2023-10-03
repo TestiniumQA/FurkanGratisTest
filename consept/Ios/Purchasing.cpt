@@ -210,6 +210,8 @@
 //* "ProductCartName" li elementin text degerini hafizada "urun2" olarak saklanan text ile karsilastir
 //* "ProductSecondCartName" li elementin text degerini hafizada "urun1" olarak saklanan text ile karsilastir
 * "ContinueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "1" saniye bekle
+* "PreInfo"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "PreInfo"
 * "PreInfo" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "PurchaseAgreementToolbarTitle"
@@ -217,6 +219,8 @@
 * Elementin yüklenmesini bekle "PreInfoText"
 * Elementin yüklenmesini bekle "PopupOkayBTNIos"
 * Elementine tıkla "PopupOkayBTNIos"
+* "1" saniye bekle
+* "SalesContact"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "SalesContact"
 * "SalesContact" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "PurchaseAgreementToolbarTitle"
