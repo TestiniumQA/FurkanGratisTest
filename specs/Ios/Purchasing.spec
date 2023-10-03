@@ -51,13 +51,13 @@ tags:Gratis_IOS_AdresDuzenleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile login olunur
-* Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Elektrikli Ürünler" isimli kategori seçilir
-* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+//* Sepet kontrol edilerek temizlenir
+//* Kategoriler sayfasina gecilir
+//* "Elektrikli Ürünler" isimli kategori seçilir
+//* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
+//* Urun detay sayfasına geçilir
+//* Ürün detay sayfasinda urun sepete eklenir
+//* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -76,13 +76,13 @@ tags:Gratis_IOS_YeniAdresSilipEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile login olunur
-* Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Elektrikli Ürünler" isimli kategori seçilir
-* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+//* Sepet kontrol edilerek temizlenir
+//* Kategoriler sayfasina gecilir
+//* "Elektrikli Ürünler" isimli kategori seçilir
+//* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
+//* Urun detay sayfasına geçilir
+//* Ürün detay sayfasinda urun sepete eklenir
+//* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -100,13 +100,13 @@ tags:Gratis_IOS_YeniAdresEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile login olunur
-* Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Elektrikli Ürünler" isimli kategori seçilir
-* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+//* Sepet kontrol edilerek temizlenir
+//* Kategoriler sayfasina gecilir
+//* "Elektrikli Ürünler" isimli kategori seçilir
+//* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
+//* Urun detay sayfasına geçilir
+//* Ürün detay sayfasinda urun sepete eklenir
+//* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -125,13 +125,13 @@ tags:Gratis_IOS_YeniFaturaAdresiEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile login olunur
-* Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Elektrikli Ürünler" isimli kategori seçilir
-* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+//* Sepet kontrol edilerek temizlenir
+//* Kategoriler sayfasina gecilir
+//* "Elektrikli Ürünler" isimli kategori seçilir
+//* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
+//* Urun detay sayfasına geçilir
+//* Ürün detay sayfasinda urun sepete eklenir
+//* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -150,13 +150,13 @@ tags:Gratis_IOS_BaskaAdresSecerekSiparis
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile login olunur
-* Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Elektrikli Ürünler" isimli kategori seçilir
-* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+//* Sepet kontrol edilerek temizlenir
+//* Kategoriler sayfasina gecilir
+//* "Elektrikli Ürünler" isimli kategori seçilir
+//* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
+//* Urun detay sayfasına geçilir
+//* Ürün detay sayfasinda urun sepete eklenir
+//* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -174,13 +174,13 @@ tags:Gratis_IOS_BaskaFaturaAdresiSecerekSiparis
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile login olunur
-* Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Elektrikli Ürünler" isimli kategori seçilir
-* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+//* Sepet kontrol edilerek temizlenir
+//* Kategoriler sayfasina gecilir
+//* "Elektrikli Ürünler" isimli kategori seçilir
+//* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
+//* Urun detay sayfasına geçilir
+//* Ürün detay sayfasinda urun sepete eklenir
+//* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -197,13 +197,13 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDegistirme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile login olunur
-* Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Saç Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+//* Sepet kontrol edilerek temizlenir
+//* Kategoriler sayfasina gecilir
+//* "Elektrikli Ürünler" isimli kategori seçilir
+//* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
+//* Urun detay sayfasına geçilir
+//* Ürün detay sayfasinda urun sepete eklenir
+//* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -284,13 +284,13 @@ tags:Gratis_IOS_MagazadanKendimTeslimat
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile login olunur
-* Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Saç Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+//* Sepet kontrol edilerek temizlenir
+//* Kategoriler sayfasina gecilir
+//* "Saç Bakım" isimli kategori seçilir
+//* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
+//* Urun detay sayfasına geçilir
+//* Ürün detay sayfasinda urun sepete eklenir
+//* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -309,13 +309,13 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimat
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile login olunur
-* Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Saç Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+//* Sepet kontrol edilerek temizlenir
+//* Kategoriler sayfasina gecilir
+//* "Saç Bakım" isimli kategori seçilir
+//* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
+//* Urun detay sayfasına geçilir
+//* Ürün detay sayfasinda urun sepete eklenir
+//* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -335,13 +335,13 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDuzenle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile login olunur
-* Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Saç Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+//* Sepet kontrol edilerek temizlenir
+//* Kategoriler sayfasina gecilir
+//* "Saç Bakım" isimli kategori seçilir
+//* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
+//* Urun detay sayfasına geçilir
+//* Ürün detay sayfasinda urun sepete eklenir
+//* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -362,13 +362,13 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile login olunur
-* Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Saç Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+//* Sepet kontrol edilerek temizlenir
+//* Kategoriler sayfasina gecilir
+//* "Saç Bakım" isimli kategori seçilir
+//* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
+//* Urun detay sayfasına geçilir
+//* Ürün detay sayfasinda urun sepete eklenir
+//* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -390,13 +390,13 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiEkle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile login olunur
-* Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Saç Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+//* Sepet kontrol edilerek temizlenir
+//* Kategoriler sayfasina gecilir
+//* "Saç Bakım" isimli kategori seçilir
+//* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
+//* Urun detay sayfasına geçilir
+//* Ürün detay sayfasinda urun sepete eklenir
+//* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -417,13 +417,13 @@ tags:Gratis_IOS_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile login olunur
-* Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Saç Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+//* Sepet kontrol edilerek temizlenir
+//* Kategoriler sayfasina gecilir
+//* "Saç Bakım" isimli kategori seçilir
+//* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
+//* Urun detay sayfasına geçilir
+//* Ürün detay sayfasinda urun sepete eklenir
+//* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -445,13 +445,13 @@ tags:Gratis_IOS_MagazaSecPopup
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile login olunur
-* Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Saç Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+//* Sepet kontrol edilerek temizlenir
+//* Kategoriler sayfasina gecilir
+//* "Saç Bakım" isimli kategori seçilir
+//* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
+//* Urun detay sayfasına geçilir
+//* Ürün detay sayfasinda urun sepete eklenir
+//* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
