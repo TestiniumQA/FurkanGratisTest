@@ -212,12 +212,14 @@
 * "ContinueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "PreInfo"
 * "PreInfo" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "PurchaseAgreementToolbarTitle"
 * "PurchaseAgreementToolbarTitle" elementinin "Ön Bilgilendirme Formu" textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "PreInfoText"
 * Elementin yüklenmesini bekle "PopupOkayBTNIos"
 * Elementine tıkla "PopupOkayBTNIos"
 * Elementin yüklenmesini bekle "SalesContact"
 * "SalesContact" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "PurchaseAgreementToolbarTitle"
 * "PurchaseAgreementToolbarTitle" elementinin "Mesafeli Satış Sözleşmesi" textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "SalesContactText"
 * Elementin yüklenmesini bekle "PopupOkayBTNIos"
