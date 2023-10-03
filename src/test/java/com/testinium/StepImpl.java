@@ -1406,7 +1406,7 @@ public class StepImpl extends HookImpl {
 
         if (mobileElement != null) {
 
-            doesElementExistByKey(key, 2);
+            doesElementExistByKey(key, 3);
             findElementByKey(key).click();
             logger.info(key + "elemente tıkladı");
 
@@ -1418,13 +1418,13 @@ public class StepImpl extends HookImpl {
         logger.info("element varsa verilen tıkla girdi");
         MobileElement mobileElement;
 
-        waitBySecond(1);
+        waitBySecond(2);
 
         mobileElement = findElementByKeyWithoutAssert(key);
 
         if (mobileElement != null) {
 
-            doesElementExistByKey(key, 2);
+            doesElementExistByKey(key, 3);
             findElementByKey(key).click();
             findElementByKey(key2).click();
             logger.info(key + "elemente tıkladı");
@@ -1446,7 +1446,7 @@ public class StepImpl extends HookImpl {
 
         if (mobileElement != null) {
 
-            doesElementExistByKey(key, 2);
+            doesElementExistByKey(key, 3);
             findElementByKey(key).click();
             logger.info(key + "elemente tıkladı");
 
