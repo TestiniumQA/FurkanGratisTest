@@ -211,6 +211,8 @@ tags:Gratis_IOS_MagazadanKendimTeslimatFaturaAdresiEkle
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
 //* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
 * Ana sayfa tab'ına tıklanır
+* Ana sayfa sepet ikonuna tiklanir
+//* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
 * Mağazadan Teslim Sehir ismi secilir
@@ -235,6 +237,8 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
 * Ana sayfa tab'ına tıklanır
+* Ana sayfa sepet ikonuna tiklanir
+//* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
 * Mağazadan Teslim Sehir ismi secilir
