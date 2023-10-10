@@ -70,8 +70,6 @@ tags:Gratis_Android_MagazaSecPopup
 * Satın alma alanında devam et butonuna tıklanır.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
-* Iyzico alanı express ödeme yapılır.
-* Siparişin tamamlandığı kontrol edilir.
 
 Purchasing with Editing Address
 ----------------------------------
@@ -427,3 +425,5 @@ tags:Gratis_Android_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Satın alma alanında devam et butonuna tıklanır.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
+* Iyzico alanı express ödeme yapılır.
+* Siparişin tamamlandığı kontrol edilir.
