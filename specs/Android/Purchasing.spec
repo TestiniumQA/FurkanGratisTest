@@ -79,11 +79,6 @@ tags:Gratis_Android_AdresDuzenleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
@@ -236,16 +231,13 @@ tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
 * Adres silinir.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+* Ana sayfa sepet ikonuna tiklanir.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -265,14 +257,12 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+* Ana sayfa sepet ikonuna tiklanir.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
