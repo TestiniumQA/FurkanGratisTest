@@ -13,7 +13,7 @@ tags:Gratis_Android_KargoIndirimli
 * Sepet ikonu ile login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Anasayfa urun kodu "10011128" yazilir, arama yapilir.
+* Anasayfa urun kodu "10003352" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
