@@ -139,13 +139,26 @@ public class HookImpl {
                 appiumDriver = new IOSDriver(new URL(hubURL), capabilities);
             }
         }
-        selector = SelectorFactory
+
+        if (System.getenv("platform").equals("ANDROID") && StringUtils.isEmpty(System.getenv("key")) == false) {
+
+            selector = SelectorFactory
+                    .createElementHelper(localAndroid ? SelectorType.ANDROID : SelectorType.IOS);
+            appiumDriver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+            appiumFluentWait = new FluentWait<AppiumDriver<MobileElement>>(appiumDriver);
+            appiumFluentWait.withTimeout(Duration.ofSeconds(3))
+                    .pollingEvery(Duration.ofMillis(250))
+                    .ignoring(NoSuchElementException.class);
+        }else{
+
+            selector = SelectorFactory
                 .createElementHelper(localAndroid ? SelectorType.ANDROID : SelectorType.IOS);
-        appiumDriver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-        appiumFluentWait = new FluentWait<AppiumDriver<MobileElement>>(appiumDriver);
-        appiumFluentWait.withTimeout(Duration.ofSeconds(30))
-                .pollingEvery(Duration.ofMillis(450))
-                .ignoring(NoSuchElementException.class);
+            appiumDriver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+            appiumFluentWait = new FluentWait<AppiumDriver<MobileElement>>(appiumDriver);
+            appiumFluentWait.withTimeout(Duration.ofSeconds(30))
+                    .pollingEvery(Duration.ofMillis(450))
+                    .ignoring(NoSuchElementException.class);
+        }
 
 
 
