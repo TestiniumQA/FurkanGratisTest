@@ -193,7 +193,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "infoCheckbox"
 * Elementine tıkla "salesContractCheckbox"
 * Elementine tıkla "continueBtn"
-* Elementin yüklenmesini bekle "iycCard"
+//* Elementin yüklenmesini bekle "iycCard"
 
 # Iyzico alanı fiyat kontrol edilir.
 * "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
