@@ -195,6 +195,7 @@ This is a concept file with following syntax for each concept.
 * "instagramBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "instagramBtn"
 * Elementine tıkla "instagramBtn"
+* "3" saniye bekle
 * "Gratis" değerini sayfa üzerinde olup olmadığını kontrol et.
 //* Elementin yüklenmesini bekle "instagramPage"
 * "1" saniye bekle
@@ -380,6 +381,12 @@ This is a concept file with following syntax for each concept.
 # Urun detay sayfasına geçilir.
 * Element var mı kontrol et "productName"
 * Elementine tıkla "productName"
+* "pageToolbarTitle" elementinin "Ürün Detay" textini içerdiği kontrol edilir
+* "productDetailTitle" li elementi bul ve değerini "ürün adı" olarak sakla
+
+# Gratis kart indirimli ürün detay sayfasına geçilir.
+* "gratisCardPrice"li elementi bulana kadar "7" kere swipe yap ve elementi bul
+* Elementine tıkla "gratisCardPrice"
 * "pageToolbarTitle" elementinin "Ürün Detay" textini içerdiği kontrol edilir
 * "productDetailTitle" li elementi bul ve değerini "ürün adı" olarak sakla
 

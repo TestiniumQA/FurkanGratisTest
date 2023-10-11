@@ -12,7 +12,7 @@ tags:Gratis_Android_UrunDetayPaylasZoomNonLoginGratisKart
 * Kategoriler sayfasina gecilir.
 * "Makyaj" isimli kategori seçilir.
 * Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir.
-* Urun detay sayfasına geçilir.
+* Gratis kart indirimli ürün detay sayfasına geçilir.
 * Ürün detayda ürün fotosu swipe yapılır.
 * Ürünün paylaş ikonuna tıklanır.
 * Ürünün zoom ikonuna tıklanır.
