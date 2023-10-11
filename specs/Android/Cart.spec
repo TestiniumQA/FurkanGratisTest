@@ -18,8 +18,6 @@ Cart Popup Slider And Add To Cart
 tags:Gratis_Android_KasaArkasiPopupSlideVeUrunEkleme
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Ana sayfa tab'ına tıklanır.
-* Ana sayfadan bir urun sepete eklenir.
 * Kasa arkası popup'inda swipe yapilir ve urun sepete eklenir.
 
 Cart Slider And Add To Cart
@@ -39,8 +37,10 @@ tags:Gratis_Android_UrunAdediArttirmaVeAzaltma
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
 * Sepet kontrol edilerek temizlenir.
-* Ana sayfa tab'ına tıklanır.
-* Ana sayfadan bir urun sepete eklenir.
+* Ana sayfaya geçilir.
+* Anasayfa urun kodu "10045252" yazilir, arama yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Urun adedi arttirilir.
 * Urun adedi arttirilir.
@@ -64,8 +64,6 @@ Add A Favorite List From Cart
 tags:Gratis_Android_SepetteFavoriListesiOlusturmaVeSilme
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Ana sayfa tab'ına tıklanır.
-* Ana sayfadan bir urun sepete eklenir.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Sepette favori butonuna tiklanir.
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir.
@@ -79,8 +77,6 @@ Cart Popup Slider Product Detail And Add To Cart
 tags:Gratis_Android_KasaArkasiPopupUrunDetayVeSepeteEkleme
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
-* Ana sayfa tab'ına tıklanır.
-* Ana sayfadan bir urun sepete eklenir.
 * Kasa arkasi urun detayina gidilir.
 * Urun detay sayfasinda urun sepete eklenir.
 * Sepet kontrol edilerek temizlenir.
