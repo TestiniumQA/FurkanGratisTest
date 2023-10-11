@@ -18,6 +18,9 @@ Cart Popup Slider And Add To Cart
 tags:Gratis_Android_KasaArkasiPopupSlideVeUrunEkleme
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
+* Sepet kontrol edilerek temizlenir.
+* Ana sayfa tab'ına tıklanır.
+* Ana sayfadan bir urun sepete eklenir.
 * Kasa arkası popup'inda swipe yapilir ve urun sepete eklenir.
 
 Cart Slider And Add To Cart
@@ -77,6 +80,9 @@ Cart Popup Slider Product Detail And Add To Cart
 tags:Gratis_Android_KasaArkasiPopupUrunDetayVeSepeteEkleme
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile login olunur.
+* Sepet kontrol edilerek temizlenir.
+* Ana sayfa tab'ına tıklanır.
+* Ana sayfadan bir urun sepete eklenir.
 * Kasa arkasi urun detayina gidilir.
 * Urun detay sayfasinda urun sepete eklenir.
 * Sepet kontrol edilerek temizlenir.
