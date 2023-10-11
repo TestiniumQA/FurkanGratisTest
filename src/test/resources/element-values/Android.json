@@ -881,8 +881,8 @@
   },
   {
     "key": "productAddButton",
-    "androidValue": "com.gratis.android:id/product_add_button",
-    "androidType": "id",
+    "androidValue": "(//*[@resource-id='com.gratis.android:id/product_add_button'])[2]",
+    "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
   },
