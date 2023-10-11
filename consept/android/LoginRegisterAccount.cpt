@@ -394,6 +394,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "customerInformationCheck3"
 * "registerButton"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementine tıkla "registerButton"
+* Elementin yüklenmesini bekle "pageToolbarTitle"
 * toast message "Profil bilgileriniz başarıyla güncellendi" değerine eşit mi
 
 # Uye bilgileri güncellemesi geri alınır.
@@ -414,6 +415,7 @@ This is a concept file with following syntax for each concept.
 "
 * "registerButton"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementine tıkla "registerButton"
+* Elementin yüklenmesini bekle "pageToolbarTitle"
 * toast message "Profil bilgileriniz başarıyla güncellendi" değerine eşit mi
 
 # Uye bilgileri guncellendiği kontrol edilir.
