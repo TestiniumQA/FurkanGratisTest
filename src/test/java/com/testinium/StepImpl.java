@@ -1162,6 +1162,16 @@ public class StepImpl extends HookImpl {
         logger.info(saveElementTxt + " sayfa üzerinde bulundu");
     }
 
+    @Step({"<saveKey> olarak saklanan değerin sayfa üzerinde olmadığını kontrol et"})
+    public void getPageSourceDontFindSaveKey(String saveKey) {
+        String saveElementTxt= StoreHelper.INSTANCE.getValue(saveKey);
+
+        assertFalse(appiumDriver.getPageSource().contains(saveElementTxt), saveElementTxt + " sayfa üzerinde bulundu."
+        );
+
+        logger.info(saveElementTxt + " sayfa üzerinde bulunmadı");
+    }
+
     @Step({"<key> değerini sayfa üzerinde olmadıgını kontrol et"})
     public void getPageSourceFindWordKey(String key) {
 

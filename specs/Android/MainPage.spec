@@ -79,7 +79,7 @@ tags:Gratis_Android_EnSonGezdiklerimFavori
 * Profil sayfasındaki Favori butonuna tiklanir.
 * Listeden yeni eklenen favori listesi secilir.
 * Favori listesi silinir.
-* "ürün adı" olarak saklanan değerin sayfa üzerinde olup olmadığını kontrol et
+* "ürün adı" olarak saklanan değerin sayfa üzerinde olmadığını kontrol et
 
 Non-Login Visited Add Favorite
 ------------------------------
