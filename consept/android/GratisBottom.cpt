@@ -324,6 +324,7 @@ This is a concept file with following syntax for each concept.
 * Geri butonuna bas
 
 # Favorilerim sayfasina gecilir.
+* Elementine tıkla "catalogOptions"
 * Element var mı kontrol et "catalogFav"
 * Elementine tıkla "catalogFav"
 * Element var mı kontrol et "catalogFav"
