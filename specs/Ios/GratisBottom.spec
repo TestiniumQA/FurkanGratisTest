@@ -146,7 +146,7 @@ IOS Scenario Sort By
 tags:Gratis_IOS_Siralama
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
-* Kategorilerden rastgele biri secilirek urun listeleme sayfasina gecilir
+* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
 * Sırala butonuna tıklanır
 * Akıllı Sıralama butonuna tıklanır
 * Sırala butonuna tıklanır
