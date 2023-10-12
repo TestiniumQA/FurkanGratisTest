@@ -296,11 +296,12 @@ This is a concept file with following syntax for each concept.
 
 # Katalog sayfaları swipe edilir.
 * "3" kere sağa kaydirilir
-* Elementine tıkla "catalogPage"
-* Elementine tıkla "catalogPage"
 * "1" saniye bekle
-* Elementine tıkla "catalogPage"
-* Elementine tıkla "catalogPage"
+* "500","1000" koordinatlarına tıkla
+* "500","1000" koordinatlarına tıkla
+* "1" saniye bekle
+* "500","1000" koordinatlarına tıkla
+* "500","1000" koordinatlarına tıkla
 * "1" saniye bekle
 * "2" kere sola kaydirilir
 
