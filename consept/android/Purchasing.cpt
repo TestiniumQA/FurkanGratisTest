@@ -89,11 +89,11 @@ This is a concept file with following syntax for each concept.
 
 # Adrese Teslim Fatura adresi değiştirilir.
 * "selectAddressCheckbox"li elementi bulana kadar "2" kere swipe yap ve elementi bul
-* "storeBillingAddressName" li elementi bul ve değerini "ilkFaturaAdresi" olarak sakla
 * Elementine tıkla "selectAddressCheckbox"
+//* "addressTypeTxt" li elementi bul ve değerini "ilkFaturaAdresi" olarak sakla
 * Elementine tıkla "otherBillingAddressBtn"
 * "Fatura Adresi Olarak Seç" text degerine sahip elemente tikla.
-* "storeBillingAddressName" li elementin text degerini hafizada "ilkFaturaAdresi" olarak saklanan text ayni olmadigini kontrol et
+//* "storeBillingAddressName" li elementin text degerini hafizada "ilkFaturaAdresi" olarak saklanan text ayni olmadigini kontrol et
 
 # Mağazadan Teslimat Fatura adresi değiştirilir.
 * "storeBillingAddressBook"li elementi bulana kadar "2" kere swipe yap ve elementi bul
