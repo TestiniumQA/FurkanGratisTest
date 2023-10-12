@@ -1275,7 +1275,7 @@
   },
   {
     "key": "catalogPdf",
-    "androidValue": "//android.view.View[@text='PDF Indir']",
+    "androidValue": "//*[@text='PDF Indir']",
     "androidType": "xpath"
   },
   {
