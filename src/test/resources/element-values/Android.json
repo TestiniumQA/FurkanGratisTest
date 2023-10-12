@@ -1255,7 +1255,12 @@
   },
   {
     "key": "catalogOptions",
-    "androidValue": "//android.widget.Button",
+    "androidValue": "//android.widget.Button[@text='Ana menü']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "catalogFavClose",
+    "androidValue": "//android.widget.Button[@text='Kapat']",
     "androidType": "xpath"
   },
   {

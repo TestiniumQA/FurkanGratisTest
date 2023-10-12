@@ -327,7 +327,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "catalogFav"
 * Elementine tıkla "catalogFav"
 * Element var mı kontrol et "catalogFav"
-* Elementine tıkla "catalogOptions"
+* Elementine tıkla "catalogFavClose"
 
 # Sırala butonuna tıklanır.
 * Elementin yüklenmesini bekle "sıralaBtn"
