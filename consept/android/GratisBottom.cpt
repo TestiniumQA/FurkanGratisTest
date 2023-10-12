@@ -177,7 +177,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "aboutBtn"
 * Elementin yüklenmesini bekle "aboutPageToolbar"
 * "1" saniye bekle
-* "2" kere aşağıya kaydır
+* "1" kere aşağıya kaydır
 * "1" saniye bekle
 * Geri butonuna bas
 * Elementin yüklenmesini bekle "digerTab"
@@ -206,7 +206,8 @@ This is a concept file with following syntax for each concept.
 * "twitterBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "twitterBtn"
 * Elementine tıkla "twitterBtn"
-* Elementin yüklenmesini bekle "twitterPage"
+//* Elementin yüklenmesini bekle "twitterPage"
+* "gratis" değerini sayfa üzerinde olup olmadığını kontrol et.
 * "1" saniye bekle
 * Geri butonuna bas
 * Elementin yüklenmesini bekle "digerTab"
