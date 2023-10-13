@@ -1314,6 +1314,11 @@
     "androidType": "id"
   },
   {
+    "key": "productName2",
+    "androidValue": "(//*[@resource-id='com.gratis.android:id/product_desc_txt'])[2]",
+    "androidType": "xpath"
+  },
+  {
     "key": "tabHeader",
     "androidValue": "com.gratis.android:id/tab_header_txt",
     "androidType": "id"
