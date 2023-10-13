@@ -36,10 +36,75 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 * Elementine tıkla "closeImg"
 
-# Gratis Card ile ürün detayda login olunur.
+# Gratis Card ile ürün detayda rastgele login olunur.
 * "detailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementine tıkla "detailGratisCardBtn"
 * "AndroidMail" csv dosyasindan rastgele kullanici sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "detailShareBtn"
+* Element var mı kontrol et "detailZoomBtn"
+* Element var mı kontrol et "kampanyaSec"
+* Elementine tıkla "detailGratisCardBtn"
+* "emailInput" değerini sayfa üzerinde olmadıgını kontrol et
+
+# Gratis Card ile ürün detayda Gratis1 login olunur.
+* "detailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "detailGratisCardBtn"
+* "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "detailShareBtn"
+* Element var mı kontrol et "detailZoomBtn"
+* Element var mı kontrol et "kampanyaSec"
+* Elementine tıkla "detailGratisCardBtn"
+* "emailInput" değerini sayfa üzerinde olmadıgını kontrol et
+
+# Gratis Card ile ürün detayda Gratis2 login olunur.
+* "detailGratisCardBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementine tıkla "detailGratisCardBtn"
+* "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "detailShareBtn"
+* Element var mı kontrol et "detailZoomBtn"
+* Element var mı kontrol et "kampanyaSec"
+* Elementine tıkla "detailGratisCardBtn"
+* "emailInput" değerini sayfa üzerinde olmadıgını kontrol et
+
+# Gratis Card ile ürün detayda Gratis3 login olunur.
+* "detailGratisCardBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Elementine tıkla "detailGratisCardBtn"
+* "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "detailShareBtn"
+* Element var mı kontrol et "detailZoomBtn"
+* Element var mı kontrol et "kampanyaSec"
+* Elementine tıkla "detailGratisCardBtn"
+* "emailInput" değerini sayfa üzerinde olmadıgını kontrol et
+
+# Gratis Card ile ürün detayda Gratis4 login olunur.
+* "detailGratisCardBtn"li elementi bulana kadar "4" kere swipe yap ve elementi bul
+* Elementine tıkla "detailGratisCardBtn"
+* "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "detailShareBtn"
+* Element var mı kontrol et "detailZoomBtn"
+* Element var mı kontrol et "kampanyaSec"
+* Elementine tıkla "detailGratisCardBtn"
+* "emailInput" değerini sayfa üzerinde olmadıgını kontrol et
+
+# Gratis Card ile ürün detayda Gratis5 login olunur.
+* "detailGratisCardBtn"li elementi bulana kadar "5" kere swipe yap ve elementi bul
+* Elementine tıkla "detailGratisCardBtn"
+* "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
 * "2" saniye bekle

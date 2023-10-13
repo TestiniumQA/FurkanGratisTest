@@ -10,7 +10,7 @@ Login
 tags:Gratis_Android_Login
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
-* Login olunur.
+* Rastgele login olunur.
 * Uygulamadan cikis yapilir.
 
 Register
@@ -47,7 +47,7 @@ Changing Password
 tags:Gratis_Android_SifreDegistirme
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
-* Login olunur.
+* Rastgele login olunur.
 * Sifre basarili sekilde degistirilir.
 
 Changing Password Negative
@@ -55,7 +55,7 @@ Changing Password Negative
 tags:Gratis_Android_SifreDegistirmeNegatif
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
-* Login olunur.
+* Rastgele login olunur.
 * Sifre değiştirme alanına gidilir.
 * Eski şifre eksik yazılır ve uyarı mesajı görülür.
 * Yeni şifre ve tekrarı uyuşmuyor uyarı mesajı görülür.

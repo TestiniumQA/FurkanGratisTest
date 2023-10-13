@@ -9,8 +9,43 @@ This is a concept file with following syntax for each concept.
 * "digerTab" elementine sayacli tikla "loginTab" value degerini bekle
 * "loginTab" elementine sayacli tikla "emailInput" value degerini bekle
 
-# Login olunur.
+# Rastgele login olunur.
 * "AndroidMail" csv dosyasindan rastgele kullanici sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Element var mı kontrol et "textInputEndIcon"
+* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "anasayfaTab"
+
+# Gratis1 ile login olunur.
+* "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Element var mı kontrol et "textInputEndIcon"
+* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "anasayfaTab"
+
+# Gratis2 ile login olunur.
+* "AndroidMail" csv dosyasindan "2" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Element var mı kontrol et "textInputEndIcon"
+* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "anasayfaTab"
+
+# Gratis3 ile login olunur.
+* "AndroidMail" csv dosyasindan "3" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Element var mı kontrol et "textInputEndIcon"
+* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "anasayfaTab"
+
+# Gratis4 ile login olunur.
+* "AndroidMail" csv dosyasindan "4" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Element var mı kontrol et "textInputEndIcon"
+* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "anasayfaTab"
+
+# Gratis0 ile login olunur.
+* "AndroidMail" csv dosyasindan "0" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
 * "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle

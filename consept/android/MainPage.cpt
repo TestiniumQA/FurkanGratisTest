@@ -51,8 +51,58 @@ This is a concept file with following syntax for each concept.
 * Geri butonuna bas
 * "1" saniye bekle
 
-# Favori ikonu ile login olunur.
+# Favori ikonu ile rastgele login olunur.
 * "AndroidMail" csv dosyasindan rastgele kullanici sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
+* "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+* "" değerini sayfa üzerinde olup olmadığını kontrol et.
+
+# Favori ikonu ile Gratis1 login olunur.
+* "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
+* "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+* "" değerini sayfa üzerinde olup olmadığını kontrol et.
+
+# Favori ikonu ile Gratis2 login olunur.
+* "AndroidMail" csv dosyasindan "2" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
+* "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+* "" değerini sayfa üzerinde olup olmadığını kontrol et.
+
+# Favori ikonu ile Gratis3 login olunur.
+* "AndroidMail" csv dosyasindan "3" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
+* "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+* "" değerini sayfa üzerinde olup olmadığını kontrol et.
+
+# Favori ikonu ile Gratis4 login olunur.
+* "AndroidMail" csv dosyasindan "4" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
+* "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+* "" değerini sayfa üzerinde olup olmadığını kontrol et.
+
+# Favori ikonu ile Gratis0 login olunur.
+* "AndroidMail" csv dosyasindan "0" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
 * "2" saniye bekle
@@ -76,7 +126,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "AddedToCartText"
 * Elementine tıkla "goToCartButton"
 
-# Sepete Ekle butonu ile login olunur.
+# Sepete Ekle butonu ile rastgele login olunur.
 * "AndroidMail" csv dosyasindan rastgele kullanici sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
@@ -84,8 +134,48 @@ This is a concept file with following syntax for each concept.
 * "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
 * "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
 
+# Sepete Ekle butonu ile Gratis1 login olunur.
+* "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* Elementin yüklenmesini bekle "AddedToCartText"
+* "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+
+# Sepete Ekle butonu ile Gratis2 login olunur.
+* "AndroidMail" csv dosyasindan "2" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* Elementin yüklenmesini bekle "AddedToCartText"
+* "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+
+# Sepete Ekle butonu ile Gratis3 login olunur.
+* "AndroidMail" csv dosyasindan "3" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* Elementin yüklenmesini bekle "AddedToCartText"
+* "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+
+# Sepete Ekle butonu ile Gratis4 login olunur.
+* "AndroidMail" csv dosyasindan "4" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* Elementin yüklenmesini bekle "AddedToCartText"
+* "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+
+# Sepete Ekle butonu ile Gratis0 login olunur.
+* "AndroidMail" csv dosyasindan "0" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* Elementin yüklenmesini bekle "AddedToCartText"
+* "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+
 # En Son Gezdiklerim alanına gidilir.
-* "8" kere aşağıya kaydır
+* "4" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "key"
 * "visitedAddBtn"li elementi bulana kadar "10" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "visitedAddBtn"

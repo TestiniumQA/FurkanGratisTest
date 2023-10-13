@@ -283,6 +283,37 @@ public class StepImpl extends HookImpl {
             System.out.println(password);
         }
     }
+    @Step("<key> csv dosyasindan <number> numaralı kullaniciyi sec")
+    public void csvExactReader(String value, String no) {
+        try {
+            String line = "";
+            String splitBy = ",";
+
+            BufferedReader br = new BufferedReader(new FileReader("data/"+value+".csv"));
+            while ((line = br.readLine()) != null)
+            {
+                String[] keyValue = line.split(splitBy,2);
+                user.add(keyValue[0]);
+                password.add(keyValue[1]);
+            }
+
+            System.out.println("Maillere ait csv okundu");
+
+
+            int number = Integer.parseInt(no);
+
+            accountUser = user.get(number);
+            accountpassword = password.get(number);
+
+            System.out.println("Kullanilacak Kullanici adi :" + accountUser);
+            System.out.println("Kullanilacak Sifre :" + accountpassword);
+
+        }catch (Exception e){
+            System.out.println("Csv dosyasi oluşturulurken hatayla karsilasildi");
+            System.out.println(user);
+            System.out.println(password);
+        }
+    }
 
     @Step("<key> csv dosyasindan rastgele il ve ilce sec")
     public void csvCityReader(String value) {
