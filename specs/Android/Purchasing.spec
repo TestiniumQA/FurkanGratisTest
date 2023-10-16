@@ -256,12 +256,15 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
 * Sepet kasa arkasi popup'i varsa kapatilir.
-//* Bir ürün için sepet kontrol edilerek temizlenir.
-//* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
-//* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
-//* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
-//* Ana sayfa sepet ikonuna tiklanir.
-//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
