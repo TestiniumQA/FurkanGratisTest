@@ -223,7 +223,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "newAddressAddCityDropdown"
 * Elementine tıkla "newAddressAddCityDropdown"
 * "2" saniye bekle
-* sayfadaki "20" "60" alana dokun
+* sayfadaki "20" "75" alana dokun
 * "2" saniye bekle
 
 # Adres Ekle Ilce ismi secilir.
