@@ -105,4 +105,4 @@ tags:Gratis_Android_SepetteMaximumUrunEkleme
 * Urun adedi arttirilir.
 * Urun adedi arttirilir.
 * Urun adedi arttirilir.
-* toast message "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." değerine eşit mi
+* "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." değerini sayfa üzerinde olup olmadığını kontrol et.
