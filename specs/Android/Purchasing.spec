@@ -95,11 +95,11 @@ tags:Gratis_Android_YeniAdresSilipEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis2 login olunur.
-//* Bir ürün için sepet kontrol edilerek temizlenir.
-//* Ana sayfaya geçilir.
-//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-//* Ürün detay sayfasinda urun sepete eklenir.
-//* Sepete git'e tıklanır.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Ana sayfaya geçilir.
+* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
