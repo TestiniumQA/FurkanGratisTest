@@ -41,7 +41,7 @@ tags:Gratis_Android_UrunAdediArttirmaVeAzaltma
 * Sepet ikonu ile Gratis2 login olunur.
 * Sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Anasayfa urun kodu "10045252" yazilir, arama yapilir.
+* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
