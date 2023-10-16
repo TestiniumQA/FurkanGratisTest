@@ -49,6 +49,7 @@ tags:Gratis_Android_UrunAdediArttirmaVeAzaltma
 * Urun adedi arttirilir.
 * Urun adedi arttirilir.
 * Urun adedi arttirilir.
+* Maximum ürün uyarısı kontrol edilir.
 * Urun adedi azaltilir.
 * Bos sepetten ana sayfaya yonlendirme yapilir.
 
@@ -105,4 +106,4 @@ tags:Gratis_Android_SepetteMaximumUrunEkleme
 * Urun adedi arttirilir.
 * Urun adedi arttirilir.
 * Urun adedi arttirilir.
-* "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." değerini sayfa üzerinde olup olmadığını kontrol et.
+* Maximum ürün uyarısı kontrol edilir.
