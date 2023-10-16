@@ -208,7 +208,7 @@ tags:Gratis_Android_ListedenMaximumSepeteEkleme
 * Listeleme alanından bir ürün sepete eklenir.
 * Alışverişe devam edilir.
 * Listeleme alanından bir ürün sepete eklenir.
-* toast message "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." değerine eşit mi
+* Maximum ürün uyarısı kontrol edilir.
 
 Category Filter List Stock And Click Cancel
 -------------------------------------------
