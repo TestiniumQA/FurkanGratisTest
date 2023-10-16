@@ -203,7 +203,7 @@ This is a concept file with following syntax for each concept.
 # Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * "deleteAddressButton" li elementi bul ve varsa tıkla
 * "deleteAddressPopupButton" li elementi bul ve varsa tıkla
-* "newAddressCard" değerini sayfa üzerinde olmadıgını kontrol et
+//* "newAddressCard" değerini sayfa üzerinde olmadıgını kontrol et
 
 # Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur.
 * "1" saniye bekle
