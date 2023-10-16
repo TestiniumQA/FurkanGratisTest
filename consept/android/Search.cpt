@@ -25,7 +25,7 @@
 * "1" saniye bekle
 
 # Urun kodu <text> yazilir, arama yapilir.
-* Elementine tıkla "urunSearchBox"
+* "urunSearchBox" li element varsa tıkla yoksa devam et
 * "urunSearchTxt" elementi bulunana kadar en fazla "5" saniye kadar bekle
 * Elementine tıkla "urunSearchTxt"
 * "urunSearchTxt" elementi bulunana kadar en fazla "5" saniye kadar bekle
