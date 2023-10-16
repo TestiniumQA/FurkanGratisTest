@@ -52,12 +52,12 @@ Non-Login Add To Cart
 tags:Gratis_Android_NonLoginSepeteEkleme
 * Uygulama baslatilir.
 * Non-Login ana sayfadan bir urun sepete eklenir.
-* Sepete Ekle butonu ile login olunur.
+* Sepete Ekle butonu ile Gratis1 login olunur.
 * Alışverişe devam edilir.
 * Uygulamadan cikis yapilir.
 * Ana sayfa tab'ına tıklanır.
 * Non-Login ana sayfadan bir urun sepete eklenir.
-* Sepete Ekle butonu ile login olunur.
+* Sepete Ekle butonu ile Gratis1 login olunur.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Sepet kontrol edilerek temizlenir.
@@ -124,7 +124,7 @@ tags:Gratis_Android_EnSonGezdiklerimNonLoginSepetDevam
 * En Çok Satanlar ürünlerine tıklanır.
 * En Son Gezdiklerim alanına gidilir.
 * En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
-* Sepete Ekle butonu ile login olunur.
+* Sepete Ekle butonu ile Gratis1 login olunur.
 * Alışverişe devam edilir.
 
 Non-Login Visited Add To Cart And Go To Cart
@@ -134,6 +134,6 @@ tags:Gratis_Android_EnSonGezdiklerimNonLoginSepeteGit
 * En Çok Satanlar ürünlerine tıklanır.
 * En Son Gezdiklerim alanına gidilir.
 * En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
-* Sepete Ekle butonu ile login olunur.
+* Sepete Ekle butonu ile Gratis1 login olunur.
 * Sepete git'e tıklanır.
 * Bir ürün için sepet kontrol edilerek temizlenir.
