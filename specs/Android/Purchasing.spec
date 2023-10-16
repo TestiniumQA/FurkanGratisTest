@@ -255,6 +255,7 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 //* Bir ürün için sepet kontrol edilerek temizlenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
