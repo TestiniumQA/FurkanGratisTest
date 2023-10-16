@@ -118,11 +118,11 @@ tags:Gratis_Android_YeniAdresEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
-//* Bir ürün için sepet kontrol edilerek temizlenir.
-//* Ana sayfaya geçilir.
-//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-//* Ürün detay sayfasinda urun sepete eklenir.
-//* Sepete git'e tıklanır.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Ana sayfaya geçilir.
+* Anasayfa urun kodu "10045252" yazilir, arama yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
@@ -280,11 +280,11 @@ tags:Gratis_Android_MagazadanKendimTeslimat
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis4 login olunur.
-//* Bir ürün için sepet kontrol edilerek temizlenir.
-//* Ana sayfaya geçilir.
-//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-//* Ürün detay sayfasinda urun sepete eklenir.
-//* Sepete git'e tıklanır.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Ana sayfaya geçilir.
+* Anasayfa urun kodu "10045252" yazilir, arama yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
