@@ -43,4 +43,4 @@ Login with Cart Icon
 tags:Gratis_Android_SepetIkonuileLogin
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile login olunur.
+* Sepet ikonu ile Gratis0 login olunur.
