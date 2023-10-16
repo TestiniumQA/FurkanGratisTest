@@ -33,7 +33,7 @@ tags:Gratis_Android_KargoIndirimsiz
 * Sepet ikonu ile Gratis2 login olunur.
 * Sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Anasayfa urun kodu "10045252" yazilir, arama yapilir.
+* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -120,7 +120,7 @@ tags:Gratis_Android_YeniAdresEkleme
 * Sepet ikonu ile Gratis3 login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Anasayfa urun kodu "10045252" yazilir, arama yapilir.
+* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -282,7 +282,7 @@ tags:Gratis_Android_MagazadanKendimTeslimat
 * Sepet ikonu ile Gratis4 login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Anasayfa urun kodu "10045252" yazilir, arama yapilir.
+* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
