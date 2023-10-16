@@ -77,7 +77,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "getDirectionsBtn"
 
 # Ana sayfa sepet ikonuna tiklanir.
-* Elementin yüklenmesini bekle "kampanyaSec"
+//* Elementin yüklenmesini bekle "kampanyaSec"
 * Elementine tıkla "sepetBtn"
 
 # Sepet ikonu ile rastgele login olunur.
