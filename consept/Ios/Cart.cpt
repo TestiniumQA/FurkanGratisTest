@@ -21,11 +21,9 @@
 //* Elementin yüklenmesini bekle "sepetimSilBtn"
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-* Elementin yüklenmesini bekle "PageCloseIcon"
+//* Elementin yüklenmesini bekle "PageCloseIcon"
 * Elementin yüklenmesini bekle "BosSepetListesi"
 * "2" saniye bekle
-//* "BosSepetListesi" elementi bulunana kadar en fazla "25" saniye kadar bekle
-//* "BosSepetListesi" icin sayac tut
 
 # Ana sayfadan bir urun sepete eklenir
 * Elementin yüklenmesini bekle "AnasayfaTab"
