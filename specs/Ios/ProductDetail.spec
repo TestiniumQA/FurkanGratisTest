@@ -13,7 +13,7 @@ tags:Gratis_IOS_UrunDetayPaylasZoomNonLoginGratisKart
 * Ürün detayda ürün fotosu swipe yapılır
 * Ürünün paylaş ikonuna tıklanır
 * Ürünün zoom ikonuna tıklanır
-* Gratis Card ile ürün detayda login olunur
+* Gratis Card ile ürün detayda Gratis3 login olunur
 
 IOS Scenario Colour Select
 --------------------------
@@ -35,7 +35,7 @@ tags:Gratis_IOS_UrunDetayAdetSecimiNonLoginSepetDevam
 * Urun detay sayfasına geçilir
 * Ürün detayda "3" kadar ürün adedi seçilir
 * Non-Login ürün detay sayfasinda urun sepete eklenir
-* Sepete Ekle butonu ile login olunur
+* Sepete Ekle butonu ile Gratis3 login olunur
 * Alışverişe devam edilir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfa sepet ikonuna tiklanir
@@ -52,7 +52,7 @@ tags:Gratis_IOS_UrunDetayAdetSecimiNonLoginSepeteGit
 * Urun detay sayfasına geçilir
 * Ürün detayda "3" kadar ürün adedi seçilir
 * Non-Login ürün detay sayfasinda urun sepete eklenir
-* Sepete Ekle butonu ile login olunur
+* Sepete Ekle butonu ile Gratis3 login olunur
 * Sepete git'e tıklanır
 * Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
@@ -62,7 +62,7 @@ IOS Scenario Login Add To Cart and Go To Cart
 tags:Gratis_IOS_UrunDetaySepeteEkleme
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Giris yapilir
+* Gratis3 ile login olunur
 * Kategoriler sayfasina gecilir
 * "Cilt Bakım" isimli kategori seçilir
 * Alt kategorilerden biri "El Bakımı", "Vazelin" seçilir
@@ -81,7 +81,7 @@ IOS Scenario Max Add To Cart in Product Detail
 tags:Gratis_IOS_UrunDetayMaximumSepeteEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile login olunur
+* Sepet ikonu ile Gratis3 login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
 * "Cilt Bakım" isimli kategori seçilir
@@ -102,7 +102,7 @@ IOS Scenario Add To Favorite
 tags:Gratis_IOS_UrunDetayFavori
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Giris yapilir
+* Gratis3 ile login olunur
 * Kategoriler sayfasina gecilir
 * "Saç Bakım" isimli kategori seçilir
 * Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
@@ -128,7 +128,7 @@ tags:Gratis_IOS_UrunDetayNonLoginFavori
 * Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
-* Favori ikonu ile login olunur
+* Favori ikonu ile Gratis3 login olunur
 * Urun favorilere eklenir
 * Ürün detay sayfasında ürün favorilerden çıkarılır
 
@@ -141,7 +141,7 @@ tags:Gratis_IOS_UrunDetayNonLoginFavoriListesi
 * Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
-* Favori ikonu ile login olunur
+* Favori ikonu ile Gratis3 login olunur
 * "nonLoginFavori" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir
 * Uygulama geri butonuna bas
 * Diger'e tiklanir diger sayfasinin acildigi gorulur

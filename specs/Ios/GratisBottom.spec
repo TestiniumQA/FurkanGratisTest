@@ -172,7 +172,7 @@ tags:Gratis_IOS_KategoriSecimiVeNonLoginSepeteGit
 * Urun detay sayfasına geçilir
 * Uygulama geri butonuna bas
 * Sepete Ekle butonuna tıklanır
-* Sepete Ekle butonu ile login olunur
+* Sepete Ekle butonu ile Gratis4 login olunur
 * Sepete git'e tıklanır
 * Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
@@ -184,7 +184,7 @@ tags:Gratis_IOS_KategoriSecimiVeNonLoginSepetDevam
 * Kategoriler sayfasina gecilir
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir
 * Sepete Ekle butonuna tıklanır
-* Sepete Ekle butonu ile login olunur
+* Sepete Ekle butonu ile Gratis4 login olunur
 * Alışverişe devam edilir
 * Sepete Ekle butonuna tıklanır
 * Sepete git'e tıklanır
@@ -196,7 +196,7 @@ IOS Scenario Login Choose Category and Add To Cart
 tags:Gratis_IOS_KategoriSecimiVeLoginSepeteEkleme
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Giris yapilir
+* Gratis4 ile login olunur
 * Kategoriler sayfasina gecilir
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir
 * Sepete Ekle butonuna tıklanır
@@ -211,7 +211,7 @@ IOS Scenario Max Add To Cart in Choose Category and Product List
 tags:Gratis_IOS_KategoriSecimiVeListelemeMaximumSepeteEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile login olunur
+* Sepete Ekle butonu ile Gratis4 login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir
@@ -233,7 +233,7 @@ tags:Gratis_IOS_NonLoginKategoriFavoriEkleme
 * Kategoriler sayfasina gecilir
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir
 * Listeleme alanından bir ürünün favori butonuna tıklanır
-* Favori ikonu ile login olunur
+* Favori ikonu ile Gratis4 login olunur
 * Urun favorilere eklenir
 * Ana sayfadaki urun favorilerden cikarilir
 
@@ -244,7 +244,7 @@ tags:Gratis_IOS_NonLoginKategoriFavoriListesiOlusturma
 * Kategoriler sayfasina gecilir
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir
 * Listeleme alanından bir ürünün favori butonuna tıklanır
-* Favori ikonu ile login olunur
+* Favori ikonu ile Gratis4 login olunur
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
@@ -257,7 +257,7 @@ IOS Scenario Category and Add To Favorite and Favorite List
 tags:Gratis_IOS_KategoriFavoriEklemeVeListeOlusturma
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Giris yapilir
+* Gratis4 ile login olunur
 * Kategoriler sayfasina gecilir
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir
 * Listeleme alanından bir ürünün favori butonuna tıklanır

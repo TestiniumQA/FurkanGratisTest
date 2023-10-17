@@ -10,7 +10,7 @@ IOS Scenario Deleting Address and Adding New Address
 tags:Gratis_IOS_YeniAdresEklemeVeSilme
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Giris yapilir
+* Gratis0 ile login olunur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
@@ -27,7 +27,7 @@ IOS Scenario Updating Address
 tags:Gratis_IOS_AdresGuncelleme
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Giris yapilir
+* Gratis0 ile login olunur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
 * Adres güncellemeye tıklanır
@@ -43,7 +43,7 @@ IOS Scenario Favorite List Name Update
 tags:Gratis_IOS_FavoriAdiListeDuzenleme
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Giris yapilir
+* Gratis0 ile login olunur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Profil sayfasındaki Favori butonuna tiklanir
 * Favori sayfasindaki Liste Adini Duzenle butonuna tiklanir ve yeni isim girilir
@@ -53,7 +53,7 @@ IOS Scenario Adding A Product To Favorite List
 tags:Gratis_IOS_FavorilereUrunEklemeVeCikarma
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Giris yapilir
+* Gratis0 ile login olunur
 * En Cok Satanlar alanindan bir urunun favori butonuna tıklanir
 * Urun favorilere eklenir
 * Ana sayfadaki urun favorilerden cikarilir
@@ -63,7 +63,7 @@ IOS Scenario Add Select and Delete Favorite List
 tags:Gratis_IOS_ListeOlusturmaSecmeVeSilme
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Giris yapilir
+* Gratis0 ile login olunur
 * En Cok Satanlar alanindan bir urunun favori butonuna tıklanir
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
@@ -77,7 +77,7 @@ IOS Scenario Add To Cart From Favorite List
 tags:Gratis_IOS_FavoriListesindenSepeteEkleme
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Giris yapilir
+* Gratis0 ile login olunur
 * En Cok Satanlar alanindan bir urunun favori butonuna tıklanir
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
@@ -97,7 +97,7 @@ IOS Scenario From Favorite List to Home Page
 tags:Gratis_IOS_FavorilerdenAnasayfayaYonlendirme
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Giris yapilir
+* Gratis0 ile login olunur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Profil sayfasındaki Favorilerim ikonuna tiklanir
 * Favori listesinden ana sayfaya yonlendirme yapilir
@@ -107,7 +107,7 @@ IOS Scenario Max Add To Cart From Favorite List
 tags:Gratis_IOS_FavorilerdeMaximumSepeteEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile login olunur
+* Sepet ikonu ile Gratis0 login olunur
 * Sepet kontrol edilerek temizlenir
 * En Cok Satanlar alanindan bir urunun favori butonuna tıklanir
 * Urun favorilere eklenir

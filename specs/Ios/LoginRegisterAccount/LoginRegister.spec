@@ -10,7 +10,7 @@ IOS Scenario Login
 tags:Gratis_IOS_Login
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Giris yapilir
+* Rastgele login olunur
 * Uygulamadan cikis yapilir
 
 IOS Scenario Register
@@ -48,7 +48,7 @@ IOS Scenario Changing Password
 tags:Gratis_IOS_SifreDegistirme
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Giris yapilir
+* Rastgele login olunur
 * Sifre basarili sekilde degistirilir
 
 IOS Scenario Changing Password Negative
@@ -56,7 +56,7 @@ IOS Scenario Changing Password Negative
 tags:Gratis_IOS_SifreDegistirmeNegatif
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Giris yapilir
+* Rastgele login olunur
 * Sifre değiştirme alanına gidilir
 * Eski şifre eksik yazılır ve uyarı mesajı görülür
 * Yeni şifre ve tekrarı uyuşmuyor uyarı mesajı görülür
@@ -86,7 +86,7 @@ IOS Scenario Updating Customer Information
 tags:Gratis_IOS_UyeBilgileriGuncelleme
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Giris yapilir
+* Rastgele login olunur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Uye bilgilerim sayfasina gecilir
 * Uye bilgileri basarili sekilde guncellenir

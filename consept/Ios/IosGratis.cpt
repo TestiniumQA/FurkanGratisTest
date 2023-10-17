@@ -20,7 +20,7 @@
 * Elementin yüklenmesini bekle "EpostaInputAlani"
 //* "uyeOlVeyaGirisYap" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
 
-# Giris yapilir
+# Rastgele login olunur
 //* "digerSekmesi" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
 * "IOSmail" csv dosyasindan rastgele kullanici sec
 * Elementin yüklenmesini bekle "EpostaInputAlani"
@@ -31,6 +31,56 @@
 * Elementine tıkla "girisYapBtn"
 * Elementin yüklenmesini bekle "profilim"
 //* "girisYapBtn" elementine sayacli tikla "profilim" value degerini bekle
+
+# Gratis0 ile login olunur
+* "IOSmail" csv dosyasindan "0" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "EyeIcon"
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "profilim"
+
+# Gratis1 ile login olunur
+* "IOSmail" csv dosyasindan "1" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "EyeIcon"
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "profilim"
+
+# Gratis2 ile login olunur
+* "IOSmail" csv dosyasindan "2" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "EyeIcon"
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "profilim"
+
+# Gratis3 ile login olunur
+* "IOSmail" csv dosyasindan "3" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "EyeIcon"
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "profilim"
+
+# Gratis4 ile login olunur
+* "IOSmail" csv dosyasindan "4" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "EyeIcon"
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "profilim"
 
 # Kategoriler sayfasina gecilir
 * "kategorilerSekmesi" elementine sayacli tikla "kategorilerNavbar" value degerini bekle

@@ -103,8 +103,53 @@
 * Elementine tıkla "geriBtn"
 * "5" saniye bekle
 
-# Favori ikonu ile login olunur
+# Favori ikonu ile rastgele login olunur
 * "IOSmail" csv dosyasindan rastgele kullanici sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+
+# Favori ikonu ile Gratis0 login olunur
+* "IOSmail" csv dosyasindan "0" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+
+# Favori ikonu ile Gratis1 login olunur
+* "IOSmail" csv dosyasindan "1" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+
+# Favori ikonu ile Gratis2 login olunur
+* "IOSmail" csv dosyasindan "2" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+
+# Favori ikonu ile Gratis3 login olunur
+* "IOSmail" csv dosyasindan "3" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+
+# Favori ikonu ile Gratis4 login olunur
+* "IOSmail" csv dosyasindan "4" numaralı kullaniciyi sec
 * Elementin yüklenmesini bekle "EpostaInputAlani"
 * Elementin yüklenmesini bekle "sifreInputAlani"
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
@@ -120,8 +165,63 @@
 * Elementin yüklenmesini bekle "ProductAddButton"
 * Elementine tıkla "ProductAddButton"
 
-# Sepete Ekle butonu ile login olunur
+# Sepete Ekle butonu ile rastgele login olunur
 * "IOSmail" csv dosyasindan rastgele kullanici sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
+* "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
+* "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
+
+# Sepete Ekle butonu ile Gratis0 login olunur
+* "IOSmail" csv dosyasindan "0" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
+* "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
+* "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
+
+# Sepete Ekle butonu ile Gratis1 login olunur
+* "IOSmail" csv dosyasindan "1" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
+* "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
+* "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
+
+# Sepete Ekle butonu ile Gratis2 login olunur
+* "IOSmail" csv dosyasindan "2" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
+* "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
+* "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
+
+# Sepete Ekle butonu ile Gratis3 login olunur
+* "IOSmail" csv dosyasindan "3" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
+* "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
+* "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
+
+# Sepete Ekle butonu ile Gratis4 login olunur
+* "IOSmail" csv dosyasindan "4" numaralı kullaniciyi sec
 * Elementin yüklenmesini bekle "EpostaInputAlani"
 * Elementin yüklenmesini bekle "sifreInputAlani"
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir

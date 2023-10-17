@@ -39,10 +39,85 @@
 //* Elementine tıkla "CloseImg"
 * "ZoomPhoto" li element varsa tıkla "CloseImg" tıkla
 
-# Gratis Card ile ürün detayda login olunur
+# Gratis Card ile ürün detayda rastgele login olunur
 * "DetailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementine tıkla "DetailGratisCardBtn"
 * "IOSmail" csv dosyasindan rastgele kullanici sec
+*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "ProductDetailTitle"
+* Elementin yüklenmesini bekle "DetailShareBtn"
+* Element var mı kontrol et "DetailZoomBtn"
+* Element var mı kontrol et "ProductDetailImage"
+* Elementine tıkla "DetailGratisCardBtn"
+* "girisYapBtn" değerini sayfa üzerinde olmadıgını kontrol et
+
+# Gratis Card ile ürün detayda Gratis1 login olunur
+* "DetailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "DetailGratisCardBtn"
+* "IOSmail" csv dosyasindan "1" numaralı kullaniciyi sec
+*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "ProductDetailTitle"
+* Elementin yüklenmesini bekle "DetailShareBtn"
+* Element var mı kontrol et "DetailZoomBtn"
+* Element var mı kontrol et "ProductDetailImage"
+* Elementine tıkla "DetailGratisCardBtn"
+* "girisYapBtn" değerini sayfa üzerinde olmadıgını kontrol et
+
+# Gratis Card ile ürün detayda Gratis2 login olunur
+* "DetailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "DetailGratisCardBtn"
+* "IOSmail" csv dosyasindan "2" numaralı kullaniciyi sec
+*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "ProductDetailTitle"
+* Elementin yüklenmesini bekle "DetailShareBtn"
+* Element var mı kontrol et "DetailZoomBtn"
+* Element var mı kontrol et "ProductDetailImage"
+* Elementine tıkla "DetailGratisCardBtn"
+* "girisYapBtn" değerini sayfa üzerinde olmadıgını kontrol et
+
+# Gratis Card ile ürün detayda Gratis3 login olunur
+* "7DetailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "DetailGratisCardBtn"
+* "IOSmail" csv dosyasindan "3" numaralı kullaniciyi sec
+*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "ProductDetailTitle"
+* Elementin yüklenmesini bekle "DetailShareBtn"
+* Element var mı kontrol et "DetailZoomBtn"
+* Element var mı kontrol et "ProductDetailImage"
+* Elementine tıkla "DetailGratisCardBtn"
+* "girisYapBtn" değerini sayfa üzerinde olmadıgını kontrol et
+
+# Gratis Card ile ürün detayda Gratis4 login olunur
+* "DetailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "DetailGratisCardBtn"
+* "IOSmail" csv dosyasindan "4" numaralı kullaniciyi sec
+*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "ProductDetailTitle"
+* Elementin yüklenmesini bekle "DetailShareBtn"
+* Element var mı kontrol et "DetailZoomBtn"
+* Element var mı kontrol et "ProductDetailImage"
+* Elementine tıkla "DetailGratisCardBtn"
+* "girisYapBtn" değerini sayfa üzerinde olmadıgını kontrol et
+
+# Gratis Card ile ürün detayda Gratis5 login olunur
+* "DetailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "DetailGratisCardBtn"
+* "IOSmail" csv dosyasindan "5" numaralı kullaniciyi sec
 *  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
