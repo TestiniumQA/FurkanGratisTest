@@ -211,7 +211,7 @@ IOS Scenario Max Add To Cart in Choose Category and Product List
 tags:Gratis_IOS_KategoriSecimiVeListelemeMaximumSepeteEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepete Ekle butonu ile Gratis4 login olunur
+* Gratis4 ile login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir
