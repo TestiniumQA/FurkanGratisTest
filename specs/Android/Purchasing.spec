@@ -231,7 +231,6 @@ tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Sepet ikonu ile Gratis3 login olunur.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
-* Adres silinir.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.

@@ -121,7 +121,7 @@ tags:Gratis_Android_FavorilerdeMaximumSepeteEkleme
 * Favorilerdeki urun sepete eklenir ve alısverise devam edilir.
 * Favorilerdeki urun sepete eklenir ve alısverise devam edilir.
 * Favorilerdeki ürünün sepete ekleme butonuna tıklanır.
-* toast message "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." değerine eşit mi
+* Maximum ürün uyarısı kontrol edilir.
 
 Scenario Updating Customer Information
 ------------------------------------------
