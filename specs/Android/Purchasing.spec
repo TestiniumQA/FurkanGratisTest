@@ -143,7 +143,7 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
-//* Sepet temizlenir ve yeni ürün eklenir.
+* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -162,7 +162,7 @@ tags:Gratis_Android_BaskaAdresSecerekSiparis
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
-//* Sepet temizlenir ve yeni ürün eklenir.
+* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -179,7 +179,7 @@ tags:Gratis_Android_BaskaFaturaAdresiSecerekSiparis
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
-//* Sepet temizlenir ve yeni ürün eklenir.
+* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -196,7 +196,7 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDegistirme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
-//* Sepet temizlenir ve yeni ürün eklenir.
+* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
@@ -236,7 +236,7 @@ tags:Gratis_Android_MagazadanBaskasiTeslimat
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis4 login olunur.
-//* Sepet temizlenir ve yeni ürün eklenir.
+* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
@@ -335,7 +335,7 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis0 login olunur.
-//* Sepet temizlenir ve yeni ürün eklenir.
+* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
@@ -355,7 +355,7 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis0 login olunur.
-//* Sepet temizlenir ve yeni ürün eklenir.
+* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
@@ -376,7 +376,7 @@ tags:Gratis_Android_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis0 login olunur.
-//* Sepet temizlenir ve yeni ürün eklenir.
+* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
