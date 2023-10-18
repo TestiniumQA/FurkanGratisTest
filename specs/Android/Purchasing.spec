@@ -5,9 +5,12 @@ Created by testinium on 8.08.2023
 This is an executable specification file which follows markdown syntax.
 Every heading in this file denotes a scenario. Every bulleted point denotes a step.
 
+//*********************************************** PURCHASİNG 1 *********************************************************
+
 Above shipping cost
 ------------------------------
 tags:Gratis_Android_KargoIndirimli
+//EN AZ BİR ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis2 login olunur.
@@ -28,6 +31,7 @@ tags:Gratis_Android_KargoIndirimli
 Below shipping cost
 ------------------------------
 tags:Gratis_Android_KargoIndirimsiz
+//EN AZ BİR ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis2 login olunur.
@@ -48,14 +52,15 @@ tags:Gratis_Android_KargoIndirimsiz
 Choose Store Popup
 ------------------
 tags:Gratis_Android_MagazaSecPopup
+//EN AZ BİR ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis2 login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+//* Ana sayfaya geçilir.
+//* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+//* Ürün detay sayfasinda urun sepete eklenir.
+//* Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
@@ -74,6 +79,7 @@ tags:Gratis_Android_MagazaSecPopup
 Purchasing with Editing Address
 ----------------------------------
 tags:Gratis_Android_AdresDuzenleme
+//EN AZ BİR ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis2 login olunur.
@@ -90,17 +96,14 @@ tags:Gratis_Android_AdresDuzenleme
 * Iyzico alanı fiyat kontrol edilir.
 
 Purchasing with Deleting and Adding New Address
-----------------------------------
+-----------------------------------------------
 tags:Gratis_Android_YeniAdresSilipEkleme
+//SADECE BİR ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis2 login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
-* Sepet kasa arkasi popup'i varsa kapatilir.
+//* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -112,18 +115,16 @@ tags:Gratis_Android_YeniAdresSilipEkleme
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı fiyat kontrol edilir.
 
+//*********************************************** PURCHASİNG 2 *********************************************************
+
 Purchasing with Adding New Address
 ----------------------------------
 tags:Gratis_Android_YeniAdresEkleme
+//EN AZ BİR ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
-* Sepet kasa arkasi popup'i varsa kapatilir.
+* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -138,15 +139,11 @@ tags:Gratis_Android_YeniAdresEkleme
 Purchasing with Adding New Bil Address
 ----------------------------------
 tags:Gratis_Android_YeniFaturaAdresiEkleme
+//EN AZ BİR ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
-* Sepet kasa arkasi popup'i varsa kapatilir.
+//* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -161,15 +158,11 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 Choosing Another Address
 ------------------------
 tags:Gratis_Android_BaskaAdresSecerekSiparis
+//EN AZ 2 ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
-* Sepet kasa arkasi popup'i varsa kapatilir.
+//* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -182,15 +175,11 @@ tags:Gratis_Android_BaskaAdresSecerekSiparis
 Choosing Another Bil Address
 ----------------------------
 tags:Gratis_Android_BaskaFaturaAdresiSecerekSiparis
+//EN AZ 2 ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
-* Sepet kasa arkasi popup'i varsa kapatilir.
+//* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -203,15 +192,11 @@ tags:Gratis_Android_BaskaFaturaAdresiSecerekSiparis
 Purchasing with Store Deliver Changing Bil Address
 --------------------------------------------------
 tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDegistirme
+//EN AZ 2 ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
-* Sepet kasa arkasi popup'i varsa kapatilir.
+//* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
@@ -223,61 +208,12 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDegistirme
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 
-Purchasing with Store Deliver Myself and Adding Bil Address
------------------------------------------------------------
-tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
-* Uygulama baslatilir.
-* Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis3 login olunur.
-* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
-* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
-* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
-* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
-* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
-* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
-* Ana sayfaya geçilir.
-* Ana sayfa sepet ikonuna tiklanir.
-* Sepet kasa arkasi popup'i varsa kapatilir.
-* Tek ürünün ve toplam fiyatın kontrolü yapılır.
-* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
-* Mağazadan Teslim Sehir ismi secilir.
-* Mağazadan Teslim Ilce ismi secilir.
-* Mağaza saatleri kontrol edilir.
-* Mağazadan Teslim mağazası seçilir.
-* Fatura bilgileri alanında yeni adres eklenir.
-* Kendim Teslim alacağım seçeneği seçilir.
-* Satın alma alanında devam et butonuna tıklanır.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
-
-Purchasing with Store Deliver Someone and Adding Bil Address
-------------------------------------------------------------
-tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
-* Uygulama baslatilir.
-* Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis3 login olunur.
-* Sepet kasa arkasi popup'i varsa kapatilir.
-//* Bir ürün için sepet kontrol edilerek temizlenir.
-* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
-* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
-* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
-* Ana sayfa sepet ikonuna tiklanir.
-* Sepet kasa arkasi popup'i varsa kapatilir.
-* Tek ürünün ve toplam fiyatın kontrolü yapılır.
-* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
-* Mağazadan Teslim Sehir ismi secilir.
-* Mağazadan Teslim Ilce ismi secilir.
-* Mağaza saatleri kontrol edilir.
-* Mağazadan Teslim mağazası seçilir.
-* Fatura bilgileri alanında yeni adres eklenir.
-* Başkası teslim alacak seçeneği seçilir.
-* Satın alma alanında devam et butonuna tıklanır.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
+//*********************************************** PURCHASİNG 3 *********************************************************
 
 Purchasing with Store Deliver Myself
 ------------------------------
 tags:Gratis_Android_MagazadanKendimTeslimat
+//EN AZ 1 ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis4 login olunur.
@@ -301,15 +237,11 @@ tags:Gratis_Android_MagazadanKendimTeslimat
 Purchasing with Store Deliver Someone
 -------------------------------------
 tags:Gratis_Android_MagazadanBaskasiTeslimat
+//EN AZ 1 ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis4 login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
-* Sepet kasa arkasi popup'i varsa kapatilir.
+//* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
@@ -322,12 +254,66 @@ tags:Gratis_Android_MagazadanBaskasiTeslimat
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 
-Purchasing with Deliver Store Edit Billing Address
---------------------------------------------------
-tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDuzenle
+Purchasing with Store Deliver Myself and Adding Bil Address
+-----------------------------------------------------------
+tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
+//SADECE 1 ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis4 login olunur.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Ana sayfaya geçilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağaza saatleri kontrol edilir.
+* Mağazadan Teslim mağazası seçilir.
+* Fatura bilgileri alanında yeni adres eklenir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Satın alma alanında devam et butonuna tıklanır.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
+
+Purchasing with Store Deliver Someone and Adding Bil Address
+------------------------------------------------------------
+tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
+//SADECE 1 ADRES EKLİ OLMALI
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis4 login olunur.
+* Sepet kasa arkasi popup'i varsa kapatilir.
+//* Bir ürün için sepet kontrol edilerek temizlenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağaza saatleri kontrol edilir.
+* Mağazadan Teslim mağazası seçilir.
+* Fatura bilgileri alanında yeni adres eklenir.
+* Başkası teslim alacak seçeneği seçilir.
+* Satın alma alanında devam et butonuna tıklanır.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
+
+//*********************************************** PURCHASİNG 4 *********************************************************
+
+Purchasing with Deliver Store Edit Billing Address
+--------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDuzenle
+//EN AZ 1 ADRES EKLİ OLMALI
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis0 login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
 * Anasayfa urun kodu "10000049" yazilir, arama yapilir.
@@ -350,15 +336,11 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDuzenle
 Purchasing with Store Deliver Someone and Delete and Adding Bil Address
 -----------------------------------------------------------------------
 tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
+//SADECE 1 ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis4 login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
-* Sepet kasa arkasi popup'i varsa kapatilir.
+* Sepet ikonu ile Gratis0 login olunur.
+//* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
@@ -374,15 +356,11 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 Purchasing with Store Deliver and Adding Another Bil Address
 ------------------------------------------------------------
 tags:Gratis_Android_MagazadanTeslimatFaturaAdresiEkle
+//EN AZ 1 ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis4 login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
-* Sepet kasa arkasi popup'i varsa kapatilir.
+* Sepet ikonu ile Gratis0 login olunur.
+//* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
@@ -399,15 +377,11 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiEkle
 Purchasing with Store Deliver and Change Delivery Information
 -------------------------------------------------------------
 tags:Gratis_Android_MagazadanTeslimatTeslimatBilgileriDegistirme
+//EN AZ 1 ADRES EKLİ OLMALI
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis4 login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-* Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Sepete git'e tıklanır.
-* Sepet kasa arkasi popup'i varsa kapatilir.
+* Sepet ikonu ile Gratis0 login olunur.
+//* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
