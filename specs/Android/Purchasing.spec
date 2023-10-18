@@ -7,9 +7,9 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 
 //*********************************************** PURCHASİNG 1 *********************************************************
 
+//EN AZ BİR ADRES EKLİ OLMALI
 Above shipping cost
 ------------------------------
-//EN AZ BİR ADRES EKLİ OLMALI
 tags:Gratis_Android_KargoIndirimli
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -27,10 +27,10 @@ tags:Gratis_Android_KargoIndirimli
 * Teslimat alanı kontrol edilir.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı fiyat kontrol edilir.
-     
+
+//EN AZ BİR ADRES EKLİ OLMALI
 Below shipping cost
 ------------------------------
-//EN AZ BİR ADRES EKLİ OLMALI
 tags:Gratis_Android_KargoIndirimsiz
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -49,9 +49,9 @@ tags:Gratis_Android_KargoIndirimsiz
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı fiyat kontrol edilir.
 
+//EN AZ BİR ADRES EKLİ OLMALI
 Choose Store Popup
 ------------------
-//EN AZ BİR ADRES EKLİ OLMALI
 tags:Gratis_Android_MagazaSecPopup
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -76,9 +76,9 @@ tags:Gratis_Android_MagazaSecPopup
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 
+//EN AZ BİR ADRES EKLİ OLMALI
 Purchasing with Editing Address
 -------------------------------
-//EN AZ BİR ADRES EKLİ OLMALI
 tags:Gratis_Android_AdresDuzenleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -95,9 +95,9 @@ tags:Gratis_Android_AdresDuzenleme
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı fiyat kontrol edilir.
 
+//SADECE BİR ADRES EKLİ OLMALI
 Purchasing with Deleting and Adding New Address
 -----------------------------------------------
-//SADECE BİR ADRES EKLİ OLMALI
 tags:Gratis_Android_YeniAdresSilipEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -117,9 +117,9 @@ tags:Gratis_Android_YeniAdresSilipEkleme
 
 //*********************************************** PURCHASİNG 2 *********************************************************
 
+//EN AZ BİR ADRES EKLİ OLMALI
 Purchasing with Adding New Address
 ----------------------------------
-//EN AZ BİR ADRES EKLİ OLMALI
 tags:Gratis_Android_YeniAdresEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -136,9 +136,9 @@ tags:Gratis_Android_YeniAdresEkleme
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı fiyat kontrol edilir.
 
+//EN AZ BİR ADRES EKLİ OLMALI
 Purchasing with Adding New Bil Address
 --------------------------------------
-//EN AZ BİR ADRES EKLİ OLMALI
 tags:Gratis_Android_YeniFaturaAdresiEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -155,9 +155,9 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı fiyat kontrol edilir.
 
+//EN AZ 2 ADRES EKLİ OLMALI
 Choosing Another Address
 ------------------------
-//EN AZ 2 ADRES EKLİ OLMALI
 tags:Gratis_Android_BaskaAdresSecerekSiparis
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -172,9 +172,9 @@ tags:Gratis_Android_BaskaAdresSecerekSiparis
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı fiyat kontrol edilir.
 
+//EN AZ 2 ADRES EKLİ OLMALI
 Choosing Another Bil Address
 ----------------------------
-//EN AZ 2 ADRES EKLİ OLMALI
 tags:Gratis_Android_BaskaFaturaAdresiSecerekSiparis
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -189,9 +189,9 @@ tags:Gratis_Android_BaskaFaturaAdresiSecerekSiparis
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı fiyat kontrol edilir.
 
+//EN AZ 2 ADRES EKLİ OLMALI
 Purchasing with Store Deliver Changing Bil Address
 --------------------------------------------------
-//EN AZ 2 ADRES EKLİ OLMALI
 tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDegistirme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -210,9 +210,9 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDegistirme
 
 //*********************************************** PURCHASİNG 3 *********************************************************
 
+//EN AZ 1 ADRES EKLİ OLMALI
 Purchasing with Store Deliver Myself
 ------------------------------------
-//EN AZ 1 ADRES EKLİ OLMALI
 tags:Gratis_Android_MagazadanKendimTeslimat
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -234,9 +234,9 @@ tags:Gratis_Android_MagazadanKendimTeslimat
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 
+//EN AZ 1 ADRES EKLİ OLMALI
 Purchasing with Store Deliver Someone
 -------------------------------------
-//EN AZ 1 ADRES EKLİ OLMALI
 tags:Gratis_Android_MagazadanBaskasiTeslimat
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -254,9 +254,9 @@ tags:Gratis_Android_MagazadanBaskasiTeslimat
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 
+//SADECE 1 ADRES EKLİ OLMALI
 Purchasing with Store Deliver Myself and Adding Bil Address
 -----------------------------------------------------------
-//SADECE 1 ADRES EKLİ OLMALI
 tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -279,9 +279,9 @@ tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 
+//SADECE 1 ADRES EKLİ OLMALI
 Purchasing with Store Deliver Someone and Adding Bil Address
 ------------------------------------------------------------
-//SADECE 1 ADRES EKLİ OLMALI
 tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -307,9 +307,9 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
 
 //*********************************************** PURCHASİNG 4 *********************************************************
 
+//EN AZ 1 ADRES EKLİ OLMALI
 Purchasing with Deliver Store Edit Billing Address
 --------------------------------------------------
-//EN AZ 1 ADRES EKLİ OLMALI
 tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDuzenle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -333,9 +333,9 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDuzenle
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 
+//SADECE 1 ADRES EKLİ OLMALI
 Purchasing with Store Deliver Someone and Delete and Adding Bil Address
 -----------------------------------------------------------------------
-//SADECE 1 ADRES EKLİ OLMALI
 tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -353,9 +353,9 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 
+//EN AZ 1 ADRES EKLİ OLMALI
 Purchasing with Store Deliver and Adding Another Bil Address
 ------------------------------------------------------------
-//EN AZ 1 ADRES EKLİ OLMALI
 tags:Gratis_Android_MagazadanTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
@@ -374,9 +374,9 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiEkle
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 
+//EN AZ 1 ADRES EKLİ OLMALI
 Purchasing with Store Deliver and Change Delivery Information
 -------------------------------------------------------------
-//EN AZ 1 ADRES EKLİ OLMALI
 tags:Gratis_Android_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
