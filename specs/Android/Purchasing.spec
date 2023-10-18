@@ -9,8 +9,8 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 
 Above shipping cost
 ------------------------------
-tags:Gratis_Android_KargoIndirimli
 //EN AZ BİR ADRES EKLİ OLMALI
+tags:Gratis_Android_KargoIndirimli
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis2 login olunur.
@@ -30,8 +30,8 @@ tags:Gratis_Android_KargoIndirimli
      
 Below shipping cost
 ------------------------------
-tags:Gratis_Android_KargoIndirimsiz
 //EN AZ BİR ADRES EKLİ OLMALI
+tags:Gratis_Android_KargoIndirimsiz
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis2 login olunur.
@@ -51,8 +51,8 @@ tags:Gratis_Android_KargoIndirimsiz
 
 Choose Store Popup
 ------------------
-tags:Gratis_Android_MagazaSecPopup
 //EN AZ BİR ADRES EKLİ OLMALI
+tags:Gratis_Android_MagazaSecPopup
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis2 login olunur.
@@ -77,9 +77,9 @@ tags:Gratis_Android_MagazaSecPopup
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 
 Purchasing with Editing Address
-----------------------------------
-tags:Gratis_Android_AdresDuzenleme
+-------------------------------
 //EN AZ BİR ADRES EKLİ OLMALI
+tags:Gratis_Android_AdresDuzenleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis2 login olunur.
@@ -97,8 +97,8 @@ tags:Gratis_Android_AdresDuzenleme
 
 Purchasing with Deleting and Adding New Address
 -----------------------------------------------
-tags:Gratis_Android_YeniAdresSilipEkleme
 //SADECE BİR ADRES EKLİ OLMALI
+tags:Gratis_Android_YeniAdresSilipEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis2 login olunur.
@@ -119,8 +119,8 @@ tags:Gratis_Android_YeniAdresSilipEkleme
 
 Purchasing with Adding New Address
 ----------------------------------
-tags:Gratis_Android_YeniAdresEkleme
 //EN AZ BİR ADRES EKLİ OLMALI
+tags:Gratis_Android_YeniAdresEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
@@ -137,9 +137,9 @@ tags:Gratis_Android_YeniAdresEkleme
 * Iyzico alanı fiyat kontrol edilir.
 
 Purchasing with Adding New Bil Address
-----------------------------------
-tags:Gratis_Android_YeniFaturaAdresiEkleme
+--------------------------------------
 //EN AZ BİR ADRES EKLİ OLMALI
+tags:Gratis_Android_YeniFaturaAdresiEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
@@ -157,8 +157,8 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 
 Choosing Another Address
 ------------------------
-tags:Gratis_Android_BaskaAdresSecerekSiparis
 //EN AZ 2 ADRES EKLİ OLMALI
+tags:Gratis_Android_BaskaAdresSecerekSiparis
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
@@ -174,8 +174,8 @@ tags:Gratis_Android_BaskaAdresSecerekSiparis
 
 Choosing Another Bil Address
 ----------------------------
-tags:Gratis_Android_BaskaFaturaAdresiSecerekSiparis
 //EN AZ 2 ADRES EKLİ OLMALI
+tags:Gratis_Android_BaskaFaturaAdresiSecerekSiparis
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
@@ -191,8 +191,8 @@ tags:Gratis_Android_BaskaFaturaAdresiSecerekSiparis
 
 Purchasing with Store Deliver Changing Bil Address
 --------------------------------------------------
-tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDegistirme
 //EN AZ 2 ADRES EKLİ OLMALI
+tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDegistirme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
@@ -211,9 +211,9 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDegistirme
 //*********************************************** PURCHASİNG 3 *********************************************************
 
 Purchasing with Store Deliver Myself
-------------------------------
-tags:Gratis_Android_MagazadanKendimTeslimat
+------------------------------------
 //EN AZ 1 ADRES EKLİ OLMALI
+tags:Gratis_Android_MagazadanKendimTeslimat
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis4 login olunur.
@@ -236,8 +236,8 @@ tags:Gratis_Android_MagazadanKendimTeslimat
 
 Purchasing with Store Deliver Someone
 -------------------------------------
-tags:Gratis_Android_MagazadanBaskasiTeslimat
 //EN AZ 1 ADRES EKLİ OLMALI
+tags:Gratis_Android_MagazadanBaskasiTeslimat
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis4 login olunur.
@@ -256,8 +256,8 @@ tags:Gratis_Android_MagazadanBaskasiTeslimat
 
 Purchasing with Store Deliver Myself and Adding Bil Address
 -----------------------------------------------------------
-tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 //SADECE 1 ADRES EKLİ OLMALI
+tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis4 login olunur.
@@ -281,8 +281,8 @@ tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 
 Purchasing with Store Deliver Someone and Adding Bil Address
 ------------------------------------------------------------
-tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
 //SADECE 1 ADRES EKLİ OLMALI
+tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis4 login olunur.
@@ -309,8 +309,8 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
 
 Purchasing with Deliver Store Edit Billing Address
 --------------------------------------------------
-tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDuzenle
 //EN AZ 1 ADRES EKLİ OLMALI
+tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDuzenle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis0 login olunur.
@@ -335,8 +335,8 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDuzenle
 
 Purchasing with Store Deliver Someone and Delete and Adding Bil Address
 -----------------------------------------------------------------------
-tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 //SADECE 1 ADRES EKLİ OLMALI
+tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis0 login olunur.
@@ -355,8 +355,8 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 
 Purchasing with Store Deliver and Adding Another Bil Address
 ------------------------------------------------------------
-tags:Gratis_Android_MagazadanTeslimatFaturaAdresiEkle
 //EN AZ 1 ADRES EKLİ OLMALI
+tags:Gratis_Android_MagazadanTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis0 login olunur.
@@ -376,8 +376,8 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiEkle
 
 Purchasing with Store Deliver and Change Delivery Information
 -------------------------------------------------------------
-tags:Gratis_Android_MagazadanTeslimatTeslimatBilgileriDegistirme
 //EN AZ 1 ADRES EKLİ OLMALI
+tags:Gratis_Android_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis0 login olunur.
