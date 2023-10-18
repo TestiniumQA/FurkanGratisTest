@@ -217,7 +217,7 @@ tags:Gratis_Android_MagazadanKendimTeslimat
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis4 login olunur.
-//* Sepet temizlenir ve yeni ürün eklenir.
+* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
