@@ -16,7 +16,7 @@ tags:Gratis_Android_KargoIndirimli
 * Sepet ikonu ile Gratis2 login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Anasayfa urun kodu "10555253" yazilir, arama yapilir.
+* Anasayfa urun kodu "10250831" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
