@@ -83,7 +83,7 @@ tags:Gratis_Android_AdresDuzenleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis2 login olunur.
-* Sepet kasa arkasi popup'i varsa kapatilir.
+* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -102,8 +102,7 @@ tags:Gratis_Android_YeniAdresSilipEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis2 login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
-//* Sepet temizlenir ve yeni ürün eklenir.
+* Sepet temizlenir ve yeni ürün eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
