@@ -376,6 +376,12 @@ tags:Gratis_Android_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis0 login olunur.
 * Sepet temizlenir ve yeni ürün eklenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Ana sayfaya geçilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
