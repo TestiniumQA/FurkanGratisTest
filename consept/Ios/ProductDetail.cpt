@@ -198,8 +198,8 @@
 * Elementin yüklenmesini bekle "ProductInfoTable"
 
 # Anahtar kelimelerden birine tıklanır
+* "Keyword"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "Keyword"
-* "Keyword"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * "Keyword" li elementi bul ve değerini "anahtarKelime" olarak sakla
 * Elementine tıkla "Keyword"
 * "2" saniye bekle
