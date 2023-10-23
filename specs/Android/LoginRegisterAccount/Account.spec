@@ -136,3 +136,18 @@ tags:Gratis_Android_UyeBilgileriGuncelleme
 * Uye bilgileri guncellendiği kontrol edilir.
 * Uye bilgileri güncellemesi geri alınır.
 * Uye bilgileri güncellemesi geri alındığı kontrol edilir.
+
+Add Favorite List With Same Name
+--------------------------------
+tags:Gratis_Android_AynıIsimdeListeOlusturma
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Gratis0 ile login olunur.
+* En Cok Satanlar alanindan bir urunun favori butonuna tıklanir.
+* Yeni favori listesi olusturulur ve secilen urun favori eklenir.
+* En Cok Satanlar alanindan ikinci urunun favori butonuna tıklanir.
+* Yeni favori listesi olusturulur ve aynı isim uyarısı görülür.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Profil sayfasındaki Favori butonuna tiklanir.
+* Listeden yeni eklenen favori listesi secilir.
+* Favori listesi silinir.

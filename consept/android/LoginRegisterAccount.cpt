@@ -275,6 +275,14 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 * Elementine tıkla "favBtn"
 
+# En Cok Satanlar alanindan ikinci urunun favori butonuna tıklanir.
+* Elementin yüklenmesini bekle "kampanyaSec"
+* "productName2"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "favBtn2"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "favBtn2"
+* "2" saniye bekle
+* Elementine tıkla "favBtn2"
+
 # Yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * Elementine tıkla "addListButton"
 * Element var mı kontrol et "addListPopupTitle"
@@ -283,6 +291,17 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "1"
 * Elementine tıkla "popupOkayButton"
 * "1" saniye bekle
+* "popupOkayButton" li element varsa tıkla
+
+# Yeni favori listesi olusturulur ve aynı isim uyarısı görülür.
+* Elementine tıkla "addListButton"
+* Element var mı kontrol et "addListPopupTitle"
+* Elementin yüklenmesini bekle "1"
+* "yeni liste adı" textini "addListTextbox" elemente yaz
+* Elementin yüklenmesini bekle "1"
+* Elementine tıkla "popupOkayButton"
+* "1" saniye bekle
+* "alertSuccessfulPopup" li elementin değeri "İstek listesi adı benzersiz olmalıdır" e içerdiğini kontrol et
 * "popupOkayButton" li element varsa tıkla
 
 # <yeniListe> isimli yeni favori listesi olusturulur ve secilen urun favori eklenir.
