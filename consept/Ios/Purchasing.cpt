@@ -126,7 +126,7 @@
 * Element var mı kontrol et "StoreBilTownSpinner"
 * "StoreBilTownSpinner" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "1" saniye bekle
-* "50","90" oranlarından "50","70" oranlarına "1" kere swipe et
+* "50","90" oranlarından "50","70" oranlarına "2" kere swipe et
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
@@ -296,7 +296,7 @@
 * Elementin yüklenmesini bekle "ShippingNewAddressCustomerAddressTitle"
 * "ShippingNewAddressCustomerAddressTitle" li elementi bul ve değerini "AdresIsmi" olarak sakla
 * Adres Ekle Sehir ismi guncelleme icin "2" swipe ile secilir
-* Adres Ekle Ilce ismi guncelleme icin "1" swipe ile secilir
+* Adres Ekle Ilce ismi guncelleme icin "2" swipe ile secilir
 * Adres Ekle Mahalle ismi guncelleme icin "1" swipe ile secilir
 * Teslimat bilgileri Adresi icin Adres Detay ve Posta Kodu bilgilerinin guncelleri girilir
 

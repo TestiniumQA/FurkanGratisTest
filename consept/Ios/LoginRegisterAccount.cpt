@@ -375,7 +375,7 @@
 * Element var mı kontrol et "NewAddressAddDistrictDropdown"
 * "NewAddressAddDistrictDropdown" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "1" saniye bekle
-* "50","90" oranlarından "50","70" oranlarına "1" kere swipe et
+* "50","90" oranlarından "50","70" oranlarına "2" kere swipe et
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
@@ -474,6 +474,14 @@
 * "2" saniye bekle
 //* Element var mı kontrol et "AddFavoritePopup"
 
+# En Cok Satanlar alanindan ikinci urunun favori butonuna tıklanir
+* Elementin yüklenmesini bekle "AnasayfaTab"
+* Elementine tıkla "AnasayfaTab"
+* "ProductName" li elementi bul ve değerini "ürün adı" olarak sakla
+* "FavBtnTwo" elementi bulunana kadar en fazla "15" saniye kadar bekle
+* Elementine tıkla "FavBtnTwo"
+* "2" saniye bekle
+
 # Urun favorilere eklenir
 * Elementin yüklenmesini bekle "AddFavoritePopup"
 * Elementin yüklenmesini bekle "PopupSavedBtnIos"
@@ -506,6 +514,19 @@
 * Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
+
+# Istek listesi adi benzersiz olmali uyarisi gorulur
+* Elementin yüklenmesini bekle "AddListButton"
+* Elementine tıkla "AddListButton"
+* Elementin yüklenmesini bekle "AddListPopupTitle"
+* "Yeni Liste Adı" textini "AddListTextbox" elemente yaz
+* "PopupAddBtnIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
+* Elementine tıkla "PopupAddBtnIos"
+* Elementin yüklenmesini bekle "AlertFailedPopup"
+* "AlertFailedPopup" elementinin "İstek listesi adı benzersiz olmalıdır." textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+*"PageCloseIconTwo" li element varsa tıkla "PageCloseIcon" tıkla
 
 # <yeniListe> isimli yeni favori listesi olusturulur ve secilen urun favori eklenir
 * Elementin yüklenmesini bekle "AddListButton"

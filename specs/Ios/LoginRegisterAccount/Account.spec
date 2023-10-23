@@ -33,7 +33,7 @@ tags:Gratis_IOS_AdresGuncelleme
 * Adres güncellemeye tıklanır
 * Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgilerinin guncelleri girilir
 * Adres Ekle Sehir ismi guncelleme icin "2" swipe ile secilir
-* Adres Ekle Ilce ismi guncelleme icin "1" swipe ile secilir
+* Adres Ekle Ilce ismi guncelleme icin "2" swipe ile secilir
 * Adres Ekle Mahalle ismi guncelleme icin "1" swipe ile secilir
 * Adres Ekleme icin Adres Detay ve Posta Kodu bilgilerinin guncelleri girilir
 * Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur
@@ -66,6 +66,22 @@ tags:Gratis_IOS_ListeOlusturmaSecmeVeSilme
 * Gratis0 ile login olunur
 * En Cok Satanlar alanindan bir urunun favori butonuna tıklanir
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Profil sayfasındaki Favorilerim ikonuna tiklanir
+* Listeden yeni eklenen favori listesi secilir
+* Favori listesi silinir
+
+IOS Scenario Adding a Favorite List With the Same Name
+------------------------------------------------------
+tags:Gratis_IOS_AyniIsimleFavoriListesiOlusturma
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Gratis0 ile login olunur
+* En Cok Satanlar alanindan bir urunun favori butonuna tıklanir
+* Yeni favori listesi olusturulur ve secilen urun favori eklenir
+* En Cok Satanlar alanindan ikinci urunun favori butonuna tıklanir
+* Istek listesi adi benzersiz olmali uyarisi gorulur
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Profil sayfasındaki Favorilerim ikonuna tiklanir
