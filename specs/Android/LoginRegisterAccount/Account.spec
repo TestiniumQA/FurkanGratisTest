@@ -139,7 +139,7 @@ tags:Gratis_Android_UyeBilgileriGuncelleme
 
 Add Favorite List With Same Name
 --------------------------------
-tags:Gratis_Android_AynıIsimdeListeOlusturma
+tags:Gratis_Android_AyniIsimdeListeOlusturma
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Gratis0 ile login olunur.
