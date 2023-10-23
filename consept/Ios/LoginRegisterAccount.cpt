@@ -630,9 +630,8 @@
 * Elementin yüklenmesini bekle "sepetimSilBtn"
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
 * "sepetimSilBtn" li element varsa tıkla "sepetimSilPopUpSil" tıkla
-* Elementin yüklenmesini bekle "1"
-* Elementin yüklenmesini bekle "PageCloseIcon"
-* Elementine tıkla "PageCloseIcon"
+* "1" saniye bekle
+* "PageCloseIcon" li element varsa tıkla yoksa devam et
 
 # Favori listesi kontrol edilerek temizlenir
 * "digerSekmesi" elementine sayacli tikla "ProfileRoot" value degerini bekle
