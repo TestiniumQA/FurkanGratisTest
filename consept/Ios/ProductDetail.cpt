@@ -194,7 +194,7 @@
 # Ürün bilgileri kontrol edilir
 * Elementin yüklenmesini bekle "ProductFeatures"
 * Elementine tıkla "ProductFeatures"
-* "ProductInfoTable"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* "ProductInfoTable"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "ProductInfoTable"
 
 # Anahtar kelimelerden birine tıklanır
