@@ -156,7 +156,8 @@ IOS Scenario Sub-Bars
 tags:Gratis_IOS_UrunDetayAltBarlar
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
-* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Far" seçilir
 * Urun detay sayfasına geçilir
 * Alt bar alanları kontrol edilir
 * Ürün bilgileri kontrol edilir
