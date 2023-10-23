@@ -7,6 +7,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "tabHeader"
 * Elementine tıkla "tabHeader"
 * "2" saniye bekle
+* Element var mı kontrol et "productName"
 * Element var mı kontrol et "tabHeaderSlct"
 
 # En Çok Satanlar ürünleri swipe edilir.
