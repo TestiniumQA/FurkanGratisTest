@@ -36,6 +36,7 @@ This is a concept file with following syntax for each concept.
 //* Elementine tıkla "mainPageCampaign"
 * "2" saniye bekle
 * Element var mı kontrol et "productName"
+* "pageToolbarTitle" li elementin değeri "Ürünler" e içerdiğini kontrol et
 //* "mainPageCampaign" değerini sayfa olmadığını kontrol et
 * Geri butonuna bas
 * "1" saniye bekle
