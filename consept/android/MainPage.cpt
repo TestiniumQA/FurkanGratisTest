@@ -9,10 +9,10 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 * "productName"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Element var mı kontrol et "productName"
-* Element var mı kontrol et "tabHeaderSlct"
+//* Element var mı kontrol et "tabHeaderSlct"
 
 # En Çok Satanlar ürünleri swipe edilir.
-* "productName"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "productName"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * "productName" elementinin hizasından sağdan sola "3" kere kaydır
 * "productName" elementinin hizasından soldan sağa "1" kere kaydır
 
