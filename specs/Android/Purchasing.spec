@@ -310,7 +310,7 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDuzenle
 * Sepet ikonu ile Gratis0 login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+* Anasayfa urun kodu "10011102" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -334,7 +334,13 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis0 login olunur.
-* Sepet temizlenir ve yeni ürün eklenir.
+//* Sepet temizlenir ve yeni ürün eklenir.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Ana sayfaya geçilir.
+* Anasayfa urun kodu "10011102" yazilir, arama yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
@@ -354,7 +360,13 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis0 login olunur.
-* Sepet temizlenir ve yeni ürün eklenir.
+//* Sepet temizlenir ve yeni ürün eklenir.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Ana sayfaya geçilir.
+* Anasayfa urun kodu "10011102" yazilir, arama yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
@@ -375,7 +387,13 @@ tags:Gratis_Android_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis0 login olunur.
-* Sepet temizlenir ve yeni ürün eklenir.
+//* Sepet temizlenir ve yeni ürün eklenir.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Ana sayfaya geçilir.
+* Anasayfa urun kodu "10011102" yazilir, arama yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
