@@ -105,7 +105,7 @@ tags:Gratis_IOS_UrunDetayFavori
 * Gratis3 ile login olunur
 * Kategoriler sayfasina gecilir
 * "Cilt Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "El Bakımı", "El Maskeleri" seçilir
+* Alt kategorilerden biri "Vücut Bakımı", "Vücut Yağları" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
 * Urun favorilere eklenir
@@ -125,7 +125,7 @@ tags:Gratis_IOS_UrunDetayNonLoginFavori
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
 * "Cilt Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "El Bakımı", "El Maskeleri" seçilir
+* Alt kategorilerden biri "Vücut Bakımı", "Vücut Yağları" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
 * Favori ikonu ile Gratis3 login olunur
@@ -138,7 +138,7 @@ tags:Gratis_IOS_UrunDetayNonLoginFavoriListesi
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
 * "Cilt Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "El Bakımı", "El Maskeleri" seçilir
+* Alt kategorilerden biri "Vücut Bakımı", "Vücut Yağları" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
 * Favori ikonu ile Gratis3 login olunur
