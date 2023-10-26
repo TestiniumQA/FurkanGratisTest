@@ -63,9 +63,9 @@ public class HookImpl {
                                 "com.app.gratis.ui.splash.SplashActivity");
                 desiredCapabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "uiautomator2");
                 desiredCapabilities
-                      .setCapability(MobileCapabilityType.NO_RESET, false);
+                        .setCapability(MobileCapabilityType.NO_RESET, false);
                 desiredCapabilities
-                       .setCapability(MobileCapabilityType.FULL_RESET, false);
+                        .setCapability(MobileCapabilityType.FULL_RESET, false);
                 desiredCapabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 3000);
                 desiredCapabilities.setCapability("unicodeKeyboard", false);
                 //desiredCapabilities.setCapability("resetKeyboard", true);
@@ -78,11 +78,11 @@ public class HookImpl {
                 desiredCapabilities
                         .setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.IOS);
                 desiredCapabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "XCUITest");
-                 desiredCapabilities.setCapability(MobileCapabilityType.UDID, "ca796f0c0ead8729c124b5bda73f8de53b4dec8a");
+                desiredCapabilities.setCapability(MobileCapabilityType.UDID, "ca796f0c0ead8729c124b5bda73f8de53b4dec8a");
                 desiredCapabilities
                         .setCapability(IOSMobileCapabilityType.BUNDLE_ID, "com.pharos.Gratis");
                 desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "devtestinium iPhone X");
-                  desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "13.3.1");
+                desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "13.3.1");
                 desiredCapabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 300);
 
                 URL url = new URL("http://127.0.0.1:4723/wd/hub");
@@ -149,18 +149,16 @@ public class HookImpl {
             appiumFluentWait.withTimeout(Duration.ofSeconds(15))
                     .pollingEvery(Duration.ofMillis(250))
                     .ignoring(NoSuchElementException.class);
-        }else{
+        } else {
 
             selector = SelectorFactory
-                .createElementHelper(localAndroid ? SelectorType.ANDROID : SelectorType.IOS);
-            appiumDriver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+                    .createElementHelper(localAndroid ? SelectorType.ANDROID : SelectorType.IOS);
+            appiumDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
             appiumFluentWait = new FluentWait<AppiumDriver<MobileElement>>(appiumDriver);
-            appiumFluentWait.withTimeout(Duration.ofSeconds(30))
+            appiumFluentWait.withTimeout(Duration.ofSeconds(15))
                     .pollingEvery(Duration.ofMillis(450))
                     .ignoring(NoSuchElementException.class);
         }
-
-
 
     }
 
