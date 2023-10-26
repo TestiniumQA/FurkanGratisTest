@@ -133,13 +133,13 @@
 * "CategoryName" li ve değeri <text> e eşit olan elementli bulana kadar swipe et ve tıkla
 
 # Ürünün renk tonu değiştirilir
-* "ProductSubDetailTitle" li elementi bul ve değerini "varsayılanRenkAd" olarak sakla
-* "ColorList"li elementi bulana kadar "1" kere swipe yap ve elementi bul
-* Element var mı kontrol et "SecondColor"
+* "ProductSubTwoDetailTitle" li elementi bul ve değerini "varsayılanRenkAd" olarak sakla
+* "ColorList"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "SecondColor"
 * "1" saniye bekle
 * Elementine tıkla "SecondColor"
-* "ProductSubDetailTitle"li elementi bulana kadar "2" kere yukarı swipe yap ve elementi bul
-* "ProductSubDetailTitle" li elementin text degerini hafizada "varsayılanRenkAd" olarak saklanan text ayni olmadigini kontrol et
+* "ProductSubTwoDetailTitle"li elementi bulana kadar "1" kere yukarı swipe yap ve elementi bul
+* "ProductSubTwoDetailTitle" li elementin text degerini hafizada "varsayılanRenkAd" olarak saklanan text ayni olmadigini kontrol et
 
 # Ürün detayda <adetSayi> kadar ürün adedi seçilir
 * "ProductAddButton"li elementi bulana kadar "1" kere swipe yap ve elementi bul
