@@ -16,6 +16,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "kampanyaSec"
 * "1" saniye bekle
 * Element var mı kontrol et "toolbarUrunler"
+* Element var mı kontrol et "productName"
 * "2" saniye bekle
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle

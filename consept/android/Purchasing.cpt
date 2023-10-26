@@ -203,6 +203,7 @@ This is a concept file with following syntax for each concept.
 
 # Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 * "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* "3" saniye bekle
 * Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
 
 # Adres silme butonuna tıklanır ve adres silinir.
@@ -311,10 +312,10 @@ This is a concept file with following syntax for each concept.
 * "Siparişiniz onaylanmıştır. Siparişiniz hazır olduğunda e-posta/SMS yoluyla bilgilendirileceksiniz." text degerine sahip elementin sayfada gorundugu kontrol edilir
 * Elementine tıkla "orderOkBtn"
 
-# Sepet temizlenir ve yeni ürün eklenir.
+# Sepet temizlenir ve yeni ürün <text> eklenir.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000049" yazilir, arama yapilir.
+* Anasayfa urun kodu <text> yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
