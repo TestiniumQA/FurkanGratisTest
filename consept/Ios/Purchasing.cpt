@@ -251,8 +251,8 @@
 * "StoreBillingAddressName" li elementi bul ve değerini "ilkFaturaAdresi" olarak sakla
 * Elementine tıkla "StoreBillingAddressBook"
 * "1" saniye bekle
-//* "Fatura Adresi Olarak Seç" text degerine sahip elemente tikla.
-* "Teslimat Adresi Olarak Seç" text degerine sahip elemente tikla
+* "Fatura Adresi Olarak Seç" text degerine sahip elemente tikla.
+//* "Teslimat Adresi Olarak Seç" text degerine sahip elemente tikla
 * Elementin yüklenmesini bekle "PageCloseIcon"
 * Elementine tıkla "PageCloseIcon"
 * "StoreBillingAddressName" li elementin text degerini hafizada "ilkFaturaAdresi" olarak saklanan text ayni olmadigini kontrol et
