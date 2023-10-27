@@ -395,21 +395,21 @@
     "key": "MyPasswordOldPassword",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@value='Eski şifrenizi giriniz']",
+    "iosValue": "//*[@value='Lütfen eski şifrenizi giriniz']",
     "iosType": "xpath"
   },
   {
     "key": "MyPasswordNewPassword",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@value='Yeni şifrenizi giriniz']",
+    "iosValue": "//*[@value='Lütfen yeni şifrenizi giriniz']",
     "iosType": "xpath"
   },
   {
     "key": "MyPasswordAgainNewPassword",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@value='Yeni şifrenizi tekrar giriniz']",
+    "iosValue": "//*[@value='Lütfen yeni şifrenizi tekrar giriniz']",
     "iosType": "xpath"
   },
   {
