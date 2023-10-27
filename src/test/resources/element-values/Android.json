@@ -950,7 +950,7 @@
   },
   {
     "key": "gratisBeautyPage",
-    "androidValue": "//android.widget.Image",
+    "androidValue": "//*[@resource-id='next_button']",
     "androidType": "xpath"
   },
   {
