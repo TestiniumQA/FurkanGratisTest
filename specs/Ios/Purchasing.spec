@@ -5,6 +5,8 @@ Created by testinium on 25.08.2023
 This is an executable specification file which follows markdown syntax.
 Every heading in this file denotes a scenario. Every bulleted point denotes a step.
 
+// PURCHASING 1
+
 IOS Scenario Purchasing Above Shipping Cost
 -------------------------------------------
 tags:Gratis_IOS_KargoIndirimli
@@ -51,6 +53,9 @@ tags:Gratis_IOS_MagazaSecPopup
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis2 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -74,6 +79,9 @@ tags:Gratis_IOS_AdresDuzenleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis2 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -92,6 +100,9 @@ tags:Gratis_IOS_YeniAdresSilipEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis2 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -103,12 +114,17 @@ tags:Gratis_IOS_YeniAdresSilipEkleme
 * Sipariş Özeti alanı kontrol edilir
 * Iyzico alanı fiyat kontrol edilir
 
+// PURCHASING 2
+
 IOS Scenario Purchasing with Adding New Address
 -----------------------------------------------
 tags:Gratis_IOS_YeniAdresEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis2 login olunur
+* Sepet ikonu ile Gratis3 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -127,13 +143,9 @@ tags:Gratis_IOS_YeniFaturaAdresiEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis3 login olunur
-//* Sepet kontrol edilerek temizlenir
-//* Kategoriler sayfasina gecilir
-//* "Elektrikli Ürünler" isimli kategori seçilir
-//* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
-//* Urun detay sayfasına geçilir
-//* Ürün detay sayfasinda urun sepete eklenir
-//* Sepete git'e tıklanır
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -152,6 +164,9 @@ tags:Gratis_IOS_BaskaAdresSecerekSiparis
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis3 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -169,6 +184,9 @@ tags:Gratis_IOS_BaskaFaturaAdresiSecerekSiparis
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis3 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -185,6 +203,9 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDegistirme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis3 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -197,19 +218,65 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDegistirme
 * Sipariş Özeti alanı kontrol edilir
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir
 
+// PURCHASING 3
+
+IOS Scenario Purchasing with Store Deliver Myself
+-------------------------------------------------
+tags:Gratis_IOS_MagazadanKendimTeslimat
+* Uygulama baslatilir
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet ikonu ile Gratis4 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
+//* Sepet kasa arkasi popup'i kapatilir
+* Tek ürünün ve toplam fiyatın kontrolü yapılır
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
+* Mağazadan Teslim Sehir ismi secilir
+* Mağazadan Teslim Ilce ismi secilir
+* Mağaza saatleri kontrol edilir
+* Mağazadan Teslim mağazası seçilir
+* Kendim Teslim alacağım seçeneği seçilir
+* Satın alma alanında devam et butonuna tıklanır
+* Sipariş Özeti alanı kontrol edilir
+* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir
+
+IOS Scenario Purchasing with Store Deliver Someone
+--------------------------------------------------
+tags:Gratis_IOS_MagazadanBaskasiTeslimat
+* Uygulama baslatilir
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet ikonu ile Gratis4 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
+//* Sepet kasa arkasi popup'i kapatilir
+* Tek ürünün ve toplam fiyatın kontrolü yapılır
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
+* Mağazadan Teslim Sehir guncel ismi secilir
+* Mağazadan Teslim Ilce ismi swipe yapmadan secilir
+* Mağaza saatleri kontrol edilir
+* Mağazadan Teslim mağazası seçilir
+//* Mağazadan Teslim ikinci mağazası seçilir
+* Başkası teslim alacak seçeneği seçilir
+* Satın alma alanında devam et butonuna tıklanır
+* Sipariş Özeti alanı kontrol edilir
+* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir
+
 IOS Scenario Purchasing with Store Deliver Myself and Adding Bill Address
 -------------------------------------------------------------------------
 tags:Gratis_IOS_MagazadanKendimTeslimatFaturaAdresiEkle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis3 login olunur
+* Sepet ikonu ile Gratis4 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
-* Adres silinir
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
-//* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfa sepet ikonuna tiklanir
 //* Sepet kasa arkasi popup'i kapatilir
@@ -230,7 +297,10 @@ IOS Scenario Purchasing with Store Deliver Someone and Adding Bill Address
 tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis3 login olunur
+* Sepet ikonu ile Gratis4 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
@@ -251,56 +321,17 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Sipariş Özeti alanı kontrol edilir
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir
 
-IOS Scenario Purchasing with Store Deliver Myself
--------------------------------------------------
-tags:Gratis_IOS_MagazadanKendimTeslimat
-* Uygulama baslatilir
-* Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis4 login olunur
-//* Sepet kontrol edilerek temizlenir
-//* Kategoriler sayfasina gecilir
-//* "Saç Bakım" isimli kategori seçilir
-//* Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir
-//* Urun detay sayfasına geçilir
-//* Ürün detay sayfasinda urun sepete eklenir
-//* Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
-* Tek ürünün ve toplam fiyatın kontrolü yapılır
-* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
-* Mağazadan Teslim Sehir ismi secilir
-* Mağazadan Teslim Ilce ismi secilir
-* Mağaza saatleri kontrol edilir
-* Mağazadan Teslim mağazası seçilir
-* Kendim Teslim alacağım seçeneği seçilir
-* Satın alma alanında devam et butonuna tıklanır
-* Sipariş Özeti alanı kontrol edilir
-* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir
-
-IOS Scenario Purchasing with Store Deliver Someone
---------------------------------------------------
-tags:Gratis_IOS_MagazadanBaskasiTeslimat
-* Uygulama baslatilir
-* Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis4 login olunur
-//* Sepet kasa arkasi popup'i kapatilir
-* Tek ürünün ve toplam fiyatın kontrolü yapılır
-* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
-* Mağazadan Teslim Sehir guncel ismi secilir
-* Mağazadan Teslim Ilce ismi swipe yapmadan secilir
-* Mağaza saatleri kontrol edilir
-* Mağazadan Teslim mağazası seçilir
-//* Mağazadan Teslim ikinci mağazası seçilir
-* Başkası teslim alacak seçeneği seçilir
-* Satın alma alanında devam et butonuna tıklanır
-* Sipariş Özeti alanı kontrol edilir
-* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir
+// PURCHASING 4
 
 IOS Scenario Purchasing with Deliver Store Edit Billing Address
 ---------------------------------------------------------------
 tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDuzenle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis4 login olunur
+* Sepet ikonu ile Gratis0 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -320,7 +351,10 @@ IOS Scenario Purchasing with Store Deliver Someone and Delete and Adding Bill Ad
 tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis4 login olunur
+* Sepet ikonu ile Gratis0 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -341,7 +375,10 @@ IOS Scenario Purchasing with Store Deliver and Adding Another Bill Address
 tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiEkle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis4 login olunur
+* Sepet ikonu ile Gratis0 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -361,7 +398,10 @@ IOS Scenario Purchasing with Store Deliver and Change Delivery Information
 tags:Gratis_IOS_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis4 login olunur
+* Sepet ikonu ile Gratis0 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
