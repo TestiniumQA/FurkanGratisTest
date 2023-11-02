@@ -7,7 +7,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 
 //*********************************************** PURCHASİNG 1 *********************************************************
 
-//EN AZ BİR ADRES EKLİ OLMALI
+//EN AZ BİR ADRES EKLİ OLMALII
 Above shipping cost
 ------------------------------
 tags:Gratis_Android_KargoIndirimli
