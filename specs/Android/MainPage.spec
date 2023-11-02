@@ -29,7 +29,7 @@ tags:Gratis_Android_AnasayfaNonLoginFavoriEkleme
 * "Makyaj" isimli kategori seçilir.
 * Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir.
 * Listeleme alanından bir ürünün favori butonuna tıklanır.
-* Favori ikonu ile Gratis1 login olunur.
+* Favori ikonu ile Gratis0 login olunur.
 * Urun favorilere eklenir.
 * Favori listesi kontrol edilerek temizlenir.
 
@@ -55,7 +55,7 @@ tags:Gratis_Android_NonLoginSepeteEkleme
 * Uygulamadan cikis yapilir.
 * Ana sayfa tab'ına tıklanır.
 * Non-Login ana sayfadan bir urun sepete eklenir.
-* Sepete Ekle butonu ile Gratis1 login olunur.
+* Sepete Ekle butonu ile Gratis2 login olunur.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Sepet kontrol edilerek temizlenir.
@@ -65,7 +65,7 @@ Visited Add Favorite
 tags:Gratis_Android_EnSonGezdiklerimFavori
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
-* Gratis1 ile login olunur.
+* Gratis3 ile login olunur.
 * En Çok Satanlar ürünlerine tıklanır.
 * En Son Gezdiklerim alanına gidilir.
 * En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
@@ -106,7 +106,7 @@ Visited Add To Cart
 tags:Gratis_Android_EnSonGezdiklerimSepet
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
-* Gratis1 ile login olunur.
+* Gratis2 ile login olunur.
 * En Çok Satanlar ürünlerine tıklanır.
 * En Son Gezdiklerim alanına gidilir.
 * En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
@@ -122,7 +122,7 @@ tags:Gratis_Android_EnSonGezdiklerimNonLoginSepetDevam
 * En Çok Satanlar ürünlerine tıklanır.
 * En Son Gezdiklerim alanına gidilir.
 * En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
-* Sepete Ekle butonu ile Gratis1 login olunur.
+* Sepete Ekle butonu ile Gratis3 login olunur.
 * Alışverişe devam edilir.
 
 Non-Login Visited Add To Cart And Go To Cart
@@ -132,6 +132,6 @@ tags:Gratis_Android_EnSonGezdiklerimNonLoginSepeteGit
 * En Çok Satanlar ürünlerine tıklanır.
 * En Son Gezdiklerim alanına gidilir.
 * En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
-* Sepete Ekle butonu ile Gratis1 login olunur.
+* Sepete Ekle butonu ile Gratis4 login olunur.
 * Sepete git'e tıklanır.
 * Bir ürün için sepet kontrol edilerek temizlenir.
