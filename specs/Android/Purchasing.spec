@@ -14,6 +14,14 @@ tags:Gratis_Android_KargoIndirimli
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis0 login olunur.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Adres alanında yeni adres eklenir.
+* Ana sayfaya geçilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
 * Anasayfa urun kodu "10003352" yazilir, arama yapilir.

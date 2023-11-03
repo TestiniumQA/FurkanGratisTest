@@ -319,3 +319,13 @@ This is a concept file with following syntax for each concept.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
+
+# Adres alanında yeni adres eklenir.
+* Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur.
+//* Android klavye kapatılır
+* Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
+* Adres Ekle Sehir ismi secilir.
+* Adres Ekle Ilce ismi secilir.
+* Adres Ekle Mahalle ismi secilir.
+* Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
+* Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur.
