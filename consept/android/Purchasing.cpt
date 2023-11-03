@@ -312,8 +312,13 @@ This is a concept file with following syntax for each concept.
 * "Siparişiniz onaylanmıştır. Siparişiniz hazır olduğunda e-posta/SMS yoluyla bilgilendirileceksiniz." text degerine sahip elementin sayfada gorundugu kontrol edilir
 * Elementine tıkla "orderOkBtn"
 
-# Sepet temizlenir ve yeni ürün <text> eklenir.
+# Sepet temizlenir, adres ve yeni ürün <text> eklenir.
 * Bir ürün için sepet kontrol edilerek temizlenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Adres alanında yeni adres eklenir.
 * Ana sayfaya geçilir.
 * Anasayfa urun kodu <text> yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
