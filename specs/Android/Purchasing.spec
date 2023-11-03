@@ -274,7 +274,6 @@ tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Mağaza saatleri kontrol edilir.
 * Mağazadan Teslim mağazası seçilir.
 * Fatura bilgileri alanında yeni adres eklenir.
-* Mağazadan Teslimat Fatura adresi değiştirilir.
 * Kendim Teslim alacağım seçeneği seçilir.
 * Satın alma alanında devam et butonuna tıklanır.
 * Sipariş Özeti alanı kontrol edilir.
@@ -287,7 +286,7 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
-* Sepet temizlenir, adres ve yeni ürün "10000238" eklenir.
+* Sepet ve adres temizlenir, yeni ürün "10000238" eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
@@ -360,6 +359,7 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiEkle
 * Fatura Bilgileri alanında yeni adres ekle butonuna tıklanır.
 * Fatura adresi alanında yeni adres eklenir.
 * Mağazadan Teslimat Fatura Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
+* Mağazadan Teslimat Fatura adresi değiştirilir.
 * Satın alma alanında devam et butonuna tıklanır.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
