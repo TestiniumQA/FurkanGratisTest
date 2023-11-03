@@ -135,14 +135,16 @@ tags:Gratis_Android_YeniAdresEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis0 login olunur.
-* Sepet temizlenir, adres ve yeni ürün "10000236" eklenir.
+//* Sepet temizlenir, adres ve yeni ürün "10000236" eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
 * Yeni teslimat adresi alanına gidilir.
 * Teslimat bilgileri alanında adres bilgileri girilir.
 * Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
-* Satın alma alanında devam et butonuna tıklanır.
+* Başka Adres Seç seçeneğine tıklanır.
+* Adrese Teslim Fatura adresi değiştirilir.
+* Adrese Teslim seçeneğine tıklanır ve devam edilir.
 * Teslimat alanı kontrol edilir.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı fiyat kontrol edilir.
@@ -167,38 +169,36 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 * Iyzico alanı fiyat kontrol edilir.
 
 //EN AZ 2 ADRES EKLİ OLMALI
-Choosing Another Address
-------------------------
-tags:Gratis_Android_BaskaAdresSecerekSiparis
-* Uygulama baslatilir.
-* Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis2 login olunur.
-* Sepet temizlenir, adres ve yeni ürün "10000238" eklenir.
-* Tek ürünün ve toplam fiyatın kontrolü yapılır.
-* Adrese Teslim butonuna tıklanır.
-* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
-* Başka Adres Seç seçeneğine tıklanır.
-* Adrese Teslim seçeneğine tıklanır ve devam edilir.
-* Teslimat alanı kontrol edilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı fiyat kontrol edilir.
+//Choosing Another Address
+//tags:Gratis_Android_BaskaAdresSecerekSiparis
+//* Uygulama baslatilir.
+//* Ana sayfa sepet ikonuna tiklanir.
+//* Sepet ikonu ile Gratis2 login olunur.
+//* Sepet temizlenir, adres ve yeni ürün "10000238" eklenir.
+//* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+//* Adrese Teslim butonuna tıklanır.
+//* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+//* Başka Adres Seç seçeneğine tıklanır.
+//* Adrese Teslim seçeneğine tıklanır ve devam edilir.
+//* Teslimat alanı kontrol edilir.
+//* Sipariş Özeti alanı kontrol edilir.
+//* Iyzico alanı fiyat kontrol edilir.
 
 //EN AZ 2 ADRES EKLİ OLMALI
-Choosing Another Bil Address
-----------------------------
-tags:Gratis_Android_BaskaFaturaAdresiSecerekSiparis
-* Uygulama baslatilir.
-* Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis3 login olunur.
-* Sepet temizlenir, adres ve yeni ürün "10003450" eklenir.
-* Tek ürünün ve toplam fiyatın kontrolü yapılır.
-* Adrese Teslim butonuna tıklanır.
-* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
-* Adrese Teslim Fatura adresi değiştirilir.
-* Satın alma alanında devam et butonuna tıklanır.
-* Teslimat alanı kontrol edilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı fiyat kontrol edilir.
+//Choosing Another Bil Address
+//tags:Gratis_Android_BaskaFaturaAdresiSecerekSiparis
+//* Uygulama baslatilir.
+//* Ana sayfa sepet ikonuna tiklanir.
+//* Sepet ikonu ile Gratis3 login olunur.
+//* Sepet temizlenir, adres ve yeni ürün "10003450" eklenir.
+//* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+//* Adrese Teslim butonuna tıklanır.
+//* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+//* Adrese Teslim Fatura adresi değiştirilir.
+//* Satın alma alanında devam et butonuna tıklanır.
+//* Teslimat alanı kontrol edilir.
+//* Sipariş Özeti alanı kontrol edilir.
+//* Iyzico alanı fiyat kontrol edilir.
 
 //EN AZ 2 ADRES EKLİ OLMALI
 Purchasing with Store Deliver Changing Bil Address

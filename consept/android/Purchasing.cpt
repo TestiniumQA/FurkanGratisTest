@@ -65,6 +65,7 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 * "addressBtn"li elementi bulana kadar "4" kere yukarı swipe yap ve elementi bul
 * Elementine tıkla "addressBtn"
+* "1" saniye bekle
 * "addressTypeTxt" li elementin text degeri hafizada "AdresIsmi" olarak saklanan text ile esit mi kontrol et
 
 # Adrese Teslim Fatura Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
