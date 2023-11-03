@@ -68,6 +68,7 @@ tags:Gratis_Android_MagazaSecPopup
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Adres alanında yeni adres eklenir.
 * Ana sayfaya geçilir.
 * Anasayfa urun kodu "10000237" yazilir, arama yapilir.
