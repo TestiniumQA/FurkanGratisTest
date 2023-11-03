@@ -203,20 +203,20 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 //EN AZ 2 ADRES EKLİ OLMALI
 Purchasing with Store Deliver Changing Bil Address
 //tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDegistirme
-* Uygulama baslatilir.
-* Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis4 login olunur.
-* Sepet temizlenir, adres ve yeni ürün "10000236" eklenir.
-* Tek ürünün ve toplam fiyatın kontrolü yapılır.
-* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
-* Mağazadan Teslim Sehir ismi secilir.
-* Mağazadan Teslim Ilce ismi secilir.
-* Mağaza saatleri kontrol edilir.
-* Mağazadan Teslim mağazası seçilir.
-* Mağazadan Teslimat Fatura adresi değiştirilir.
-* Satın alma alanında devam et butonuna tıklanır.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
+//* Uygulama baslatilir.
+//* Ana sayfa sepet ikonuna tiklanir.
+//* Sepet ikonu ile Gratis4 login olunur.
+//* Sepet temizlenir, adres ve yeni ürün "10000236" eklenir.
+//* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+//* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+//* Mağazadan Teslim Sehir ismi secilir.
+//* Mağazadan Teslim Ilce ismi secilir.
+//* Mağaza saatleri kontrol edilir.
+//* Mağazadan Teslim mağazası seçilir.
+//* Mağazadan Teslimat Fatura adresi değiştirilir.
+//* Satın alma alanında devam et butonuna tıklanır.
+//* Sipariş Özeti alanı kontrol edilir.
+//* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 
 //*********************************************** PURCHASİNG 3 *********************************************************
 
