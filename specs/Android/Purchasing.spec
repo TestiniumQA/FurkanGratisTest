@@ -202,8 +202,7 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 
 //EN AZ 2 ADRES EKLİ OLMALI
 Purchasing with Store Deliver Changing Bil Address
---------------------------------------------------
-tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDegistirme
+//tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDegistirme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis4 login olunur.
@@ -275,6 +274,7 @@ tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Mağaza saatleri kontrol edilir.
 * Mağazadan Teslim mağazası seçilir.
 * Fatura bilgileri alanında yeni adres eklenir.
+* Mağazadan Teslimat Fatura adresi değiştirilir.
 * Kendim Teslim alacağım seçeneği seçilir.
 * Satın alma alanında devam et butonuna tıklanır.
 * Sipariş Özeti alanı kontrol edilir.
