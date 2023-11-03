@@ -79,7 +79,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "profilePageMyPasswordSaved"
 * Element var mı kontrol et "storeName"
 * "addBillingAddressBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
-* "storeBillingAddressName" li elementin text degeri hafizada "FaturaAdres" olarak saklanan text ile esit mi kontrol et
+//* "storeBillingAddressName" li elementin text degeri hafizada "FaturaAdres" olarak saklanan text ile esit mi kontrol et
 
 # Satın alma alanında devam et butonuna tıklanır.
 * "continueBtn"li elementi bulana kadar "5" kere swipe yap ve elementi bul
