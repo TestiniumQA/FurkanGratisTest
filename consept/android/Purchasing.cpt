@@ -326,6 +326,18 @@ This is a concept file with following syntax for each concept.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 
+# Sepet ve adres temizlenir, yeni ürün <text> eklenir.
+* Bir ürün için sepet kontrol edilerek temizlenir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Ana sayfaya geçilir.
+* Anasayfa urun kodu <text> yazilir, arama yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
+
 # Adres alanında yeni adres eklenir.
 * Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur.
 //* Android klavye kapatılır

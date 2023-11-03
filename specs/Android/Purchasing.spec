@@ -266,7 +266,7 @@ tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis2 login olunur.
-* Sepet temizlenir, adres ve yeni ürün "10000237" eklenir.
+* Sepet ve adres temizlenir, yeni ürün "10000237" eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
