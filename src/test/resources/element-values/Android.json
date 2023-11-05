@@ -606,7 +606,7 @@
   },
   {
     "key": "emptyMailFailure",
-    "androidValue": "//*[@text='E-posta alanı boş bırakılamaz.']",
+    "androidValue": "//*[@text='Lütfen geçerli bir e-posta giriniz.']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
