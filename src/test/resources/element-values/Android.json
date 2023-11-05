@@ -1484,6 +1484,11 @@
     "androidType": "xpath"
   },
   {
+    "key": "firstColor",
+    "androidValue": "(//*[@resource-id='com.gratis.android:id/item_color_root'])",
+    "androidType": "xpath"
+  },
+  {
     "key": "pieceSpinner",
     "androidValue": "com.gratis.android:id/piece_spinner",
     "androidType": "id"

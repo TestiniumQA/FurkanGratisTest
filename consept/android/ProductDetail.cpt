@@ -118,6 +118,8 @@ This is a concept file with following syntax for each concept.
 * "categoryName" li ve değeri <text> e eşit olan elementli bulana kadar swipe et ve tıkla
 
 # Ürünün renk tonu değiştirilir.
+* Elementine tıkla "firstColor"
+* "1" saniye bekle
 * "productDetailTitle" li elementi bul ve değerini "varsayılanRenkAd" olarak sakla
 * "colorList"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Element var mı kontrol et "secondColor"
