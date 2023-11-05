@@ -161,7 +161,7 @@ This is a concept file with following syntax for each concept.
 * "1A2s3d..." textini "myPasswordNewPassword" elemente yaz
 * "1A2s3d...." textini "myPasswordAgainNewPassword" elemente yaz
 * Elementine tıkla "myPasswordSavedIcon"
-* toast message "Yeni şifre ve tekrar alanları birbiriyle eşleşmiyor." değerine eşit mi
+* "Girdiğiniz şifreler eşleşmiyor" değerini sayfa üzerinde olup olmadığını kontrol et.
 
 # Eski şifre hatalı uyarı mesajı görülür.
 * "1A2s3d" textini "myPasswordOldPassword" elemente yaz
