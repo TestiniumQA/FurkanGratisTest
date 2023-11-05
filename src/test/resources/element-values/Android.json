@@ -599,7 +599,7 @@
   },
   {
     "key": "forgetPasswordFailPopup",
-    "androidValue": "//*[@text='Lütfen girilen e-posta alanını kontrol ediniz.']",
+    "androidValue": "//*[@text='Lütfen e-posta adresi giriniz.']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""

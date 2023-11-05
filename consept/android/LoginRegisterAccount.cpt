@@ -154,7 +154,7 @@ This is a concept file with following syntax for each concept.
 # Eski şifre eksik yazılır ve uyarı mesajı görülür.
 * "12345" textini "myPasswordOldPassword" elemente yaz
 * Elementine tıkla "myPasswordSavedIcon"
-* toast message "Eski şifreniz en az 6 karakterden oluşmaktadır." değerine eşit mi
+* toast message "Eski şifreniz hatalı, lütfen kontrol ediniz" değerine eşit mi
 
 # Yeni şifre ve tekrarı uyuşmuyor uyarı mesajı görülür.
 * "1A2s3d.." textini "myPasswordOldPassword" elemente yaz
