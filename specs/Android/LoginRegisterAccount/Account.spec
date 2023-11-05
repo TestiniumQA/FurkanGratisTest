@@ -122,6 +122,7 @@ tags:Gratis_Android_FavorilerdeMaximumSepeteEkleme
 * Favorilerdeki urun sepete eklenir ve alısverise devam edilir.
 * Favorilerdeki ürünün sepete ekleme butonuna tıklanır.
 * Maximum ürün uyarısı kontrol edilir.
+* Favorilerim alanında ürün favorilerden çıkarılır.
 
 Scenario Updating Customer Information
 ------------------------------------------

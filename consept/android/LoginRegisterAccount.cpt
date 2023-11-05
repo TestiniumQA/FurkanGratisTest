@@ -349,6 +349,11 @@ This is a concept file with following syntax for each concept.
 * "favListDeletePopupButton" li element varsa tıkla
 * Elementin yüklenmesini bekle "favListSpinner"
 
+# Favorilerim alanında ürün favorilerden çıkarılır.
+* Elementine tıkla "favCikar"
+* Element var mı kontrol et "bosFavoriListesi"
+* "favCikar" değerini sayfa üzerinde olmadıgını kontrol et
+
 # <yeniListe> isimli favori listesi silindiği kontrol edilir.
 * "favListSpinner" elementinin <yeniListe> textini içermediği kontrol edilir
 * "favListItem" değerini sayfa üzerinde olmadıgını kontrol et
