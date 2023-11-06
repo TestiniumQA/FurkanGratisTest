@@ -347,7 +347,6 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Sepet kontrol edilerek temizlenir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
-* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
