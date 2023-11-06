@@ -31,6 +31,7 @@ tags:Gratis_Android_Register_Negative
 * Register'a tıklanır.
 * Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur.
 * Kayıtlı Telefon ile register olunur ve uyarı mesajı gorulur.
+* Şifre hata popup'ı görülür.
 
 Forget Password
 ---------------
