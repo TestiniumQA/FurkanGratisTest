@@ -1410,7 +1410,7 @@
     "key": "SearchBox",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeButton[1]",
+    "iosValue": "**/XCUIElementTypeNavigationBar[`name == \"Gratis.HomeView\"`]/XCUIElementTypeButton[1]",
     "iosType": "classChain"
   },
   {
