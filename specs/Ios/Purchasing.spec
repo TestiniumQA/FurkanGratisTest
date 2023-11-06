@@ -323,7 +323,6 @@ tags:Gratis_IOS_MagazadanKendimTeslimatFaturaAdresiEkle
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
-* Uygulama geri butonuna bas
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
@@ -357,7 +356,6 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
-* Uygulama geri butonuna bas
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
