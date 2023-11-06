@@ -1116,7 +1116,7 @@
     "key": "ProductAddButton",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//XCUIElementTypeButton[@name='SEPETE EKLE'])[1]",
+    "iosValue": "(//XCUIElementTypeButton[@name='SEPETE EKLE'])[2]",
     "iosType": "xpath"
   },
   {
