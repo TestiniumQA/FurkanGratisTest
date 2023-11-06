@@ -81,7 +81,7 @@
 * Elementine tıkla "GetDirectionsBtn"
 * Elementin yüklenmesini bekle "SelectAppMapsPopup"
 * Elementine tıkla "SelectAppMapsPopup"
-* "GetDirectionsBtn" değerini sayfa üzerinde olmadıgını kontrol et
+//* "GetDirectionsBtn" değerini sayfa üzerinde olmadıgını kontrol et
 
 # Harita tabina basilir
 * Elementin yüklenmesini bekle "MapBtn"

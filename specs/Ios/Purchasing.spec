@@ -36,8 +36,12 @@ tags:Gratis_IOS_KargoIndirimsiz
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis2 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Far" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -54,8 +58,12 @@ tags:Gratis_IOS_MagazaSecPopup
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis2 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Far" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -80,8 +88,12 @@ tags:Gratis_IOS_AdresDuzenleme
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis2 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Yüz Makyajı", "Allık" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -101,8 +113,14 @@ tags:Gratis_IOS_YeniAdresSilipEkleme
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis2 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+//* Ana sayfa tab'ına tıklanır
+//* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Tırnak Bakım", "Oje" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -123,8 +141,12 @@ tags:Gratis_IOS_YeniAdresEkleme
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis3 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şapmpuanlar", "Erkek Şampuan" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -144,8 +166,12 @@ tags:Gratis_IOS_YeniFaturaAdresiEkleme
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis3 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şapmpuanlar", "Erkek Şampuan" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -165,8 +191,12 @@ tags:Gratis_IOS_BaskaAdresSecerekSiparis
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis3 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şapmpuanlar", "Erkek Şampuan" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -185,8 +215,12 @@ tags:Gratis_IOS_BaskaFaturaAdresiSecerekSiparis
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis3 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Maskara" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -204,8 +238,12 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDegistirme
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis3 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Maskara" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -227,8 +265,12 @@ tags:Gratis_IOS_MagazadanKendimTeslimat
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis4 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -248,8 +290,12 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimat
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis4 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -270,9 +316,14 @@ tags:Gratis_IOS_MagazadanKendimTeslimatFaturaAdresiEkle
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis4 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
+* Uygulama geri butonuna bas
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
@@ -299,9 +350,14 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis4 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
+* Uygulama geri butonuna bas
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
