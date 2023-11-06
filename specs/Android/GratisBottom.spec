@@ -115,14 +115,14 @@ tags:Gratis_Android_KategoriSecimiVeSepet
 * Urun detay sayfasına geçilir.
 * Uygulama geri butonuna bas.
 * Sepete Ekle butonuna tıklanır.
-* Sepete Ekle butonu ile Gratis4 login olunur.
+* Sepete Ekle butonu ile Gratis0 login olunur.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Uygulamadan cikis yapilir.
 * Kategoriler sayfasina gecilir.
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
 * Sepete Ekle butonuna tıklanır.
-* Sepete Ekle butonu ile Gratis4 login olunur.
+* Sepete Ekle butonu ile Gratis0 login olunur.
 * Alışverişe devam edilir.
 * Kategoriler sayfasina gecilir.
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
@@ -139,7 +139,7 @@ tags:Gratis_Android_NonLoginKategoriFavoriEkleme
 * Kategoriler sayfasina gecilir.
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
 * Listeleme alanından bir ürünün favori butonuna tıklanır.
-* Favori ikonu ile Gratis4 login olunur.
+* Favori ikonu ile Gratis1 login olunur.
 * Urun favorilere eklenir.
 * Favori listesi kontrol edilerek temizlenir.
 
@@ -150,7 +150,7 @@ tags:Gratis_Android_NonLoginKategoriFavoriListesiOlusturma
 * Kategoriler sayfasina gecilir.
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
 * Listeleme alanından bir ürünün favori butonuna tıklanır.
-* Favori ikonu ile Gratis4 login olunur.
+* Favori ikonu ile Gratis2 login olunur.
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
@@ -162,7 +162,7 @@ Category and Add To Favorite and Favorite List
 tags:Gratis_Android_KategoriFavoriEklemeVeListeOlusturma
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
-* Gratis4 ile login olunur.
+* Gratis3 ile login olunur.
 * Kategoriler sayfasina gecilir.
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
 * Listeleme alanından bir ürünün favori butonuna tıklanır.
