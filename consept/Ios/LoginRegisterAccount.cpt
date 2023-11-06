@@ -54,9 +54,9 @@
 * Elementin yüklenmesini bekle "MyPasswordOldPassword"
 * "1A2s3d." textini "MyPasswordOldPassword" elemente yaz
 * Kaydet ikonuna tiklanir
-//* Elementin yüklenmesini bekle "AlertSuccessfulPopupTwo"
-//* "AlertSuccessfulPopupTwo" elementinin "Şifreniz en az 8 karakter olmalı, büyük ve küçük harf ve en az bir sayı ve özel karakter içermelidir." textini içerdiği kontrol edilir
-* "Şifreniz en az 8 karakter olmalı, büyük ve küçük harf ve en az bir sayı ve özel karakter içermelidir." text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementin yüklenmesini bekle "AlertSuccessfulPopupTwo"
+* "AlertSuccessfulPopupTwo" elementinin "Şifreniz en az 8 karakter olmalı, büyük ve küçük harf, en az bir sayı ve özel karakter içermelidir. " textini içerdiği kontrol edilir
+//* "Şifreniz en az 8 karakter olmalı, büyük ve küçük harf, en az bir sayı ve özel karakter içermelidir. " text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "geriBtn"
@@ -71,8 +71,11 @@
 * Elementin yüklenmesini bekle "MyPasswordAgainNewPassword"
 * "1A2s3d...." textini "MyPasswordAgainNewPassword" elemente yaz
 * Kaydet ikonuna tiklanir
-* Elementin yüklenmesini bekle "AlertVisiblePopup"
-* "AlertVisiblePopup" elementinin "Yeni şifre ve tekrar alanları birbiriyle eşleşmiyor" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "AlertSuccessfulPopupTwo"
+* "AlertSuccessfulPopupTwo" elementinin "Girdiğiniz şifreler eşleşmiyor" textini içerdiği kontrol edilir
+//* "Girdiğiniz şifreler eşleşmiyor" text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * Sifrem'e tiklanir sifre yenileme sayfasinin acildigi gorulur
@@ -86,7 +89,7 @@
 * "1A2s3d...." textini "MyPasswordAgainNewPassword" elemente yaz
 * Kaydet ikonuna tiklanir
 * Elementin yüklenmesini bekle "AlertVisiblePopup"
-* "AlertVisiblePopup" elementinin "Eski şifreniz hatalı, lütfen kontrol ediniz." textini içerdiği kontrol edilir
+* "AlertVisiblePopup" elementinin "Eski şifrenizi hatalı girdiniz" textini içerdiği kontrol edilir
 
 # Kaydet ikonuna tiklanir
 * Element var mı kontrol et "MyPasswordSavedIcon"

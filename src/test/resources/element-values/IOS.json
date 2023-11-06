@@ -66,7 +66,7 @@
     "key": "girisYapBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeButton[`label == \"Giriş Yap\"`]",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"GİRİŞ YAP\"`]",
     "iosType": "classChain"
   },
   {
@@ -346,7 +346,7 @@
     "key": "ForgotPasswordSendBtnIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='Gönder']",
+    "iosValue": "//*[@name='GÖNDER']",
     "iosType": "xpath"
   },
   {
@@ -367,7 +367,7 @@
     "key": "RegisterBtnIos",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='Üye Ol']",
+    "iosValue": "//*[@name='ÜYE OL']",
     "iosType": "xpath"
   },
   {
@@ -591,7 +591,7 @@
     "key": "RegisterButton",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeButton[@name='Üye Ol']",
+    "iosValue": "//XCUIElementTypeButton[@name='ÜYE OL']",
     "iosType": "xpath"
   },
   {
@@ -633,7 +633,7 @@
     "key": "ForgetPasswordFailPopup",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='Lütfen e-posta adresi giriniz.']",
+    "iosValue": "//*[@name='Lütfen geçerli bir e-posta adresi giriniz']",
     "iosType": "xpath"
   },
   {
@@ -647,21 +647,21 @@
     "key": "EmptyPasswordFailure",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='E-posta adresiniz ve/veya şifreniz hatalı!']",
+    "iosValue": "//*[@name='Şifre alanı boş bırakılamaz.']",
     "iosType": "xpath"
   },
   {
     "key": "EmptyMailFailure",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='Lütfen e-posta adresi giriniz.']",
+    "iosValue": "//*[@name='Lütfen geçerli bir e-posta adresi giriniz']",
     "iosType": "xpath"
   },
   {
     "key": "WrongMailFailure",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='Geçersiz giriş. Lütfen geçerli bir e-posta adresi girin; örneğin: john@smith.com']",
+    "iosValue": "//*[@name='Lütfen geçerli bir e-posta adresi giriniz']",
     "iosType": "xpath"
   },
   {
@@ -675,7 +675,7 @@
     "key": "WrongPasswordFailure",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='E-posta adresiniz ve/veya şifreniz hatalı!']",
+    "iosValue": "//*[@name='E-posta adresiniz ve/veya şifreniz hatalı.']",
     "iosType": "xpath"
   },
   {
