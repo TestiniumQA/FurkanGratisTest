@@ -72,8 +72,8 @@
 * "1A2s3d...." textini "MyPasswordAgainNewPassword" elemente yaz
 * Kaydet ikonuna tiklanir
 //* Elementin yüklenmesini bekle "AlertSuccessfulPopupTwo"
-* "AlertSuccessfulPopupTwo" elementinin "Girdiğiniz şifreler eşleşmiyor" textini içerdiği kontrol edilir
-//* "Girdiğiniz şifreler eşleşmiyor" text degerine sahip elementin goruntulendigi kontrol edilir
+//* "AlertSuccessfulPopupTwo" elementinin "Girdiğiniz şifreler eşleşmiyor" textini içerdiği kontrol edilir
+* "Girdiğiniz şifreler eşleşmiyor" text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "geriBtn"
