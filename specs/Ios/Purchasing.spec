@@ -249,8 +249,12 @@ tags:Gratis_IOS_MagazadanKendimTeslimat
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis4 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -270,8 +274,12 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimat
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis4 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -292,8 +300,12 @@ tags:Gratis_IOS_MagazadanKendimTeslimatFaturaAdresiEkle
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis4 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
@@ -321,8 +333,12 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis4 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
