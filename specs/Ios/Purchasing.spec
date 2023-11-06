@@ -316,12 +316,8 @@ tags:Gratis_IOS_MagazadanKendimTeslimatFaturaAdresiEkle
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis4 login olunur
 * Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
@@ -349,11 +345,8 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis4 login olunur
 * Sepet kontrol edilerek temizlenir
-* Kategoriler sayfasina gecilir
-* "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfadan bir urun sepete eklenir
 * Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
