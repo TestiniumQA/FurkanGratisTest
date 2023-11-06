@@ -780,7 +780,7 @@
     "key": "NewAddressCustomerPostcode",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeTextField[`value == \"Lütfen buraya yazınız\"`]",
+    "iosValue": "**/XCUIElementTypeTextField[`value == \"Posta kodu giriniz\"`]",
     "iosType": "classChain"
   },
   {
