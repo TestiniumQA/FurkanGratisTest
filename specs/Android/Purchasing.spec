@@ -136,7 +136,7 @@ tags:Gratis_Android_YeniAdresEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis0 login olunur.
-* Sepet temizlenir, adres ve yeni ürün "10000237" eklenir.
+//* Sepet temizlenir, adres ve yeni ürün "10000237" eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -145,7 +145,7 @@ tags:Gratis_Android_YeniAdresEkleme
 * Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
 * Başka Adres Seç seçeneğine tıklanır.
 * Adrese Teslim Fatura adresi değiştirilir.
-* Adrese Teslim seçeneğine tıklanır ve devam edilir.
+* Satın alma alanında devam et butonuna tıklanır.
 * Teslimat alanı kontrol edilir.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı fiyat kontrol edilir.
