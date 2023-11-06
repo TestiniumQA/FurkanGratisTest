@@ -104,8 +104,8 @@ tags:Gratis_IOS_UrunDetayFavori
 * Login sayfasina gecilir
 * Gratis3 ile login olunur
 * Kategoriler sayfasina gecilir
-* "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Dudak Makyajı", "Likit Ruj" seçilir
+* "Ev & Yaşam" isimli kategori seçilir
+* Alt kategorilerden biri "Dekorasyon", "Mum" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
 * Urun favorilere eklenir
@@ -124,8 +124,8 @@ IOS Scenario Non-Login Add To Favorite
 tags:Gratis_IOS_UrunDetayNonLoginFavori
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
-* "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Dudak Makyajı", "Likit Ruj" seçilir
+* "Ev & Yaşam" isimli kategori seçilir
+* Alt kategorilerden biri "Dekorasyon", "Mum" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
 * Favori ikonu ile Gratis3 login olunur
@@ -137,8 +137,8 @@ IOS Scenario Non-Login Add To Favorite List
 tags:Gratis_IOS_UrunDetayNonLoginFavoriListesi
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
-* "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Dudak Makyajı", "Likit Ruj" seçilir
+* "Ev & Yaşam" isimli kategori seçilir
+* Alt kategorilerden biri "Dekorasyon", "Mum" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
 * Favori ikonu ile Gratis3 login olunur
