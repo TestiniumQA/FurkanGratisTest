@@ -927,14 +927,14 @@
     "key": "FavBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeButton[@name='favoriteOffPurpleIcon']",
+    "iosValue": "(//XCUIElementTypeButton[@name=\"favorite off\"])[1]",
     "iosType": "xpath"
   },
   {
     "key": "FavBtnTwo",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "(//XCUIElementTypeButton[@name='favoriteOffPurpleIcon'])[2]",
+    "iosValue": "(//XCUIElementTypeButton[@name=\"favorite off\"])[2]",
     "iosType": "xpath"
   },
   {
@@ -1165,7 +1165,7 @@
     "key": "GratisBeautyAnasayfaIcon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeNavigationBar[`name == \"Gratis.HomeView\"`]/XCUIElementTypeStaticText",
+    "iosValue": "**/XCUIElementTypeNavigationBar[`name == \"Gratis.HomeView\"`]/XCUIElementTypeStaticText[1]",
     "iosType": "classChain"
   },
   {
