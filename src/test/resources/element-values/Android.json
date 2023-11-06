@@ -613,7 +613,7 @@
   },
   {
     "key": "wrongMailFailure",
-    "androidValue": "//*[@text='Lütfen girilen e-posta adresinizi kontrol ediniz.']",
+    "androidValue": "//*[@text='Lütfen geçerli bir e-posta adresi giriniz.']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
@@ -621,6 +621,13 @@
   {
     "key": "shortPasswordFailure",
     "androidValue": "//*[@text='Girilen şifre en az 8 haneli olmalıdır.']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "passwordFailure",
+    "androidValue": "//*[@text='E-posta adresiniz ve/veya şifreniz hatalı.']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
@@ -705,6 +712,13 @@
   {
     "key": "registerPhoneErrorPopup",
     "androidValue": "//android.widget.TextView[@text='Telefon numarası zaten var.']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "registerPasswordErrorPopup",
+    "androidValue": "//*[@text='Şifreniz en az 8 karakter olmalıdır.\nŞifreniz en az 1 özel karakter (~!@#$%^&*()_-+={}[]|:;<>,./?),\nen az 1 büyük ve 1 küçük harf ile en az 1 rakam içermelidir.']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
