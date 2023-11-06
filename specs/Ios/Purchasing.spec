@@ -36,8 +36,12 @@ tags:Gratis_IOS_KargoIndirimsiz
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis2 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Far" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -137,8 +141,12 @@ tags:Gratis_IOS_YeniAdresEkleme
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis3 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şapmpuanlar", "Erkek Şampuan" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -158,8 +166,12 @@ tags:Gratis_IOS_YeniFaturaAdresiEkleme
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis3 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şapmpuanlar", "Erkek Şampuan" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
@@ -179,8 +191,12 @@ tags:Gratis_IOS_BaskaAdresSecerekSiparis
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis3 login olunur
 * Sepet kontrol edilerek temizlenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Saç Bakım" isimli kategori seçilir
+* Alt kategorilerden biri "Şapmpuanlar", "Erkek Şampuan" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
