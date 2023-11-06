@@ -54,9 +54,9 @@
 * Elementin yüklenmesini bekle "MyPasswordOldPassword"
 * "1A2s3d." textini "MyPasswordOldPassword" elemente yaz
 * Kaydet ikonuna tiklanir
-* Elementin yüklenmesini bekle "AlertSuccessfulPopupTwo"
-* "AlertSuccessfulPopupTwo" elementinin "Şifreniz en az 8 karakter olmalı, büyük ve küçük harf, en az bir sayı ve özel karakter içermelidir. " textini içerdiği kontrol edilir
-//* "Şifreniz en az 8 karakter olmalı, büyük ve küçük harf, en az bir sayı ve özel karakter içermelidir. " text degerine sahip elementin goruntulendigi kontrol edilir
+//* Elementin yüklenmesini bekle "AlertSuccessfulPopupTwo"
+//* "AlertSuccessfulPopupTwo" elementinin "Şifreniz en az 8 karakter olmalı, büyük ve küçük harf, en az bir sayı ve özel karakter içermelidir. " textini içerdiği kontrol edilir
+* "Şifreniz en az 8 karakter olmalı, büyük ve küçük harf, en az bir sayı ve özel karakter içermelidir. " text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "geriBtn"
@@ -71,7 +71,7 @@
 * Elementin yüklenmesini bekle "MyPasswordAgainNewPassword"
 * "1A2s3d...." textini "MyPasswordAgainNewPassword" elemente yaz
 * Kaydet ikonuna tiklanir
-* Elementin yüklenmesini bekle "AlertSuccessfulPopupTwo"
+//* Elementin yüklenmesini bekle "AlertSuccessfulPopupTwo"
 * "AlertSuccessfulPopupTwo" elementinin "Girdiğiniz şifreler eşleşmiyor" textini içerdiği kontrol edilir
 //* "Girdiğiniz şifreler eşleşmiyor" text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
