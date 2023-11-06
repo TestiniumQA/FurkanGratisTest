@@ -157,7 +157,7 @@ tags:Gratis_IOS_UrunDetayAltBarlar
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Yüz Makyajı", "BB-CC Kremler" seçilir
+* Alt kategorilerden biri "Yüz Makyajı", "Kontür" seçilir
 * Urun detay sayfasına geçilir
 * Alt bar alanları kontrol edilir
 * Ürün bilgileri kontrol edilir
