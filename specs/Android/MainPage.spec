@@ -50,7 +50,7 @@ Non-Login Add To Cart
 tags:Gratis_Android_NonLoginSepeteEkleme
 * Uygulama baslatilir.
 * Non-Login ana sayfadan bir urun sepete eklenir.
-* Sepete Ekle butonu ile Gratis1 login olunur.
+* Sepete Ekle butonu ile Gratis2 login olunur.
 * Alışverişe devam edilir.
 * Uygulamadan cikis yapilir.
 * Ana sayfa tab'ına tıklanır.
