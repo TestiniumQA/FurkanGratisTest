@@ -317,7 +317,7 @@ IOS Scenario Purchasing with Store Deliver Myself and Adding Bill Address
 tags:Gratis_IOS_MagazadanKendimTeslimatFaturaAdresiEkle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis2 login olunur
+* Sepet ikonu ile Gratis4 login olunur
 * Sepet temizlenir, adresler silinir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
