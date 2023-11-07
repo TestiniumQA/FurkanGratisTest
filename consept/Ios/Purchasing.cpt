@@ -532,7 +532,7 @@
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
-//* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
 * Adres alanında yeni adres eklenir
 
 # Sepet temizlenir, adresler silinir
