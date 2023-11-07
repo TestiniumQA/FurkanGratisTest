@@ -339,7 +339,7 @@ IOS Scenario Purchasing with Store Deliver Someone and Adding Bill Address
 tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis3 login olunur
+* Sepet ikonu ile Gratis0 login olunur
 * Sepet temizlenir, adresler silinir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
@@ -363,7 +363,7 @@ IOS Scenario Purchasing with Deliver Store Edit Billing Address
 tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDuzenle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis0 login olunur
+* Sepet ikonu ile Gratis1 login olunur
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
@@ -386,7 +386,7 @@ IOS Scenario Purchasing with Store Deliver Someone and Delete and Adding Bill Ad
 tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis1 login olunur
+* Sepet ikonu ile Gratis2 login olunur
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
@@ -410,7 +410,7 @@ IOS Scenario Purchasing with Store Deliver and Adding Another Bill Address
 tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiEkle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis2 login olunur
+* Sepet ikonu ile Gratis3 login olunur
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
@@ -434,7 +434,7 @@ IOS Scenario Purchasing with Store Deliver and Change Delivery Information
 tags:Gratis_IOS_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis3 login olunur
+* Sepet ikonu ile Gratis4 login olunur
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
