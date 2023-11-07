@@ -12,8 +12,8 @@ IOS Scenario Purchasing Above Shipping Cost
 tags:Gratis_IOS_KargoIndirimli
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis2 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet ikonu ile Gratis0 login olunur
+* Sepet temizlenir, adres silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Elektrikli Ürünler" isimli kategori seçilir
 * Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
@@ -34,8 +34,8 @@ IOS Scenario Purchasing Below Shipping Cost
 tags:Gratis_IOS_KargoIndirimsiz
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis2 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet ikonu ile Gratis1 login olunur
+* Sepet temizlenir, adres silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
 * Alt kategorilerden biri "Göz Makyajı", "Far" seçilir
@@ -57,7 +57,7 @@ tags:Gratis_IOS_MagazaSecPopup
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis2 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
 * Alt kategorilerden biri "Göz Makyajı", "Far" seçilir
@@ -86,8 +86,8 @@ IOS Scenario Purchasing with Editing Address
 tags:Gratis_IOS_AdresDuzenleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis2 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet ikonu ile Gratis3 login olunur
+* Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
 * Alt kategorilerden biri "Yüz Makyajı", "Allık" seçilir
@@ -111,8 +111,8 @@ IOS Scenario Purchasing with Deleting and Adding New Address
 tags:Gratis_IOS_YeniAdresSilipEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis2 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet ikonu ile Gratis4 login olunur
+* Sepet temizlenir, adresler silinir ve yeni adres eklenir
 //* Ana sayfa tab'ına tıklanır
 //* Ana sayfadan bir urun sepete eklenir
 * Kategoriler sayfasina gecilir
@@ -139,11 +139,11 @@ IOS Scenario Purchasing with Adding New Address
 tags:Gratis_IOS_YeniAdresEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis3 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet ikonu ile Gratis0 login olunur
+* Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Saç Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "Şapmpuanlar", "Erkek Şampuan" seçilir
+* Alt kategorilerden biri "Şampuanlar", "Erkek Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -154,6 +154,8 @@ tags:Gratis_IOS_YeniAdresEkleme
 * Yeni teslimat adresi alanına gidilir
 * Teslimat bilgileri alanında adres bilgileri girilir
 * Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir
+* Başka Adres Seç seçeneğine tıklanır
+* Adrese Teslim Fatura adresi değiştirilir
 * Satın alma alanında devam et butonuna tıklanır
 * Teslimat alanı kontrol edilir
 * Sipariş Özeti alanı kontrol edilir
@@ -164,11 +166,11 @@ IOS Scenario Purchasing with Adding New Bill Address
 tags:Gratis_IOS_YeniFaturaAdresiEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis3 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet ikonu ile Gratis1 login olunur
+* Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Saç Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "Şapmpuanlar", "Erkek Şampuan" seçilir
+* Alt kategorilerden biri "Şampuanlar", "Erkek Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -189,11 +191,12 @@ IOS Scenario Purchasing with Choosing Another Address
 tags:Gratis_IOS_BaskaAdresSecerekSiparis
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis3 login olunur
+* Sepet ikonu ile Gratis2 login olunur
+* Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
 * "Saç Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "Şapmpuanlar", "Erkek Şampuan" seçilir
+* Alt kategorilerden biri "Şampuanlar", "Erkek Şampuan" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -214,7 +217,7 @@ tags:Gratis_IOS_BaskaFaturaAdresiSecerekSiparis
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis3 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
 * Alt kategorilerden biri "Göz Makyajı", "Maskara" seçilir
@@ -236,8 +239,8 @@ IOS Scenario Purchasing with Store Deliver Changing Bill Address
 tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDegistirme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis3 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet ikonu ile Gratis4 login olunur
+* Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
 * Alt kategorilerden biri "Göz Makyajı", "Maskara" seçilir
@@ -263,8 +266,8 @@ IOS Scenario Purchasing with Store Deliver Myself
 tags:Gratis_IOS_MagazadanKendimTeslimat
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis4 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet ikonu ile Gratis0 login olunur
+* Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
 * Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
@@ -288,8 +291,8 @@ IOS Scenario Purchasing with Store Deliver Someone
 tags:Gratis_IOS_MagazadanBaskasiTeslimat
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis4 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet ikonu ile Gratis1 login olunur
+* Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
 * Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
@@ -314,17 +317,10 @@ IOS Scenario Purchasing with Store Deliver Myself and Adding Bill Address
 tags:Gratis_IOS_MagazadanKendimTeslimatFaturaAdresiEkle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis4 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet ikonu ile Gratis2 login olunur
+* Sepet temizlenir, adresler silinir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
-//* Sepet kasa arkasi popup'i kapatilir
-* Diger'e tiklanir diger sayfasinin acildigi gorulur
-* Profil'e tiklanir profilim sayfasinin acildigi gorulur
-* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
-* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfa sepet ikonuna tiklanir
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -343,17 +339,10 @@ IOS Scenario Purchasing with Store Deliver Someone and Adding Bill Address
 tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis4 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet ikonu ile Gratis3 login olunur
+* Sepet temizlenir, adresler silinir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
-//* Sepet kasa arkasi popup'i kapatilir
-* Diger'e tiklanir diger sayfasinin acildigi gorulur
-* Profil'e tiklanir profilim sayfasinin acildigi gorulur
-* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
-* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfa sepet ikonuna tiklanir
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -375,7 +364,7 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDuzenle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis0 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
@@ -397,8 +386,8 @@ IOS Scenario Purchasing with Store Deliver Someone and Delete and Adding Bill Ad
 tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis0 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet ikonu ile Gratis1 login olunur
+* Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
@@ -421,8 +410,8 @@ IOS Scenario Purchasing with Store Deliver and Adding Another Bill Address
 tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiEkle
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis0 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet ikonu ile Gratis2 login olunur
+* Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir
@@ -435,6 +424,7 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiEkle
 * Fatura Bilgileri alanında yeni adres ekle butonuna tıklanır
 * Fatura adresi alanında yeni adres eklenir
 * Mağazadan Teslimat Fatura Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir
+* Mağazadan Teslimat Fatura adresi değiştirilir
 * Satın alma alanında devam et butonuna tıklanır
 * Sipariş Özeti alanı kontrol edilir
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir
@@ -444,8 +434,8 @@ IOS Scenario Purchasing with Store Deliver and Change Delivery Information
 tags:Gratis_IOS_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis0 login olunur
-* Sepet kontrol edilerek temizlenir
+* Sepet ikonu ile Gratis3 login olunur
+* Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
 //* Sepet kasa arkasi popup'i kapatilir

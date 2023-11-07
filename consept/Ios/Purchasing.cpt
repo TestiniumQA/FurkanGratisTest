@@ -508,3 +508,37 @@
 * "Siparişiniz onaylanmıştır. Siparişiniz hazır olduğunda e-posta/SMS yoluyla bilgilendirileceksiniz." text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "OrderOkBtn"
 * Elementine tıkla "OrderOkBtn"
+
+# Adres alanında yeni adres eklenir
+* Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur
+* Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir
+* Adres Ekle Sehir ismi secilir
+* Adres Ekle Ilce ismi secilir
+* Adres Ekle Mahalle ismi secilir
+* Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir
+* Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur
+
+# Sepet temizlenir, adres silinir ve yeni adres eklenir
+* Sepet kontrol edilerek temizlenir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
+* Adres alanında yeni adres eklenir
+
+# Sepet temizlenir, adresler silinir ve yeni adres eklenir
+* Sepet kontrol edilerek temizlenir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
+//* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
+* Adres alanında yeni adres eklenir
+
+# Sepet temizlenir, adresler silinir
+* Sepet kontrol edilerek temizlenir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
+//* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir

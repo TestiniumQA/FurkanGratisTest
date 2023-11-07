@@ -10,7 +10,7 @@ IOS Scenario Gratis Card Discount Product Add To Cart
 tags:Gratis_IOS_GratisKartliUrunSepeteEkleme
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Gratis2 ile login olunur
+* Gratis0 ile login olunur
 * Gratis Kart indirimli urun sepete eklenir
 * Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
@@ -20,7 +20,7 @@ IOS Scenario Cart Popup Slider And Add To Cart
 tags:Gratis_IOS_KasaArkasiPopupSlideVeUrunEkleme
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Gratis2 ile login olunur
+* Gratis1 ile login olunur
 * Ana sayfadan bir urun sepete eklenir
 * Kasa arkası popup'inda swipe yapilir ve urun sepete eklenir
 * Sepet kontrol edilerek temizlenir
@@ -41,7 +41,7 @@ IOS Scenario Increase And Decreasing The Number Of Products
 tags:Gratis_IOS_UrunAdediArttirmaVeAzaltma
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Gratis2 ile login olunur
+* Gratis1 ile login olunur
 * Ana sayfadan bir urun sepete eklenir
 * Sepet kasa arkasi popup'i kapatilir
 * Urun adedi arttirilir
@@ -65,7 +65,7 @@ IOS Scenario Add A Favorite List From Cart
 tags:Gratis_IOS_SepetteFavoriListesiOlusturmaVeSilme
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Gratis2 ile login olunur
+* Gratis3 ile login olunur
 * Ana sayfadan bir urun sepete eklenir
 * Sepet kasa arkasi popup'i kapatilir
 * Sepette favori butonuna tiklanir
@@ -76,13 +76,16 @@ tags:Gratis_IOS_SepetteFavoriListesiOlusturmaVeSilme
 * Profil sayfasındaki Favorilerim ikonuna tiklanir
 * Listeden yeni eklenen favori listesi secilir
 * Favori listesi silinir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet kontrol edilerek temizlenir
 
 IOS Scenario Cart Popup Slider Product Detail And Add To Cart
 -------------------------------------------------------------
 tags:Gratis_IOS_KasaArkasiPopupUrunDetayVeSepeteEkleme
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Gratis2 ile login olunur
+* Gratis3 ile login olunur
 * Ana sayfadan bir urun sepete eklenir
 * Kasa arkasi urun detayina gidilir
 * Urun detay sayfasinda urun sepete eklenir
