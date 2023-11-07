@@ -40,8 +40,12 @@ IOS Scenario Increase And Decreasing The Number Of Products
 -----------------------------------------------------------
 tags:Gratis_IOS_UrunAdediArttirmaVeAzaltma
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Gratis1 ile login olunur
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet ikonu ile Gratis1 login olunur
+* Sepet kontrol edilerek temizlenir
+//* Login sayfasina gecilir
+//* Gratis1 ile login olunur
+* Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
 * Sepet kasa arkasi popup'i kapatilir
 * Urun adedi arttirilir

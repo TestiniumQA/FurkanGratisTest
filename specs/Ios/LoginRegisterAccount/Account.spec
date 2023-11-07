@@ -137,3 +137,6 @@ tags:Gratis_IOS_FavorilerdeMaximumSepeteEkleme
 * Favorilerdeki ürünün sepete ekleme butonuna tıklanır
 * Maksimum ürün ekleme uyarisi kontrol edilir
 * Favori listesi kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet kontrol edilerek temizlenir

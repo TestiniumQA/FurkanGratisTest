@@ -96,6 +96,9 @@ tags:Gratis_IOS_UrunDetayMaximumSepeteEkleme
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Maksimum ürün ekleme uyarisi kontrol edilir
+* Ana sayfa tab'ına tıklanır
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet kontrol edilerek temizlenir
 
 IOS Scenario Add To Favorite
 ----------------------------
