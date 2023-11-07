@@ -266,7 +266,7 @@ IOS Scenario Purchasing with Store Deliver Myself
 tags:Gratis_IOS_MagazadanKendimTeslimat
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis0 login olunur
+* Sepet ikonu ile Gratis2 login olunur
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
@@ -291,7 +291,7 @@ IOS Scenario Purchasing with Store Deliver Someone
 tags:Gratis_IOS_MagazadanBaskasiTeslimat
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis1 login olunur
+* Sepet ikonu ile Gratis3 login olunur
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
