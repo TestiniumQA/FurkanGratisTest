@@ -157,7 +157,7 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis1 login olunur.
-* Sepet temizlenir, adres ve yeni ürün "10029636" eklenir.
+* Sepet temizlenir, adres ve yeni ürün "10003450" eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -372,7 +372,7 @@ tags:Gratis_Android_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis4 login olunur.
-* Sepet temizlenir, adres ve yeni ürün "10029636" eklenir.
+* Sepet temizlenir, adres ve yeni ürün "10003450" eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
