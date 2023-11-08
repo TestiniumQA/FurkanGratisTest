@@ -64,7 +64,7 @@ tags:Gratis_Android_MagazaSecPopup
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis2 login olunur.
-* Bir ürün için sepet kontrol edilerek temizlenir.
+* Sepet kontrol edilerek temizlenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
