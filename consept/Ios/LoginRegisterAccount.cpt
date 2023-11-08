@@ -116,6 +116,8 @@
 //* "30","90" oranlarından "30","70" oranlarına "2" kere swipe et
 //* "50","90" oranlarından "50","70" oranlarına "2" kere swipe et
 //* "70","90" oranlarından "70","70" oranlarına "2" kere swipe et
+* "1" saniye bekle
+* "70","90" oranlarından "70","70" oranlarına "1" kere yukarı swipe et
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "RegisterGender"
 * "RegisterGender" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla

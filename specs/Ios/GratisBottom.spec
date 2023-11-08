@@ -225,6 +225,8 @@ tags:Gratis_IOS_KategoriSecimiVeListelemeMaximumSepeteEkleme
 * Alışverişe devam edilir
 * Sepete Ekle butonuna tıklanır
 * Maksimum ürün ekleme uyarisi kontrol edilir
+* Ana sayfa tab'ına tıklanır
+* Sepet kontrol edilerek temizlenir
 
 IOS Scenario Non-Login Category and Add To Favorite
 ---------------------------------------------------
