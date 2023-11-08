@@ -314,7 +314,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "orderOkBtn"
 
 # Sepet temizlenir, adres ve yeni ürün <text> eklenir.
-* Bir ürün için sepet kontrol edilerek temizlenir.
+* Sepet kontrol edilerek temizlenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
@@ -327,7 +327,7 @@ This is a concept file with following syntax for each concept.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 
 # Sepet ve adres temizlenir, yeni ürün <text> eklenir.
-* Bir ürün için sepet kontrol edilerek temizlenir.
+* Sepet kontrol edilerek temizlenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
