@@ -137,7 +137,7 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 
 # Fatura bilgileri mahalle ismi secilir.
-* "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "storeBilDistrictSpinner"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * "1" saniye bekle
 * Elementine tıkla "storeBilDistrictSpinner"
 * "2" saniye bekle
