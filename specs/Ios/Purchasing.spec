@@ -90,7 +90,7 @@ tags:Gratis_IOS_AdresDuzenleme
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Yüz Makyajı", "Allık" seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Far" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
