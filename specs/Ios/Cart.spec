@@ -80,8 +80,8 @@ tags:Gratis_IOS_SepetteFavoriListesiOlusturmaVeSilme
 * Profil sayfasındaki Favorilerim ikonuna tiklanir
 * Listeden yeni eklenen favori listesi secilir
 * Favori listesi silinir
-* Ana sayfa tab'ına tıklanır
-* Sepet kontrol edilerek temizlenir
+//* Ana sayfa tab'ına tıklanır
+//* Sepet kontrol edilerek temizlenir
 
 IOS Scenario Cart Popup Slider Product Detail And Add To Cart
 -------------------------------------------------------------
