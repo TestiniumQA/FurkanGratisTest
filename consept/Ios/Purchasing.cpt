@@ -232,6 +232,7 @@
 * Elementine tıkla "InfoCheckbox"
 * Elementin yüklenmesini bekle "SalesContractCheckbox"
 * Elementine tıkla "SalesContractCheckbox"
+* "ContinueBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "ContinueBtn"
 * Elementine tıkla "ContinueBtn"
 
