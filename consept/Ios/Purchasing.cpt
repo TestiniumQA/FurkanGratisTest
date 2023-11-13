@@ -211,6 +211,19 @@
 //* "ProductSecondCartName" li elementin text degerini hafizada "urun1" olarak saklanan text ile karsilastir
 * "ContinueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * "1" saniye bekle
+* Elementin yüklenmesini bekle "PreInfo"
+* Elementin yüklenmesini bekle "SalesContact"
+* Elementin yüklenmesini bekle "InfoCheckbox"
+* Elementine tıkla "InfoCheckbox"
+* Elementin yüklenmesini bekle "SalesContractCheckbox"
+* Elementine tıkla "SalesContractCheckbox"
+* "ContinueBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "ContinueBtn"
+* Elementine tıkla "ContinueBtn"
+
+# Sipariş Özeti ve sözleşmeler alanı kontrol edilir
+* "ContinueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "1" saniye bekle
 * "PreInfo"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "PreInfo"
 * "PreInfo" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
