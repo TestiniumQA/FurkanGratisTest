@@ -365,8 +365,14 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDuzenle
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis1 login olunur
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+//* Ana sayfa tab'ına tıklanır
+//* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
@@ -388,8 +394,14 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet ikonu ile Gratis2 login olunur
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
-* Ana sayfa tab'ına tıklanır
-* Ana sayfadan bir urun sepete eklenir
+//* Ana sayfa tab'ına tıklanır
+//* Ana sayfadan bir urun sepete eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
