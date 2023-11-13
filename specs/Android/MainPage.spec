@@ -134,4 +134,4 @@ tags:Gratis_Android_EnSonGezdiklerimNonLoginSepeteGit
 * En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
 * Sepete Ekle butonu ile Gratis4 login olunur.
 * Sepete git'e tıklanır.
-* Bir ürün için sepet kontrol edilerek temizlenir.
+* Sepet kontrol edilerek temizlenir.
