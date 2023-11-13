@@ -60,7 +60,7 @@
 # Listeden bir magaza secilir
 * "1" saniye bekle
 * "2" kere aşağıya kaydır
-* "1" kere yukarı doğru kaydır
+//* "1" kere yukarı doğru kaydır
 * "ElementListOne"li elementi bulana kadar "4" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "ElementListOne"
 * Elementine tıkla "ElementListOne"
