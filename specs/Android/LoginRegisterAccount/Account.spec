@@ -14,6 +14,7 @@ tags:Gratis_Android_YeniAdresEklemeVeSilme
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur.
 //* Android klavye kapatılır
 * Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
