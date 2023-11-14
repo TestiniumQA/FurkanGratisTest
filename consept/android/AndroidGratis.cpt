@@ -108,6 +108,7 @@ This is a concept file with following syntax for each concept.
 * "profilTab" elementine sayacli tikla "favoriListesi" value degerini bekle
 * "favoriListesi" elementine sayacli tikla "favoriListesiTitle" value degerini bekle
 * "favCikar" li elementi bul ve varsa tıkla
+* "favCikar" li elementi bul ve varsa tıkla
 * Element var mı kontrol et "bosFavoriListesi"
 
 # Uygulamadan cikis yapilir.
