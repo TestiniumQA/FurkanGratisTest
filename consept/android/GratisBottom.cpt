@@ -354,7 +354,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "sortByLowPrice"
 * Elementine tıkla "sortByLowPrice"
 * "1" saniye bekle
-* Fiyatların yazdığı "listSalePriceOne" li elementin degerinin fiyata gore artan oldugu kontrol edilir
+* Fiyatların yazdığı "gratisCardPrice" li elementin degerinin fiyata gore artan oldugu kontrol edilir
 
 # En Yüksek Fiyat butonuna tıklanır.
 * Element var mı kontrol et "sortByHighPrice"
