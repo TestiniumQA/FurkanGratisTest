@@ -113,7 +113,7 @@ tags:Gratis_Android_EnSonGezdiklerimSepet
 * Alışverişe devam edilir.
 * En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
 * Sepete git'e tıklanır.
-* Bir ürün için sepet kontrol edilerek temizlenir.
+* Sepet kontrol edilerek temizlenir.
 
 Non-Login Visited Add To Cart
 -----------------------------
