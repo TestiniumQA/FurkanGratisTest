@@ -1,9 +1,9 @@
 # Uygulama baslatilir
-//* "uygulamaIzinver" li element varsa tıkla
-//* "1" saniye bekle
+* "uygulamaIzinver" li element varsa tıkla
+* "1" saniye bekle
 //* "LocationPermissionBtn" li element varsa tıkla yoksa devam et
 //* "1" saniye bekle
-//* "uygulamaIzinver" li element varsa tıkla
+* "uygulamaIzinver" li element varsa tıkla
 //* "uygulamaKullan" li element varsa tıkla
 //* "uygulamaKullanirkenIzinver" li element varsa tıkla
 * "anasayfa" elementi bulunana kadar en fazla "20" saniye kadar bekle

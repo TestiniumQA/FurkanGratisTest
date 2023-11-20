@@ -96,7 +96,7 @@
 
 # Sepet ikonu ile rastgele login olunur
 * "IOSmail" csv dosyasindan rastgele kullanici sec
-*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 //* "girisYapBtn" elementine sayacli tikla "sepetPopUpKapatBtn" value degerini bekle
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
@@ -105,7 +105,7 @@
 
 # Sepet ikonu ile Gratis0 login olunur
 * "IOSmail" csv dosyasindan "0" numaralı kullaniciyi sec
-*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 //* "sepetPopUpKapatBtn" li element varsa tıkla
@@ -113,7 +113,7 @@
 
 # Sepet ikonu ile Gratis1 login olunur
 * "IOSmail" csv dosyasindan "1" numaralı kullaniciyi sec
-*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 //* "sepetPopUpKapatBtn" li element varsa tıkla
@@ -121,7 +121,7 @@
 
 # Sepet ikonu ile Gratis2 login olunur
 * "IOSmail" csv dosyasindan "2" numaralı kullaniciyi sec
-*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 //* "sepetPopUpKapatBtn" li element varsa tıkla
@@ -129,7 +129,7 @@
 
 # Sepet ikonu ile Gratis3 login olunur
 * "IOSmail" csv dosyasindan "3" numaralı kullaniciyi sec
-*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 //* "sepetPopUpKapatBtn" li element varsa tıkla
@@ -137,7 +137,7 @@
 
 # Sepet ikonu ile Gratis4 login olunur
 * "IOSmail" csv dosyasindan "4" numaralı kullaniciyi sec
-*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 //* "sepetPopUpKapatBtn" li element varsa tıkla
