@@ -68,6 +68,7 @@ tags:Gratis_Android_FavoriAdiListeDuzenleme
 * Gratis2 ile login olunur.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
+* Favori Liste Adi Duzenle alani kontrol edilir.
 * Favori sayfasindaki Liste Adini Duzenle butonuna tiklanir ve yeni isim girilir.
 
 Adding A Product To Favorite List

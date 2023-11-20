@@ -293,12 +293,29 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "profilepageFavoriteButton"
 * Elementine tıkla "profilepageFavoriteButton"
 
+# Favori Liste Adi Duzenle alani kontrol edilir.
+* Element var mı kontrol et "editListNameButton"
+* Elementine tıkla "editListNameButton"
+* Element var mı kontrol et "editListPopupTitle"
+* Elementin yüklenmesini bekle "editListTextbox"
+* "editListTextbox" li elementi bul ve temizle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* Elementine tıkla "popupOkayButton"
+* toast message "Lütfen liste adı giriniz" değerine eşit mi
+* Element var mı kontrol et "editListNameButton"
+* Elementine tıkla "editListNameButton"
+* "editListTextbox" li elementi bul, temizle ve "A" değerini yaz
+* "editListTextbox" elementi bulunana kadar en fazla "15" saniye kadar bekle
+* "editListTextbox" elementinin "A" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "popupOkayButton"
+* Elementine tıkla "popupOkayButton"
+* toast message "Favori listenizin adı güncellendi" değerine eşit mi
+
 # Favori sayfasindaki Liste Adini Duzenle butonuna tiklanir ve yeni isim girilir.
 * Element var mı kontrol et "editListNameButton"
 * Elementine tıkla "editListNameButton"
 * Element var mı kontrol et "editListPopupTitle"
-* "new list name" textini "editListTextbox" elemente yaz
-* "editListTextbox" elementinin "new list name" textini içerdiği kontrol edilir
+* "editListTextbox" li elementi bul, temizle ve "new list name" değerini yaz
 * Elementine tıkla "popupOkayButton"
 * Elementin yüklenmesini bekle "editListNameButton"
 
