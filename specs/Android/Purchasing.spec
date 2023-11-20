@@ -53,6 +53,7 @@ tags:Gratis_Android_KargoIndirimsiz
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
 * Adrese Teslim seçeneğine tıklanır ve devam edilir.
+* Kargo seçimi uyarısı kontrol edilir.
 * Teslimat alanı kontrol edilir.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı fiyat kontrol edilir.

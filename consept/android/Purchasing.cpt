@@ -164,6 +164,12 @@ This is a concept file with following syntax for each concept.
 * "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
 * Yeni Adres Ekleme icin Adres Detay "storeAddressDetail" elementine, Posta Kodu "storeAddressPostCode" elementine yazilir
 
+# Kargo seçimi uyarısı kontrol edilir.
+* Mağazadan seç popup'ı varsa kapatilir.
+* Elementine tıkla "continueBtn"
+* "Lütfen teslimat yöntemi seçiniz." değerini sayfa üzerinde olup olmadığını kontrol et.
+* Elementine tıkla "popupOkayButton"
+
 # Teslimat alanı kontrol edilir.
 * Mağazadan seç popup'ı varsa kapatilir.
 //* "headerTxt" elementinin "Teslimat ve Ödeme" textini içerdiği kontrol edilir
