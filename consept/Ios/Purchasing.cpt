@@ -206,7 +206,7 @@
 //* Elementin yüklenmesini bekle "AlertShippingCheckbox"
 //* "AlertShippingCheckbox" elementinin "Lütfen teslimat yöntemi seçiniz." textini içerdiği kontrol edilir
 * "1" saniye bekle
-* "Siparişiniz onaylanmıştır. Siparişiniz hazır olduğunda e-posta/SMS yoluyla bilgilendirileceksiniz." text degerine sahip elementin goruntulendigi kontrol edilir
+* "Lütfen teslimat yöntemi seçiniz." text degerine sahip elementin goruntulendigi kontrol edilir
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
