@@ -1,9 +1,9 @@
 # Uygulama baslatilir
-* "uygulamaIzinver" li element varsa tıkla
-* "1" saniye bekle
+//* "uygulamaIzinver" li element varsa tıkla
+//* "1" saniye bekle
 //* "LocationPermissionBtn" li element varsa tıkla yoksa devam et
 //* "1" saniye bekle
-* "uygulamaIzinver" li element varsa tıkla
+//* "uygulamaIzinver" li element varsa tıkla
 //* "uygulamaKullan" li element varsa tıkla
 //* "uygulamaKullanirkenIzinver" li element varsa tıkla
 * "anasayfa" elementi bulunana kadar en fazla "20" saniye kadar bekle
@@ -74,6 +74,16 @@
 
 # Gratis4 ile login olunur
 * "IOSmail" csv dosyasindan "4" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "EyeIcon"
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "profilim"
+
+# Gratis5 ile login olunur
+* "IOSmail" csv dosyasindan "5" numaralı kullaniciyi sec
 * Elementin yüklenmesini bekle "EpostaInputAlani"
 * Elementin yüklenmesini bekle "sifreInputAlani"
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
