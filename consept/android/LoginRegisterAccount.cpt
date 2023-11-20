@@ -239,6 +239,16 @@ This is a concept file with following syntax for each concept.
 * "AndroidAddress" csv dosyasindan rastgele adres bilgileri sec
 * Adres icin Ad "newAddressCustomerName" elementine, Soyad "newAddressCustomerSurname" elementine, Telefon "newAddressCustomerPhone" elementine, Adres Ismi "newAddressCustomerAddressTitle" elementine yazilir
 
+# Adres Ad <ad>, Soyad <soyad>, Telefon <telefon> ve Adres İsmi <adresIsmi> girilir.
+* <ad> textini "newAddressCustomerName" elemente yaz
+* <soyad> textini "newAddressCustomerSurname" elemente yaz
+* <telefon> textini "newAddressCustomerPhone" elemente yaz
+* <adresIsmi> textini "newAddressCustomerAddressTitle" elemente yaz
+
+# Yukarı scroll et ve <text> textini <key> elementine yaz
+* "1" kere yukarı doğru kaydır
+* <text> textini <key> elemente yaz
+
 # Adres Ekle Sehir ismi secilir.
 * "newAddressCustomerAddressDetail"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * "1" saniye bekle
@@ -273,6 +283,11 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "newAddressSavedBtn"
 * Elementine tıkla "newAddressSavedBtn"
 * Element var mı kontrol et "newAddressCard"
+
+# Kaydet ikonuna tiklanir <key> uyarı mesajı görülür.
+* "newAddressSavedBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Elementine tıkla "newAddressSavedBtn"
+* toast message <key> değerine eşit mi
 
 # Profil sayfasındaki Favori butonuna tiklanir.
 * Element var mı kontrol et "profilepageFavoriteButton"
