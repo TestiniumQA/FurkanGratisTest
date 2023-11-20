@@ -25,7 +25,7 @@ tags:Gratis_IOS_KargoIndirimli
 * Adrese Teslim butonuna tıklanır
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir
 * Adrese Teslim seçeneğine tıklanır ve devam edilir
-* Teslimat alanı kontrol edilir
+* Teslimat alanı ve kargo secimi kontrol edilir
 * Sipariş Özeti ve sözleşmeler alanı kontrol edilir
 * Iyzico alanı fiyat kontrol edilir
 

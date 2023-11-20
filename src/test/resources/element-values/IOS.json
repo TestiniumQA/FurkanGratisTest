@@ -602,6 +602,13 @@
     "iosType": "xpath"
   },
   {
+    "key": "SmsAcceptButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == 'Gönder'`]",
+    "iosType": "classChain"
+  },
+  {
     "key": "RegisterAgeErrorPopup",
     "androidValue": "",
     "androidType": "",
@@ -2128,6 +2135,13 @@
     "iosType": "xpath"
   },
   {
+    "key": "GratisCardProductPrice",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeStaticText[1]",
+    "iosType": "xpath"
+  },
+  {
     "key": "ScrollToTop",
     "androidValue": "",
     "androidType": "",
@@ -3073,66 +3087,73 @@
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "AccountDelete",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == 'Hesabı Sil'`]",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "CancelBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeButton[`label == 'İptal'`]",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "AccountDeletePopupAlert",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeAlert[`label == \"Hesabınızı Silmek İstediğinizden Emin Misiniz?\"`]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeScrollView[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "AccountDeletePopupAlertTwo",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeAlert[`label == \"Hesabınızı Silmek İstediğinizden Emin Misiniz?\"`]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeScrollView[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText[2]",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "AccountDeleteBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "//XCUIElementTypeButton[@name='Hesabı Sil']",
+    "iosType": "xpath"
+  },
+  {
+    "key": "AccountDeleteAlertLast",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeAlert/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeScrollView[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "GratisCardConnectBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeButton[`label == 'Gratis Kartı Bağla'`]",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "GratisCardGetBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeButton[`label == 'Gratis Kart Al'`]",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "GratisCardSmsTextbox",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeTextField",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "AlertShippingCheckbox",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeWindow[3]/XCUIElementTypeOther[2]/XCUIElementTypeAlert/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeScrollView[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText",
     "iosType": "classChain"
   },
   {
