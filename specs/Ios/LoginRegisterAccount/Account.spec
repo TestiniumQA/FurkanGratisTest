@@ -43,7 +43,7 @@ IOS Scenario Address Warning Messages
 tags:Gratis_IOS_AdresUyariMesajlari
 * Uygulama baslatilir
 * Login sayfasina gecilir
-* Gratis1 ile login olunur
+* Gratis4 ile login olunur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
