@@ -22,10 +22,7 @@ Colour and Non-Login Add To Cart
 --------------------------------
 tags:Gratis_Android_UrunDetayRenkVeAdetSecimiNonLoginSepeteEkleme
 * Uygulama baslatilir.
-* Kategoriler sayfasina gecilir.
-* "Makyaj" isimli kategori seçilir.
-* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir.
-* Urun detay sayfasına geçilir.
+* Urun kodu "10028321" yazilir, arama yapilir.
 * Ürünün renk tonu değiştirilir.
 * Ürün detayda "3" kadar ürün adedi seçilir.
 * Non-Login ürün detay sayfasinda urun sepete eklenir.
