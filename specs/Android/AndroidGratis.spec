@@ -11,7 +11,7 @@ tags:Gratis_AndroidSc1
 
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
-* Login olunur.
+* Rastgele login olunur.
 * Sepet kontrol edilerek temizlenir.
 * Kategoriler sayfasina gecilir.
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
