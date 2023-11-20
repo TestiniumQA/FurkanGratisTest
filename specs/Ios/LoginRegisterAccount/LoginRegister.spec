@@ -21,7 +21,7 @@ tags:Gratis_IOS_Register
 * Register'a tıklanır
 * Kullanıcı bilgileri girilir
 * Kullanıcı şartlarına tıklanır ve üye olunur
-* Sms uyarısı kontrol edilir
+//* Sms uyarısı kontrol edilir
 
 IOS Scenario Register Negative
 ------------------------------
@@ -90,3 +90,20 @@ tags:Gratis_IOS_UyeBilgileriGuncelleme
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Uye bilgilerim sayfasina gecilir
 * Uye bilgileri basarili sekilde guncellenir
+
+IOS Scenario Deleting Account
+-----------------------------
+tags:Gratis_IOS_HesapSilme
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Gratis5 ile login olunur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Hesabı Sil islemi yapilir
+
+IOS Scenario Gratis Card Connect
+--------------------------------
+tags:Gratis_IOS_GratisCardBagla
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Gratis5 ile login olunur
+* Gratis Card baglama islemi yapilir

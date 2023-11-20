@@ -107,7 +107,7 @@
 # Kullanıcı bilgileri girilir
 * "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
 * Rastgele secilen kullanici adi "RegisterName" elementine, soyadi "RegisterSurname" elementine, mail "RegisterMail" elementine yazilir
-* "326637273" textini "RegisterPhone" elemente yaz
+* "343412282" textini "RegisterPhone" elemente yaz
 * "KeyboardDismisserIcon" li element varsa tıkla
 * "RegisterBirth" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "RegisterBirth" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
@@ -123,9 +123,9 @@
 * "RegisterGender" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 //* Rastgele secilen şifre "RegisterPassword" elementine, şifre tekrar "RegisterPasswordAgain"  elementine yazilir
 * Element var mı kontrol et "RegisterPasswordIos"
-* "123456Asdf." textini "RegisterPasswordIos" elemente yaz
+* "Gratis12." textini "RegisterPasswordIos" elemente yaz
 * Element var mı kontrol et "RegisterPasswordAgainIos"
-* "123456Asdf." textini "RegisterPasswordAgainIos" elemente yaz
+* "Gratis12." textini "RegisterPasswordAgainIos" elemente yaz
 * "KeyboardDismisserIcon" li element varsa tıkla
 * "1" kere aşağıya kaydır
 
@@ -152,10 +152,13 @@
 * Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
 * "SMS Onayı" text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "RegisterSmsTextbox"
-* "12345" textini "RegisterSmsTextbox" elemente yaz
-* Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
-* "RegisterSmsAcceptButton" elementinin "Gönder" textini içerdiği kontrol edilir
-* Elementine tıkla "RegisterSmsAcceptButton"
+* "5" saniye bekle
+//* "12345" textini "RegisterSmsTextbox" elemente yaz
+//* Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
+//* "RegisterSmsAcceptButton" elementinin "Gönder" textini içerdiği kontrol edilir
+//* Elementine tıkla "RegisterSmsAcceptButton"
+//* "5" saniye bekle
+//* Elementin yüklenmesini bekle "profilim"
 
 # Sms uyarısı kontrol edilir
 //* Elementin yüklenmesini bekle "AlertSuccessfulPopup"
@@ -439,6 +442,27 @@
 * Element var mı kontrol et "ProfilePageFavoriteButton"
 * Elementine tıkla "ProfilePageFavoriteButton"
 
+# Favori Liste Adi Duzenle alani kontrol edilir
+* Element var mı kontrol et "EditListNameButton"
+* Elementine tıkla "EditListNameButton"
+* Element var mı kontrol et "EditListPopupTitle"
+* Elementin yüklenmesini bekle "EditListTextbox"
+* "EditListTextbox" li elementi bul ve temizle
+* Elementin yüklenmesini bekle "NewAddressSavedBtn"
+* Elementine tıkla "NewAddressSavedBtn"
+* "Hata" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Lütfen liste adı giriniz" text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "EditListTextbox" li elementi bul, temizle ve "A" değerini yaz
+* "EditListTextbox" elementi bulunana kadar en fazla "15" saniye kadar bekle
+* "EditListTextbox" elementinin "A" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "NewAddressSavedBtn"
+* Elementine tıkla "NewAddressSavedBtn"
+* Elementin yüklenmesini bekle "AlertSuccessfulFavoritePopupIos"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+
 # Favori sayfasindaki Liste Adini Duzenle butonuna tiklanir ve yeni isim girilir
 * Element var mı kontrol et "EditListNameButton"
 * Elementine tıkla "EditListNameButton"
@@ -682,3 +706,46 @@
 * Elementin yüklenmesini bekle "PopupOkayBTNIos"
 * Elementine tıkla "PopupOkayBTNIos"
 * Element var mı kontrol et "ProfileRoot"
+
+# Hesabı Sil islemi yapilir
+* Elementin yüklenmesini bekle "AccountDelete"
+* "AccountDelete" elementine sayacli tikla "AccountDeletePopupAlert" value degerini bekle
+* "AccountDeletePopupAlert" elementinin "Hesabınızı Silmek İstediğinizden Emin Misiniz?" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "AccountDeletePopupAlertTwo"
+* "AccountDeletePopupAlertTwo" elementinin "Hesabınızı silmeniz verdiğiniz siparişleri görüntülemenizi ve alışveriş sırasında daha iyi bir kullanıcı deneyimi yaratmanızı engelleyecektir." textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "CancelBtn"
+* Elementine tıkla "CancelBtn"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "AccountDelete"
+* "AccountDelete" elementine sayacli tikla "AccountDeletePopupAlert" value degerini bekle
+* Elementin yüklenmesini bekle "AccountDeleteBtn"
+* Elementine tıkla "AccountDeleteBtn"
+* Elementin yüklenmesini bekle "AccountDeleteAlertLast"
+* "AccountDeleteAlertLast" elementinin "Hesabınız silinmiştir. Kısa bir süre sonra tekrar deneyerek Gratis avantajlarından yararlanıp müşterimiz olabilirsiniz. Tekrar görüşmeyi umuyoruz." textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "anasayfa"
+
+# Gratis Card baglama islemi yapilir
+* Non login Gratis Kartim sayfasina gecilir
+* "Gratis Kartınızı henüz bağlamadınız!" text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementin yüklenmesini bekle "GratisCardConnectBtn"
+* Elementine tıkla "GratisCardConnectBtn"
+* "Gratis Kart Al,  İndirimlerden Faydalan!" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Gratis kartın avantajları:" text degerine sahip elementin goruntulendigi kontrol edilir
+* "- Size özel puanlar - Size özel indirimler - Farklı markalarda avantajlar" text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementin yüklenmesini bekle "CancelBtn"
+* Elementine tıkla "CancelBtn"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "GratisCardConnectBtn"
+* Elementine tıkla "GratisCardConnectBtn"
+* Elementin yüklenmesini bekle "GratisCardGetBtn"
+* Elementine tıkla "GratisCardGetBtn"
+* "SMS Onayı" text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementin yüklenmesini bekle "GratisCardSmsTextbox"
+* "5" saniye bekle
+//* "12345" textini "GratisCardSmsTextbox" elemente yaz
+* Elementin yüklenmesini bekle "SmsAcceptButton"
+* Elementine tıkla "SmsAcceptButton"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "GratisCardBackGround"

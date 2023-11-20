@@ -46,6 +46,7 @@ tags:Gratis_IOS_FavoriAdiListeDuzenleme
 * Gratis2 ile login olunur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Profil sayfasındaki Favori butonuna tiklanir
+* Favori Liste Adi Duzenle alani kontrol edilir
 * Favori sayfasindaki Liste Adini Duzenle butonuna tiklanir ve yeni isim girilir
 
 IOS Scenario Adding A Product To Favorite List
