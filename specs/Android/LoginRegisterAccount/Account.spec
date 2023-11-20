@@ -40,26 +40,6 @@ tags:Gratis_Android_AdresGuncelleme
 * Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
 * Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur.
 
-Address Warning Messages
-------------------------
-tags:Gratis_Android_AdresUyariMesajlari
-* Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis1 ile login olunur.
-* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
-* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
-//* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
-//* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
-* Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur.
-* Adres Ad "a", Soyad "b", Telefon "5" ve Adres İsmi "c" girilir.
-* Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. İsminizi kontrol ediniz." uyarı mesajı görülür.
-* Yukarı scroll et ve "YeniAd" textini "newAddressCustomerName" elementine yaz
-* Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür.
-* Yukarı scroll et ve "YeniSoyad" textini "newAddressCustomerSurname" elementine yaz
-* Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
-* Yukarı scroll et ve "5112223311" textini "newAddressCustomerPhone" elementine yaz
-* Kaydet ikonuna tiklanir "Lütfen adres bilgilerinizi giriniz" uyarı mesajı görülür.
-
 Favorite List Name Update
 --------------------
 tags:Gratis_Android_FavoriAdiListeDuzenleme
@@ -174,3 +154,23 @@ tags:Gratis_Android_AyniIsimdeListeOlusturma
 * Profil sayfasındaki Favori butonuna tiklanir.
 * Listeden yeni eklenen favori listesi secilir.
 * Favori listesi silinir.
+
+Address Warning Messages
+------------------------
+tags:Gratis_Android_AdresUyariMesajlari
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Gratis4 ile login olunur.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur.
+* Adres Ad "a", Soyad "b", Telefon "5" ve Adres İsmi "c" girilir.
+* Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. İsminizi kontrol ediniz." uyarı mesajı görülür.
+* Yukarı scroll et ve "YeniAd" textini "newAddressCustomerName" elementine yaz
+* Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür.
+* Yukarı scroll et ve "YeniSoyad" textini "newAddressCustomerSurname" elementine yaz
+* Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
+* Yukarı scroll et ve "5112223311" textini "newAddressCustomerPhone" elementine yaz
+* Kaydet ikonuna tiklanir "Lütfen adres bilgilerinizi giriniz" uyarı mesajı görülür.
