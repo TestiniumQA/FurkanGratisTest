@@ -163,14 +163,16 @@ tags:Gratis_Android_AdresUyariMesajlari
 * Gratis4 ile login olunur.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
-* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
-* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+//* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+//* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur.
-* Adres Ad "a", Soyad "b", Telefon "5" ve Adres İsmi "c" girilir.
+* Adres Ad "a", Soyad "b", Telefon "" ve Adres İsmi "c" girilir.
 * Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. İsminizi kontrol ediniz." uyarı mesajı görülür.
 * Yukarı scroll et ve "YeniAd" textini "newAddressCustomerName" elementine yaz.
 * Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür.
 * Yukarı scroll et ve "YeniSoyad" textini "newAddressCustomerSurname" elementine yaz.
+* Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
+* Yukarı scroll et ve "5" textini "newAddressCustomerPhone" elementine yaz.
 * Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
 * Yukarı scroll et ve "5112223311" textini "newAddressCustomerPhone" elementine yaz.
 * Kaydet ikonuna tiklanir "Lütfen adres bilgilerinizi giriniz" uyarı mesajı görülür.
