@@ -718,7 +718,7 @@
   },
   {
     "key": "registerPasswordErrorPopup",
-    "androidValue": "//*[@text='Şifreniz en az 8 karakter olmalıdır.\nŞifreniz en az 1 özel karakter (~!@#$%^&*()_-+={}[]|:;<>,./?),\nen az 1 büyük ve 1 küçük harf ile en az 1 rakam içermelidir.']",
+    "androidValue": "//*[@text='Şifreniz en az 8 karakter olmalı, büyük ve küçük harf, en az bir sayı ve özel karakter içermelidir.']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""

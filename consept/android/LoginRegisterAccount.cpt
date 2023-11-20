@@ -52,7 +52,8 @@ This is a concept file with following syntax for each concept.
 * "123" textini "registerPasswordAgain" elemente yaz
 * "registerButton"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementine tıkla "registerButton"
-* Element var mı kontrol et "registerPasswordErrorPopup"
+* "alertSuccessfulPopup" li elementin değeri "Şifreniz en az 8 karakter olmalı, büyük ve küçük harf, en az bir sayı ve özel karakter içermelidir." e içerdiğini kontrol et
+//* Element var mı kontrol et "registerPasswordErrorPopup"
 * Elementine tıkla "popupOkayButton"
 
 # Kullanıcı bilgileri girilir.
