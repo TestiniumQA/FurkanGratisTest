@@ -201,11 +201,12 @@
 
 # Teslimat alanı ve kargo secimi kontrol edilir
 * Mağazadan seç popup'ı varsa kapatilir
-//* "HeaderTxt" elementinin "Teslimat ve Ödeme" textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "ContinueBtn"
 * Elementine tıkla "ContinueBtn"
-* Elementin yüklenmesini bekle "AlertShippingCheckbox"
-* "AlertShippingCheckbox" elementinin "Lütfen teslimat yöntemi seçiniz." textini içerdiği kontrol edilir
+//* Elementin yüklenmesini bekle "AlertShippingCheckbox"
+//* "AlertShippingCheckbox" elementinin "Lütfen teslimat yöntemi seçiniz." textini içerdiği kontrol edilir
+* "1" saniye bekle
+* "Siparişiniz onaylanmıştır. Siparişiniz hazır olduğunda e-posta/SMS yoluyla bilgilendirileceksiniz." text degerine sahip elementin goruntulendigi kontrol edilir
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
