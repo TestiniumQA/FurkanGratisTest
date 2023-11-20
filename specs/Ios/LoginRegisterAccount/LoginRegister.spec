@@ -33,6 +33,25 @@ tags:Gratis_IOS_Register_Negatif
 * Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur
 * Kayıtlı Telefon ile register olunur ve uyarı mesajı gorulur
 
+IOS Scenario Register Warning Messages
+--------------------------------------
+tags:Gratis_IOS_RegisterUyariMesajlari
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Register'a tıklanır
+* Üye Ol Ad "a", Soyad "b", Telefon "" ve Eposta İsmi "a@" girilir
+* Üye Ol ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. İsminizi kontrol ediniz." uyarı mesajı görülür
+* Yukarı scroll et ve "YeniAd" textini "RegisterNameFull" elementine yaz
+* Üye Ol ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür
+* Yukarı scroll et ve "YeniSoyad" textini "RegisterSurnameFull" elementine yaz
+* Üye Ol ikonuna tiklanir "Lütfen geçerli bir e-posta adresi giriniz" uyarı mesajı görülür
+* Yukarı scroll et ve "gratistrtestinium@gmail.com" textini "RegisterMailFull" elementine yaz
+* Üye Ol ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz" uyarı mesajı görülür
+* Yukarı scroll et ve "5" textini "RegisterPhoneFull" elementine yaz
+* Üye Ol ikonuna tiklanir "Telefon Numarası Geçersiz. Lütfen 10 hane olacak şekilde giriniz." uyarı mesajı görülür
+* Yukarı scroll et ve "112223311" textini "RegisterPhoneFull" elementine yaz
+* Üye Ol ikonuna tiklanir "Doğum Tarihi alanı boş bırakılamaz." uyarı mesajı görülür
+
 IOS Scenario Forget Password
 ----------------------------
 tags:Gratis_IOS_SifremiUnuttum

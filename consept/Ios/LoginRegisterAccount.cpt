@@ -104,6 +104,17 @@
 * Element var mı kontrol et "RegisterBtnIos"
 * "RegisterBtnIos" elementine sayacli tikla "RegisterPageTitle" value degerini bekle
 
+# Üye Ol Ad <ad>, Soyad <soyad>, Telefon <telefon> ve Eposta İsmi <ePosta> girilir
+* Element var mı kontrol et "RegisterName"
+* <ad> textini "RegisterName" elemente yaz
+* Element var mı kontrol et "RegisterSurname"
+* <soyad> textini "RegisterSurname" elemente yaz
+* Element var mı kontrol et "RegisterPhone"
+* <telefon> textini "RegisterPhone" elemente yaz
+* Element var mı kontrol et "RegisterMail"
+* <ePosta> textini "RegisterMail" elemente yaz
+* Klavye kapatilir
+
 # Kullanıcı bilgileri girilir
 * "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
 * Rastgele secilen kullanici adi "RegisterName" elementine, soyadi "RegisterSurname" elementine, mail "RegisterMail" elementine yazilir
@@ -238,6 +249,15 @@
 * Elementin yüklenmesini bekle "RegisterButton"
 * Elementine tıkla "RegisterButton"
 * Elementin yüklenmesini bekle "RegisterPhoneErrorPopup"
+
+# Üye Ol ikonuna tiklanir <key> uyarı mesajı görülür
+* "RegisterButton"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Elementine tıkla "RegisterButton"
+* "1" saniye bekle
+* <key> text degerine sahip elementin goruntulendigi kontrol edilir
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
 
 # Sifremi unuttum bos mail uyarısı gorulur
 * Elementin yüklenmesini bekle "ForgetPasswordFailPopup"

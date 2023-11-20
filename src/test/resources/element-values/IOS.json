@@ -714,6 +714,20 @@
     "iosType": "xpath"
   },
   {
+    "key": "RegisterNameFull",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='true'][@accessible='true'])[1]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "RegisterSurnameFull",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(//*[@type='XCUIElementTypeTextField'][@enabled='true'][@visible='true'][@accessible='true'])[2]",
+    "iosType": "xpath"
+  },
+  {
     "key": "ProfilePageMyAddress",
     "androidValue": "",
     "androidType": "",
