@@ -333,6 +333,24 @@
 * Adres icin Ad "NewAddressCustomerName" elementine, Soyad "NewAddressCustomerSurname" elementine, Telefon "NewAddressCustomerPhone" elementine, Adres Ismi "NewAddressCustomerAddressTitle" elementine yazilir
 * Klavye kapatilir
 
+# Adres Ad <ad>, Soyad <soyad>, Telefon <telefon> ve Adres İsmi <adresIsmi> girilir
+* Element var mı kontrol et "NewAddressCustomerName"
+* <ad> textini "NewAddressCustomerName" elemente yaz
+* Element var mı kontrol et "NewAddressCustomerSurname"
+* <soyad> textini "NewAddressCustomerSurname" elemente yaz
+* Element var mı kontrol et "NewAddressCustomerPhone"
+* <telefon> textini "NewAddressCustomerPhone" elemente yaz
+* Element var mı kontrol et "NewAddressCustomerAddressTitle"
+* <adresIsmi> textini "NewAddressCustomerAddressTitle" elemente yaz
+* Klavye kapatilir
+
+# Yukarı scroll et ve <text> textini <key> elementine yaz
+* "1" saniye bekle
+* "1" kere yukarı doğru kaydır
+* "1" saniye bekle
+* <key> li elementi bul, temizle ve <text> değerini yaz
+* Klavye kapatilir
+
 # Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgilerinin guncelleri girilir
 /* "IOS" csv dosyasindan rastgele adres bilgileri sec
 /* Adres icin Ad "NewAddressCustomerNameFull" elementine, Soyad "NewAddressCustomerSurnameFull" elementine, Telefon "NewAddressCustomerPhoneFull" elementine, Adres Ismi "NewAddressCustomerAddressTitleFull" elementine yazilir
@@ -433,6 +451,15 @@
 * Element var mı kontrol et "NewAddressSavedBtn"
 * Elementine tıkla "NewAddressSavedBtn"
 * Element var mı kontrol et "NewAddressCard"
+
+# Kaydet ikonuna tiklanir <key> uyarı mesajı görülür
+* "NewAddressSavedBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Elementine tıkla "NewAddressSavedBtn"
+* "1" saniye bekle
+* <key> text degerine sahip elementin goruntulendigi kontrol edilir
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
 
 # Adres güncellemeye tıklanır
 * Element var mı kontrol et "UpdateAddressButton"

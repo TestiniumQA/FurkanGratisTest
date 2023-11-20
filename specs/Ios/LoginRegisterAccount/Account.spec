@@ -38,6 +38,28 @@ tags:Gratis_IOS_AdresGuncelleme
 * Adres Ekleme icin Adres Detay ve Posta Kodu bilgilerinin guncelleri girilir
 * Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur
 
+IOS Scenario Address Warning Messages
+-------------------------------------
+tags:Gratis_IOS_AdresUyariMesajlari
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Gratis1 ile login olunur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
+//* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
+//* Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
+* Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur
+* Adres Ad "a", Soyad "b", Telefon "" ve Adres İsmi "c" girilir
+* Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. İsminizi kontrol ediniz." uyarı mesajı görülür
+* Yukarı scroll et ve "YeniAd" textini "NewAddressCustomerNameFull" elementine yaz
+* Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür
+* Yukarı scroll et ve "YeniSoyad" textini "NewAddressCustomerSurnameFull" elementine yaz
+* Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz" uyarı mesajı görülür
+* Yukarı scroll et ve "5" textini "NewAddressCustomerPhoneFull" elementine yaz
+* Kaydet ikonuna tiklanir "Telefon Numarası Geçersiz. Lütfen 10 hane olacak şekilde giriniz." uyarı mesajı görülür
+* Yukarı scroll et ve "112223311" textini "NewAddressCustomerPhoneFull" elementine yaz
+* Kaydet ikonuna tiklanir "Lütfen adres ismi giriniz." uyarı mesajı görülür
+
 IOS Scenario Favorite List Name Update
 --------------------------------------
 tags:Gratis_IOS_FavoriAdiListeDuzenleme

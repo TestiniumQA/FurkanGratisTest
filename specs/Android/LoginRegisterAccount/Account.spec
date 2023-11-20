@@ -168,9 +168,9 @@ tags:Gratis_Android_AdresUyariMesajlari
 * Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur.
 * Adres Ad "a", Soyad "b", Telefon "5" ve Adres İsmi "c" girilir.
 * Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. İsminizi kontrol ediniz." uyarı mesajı görülür.
-* Yukarı scroll et ve "YeniAd" textini "newAddressCustomerName" elementine yaz
+* Yukarı scroll et ve "YeniAd" textini "newAddressCustomerName" elementine yaz.
 * Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür.
-* Yukarı scroll et ve "YeniSoyad" textini "newAddressCustomerSurname" elementine yaz
+* Yukarı scroll et ve "YeniSoyad" textini "newAddressCustomerSurname" elementine yaz.
 * Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
-* Yukarı scroll et ve "5112223311" textini "newAddressCustomerPhone" elementine yaz
+* Yukarı scroll et ve "5112223311" textini "newAddressCustomerPhone" elementine yaz.
 * Kaydet ikonuna tiklanir "Lütfen adres bilgilerinizi giriniz" uyarı mesajı görülür.

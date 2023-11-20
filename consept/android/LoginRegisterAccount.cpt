@@ -245,7 +245,7 @@ This is a concept file with following syntax for each concept.
 * <telefon> textini "newAddressCustomerPhone" elemente yaz
 * <adresIsmi> textini "newAddressCustomerAddressTitle" elemente yaz
 
-# Yukarı scroll et ve <text> textini <key> elementine yaz
+# Yukarı scroll et ve <text> textini <key> elementine yaz.
 * "1" kere yukarı doğru kaydır
 * <text> textini <key> elemente yaz
 
