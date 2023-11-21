@@ -66,7 +66,7 @@ tags:Gratis_IOS_AdresUyariMesajlari
 * Klavye kapatilir
 * Kaydet ikonuna tiklanir "Lütfen adres bilgilerinizi giriniz." uyarı mesajı görülür
 * Yukarı scroll et ve "Test ortamı icin adres detay No:1453409" textini "NewAddressCustomerAddressDetailFull" elementine yaz
-* Kaydet ikonuna tiklanir "Lütfen posta kodu bilgilerinizi giriniz." uyarı mesajı görülür
+* Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur
 
 IOS Scenario Favorite List Name Update
 --------------------------------------
