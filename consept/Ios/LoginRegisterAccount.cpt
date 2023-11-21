@@ -118,6 +118,7 @@
 # Kullanıcı bilgileri girilir
 * "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
 * Rastgele secilen kullanici adi "RegisterName" elementine, soyadi "RegisterSurname" elementine, mail "RegisterMail" elementine yazilir
+//* "RegisterMailFull" li elementi bul, temizle ve "gratistestiniumtr" değerini yaz // hesap geldiğinde yapılacak
 * "343412282" textini "RegisterPhone" elemente yaz
 * "KeyboardDismisserIcon" li element varsa tıkla
 * "RegisterBirth" elementi bulunana kadar en fazla "15" saniye kadar bekle
@@ -514,20 +515,6 @@
 * Element var mı kontrol et "EditListNameButton"
 * Elementine tıkla "EditListNameButton"
 * Element var mı kontrol et "EditListPopupTitle"
-* "EditListTextbox" li elementi bul, temizle ve "New List Namee" değerini yaz
-* "EditListTextbox" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* "EditListTextbox" elementinin "New List Namee" textini içerdiği kontrol edilir
-* Elementin yüklenmesini bekle "NewAddressSavedBtn"
-* Elementine tıkla "NewAddressSavedBtn"
-* Elementin yüklenmesini bekle "AlertSuccessfulFavoritePopupIos"
-//* Elementin yüklenmesini bekle "AlertSuccessfulPopupIos"
-* Elementin yüklenmesini bekle "PopupOkayBtnIos"
-* Elementine tıkla "PopupOkayBtnIos"
-* Elementin yüklenmesini bekle "EditListDropdownName"
-* "EditListDropdownName" elementinin "New List Namee" textini içerdiği kontrol edilir
-* Element var mı kontrol et "EditListNameButton"
-* Elementine tıkla "EditListNameButton"
-* Element var mı kontrol et "EditListPopupTitle"
 * "EditListTextbox" li elementi bul, temizle ve "Favori Listesi" değerini yaz
 * "EditListTextbox" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "EditListTextbox" elementinin "Favori Listesi" textini içerdiği kontrol edilir
@@ -563,7 +550,6 @@
 * Elementin yüklenmesini bekle "PopupSavedBtnIos"
 * Elementine tıkla "PopupSavedBtnIos"
 * Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
-//* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 

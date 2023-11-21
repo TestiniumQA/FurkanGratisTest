@@ -59,6 +59,14 @@ tags:Gratis_IOS_AdresUyariMesajlari
 * Kaydet ikonuna tiklanir "Telefon Numarası Geçersiz. Lütfen 10 hane olacak şekilde giriniz." uyarı mesajı görülür
 * Yukarı scroll et ve "112223311" textini "NewAddressCustomerPhoneFull" elementine yaz
 * Kaydet ikonuna tiklanir "Lütfen adres ismi giriniz." uyarı mesajı görülür
+* Yukarı scroll et ve "AdresIsmi" textini "NewAddressCustomerAddressTitleFull" elementine yaz
+* Adres Ekle Sehir ismi guncelleme icin "1" swipe ile secilir
+* Adres Ekle Ilce ismi guncelleme icin "1" swipe ile secilir
+* Adres Ekle Mahalle ismi guncelleme icin "1" swipe ile secilir
+* Klavye kapatilir
+* Kaydet ikonuna tiklanir "Lütfen adres bilgilerinizi giriniz." uyarı mesajı görülür
+* Yukarı scroll et ve "Test ortamı icin adres detay No:1453409" textini "NewAddressCustomerAddressDetailFull" elementine yaz
+* Kaydet ikonuna tiklanir "Lütfen posta kodu bilgilerinizi giriniz." uyarı mesajı görülür
 
 IOS Scenario Favorite List Name Update
 --------------------------------------
