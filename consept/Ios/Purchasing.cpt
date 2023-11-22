@@ -452,12 +452,12 @@
 # Kendim Teslim alacağım seçeneği seçilir
 * "MeRadioBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "MeRadioBtn"
-* "MeRadioBtn" li element varsa tıkla
+* "MeRadioBtn" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 
 # Başkası teslim alacak seçeneği seçilir
 * "OtherRadioBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "OtherRadioBtn"
-* "OtherRadioBtn" li element varsa tıkla
+* "OtherRadioBtn" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "ReceiverSurNameEt"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "ReceiverNameEt"
 * "Başkasına" textini "ReceiverNameEt" elemente yaz
