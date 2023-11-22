@@ -2488,6 +2488,7 @@ public class StepImpl extends HookImpl {
             while (firtKeyTxt == null)
             {
                 swipeDownAccordingToPhoneSize();
+                swipeDownAccordingToPhoneSize();
                 firtKeyTxt = findElementByKey(key1).getText();
                 
             }
