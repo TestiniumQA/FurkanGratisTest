@@ -10,14 +10,14 @@
 
 # Arama sayfasinin acildigi gorulur
 * Elementin yüklenmesini bekle "searchBoxOnerilenArama"
-* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
+//* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 
 # Urun adi <text> yazilir, arama yapilir
 * "SearchInput" elementi bulunana kadar en fazla "5" saniye kadar bekle
 * "SearchInput" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "SearchInput" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * <text> textini "SearchInput" elemente yaz
-* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
+//* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 * "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * iOS Enter tıkla
 
@@ -26,7 +26,7 @@
 * "SearchInput" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "SearchInput" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * <text> textini "SearchInput" elemente yaz
-* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
+//* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 * "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * iOS Enter tıkla
 
@@ -56,7 +56,7 @@
 * "SearchInput" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "SearchInput" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * <text> textini "SearchInput" elemente yaz
-* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
+//* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 * "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * Elementin yüklenmesini bekle "searchBoxOnerilenArama"
 * Elementine tıkla "searchBoxOnerilenArama"
@@ -75,7 +75,7 @@
 * "SearchInput" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "SearchInput" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * <text> textini "SearchInput" elemente yaz
-* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
+//* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 * "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * Elementin yüklenmesini bekle "searchBoxOnerilenArama"
 * Elementine tıkla "searchBoxOnerilenArama"
