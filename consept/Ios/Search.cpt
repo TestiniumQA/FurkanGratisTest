@@ -34,7 +34,8 @@
 * "SearchInput" li elementi bul, temizle ve <text> değerini yaz
 //* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 //* "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
-* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
+//* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
+* "5" saniye bekle
 * iOS Enter tıkla
 
 # Aradiginiz sonuc bulunamadi sayfasinin acildigi gorulur
@@ -67,6 +68,7 @@
 * "SearchInput" li elementi bul, temizle ve <text> değerini yaz
 //* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 //* "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
+* "5" saniye bekle
 * Elementin yüklenmesini bekle "searchBoxOnerilenArama"
 * Elementine tıkla "searchBoxOnerilenArama"
 * "1" saniye bekle
@@ -88,6 +90,7 @@
 * "SearchInput" li elementi bul, temizle ve <text> değerini yaz
 //* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 //* "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
+* "5" saniye bekle
 * Elementin yüklenmesini bekle "searchBoxOnerilenArama"
 * Elementine tıkla "searchBoxOnerilenArama"
 * "1" saniye bekle
