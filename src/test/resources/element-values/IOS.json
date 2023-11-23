@@ -1277,8 +1277,8 @@
     "key": "KeyboardSearchIcon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@label='Ara']",
-    "iosType": "xpath"
+    "iosValue": "**/XCUIElementTypeButton[`label == 'Ara'`]",
+    "iosType": "classChain"
   },
   {
     "key": "StoreName",
@@ -3171,25 +3171,18 @@
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "SearchIcon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"searchWhiteIcon\"`]",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "SearchInput",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "classChain"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "classChain"
+    "iosValue": "XCUIElementTypeTextField",
+    "iosType": "class"
   },
   {
     "key": "xxxx",

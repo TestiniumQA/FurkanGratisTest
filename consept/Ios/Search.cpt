@@ -1,6 +1,6 @@
 # Search ikonuna tiklanir
-* "SearchBox" elementi bulunana kadar en fazla "30" saniye kadar bekle
-* Elementine tıkla "SearchBox"
+* "SearchIcon" elementi bulunana kadar en fazla "5" saniye kadar bekle
+* "SearchIcon" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 
 # Diger sayfasindan search ikonuna tiklanir
 * Elementin yüklenmesini bekle "digerSekmesi"
@@ -9,34 +9,26 @@
 * Elementine tıkla "DigerSearchBox"
 
 # Arama sayfasinin acildigi gorulur
-* "searchBoxOnerilenArama" elementi bulunana kadar en fazla "10" saniye kadar bekle
-* "SearchBoxCloseBtn" elementi bulunana kadar en fazla "10" saniye kadar bekle
-//* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
-//* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
+* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
+* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 
 # Urun adi <text> yazilir, arama yapilir
-* "SearchBoxText2" elementi bulunana kadar en fazla "50" saniye kadar bekle
-* Elementine tıkla "SearchBoxText2"
-* "SearchBoxText2" elementi bulunana kadar en fazla "50" saniye kadar bekle
-* <text> textini "SearchBoxText2" elemente yaz
-* "KeyboardSearchButtonNew" elementi bulunana kadar en fazla "50" saniye kadar bekle
-//* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Elementin yüklenmesini bekle "KeyboardSearchButtonNew"
-* Elementine tıkla "KeyboardSearchButtonNew"
-//* Elementine tıkla "KeyboardSearchButtonNew"
-* "1" saniye bekle
+* "SearchInput" elementi bulunana kadar en fazla "5" saniye kadar bekle
+* "SearchInput" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "SearchInput" elementi bulunana kadar en fazla "30" saniye kadar bekle
+* <text> textini "SearchInput" elemente yaz
+* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
+* "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
+* iOS Enter tıkla
 
 # Urun kodu <text> yazilir, arama yapilir
-* "SearchBoxText2" elementi bulunana kadar en fazla "50" saniye kadar bekle
-* Elementine tıkla "SearchBoxText2"
-* "SearchBoxText2" elementi bulunana kadar en fazla "50" saniye kadar bekle
-* <text> textini "SearchBoxText2" elemente yaz
-* "KeyboardSearchButtonNew" elementi bulunana kadar en fazla "50" saniye kadar bekle
-//* iOS Enter tıkla
-//* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-* Elementin yüklenmesini bekle "KeyboardSearchButtonNew"
-* Elementine tıkla "KeyboardSearchButtonNew"
-* "1" saniye bekle
+* "SearchInput" elementi bulunana kadar en fazla "5" saniye kadar bekle
+* "SearchInput" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "SearchInput" elementi bulunana kadar en fazla "30" saniye kadar bekle
+* <text> textini "SearchInput" elemente yaz
+* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
+* "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
+* iOS Enter tıkla
 
 # Aradiginiz sonuc bulunamadi sayfasinin acildigi gorulur
 * "1" saniye bekle
@@ -47,66 +39,52 @@
 
 # Aratilan urun adina ait urunlerin listelendigi gorulur
 * "1" saniye bekle
-* "SearchToolbarTitle" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* "1" saniye bekle
-* "SearchToolbarTitle" elementinin "Pastel Oje 106" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "PageToolbarTitleText"
+* "PageToolbarTitleText" elementinin "Pastel Oje 106" textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
 
 # Urun detay sayfasinin acildigi gorulur
 * "1" saniye bekle
-* "ProductDetailTitle" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* "1" saniye bekle
-* "ProductDetailTitle" elementinin "Ürün Detay" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "PageToolbarTitleText"
+* "PageToolbarTitleText" elementinin "Ürün Detay" textini içerdiği kontrol edilir
 * "1" saniye bekle
 
 # Kategori adi <text> yazilir, kategori secilir
-* "5" saniye bekle
-* Elementin yüklenmesini bekle "SearchBoxText"
-* "5" saniye bekle
-* Elementine tıkla "SearchBoxText"
-* "5" saniye bekle
-* <text> textini "SearchBoxText" elemente yaz
-* "5" saniye bekle
-//* Elementine tıkla "SearchBoxText"
-//* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-//* Elementin yüklenmesini bekle "KeyboardSearchIcon"
+* "SearchInput" elementi bulunana kadar en fazla "5" saniye kadar bekle
+* "SearchInput" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "SearchInput" elementi bulunana kadar en fazla "30" saniye kadar bekle
+* <text> textini "SearchInput" elemente yaz
+* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
+* "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * Elementin yüklenmesini bekle "searchBoxOnerilenArama"
 * Elementine tıkla "searchBoxOnerilenArama"
-//* Elementin yüklenmesini bekle "SearchCategoryName"
-//* Elementine tıkla "SearchCategoryName"
 * "1" saniye bekle
 
 # Kategori ile ilgili urunlerin listelendigi gorulur
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "SearchCategoryToolbarTitle"
-* "SearchCategoryToolbarTitle" elementinin "Erkek Parfüm" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "PageToolbarTitleText"
+* "PageToolbarTitleText" elementinin "Erkek Parfüm" textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
 
 # Marka adi <text> yazilir, marka secilir
-* "5" saniye bekle
-* Elementin yüklenmesini bekle "SearchBoxText"
-* "5" saniye bekle
-* Elementine tıkla "SearchBoxText"
-* "5" saniye bekle
-* <text> textini "SearchBoxText" elemente yaz
-* "5" saniye bekle
-//* Elementine tıkla "SearchBoxText"
-//* Elementin yüklenmesini bekle "KeyboardDismisserIcon"
-//* Elementin yüklenmesini bekle "KeyboardSearchIcon"
+* "SearchInput" elementi bulunana kadar en fazla "5" saniye kadar bekle
+* "SearchInput" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "SearchInput" elementi bulunana kadar en fazla "30" saniye kadar bekle
+* <text> textini "SearchInput" elemente yaz
+* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
+* "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * Elementin yüklenmesini bekle "searchBoxOnerilenArama"
 * Elementine tıkla "searchBoxOnerilenArama"
-//* Elementin yüklenmesini bekle "SearchTrademarkName"
-//* Elementine tıkla "SearchTrademarkName"
 * "1" saniye bekle
 
 # Marka ile ilgili urunlerin listelendigi gorulur
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "SearchTrademarkToolbarTitle"
-* "SearchTrademarkToolbarTitle" elementinin "Arko Men" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "PageToolbarTitleText"
+* "PageToolbarTitleText" elementinin "Arko Men" textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
