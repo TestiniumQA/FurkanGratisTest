@@ -17,8 +17,8 @@
 * "SearchInput" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "SearchInput" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * Elementin yüklenmesini bekle "searchBoxOnerilenArama"
-//* <text> textini "SearchInput" elemente yaz
-* "SearchInput" li elementi bul, temizle ve <text> değerini yaz
+* "5" saniye bekle
+* <text> textini "SearchInput" elemente yaz
 //* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 //* "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
 //* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
@@ -30,8 +30,8 @@
 * "SearchInput" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "SearchInput" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * Elementin yüklenmesini bekle "searchBoxOnerilenArama"
-//* <text> textini "SearchInput" elemente yaz
-* "SearchInput" li elementi bul, temizle ve <text> değerini yaz
+* "5" saniye bekle
+* <text> textini "SearchInput" elemente yaz
 //* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 //* "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
 //* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
@@ -64,8 +64,8 @@
 * "SearchInput" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "SearchInput" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * Elementin yüklenmesini bekle "searchBoxOnerilenArama"
-//* <text> textini "SearchInput" elemente yaz
-* "SearchInput" li elementi bul, temizle ve <text> değerini yaz
+* "5" saniye bekle
+* <text> textini "SearchInput" elemente yaz
 //* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 //* "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * "5" saniye bekle
@@ -88,8 +88,8 @@
 * "SearchInput" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "SearchInput" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * Elementin yüklenmesini bekle "searchBoxOnerilenArama"
-//* <text> textini "SearchInput" elemente yaz
-* "SearchInput" li elementi bul, temizle ve <text> değerini yaz
+* "5" saniye bekle
+* <text> textini "SearchInput" elemente yaz
 //* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 //* "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * "5" saniye bekle
