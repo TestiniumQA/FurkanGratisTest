@@ -439,6 +439,7 @@
 * "1" saniye bekle
 
 # Adres Ekle Mahalle ismi secilir
+* "NewAddressAddNeighbourhoodDropdown"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Element var mı kontrol et "NewAddressAddNeighbourhoodDropdown"
 * "NewAddressAddNeighbourhoodDropdown" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "1" saniye bekle
@@ -449,6 +450,7 @@
 * "1" saniye bekle
 
 # Adres Ekle Mahalle ismi guncelleme icin <count> swipe ile secilir
+* "NewAddressAddNeighbourhoodDropdown"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Element var mı kontrol et "NewAddressAddNeighbourhoodDropdown"
 * "NewAddressAddNeighbourhoodDropdown" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "1" saniye bekle
