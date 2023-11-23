@@ -69,8 +69,10 @@
 //* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 //* "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * "5" saniye bekle
-* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
-* Elementine tıkla "searchBoxOnerilenArama"
+//* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
+//* Elementine tıkla "searchBoxOnerilenArama"
+* <text> değerini sayfa üzerinde olup olmadığını kontrol et.
+* <text> text degerine sahip elemente tikla
 * "1" saniye bekle
 
 # Kategori ile ilgili urunlerin listelendigi gorulur
@@ -91,8 +93,10 @@
 //* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 //* "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * "5" saniye bekle
-* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
-* Elementine tıkla "searchBoxOnerilenArama"
+//* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
+//* Elementine tıkla "searchBoxOnerilenArama"
+* <text> değerini sayfa üzerinde olup olmadığını kontrol et.
+* <text> text degerine sahip elemente tikla
 * "1" saniye bekle
 
 # Marka ile ilgili urunlerin listelendigi gorulur
