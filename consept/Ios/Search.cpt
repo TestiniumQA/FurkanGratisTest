@@ -21,7 +21,8 @@
 * "SearchInput" li elementi bul, temizle ve <text> değerini yaz
 //* Elementin yüklenmesini bekle "SearchBoxCloseBtn"
 //* "KeyboardSearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
-* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
+//* Elementin yüklenmesini bekle "searchBoxOnerilenArama"
+* "5" saniye bekle
 * iOS Enter tıkla
 
 # Urun kodu <text> yazilir, arama yapilir
