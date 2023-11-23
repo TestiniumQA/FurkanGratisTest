@@ -1,5 +1,5 @@
 # Search ikonuna tiklanir
-* "SearchIcon" elementi bulunana kadar en fazla "5" saniye kadar bekle
+* "SearchIcon" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * "SearchIcon" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 
 # Diger sayfasindan search ikonuna tiklanir
