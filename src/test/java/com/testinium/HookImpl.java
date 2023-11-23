@@ -153,10 +153,10 @@ public class HookImpl {
 
             selector = SelectorFactory
                     .createElementHelper(localAndroid ? SelectorType.ANDROID : SelectorType.IOS);
-            appiumDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+            appiumDriver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
             appiumFluentWait = new FluentWait<AppiumDriver<MobileElement>>(appiumDriver);
             appiumFluentWait.withTimeout(Duration.ofSeconds(15))
-                    .pollingEvery(Duration.ofMillis(450))
+                    .pollingEvery(Duration.ofMillis(300))
                     .ignoring(NoSuchElementException.class);
         }
 
