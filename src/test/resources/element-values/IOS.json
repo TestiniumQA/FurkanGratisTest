@@ -1442,6 +1442,13 @@
     "iosType": "xpath"
   },
   {
+    "key": "SearchBoxCloseBtnNew",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeButton[2]",
+    "iosType": "classChain"
+  },
+  {
     "key": "SearchBoxText",
     "androidValue": "",
     "androidType": "",
@@ -3174,7 +3181,7 @@
     "key": "SearchIcon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeButton[`label == \"searchWhiteIcon\"`]",
+    "iosValue": "**/XCUIElementTypeNavigationBar[`name == \"Gratis.HomeView\"`]/XCUIElementTypeButton[1]",
     "iosType": "classChain"
   },
   {
