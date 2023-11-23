@@ -3181,7 +3181,7 @@
     "key": "SearchIcon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeNavigationBar[`name == \"Gratis.HomeView\"`]/XCUIElementTypeButton[1]",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == \"Ürün, kategori veya marka ara…\"`]",
     "iosType": "classChain"
   },
   {
