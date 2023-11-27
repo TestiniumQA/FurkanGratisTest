@@ -2485,10 +2485,12 @@ public class StepImpl extends HookImpl {
 
         while (firstValue==secondValue)
         { String firtKeyTxt = null;
-            while (firtKeyTxt == null)
+            while (true)
             {
                 swipeDownAccordingToPhoneSize();
                 firtKeyTxt = findElementByKey(key1).getText();
+                if(firtKeyTxt != null)
+                    break;
             }
             firtKeyTxt = firtKeyTxt.replaceAll("\\s", "");
             //firtKeyTxt = firtKeyTxt.replace(firtKeyTxt.substring(firtKeyTxt.length()-2), "");
@@ -2503,10 +2505,12 @@ public class StepImpl extends HookImpl {
 
             String secondKeyText = null;
 
-            while (secondKeyText == null)
+            while (true)
             {
                 swipeDownAccordingToPhoneSize();
                 secondKeyText = findElementByKey(key1).getText();
+                if(secondKeyText != null)
+                    break;
             }
 
 
