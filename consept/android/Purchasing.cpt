@@ -167,6 +167,7 @@ This is a concept file with following syntax for each concept.
 # Kargo seçimi uyarısı kontrol edilir.
 * Mağazadan seç popup'ı varsa kapatilir.
 * Elementine tıkla "continueBtn"
+* "2" saniye bekle
 * "Lütfen teslimat yöntemi seçiniz." değerini sayfa üzerinde olup olmadığını kontrol et.
 * Elementine tıkla "popupOkayButton"
 
