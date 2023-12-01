@@ -175,4 +175,4 @@ tags:Gratis_Android_AdresUyariMesajlari
 * Yukarı scroll et ve "5" textini "newAddressCustomerPhone" elementine yaz.
 * Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
 * Yukarı scroll et ve "5112223311" textini "newAddressCustomerPhone" elementine yaz.
-* Kaydet ikonuna tiklanir "Lütfen adres bilgilerinizi giriniz" uyarı mesajı görülür.
+* Kaydet ikonuna tiklanir "Lütfen adres ismi giriniz" uyarı mesajı görülür.
