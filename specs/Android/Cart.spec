@@ -68,7 +68,7 @@ Add A Favorite List From Cart
 tags:Gratis_Android_SepetteFavoriListesiOlusturmaVeSilme
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
-* Gratis3 ile login olunur.
+* Gratis5 ile login olunur.
 * Ana sayfadan bir urun sepete eklenir.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Sepette favori butonuna tiklanir.
@@ -84,7 +84,7 @@ Cart Popup Slider Product Detail And Add To Cart
 ------------------------------------------------
 tags:Gratis_Android_KasaArkasiPopupUrunDetayVeSepeteEkleme
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis3 login olunur.
+* Sepet ikonu ile Gratis4 login olunur.
 * Sepet kontrol edilerek temizlenir.
 * Ana sayfa tab'ına tıklanır.
 * Ana sayfadan bir urun sepete eklenir.
