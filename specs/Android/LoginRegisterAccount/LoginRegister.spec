@@ -21,7 +21,7 @@ tags:Gratis_Android_Register
 * Register'a tıklanır.
 * Kullanıcı bilgileri girilir.
 * Kullanıcı şartlarına tıklanır ve üye olunur.
-* Sms uyarısı kontrol edilir.
+//* Sms uyarısı kontrol edilir.
 
 Register Negative
 -----------------

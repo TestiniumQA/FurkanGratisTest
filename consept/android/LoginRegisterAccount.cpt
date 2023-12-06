@@ -95,7 +95,7 @@ This is a concept file with following syntax for each concept.
 * "12345" textini "editListTextbox" elemente yaz
 * "popupOkayButton" li elementin değeri "GÖNDER" e içerdiğini kontrol et
 * Elementine tıkla "popupOkayButton"
-//* "pageToolbarTitle" li elementin değeri "Diğer" e içerdiğini kontrol et
+* "pageToolbarTitle" li elementin değeri "Diğer" e içerdiğini kontrol et
 
 # Sms uyarısı kontrol edilir.
 * "alertSuccessfulPopup" li elementin değeri "SMS kodu geçersiz" e içerdiğini kontrol et
