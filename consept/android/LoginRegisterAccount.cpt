@@ -96,6 +96,7 @@ This is a concept file with following syntax for each concept.
 * "popupOkayButton" li elementin değeri "GÖNDER" e içerdiğini kontrol et
 * Elementine tıkla "popupOkayButton"
 * "pageToolbarTitle" li elementin değeri "Diğer" e içerdiğini kontrol et
+* Element var mı kontrol et "profilTab"
 
 # Sms uyarısı kontrol edilir.
 * "alertSuccessfulPopup" li elementin değeri "SMS kodu geçersiz" e içerdiğini kontrol et
