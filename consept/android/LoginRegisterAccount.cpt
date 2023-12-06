@@ -547,7 +547,7 @@ This is a concept file with following syntax for each concept.
 * "alertSuccessfulPopup" elementinin "Hesabınız silinmiştir. Kısa bir süre sonra tekrar deneyerek Gratis avantajlarından yararlanıp müşterimiz olabilirsiniz. Tekrar görüşmeyi umuyoruz." textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "popupOkayButton"
 * Elementine tıkla "popupOkayButton"
-* Elementin yüklenmesini bekle "anasayfa"
+* Elementin yüklenmesini bekle "anasayfaTab"
 
 # Gratis Card baglama islemi yapilir.
 * "Gratis Kartınızı henüz bağlamadınız!" text degerine sahip elementin goruntulendigi kontrol edilir
