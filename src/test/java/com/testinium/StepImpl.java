@@ -2488,9 +2488,15 @@ public class StepImpl extends HookImpl {
             while (true)
             {
                 swipeDownAccordingToPhoneSize();
-                firtKeyTxt = findElementByKey(key1).getText();
+                try {
+                    firtKeyTxt = findElementByKeyWithoutAssert(key1).getText();
+                }
+                catch (Exception e)
+                {
+                    System.out.println("Fiyat bulunamadı, tekrar swipe ediliyor!");
+                }
                 if(firtKeyTxt != null)
-                    break;
+                { break;}
             }
             firtKeyTxt = firtKeyTxt.replaceAll("\\s", "");
             //firtKeyTxt = firtKeyTxt.replace(firtKeyTxt.substring(firtKeyTxt.length()-2), "");
@@ -2508,9 +2514,15 @@ public class StepImpl extends HookImpl {
             while (true)
             {
                 swipeDownAccordingToPhoneSize();
-                secondKeyText = findElementByKey(key1).getText();
+                try {
+                    secondKeyText = findElementByKeyWithoutAssert(key1).getText();
+                }
+                catch (Exception e)
+                {
+                    System.out.println("Fiyat bulunamadı, tekrar swipe ediliyor!");
+                }
                 if(secondKeyText != null)
-                    break;
+                {break;}
             }
 
 
