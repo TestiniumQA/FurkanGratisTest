@@ -102,6 +102,7 @@ This is a concept file with following syntax for each concept.
 # Diğer alaninda Gratis Beauty sayfasina gecilir.
 * Elementin yüklenmesini bekle "beautyDigerBtn"
 * Elementine tıkla "beautyDigerBtn"
+* "7" saniye bekle
 * Elementin yüklenmesini bekle "gratisBeautyPage"
 * "2" saniye bekle
 * Geri butonuna bas
