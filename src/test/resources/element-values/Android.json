@@ -1513,8 +1513,18 @@
     "androidType": "xpath"
   },
   {
+    "key": "alertTitle2",
+    "androidValue": "//*[@resource-id='com.gratis.android:id/alertTitle']",
+    "androidType": "xpath"
+  },
+  {
     "key": "detailFavBtn",
     "androidValue": "com.gratis.android:id/product_detail_fav_btn",
+    "androidType": "id"
+  },
+  {
+    "key": "gratisCardConnectBtn",
+    "androidValue": "com.gratis.android:id/connect_card_btn",
     "androidType": "id"
   },
   {
@@ -1900,6 +1910,16 @@
   {
     "key": "searchResultTxt",
     "androidValue": "com.gratis.android:id/search_result_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "accountDelete",
+    "androidValue": "com.gratis.android:id/removeUserTxt",
+    "androidType": "id"
+  },
+  {
+    "key": "popupBtn2",
+    "androidValue": "android:id/button2",
     "androidType": "id"
   },
   {

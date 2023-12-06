@@ -95,6 +95,7 @@ This is a concept file with following syntax for each concept.
 * "12345" textini "editListTextbox" elemente yaz
 * "popupOkayButton" li elementin değeri "GÖNDER" e içerdiğini kontrol et
 * Elementine tıkla "popupOkayButton"
+* "pageToolbarTitle" li elementin değeri "Diğer" e içerdiğini kontrol et
 
 # Sms uyarısı kontrol edilir.
 * "alertSuccessfulPopup" li elementin değeri "SMS kodu geçersiz" e içerdiğini kontrol et
@@ -247,7 +248,7 @@ This is a concept file with following syntax for each concept.
 * <adresIsmi> textini "newAddressCustomerAddressTitle" elemente yaz
 
 # Yukarı scroll et ve <text> textini <key> elementine yaz.
-* "1" kere yukarı doğru kaydır
+* <key>li elementi bulana kadar "3" kere yukarı swipe yap ve elementi bul
 * <text> textini <key> elemente yaz
 
 # Adres Ekle Sehir ismi secilir.
@@ -508,3 +509,65 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "customerInformationSMS"
 * Element var mı kontrol et "customerInformationEmail"
 * Element var mı kontrol et "customerInformationCall"
+
+# Üye Ol Ad <ad>, Soyad <soyad> ve Eposta İsmi <ePosta> girilir.
+* Element var mı kontrol et "registerName"
+* <ad> textini "registerName" elemente yaz
+* Element var mı kontrol et "registerSurname"
+* <soyad> textini "registerSurname" elemente yaz
+* Element var mı kontrol et "registerPhone"
+* Element var mı kontrol et "registerMail"
+* <ePosta> textini "registerMail" elemente yaz
+* Klavye kapatilir
+
+# Üye Ol ikonuna tiklanir <text> uyarı mesajı görülür.
+* "registerButton"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Elementine tıkla "registerButton"
+* "1" saniye bekle
+* "alertSuccessfulPopup" li elementin değeri <text> e içerdiğini kontrol et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* Elementine tıkla "popupOkayButton"
+
+# Hesabı Sil islemi yapilir.
+* Elementin yüklenmesini bekle "accountDelete"
+* Elementine tıkla "accountDelete"
+* "alertTitle2" elementinin "Hesabınızı Silmek İstediğinizden Emin Misiniz?" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "alertSuccessfulPopup"
+* "alertSuccessfulPopup" elementinin "Hesabınızı silmeniz verdiğiniz siparişleri görüntülemenizi ve alışveriş sırasında daha iyi bir kullanıcı deneyimi yaratmanızı engelleyecektir." textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "popupBtn2"
+* Elementine tıkla "popupBtn2"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "accountDelete"
+* "accountDelete" elementine sayacli tikla "alertTitle2" value degerini bekle
+* "popupOkayButton" li elementin değeri "Hesabı Sil" e içerdiğini kontrol et
+* Elementin yüklenmesini bekle "popupOkayButton"
+* Elementine tıkla "popupOkayButton"
+* Elementin yüklenmesini bekle "alertSuccessfulPopup"
+* "alertSuccessfulPopup" elementinin "Hesabınız silinmiştir. Kısa bir süre sonra tekrar deneyerek Gratis avantajlarından yararlanıp müşterimiz olabilirsiniz. Tekrar görüşmeyi umuyoruz." textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "popupOkayButton"
+* Elementine tıkla "popupOkayButton"
+* Elementin yüklenmesini bekle "anasayfa"
+
+# Gratis Card baglama islemi yapilir.
+* "Gratis Kartınızı henüz bağlamadınız!" text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementin yüklenmesini bekle "gratisCardConnectBtn"
+* Elementine tıkla "gratisCardConnectBtn"
+* "Gratis Kart Al,  İndirimlerden Faydalan!" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Gratis kartın avantajları:" text degerine sahip elementin goruntulendigi kontrol edilir
+* "- Size özel puanlar - Size özel indirimler - Farklı markalarda avantajlar" text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementin yüklenmesini bekle "popupBtn2"
+* Elementine tıkla "popupBtn2"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "gratisCardConnectBtn"
+* Elementine tıkla "gratisCardConnectBtn"
+//* Elementin yüklenmesini bekle "GratisCardGetBtn"
+//* Elementine tıkla "GratisCardGetBtn"
+* "SMS Onayı" text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementin yüklenmesini bekle "editListTextbox"
+* "5" saniye bekle
+//* "12345" textini "GratisCardSmsTextbox" elemente yaz
+* Elementin yüklenmesini bekle "popupOkayButton"
+* Elementine tıkla "popupOkayButton"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "GratisCardBackGround"
