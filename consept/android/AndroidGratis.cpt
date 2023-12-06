@@ -51,6 +51,13 @@ This is a concept file with following syntax for each concept.
 * "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
 * Elementine tıkla "anasayfaTab"
 
+# Gratis5 ile login olunur.
+* "AndroidMail" csv dosyasindan "5" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Element var mı kontrol et "textInputEndIcon"
+* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "anasayfaTab"
+
 # Sepet kontrol edilerek temizlenir.
 //* "sepetBtn" li element varsa tıkla yoksa devam et
 * "sepetReklamKapat" li element varsa tıkla yoksa devam et
