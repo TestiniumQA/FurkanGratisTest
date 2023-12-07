@@ -3192,10 +3192,10 @@
     "iosType": "class"
   },
   {
-    "key": "xxxx",
+    "key": "GratisCardTitle",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == 'Gratis Kartınız'`]",
     "iosType": "classChain"
   },
   {
