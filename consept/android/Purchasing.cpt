@@ -213,6 +213,7 @@ This is a concept file with following syntax for each concept.
 
 # Iyzico alanı fiyat kontrol edilir.
 * "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* "2" saniye bekle
 * Saklanan fiyat değerlerini kargo indirimine bağlı "ilkKüsür", "ikinciKüsür", "fiyat1", "fiyat2" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
 
 # Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
