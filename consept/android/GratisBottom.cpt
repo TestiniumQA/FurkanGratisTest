@@ -314,6 +314,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "catalogOptions"
 
 # Sayfaya Genel Bakis alanina gecilir.
+* "3" saniye bekle
 * Elementin yüklenmesini bekle "catalogPagesBtn"
 * Elementine tıkla "catalogPagesBtn"
 * Element var mı kontrol et "catalogPages"
