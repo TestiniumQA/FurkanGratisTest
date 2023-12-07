@@ -118,8 +118,8 @@
 # Kullanıcı bilgileri girilir
 * "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
 * Rastgele secilen kullanici adi "RegisterName" elementine, soyadi "RegisterSurname" elementine, mail "RegisterMail" elementine yazilir
-//* "RegisterMailFull" li elementi bul, temizle ve "gratistestiniumtr" değerini yaz // hesap geldiğinde yapılacak
-* "345678919" textini "RegisterPhone" elemente yaz
+* "RegisterMailFull" li elementi bul, temizle ve "gratis.testinium11@gmail.com" değerini yaz
+* "321111125" textini "RegisterPhone" elemente yaz
 * "KeyboardDismisserIcon" li element varsa tıkla
 * "RegisterBirth" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "RegisterBirth" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
@@ -165,12 +165,12 @@
 * "SMS Onayı" text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "RegisterSmsTextbox"
 * "5" saniye bekle
-//* "12345" textini "RegisterSmsTextbox" elemente yaz
-//* Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
-//* "RegisterSmsAcceptButton" elementinin "Gönder" textini içerdiği kontrol edilir
-//* Elementine tıkla "RegisterSmsAcceptButton"
-//* "5" saniye bekle
-//* Elementin yüklenmesini bekle "profilim"
+* "12345" textini "RegisterSmsTextbox" elemente yaz
+* Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
+* "RegisterSmsAcceptButton" elementinin "Gönder" textini içerdiği kontrol edilir
+* Elementine tıkla "RegisterSmsAcceptButton"
+* "5" saniye bekle
+* Elementin yüklenmesini bekle "profilim"
 
 # Sms uyarısı kontrol edilir
 //* Elementin yüklenmesini bekle "AlertSuccessfulPopup"
@@ -779,7 +779,7 @@
 * "SMS Onayı" text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "GratisCardSmsTextbox"
 * "5" saniye bekle
-//* "12345" textini "GratisCardSmsTextbox" elemente yaz
+* "12345" textini "GratisCardSmsTextbox" elemente yaz
 * Elementin yüklenmesini bekle "SmsAcceptButton"
 * Elementine tıkla "SmsAcceptButton"
 * "1" saniye bekle
