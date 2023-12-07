@@ -113,6 +113,7 @@ This is a concept file with following syntax for each concept.
 * "careerBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "careerBtn"
 * Elementine tıkla "careerBtn"
+* "5" saniye bekle
 * Elementin yüklenmesini bekle "careerPage"
 * "1" saniye bekle
 * Geri butonuna bas
