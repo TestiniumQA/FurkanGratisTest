@@ -225,6 +225,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "deleteAddressPopupButton"
 
 # Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
+* "3" saniye bekle
 * "deleteAddressButton" li element varsa tıkla
 * "deleteAddressPopupButton" li element varsa tıkla
 //* "newAddressCard" değerini sayfa üzerinde olmadıgını kontrol et
@@ -551,12 +552,12 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "anasayfaTab"
 
 # Gratis Card baglama islemi yapilir.
-* "Gratis Kartınızı henüz bağlamadınız!" text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "gratisCardConnectBtn"
+* "Gratis Kartınızı henüz bağlamadınız!" değerini sayfa üzerinde olup olmadığını kontrol et.
+* Elementin yüklenmesini bekle "gratisCardConnectBtn"
+* "Gratis kartın avantajları:" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "- Size özel puanlar - Size özel indirimler - Farklı markalarda avantajlar" değerini sayfa üzerinde olup olmadığını kontrol et.
 * Elementine tıkla "gratisCardConnectBtn"
-* "Gratis Kart Al,  İndirimlerden Faydalan!" text degerine sahip elementin goruntulendigi kontrol edilir
-* "Gratis kartın avantajları:" text degerine sahip elementin goruntulendigi kontrol edilir
-* "- Size özel puanlar - Size özel indirimler - Farklı markalarda avantajlar" text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "popupBtn2"
 * Elementine tıkla "popupBtn2"
 * "1" saniye bekle
@@ -564,7 +565,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "gratisCardConnectBtn"
 //* Elementin yüklenmesini bekle "GratisCardGetBtn"
 //* Elementine tıkla "GratisCardGetBtn"
-* "SMS Onayı" text degerine sahip elementin goruntulendigi kontrol edilir
+* "SMS Onayı" değerini sayfa üzerinde olup olmadığını kontrol et.
 * Elementin yüklenmesini bekle "editListTextbox"
 * "5" saniye bekle
 //* "12345" textini "GratisCardSmsTextbox" elemente yaz
