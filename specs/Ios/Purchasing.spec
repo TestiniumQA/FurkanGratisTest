@@ -460,7 +460,7 @@ tags:Gratis_IOS_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
 * Mağazadan Teslim Sehir ismi secilir
