@@ -20,7 +20,7 @@ tags:Gratis_Android_KargoIndirimli
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Adres alanında yeni adres eklenir.
 * Ana sayfaya geçilir.
-* Anasayfa urun kodu "10886516" yazilir, arama yapilir.
+* Anasayfa urun kodu "10022111" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
