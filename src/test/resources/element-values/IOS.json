@@ -2306,7 +2306,7 @@
     "key": "ShareDrag",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeButton[`label == 'Close'`]",
+    "iosValue": "**/XCUIElementTypeButton[`label == 'Kapat'`]",
     "iosType": "classChain"
   },
   {
