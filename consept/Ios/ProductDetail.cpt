@@ -56,7 +56,6 @@
 
 # Gratis Card ile ürün detayda Gratis1 login olunur
 * "DetailGratisCardBtn" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
-//* Elementine tıkla "DetailGratisCardBtn"
 * "IOSmail" csv dosyasindan "1" numaralı kullaniciyi sec
 *  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
