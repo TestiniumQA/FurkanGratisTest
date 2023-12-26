@@ -177,6 +177,7 @@ This is a concept file with following syntax for each concept.
 * "12345" textini "myPasswordOldPassword" elemente yaz
 * Elementine tıkla "myPasswordSavedIcon"
 * "alertSuccessfulPopup" li elementin değeri "Eski şifreniz hatalı, lütfen kontrol ediniz" e içerdiğini kontrol et
+* Elementine tıkla "popupOkayButton"
 
 # Yeni şifre ve tekrarı uyuşmuyor uyarı mesajı görülür.
 * "1A2s3d.." textini "myPasswordOldPassword" elemente yaz
