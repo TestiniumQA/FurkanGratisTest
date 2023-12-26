@@ -118,7 +118,7 @@
 # Yakinlardaki magazalar'a tiklanir
 * Elementin yüklenmesini bekle "NearbyStore"
 * Elementine tıkla "NearbyStore"
-//* "LocationPermissionBtn" li element varsa tıkla
+* "LocationPermissionBtn2" li element varsa tıkla
 * "LocationPermissionBtn" li element varsa tıkla yoksa devam et
 * Elementin yüklenmesini bekle "UrunSearchTxt"
 * Elementin yüklenmesini bekle "PageToolbarTitle"

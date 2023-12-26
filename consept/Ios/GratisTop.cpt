@@ -15,8 +15,8 @@
 * Elementin yüklenmesini bekle "StoreBtn"
 * Elementine tıkla "StoreBtn"
 //* "LocationPermissionBtn" li element varsa tıkla yoksa devam et
-* "LocationPermissionBtn" li element varsa tıkla
 * "LocationPermissionBtn2" li element varsa tıkla
+* "LocationPermissionBtn" li element varsa tıkla
 * Elementin yüklenmesini bekle "StoreList"
 
 # Magazalarda rastgele bir il aratilir
