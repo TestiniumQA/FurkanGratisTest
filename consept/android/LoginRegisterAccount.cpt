@@ -194,7 +194,7 @@ This is a concept file with following syntax for each concept.
 * "1A2s3d..." textini "myPasswordAgainNewPassword" elemente yaz
 * Elementine tıkla "myPasswordSavedIcon"
 * "1" saniye bekle
-* toast message "Eski şifreniz hatalı, lütfen kontrol ediniz" değerine eşit mi
+* "alertSuccessfulPopup" li elementin değeri "Eski şifreniz hatalı, lütfen kontrol ediniz" e içerdiğini kontrol et
 
 # Sifrem'e tiklanir sifre yenileme sayfasinin acildigi gorulur.
 * Element var mı kontrol et "profilePageMyPassword"
