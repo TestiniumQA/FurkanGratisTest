@@ -1253,6 +1253,13 @@
     "iosType": "xpath"
   },
   {
+    "key": "LocationPermissionBtn2",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[@name='İzin Ver']",
+    "iosType": "xpath"
+  },
+  {
     "key": "StoreList",
     "androidValue": "",
     "androidType": "",
