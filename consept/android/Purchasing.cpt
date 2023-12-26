@@ -127,6 +127,9 @@ This is a concept file with following syntax for each concept.
 * "storeBilCitySpinner" elementinin koordinatlarına x="0" y="250" degerlerini ekleyerek tıkla
 //* sayfadaki "20" "80" alana dokun
 * "2" saniye bekle
+* Elementine tıkla "storeBilCitySpinner"
+* "2" saniye bekle
+* "storeBilCitySpinner" elementinin koordinatlarına x="0" y="-100" degerlerini ekleyerek tıkla
 
 # Fatura bilgileri ilce ismi secilir.
 * "storeBilDistrictSpinner"li elementi bulana kadar "1" kere swipe yap ve elementi bul
@@ -134,6 +137,11 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "storeBilTownSpinner"
 * "2" saniye bekle
 * "storeBilTownSpinner" elementinin koordinatlarına x="0" y="170" degerlerini ekleyerek tıkla
+//* sayfadaki "20" "85" alana dokun
+* "2" saniye bekle
+* Elementine tıkla "storeBilTownSpinner"
+* "2" saniye bekle
+* "storeBilTownSpinner" elementinin koordinatlarına x="0" y="-100" degerlerini ekleyerek tıkla
 //* sayfadaki "20" "85" alana dokun
 * "2" saniye bekle
 
@@ -144,6 +152,10 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 * "storeBilDistrictSpinner" elementinin koordinatlarına x="0" y="170" degerlerini ekleyerek tıkla
 //* sayfadaki "20" "90" alana dokun
+* "2" saniye bekle
+* Elementine tıkla "storeBilDistrictSpinner"
+* "2" saniye bekle
+* "storeBilDistrictSpinner" elementinin koordinatlarına x="0" y="-100" degerlerini ekleyerek tıkla
 
 # Fatura bilgileri alanında yeni adres eklenir.
 * Fatura bilgileri için Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
