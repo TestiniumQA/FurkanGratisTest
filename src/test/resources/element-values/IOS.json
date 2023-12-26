@@ -1123,7 +1123,7 @@
     "key": "EmptyFavButton",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='Haydi başlayalım!']",
+    "iosValue": "//*[@name='Alışverişe başla!']",
     "iosType": "xpath"
   },
   {
