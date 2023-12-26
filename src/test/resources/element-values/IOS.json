@@ -1396,7 +1396,7 @@
     "key": "FastScroller",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeOther[`label == \"Section index\"`]",
+    "iosValue": "**/XCUIElementTypeOther[`label == 'Bölüm İndeksi'`]",
     "iosType": "classChain"
   },
   {
