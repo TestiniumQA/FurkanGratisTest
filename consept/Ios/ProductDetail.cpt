@@ -55,8 +55,8 @@
 * "girisYapBtn" değerini sayfa üzerinde olmadıgını kontrol et
 
 # Gratis Card ile ürün detayda Gratis1 login olunur
-* "DetailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
-* Elementine tıkla "DetailGratisCardBtn"
+* "DetailGratisCardBtn" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+//* Elementine tıkla "DetailGratisCardBtn"
 * "IOSmail" csv dosyasindan "1" numaralı kullaniciyi sec
 *  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
