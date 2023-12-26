@@ -237,12 +237,20 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 * "storeCitySpinner" elementinin koordinatlarına x="0" y="600" degerlerini ekleyerek tıkla
 * "2" saniye bekle
+* Elementine tıkla "storeCitySpinner"
+* "2" saniye bekle
+* "storeCitySpinner" elementinin koordinatlarına x="0" y="-90" degerlerini ekleyerek tıkla
+* "2" saniye bekle
 
 # Mağazadan Teslim Ilce ismi secilir.
 * "storeTownSpinner"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementine tıkla "storeTownSpinner"
 * "2" saniye bekle
 * "storeTownSpinner" elementinin koordinatlarına x="0" y="200" degerlerini ekleyerek tıkla
+* "2" saniye bekle
+* Elementine tıkla "storeTownSpinner"
+* "2" saniye bekle
+* "storeTownSpinner" elementinin koordinatlarına x="0" y="-90" degerlerini ekleyerek tıkla
 * "2" saniye bekle
 
 # Mağazadan Teslim mağazası seçilir.
