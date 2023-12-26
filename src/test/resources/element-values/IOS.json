@@ -1403,7 +1403,7 @@
     "key": "ElementListFour",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeStaticText[@name='Parex']",
+    "iosValue": "//XCUIElementTypeStaticText[@name='Remove']",
     "iosType": "xpath"
   },
   {
