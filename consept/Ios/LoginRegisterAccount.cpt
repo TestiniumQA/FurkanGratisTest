@@ -207,8 +207,8 @@
 * "KeyboardDismisserIcon" li element varsa tıkla
 * "1" kere aşağıya kaydır
 * "1" saniye bekle
-* Element var mı kontrol et "RegisterOtherAgreementTwo"
-* Elementine tıkla "RegisterOtherAgreementTwo"
+* Element var mı kontrol et "RegisterOtherAgreement"
+* Elementine tıkla "RegisterOtherAgreement"
 * Elementin yüklenmesini bekle "RegisterButton"
 * Elementine tıkla "RegisterButton"
 * Elementin yüklenmesini bekle "RegisterAgeErrorPopup"
