@@ -53,8 +53,8 @@ public class HookImpl {
                 desiredCapabilities.setCapability("skipServerInstallation", true);
                 desiredCapabilities.setCapability("ignoreUnimportantViews", true);
                 desiredCapabilities.setCapability("waitForIdleTimeout",150);
-                //desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "android");
-                desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "device");
+                desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "android");
+                //desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "device");
                 desiredCapabilities
                         .setCapability(AndroidMobileCapabilityType.APP_PACKAGE,
                                 "com.gratis.android");
@@ -81,6 +81,7 @@ public class HookImpl {
                 desiredCapabilities.setCapability(MobileCapabilityType.UDID, "ca796f0c0ead8729c124b5bda73f8de53b4dec8a");
                 desiredCapabilities
                         .setCapability(IOSMobileCapabilityType.BUNDLE_ID, "com.pharos.Gratis");
+                        //setCapability(IOSMobileCapabilityType.BUNDLE_ID, "com.pharos.gratis.uat");
                 desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "devtestinium iPhone X");
                 desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "13.3.1");
                 desiredCapabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 300);
@@ -132,33 +133,23 @@ public class HookImpl {
                 capabilities.setCapability("key", System.getenv("key"));
                 capabilities.setCapability("waitForAppScript", "$.delay(1000);");
                 capabilities.setCapability("bundleId", "com.pharos.Gratis");
+                //capabilities.setCapability("bundleId", "com.pharos.gratis.uat");
                 capabilities.setCapability("usePrebuiltWDA",true);
-                capabilities.setCapability("useNewWDA", true);
+                capabilities.setCapability("useNewWDA", false);
                 capabilities.setCapability("autoAcceptAlerts",false);
                 //capabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 5);
                 appiumDriver = new IOSDriver(new URL(hubURL), capabilities);
             }
         }
+        selector = SelectorFactory
+                .createElementHelper(localAndroid ? SelectorType.ANDROID : SelectorType.IOS);
+        appiumDriver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+        appiumFluentWait = new FluentWait<AppiumDriver<MobileElement>>(appiumDriver);
+        appiumFluentWait.withTimeout(Duration.ofSeconds(15))
+                .pollingEvery(Duration.ofMillis(300))
+                .ignoring(NoSuchElementException.class);
 
-        if (System.getenv("platform").equals("ANDROID") && StringUtils.isEmpty(System.getenv("key")) == false) {
 
-            selector = SelectorFactory
-                    .createElementHelper(localAndroid ? SelectorType.ANDROID : SelectorType.IOS);
-            appiumDriver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-            appiumFluentWait = new FluentWait<AppiumDriver<MobileElement>>(appiumDriver);
-            appiumFluentWait.withTimeout(Duration.ofSeconds(15))
-                    .pollingEvery(Duration.ofMillis(250))
-                    .ignoring(NoSuchElementException.class);
-        } else {
-
-            selector = SelectorFactory
-                    .createElementHelper(localAndroid ? SelectorType.ANDROID : SelectorType.IOS);
-            appiumDriver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-            appiumFluentWait = new FluentWait<AppiumDriver<MobileElement>>(appiumDriver);
-            appiumFluentWait.withTimeout(Duration.ofSeconds(15))
-                    .pollingEvery(Duration.ofMillis(300))
-                    .ignoring(NoSuchElementException.class);
-        }
 
     }
 
