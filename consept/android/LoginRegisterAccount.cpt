@@ -194,7 +194,7 @@ This is a concept file with following syntax for each concept.
 * "1A2s3d..." textini "myPasswordAgainNewPassword" elemente yaz
 * Elementine tıkla "myPasswordSavedIcon"
 * "1" saniye bekle
-* toast message "Eski şifrenizi hatalı girdiniz" değerine eşit mi
+* toast message "Eski şifreniz hatalı, lütfen kontrol ediniz" değerine eşit mi
 
 # Sifrem'e tiklanir sifre yenileme sayfasinin acildigi gorulur.
 * Element var mı kontrol et "profilePageMyPassword"
@@ -262,6 +262,10 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 * sayfadaki "20" "75" alana dokun
 * "2" saniye bekle
+* Element var mı kontrol et "newAddressAddCityDropdown"
+* Elementine tıkla "newAddressAddCityDropdown"
+* "2" saniye bekle
+* "newAddressAddCityDropdown" elementinin koordinatlarına x="0" y="-100" degerlerini ekleyerek tıkla
 
 # Adres Ekle Ilce ismi secilir.
 * Element var mı kontrol et "newAddressAddDistrictDropdown"
@@ -270,6 +274,10 @@ This is a concept file with following syntax for each concept.
 //* sayfadaki "20" "60" alana dokun
 * "newAddressAddDistrictDropdown" elementinin koordinatlarına x="0" y="150" degerlerini ekleyerek tıkla
 * "2" saniye bekle
+* Elementine tıkla "newAddressAddDistrictDropdown"
+* "2" saniye bekle
+//* sayfadaki "20" "60" alana dokun
+* "newAddressAddDistrictDropdown" elementinin koordinatlarına x="0" y="-100" degerlerini ekleyerek tıkla
 
 # Adres Ekle Mahalle ismi secilir.
 * "1" kere aşağıya kaydır
@@ -278,6 +286,10 @@ This is a concept file with following syntax for each concept.
 //* sayfadaki "20" "80" alana dokun
 * "newAddressAddNeighbourhoodDropdown" elementinin koordinatlarına x="0" y="150" degerlerini ekleyerek tıkla
 * Elementin yüklenmesini bekle "newAddressCustomerAddressDetail"
+* Elementine tıkla "newAddressAddNeighbourhoodDropdown"
+* "2" saniye bekle
+//* sayfadaki "20" "80" alana dokun
+* "newAddressAddNeighbourhoodDropdown" elementinin koordinatlarına x="0" y="-100" degerlerini ekleyerek tıkla
 
 # Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
 * "newAddressCustomerAddressDetail"li elementi bulana kadar "1" kere swipe yap ve elementi bul
