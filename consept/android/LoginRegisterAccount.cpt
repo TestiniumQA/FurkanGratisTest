@@ -289,7 +289,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "newAddressAddNeighbourhoodDropdown"
 * "2" saniye bekle
 //* sayfadaki "20" "80" alana dokun
-* "newAddressAddNeighbourhoodDropdown" elementinin koordinatlarına x="0" y="-100" degerlerini ekleyerek tıkla
+* "newAddressAddNeighbourhoodDropdown" elementinin koordinatlarına x="0" y="-90" degerlerini ekleyerek tıkla
 
 # Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
 * "newAddressCustomerAddressDetail"li elementi bulana kadar "1" kere swipe yap ve elementi bul
