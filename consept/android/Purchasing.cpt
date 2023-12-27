@@ -199,6 +199,9 @@ This is a concept file with following syntax for each concept.
 # Teslimat Bilgileri değiştirme butonuna tıklanır.
 * Element var mı kontrol et "changeAddressBtn"
 * Elementine tıkla "changeAddressBtn"
+* "2" saniye bekle
+* "1" kere yukarı doğru kaydır
+* "addressBtn"li elementi bulana kadar "5" kere yukarı swipe yap ve elementi bul
 
 # Sipariş Özeti alanı kontrol edilir.
 //* "productCartName" li elementin text degerini hafizada "urun2" olarak saklanan text ile karsilastir
