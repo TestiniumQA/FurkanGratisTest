@@ -60,7 +60,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "pageToolbarTitle"
 * "1" saniye bekle
 * Elementine tıkla "geriBtn"
-* Elementin yüklenmesini bekle "trademark"
+* Elementin yüklenmesini bekle "elementList"
 
 # Hizli scroll harflerine basılır ve listeden bir marka secilir.
 * Elementine tıkla "fastScroller"
@@ -69,7 +69,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "pageToolbarTitle"
 * "1" saniye bekle
 * Elementine tıkla "geriBtn"
-* Elementin yüklenmesini bekle "trademark"
+* Elementin yüklenmesini bekle "elementList"
 
 # Diger tabina tiklanir.
 * Elementin yüklenmesini bekle "digerTab"
