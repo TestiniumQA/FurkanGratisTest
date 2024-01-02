@@ -172,7 +172,7 @@ tags:Gratis_Android_AdresUyariMesajlari
 * Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür.
 * Yukarı scroll et ve "YeniSoyad" textini "newAddressCustomerSurname" elementine yaz.
 * Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
-* Yukarı scroll et ve "5" textini "newAddressCustomerPhone" elementine yaz.
-* Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
+* Yukarı scroll et ve "2122223311" textini "newAddressCustomerPhone" elementine yaz.
+* Kaydet ikonuna tiklanir "Telefon Numarası Geçersiz.Telefon numaranız 0(5**) *** ** ** formatında olmalıdır" uyarı mesajı görülür.
 * Yukarı scroll et ve "5112223311" textini "newAddressCustomerPhone" elementine yaz.
 * Kaydet ikonuna tiklanir "Lütfen adres ismi giriniz" uyarı mesajı görülür.
