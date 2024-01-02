@@ -385,3 +385,81 @@ This is a concept file with following syntax for each concept.
 * Adres Ekle Mahalle ismi secilir.
 * Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
 * Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur.
+
+# Teslimat bilgileri adres duzenleme alani adres uyari kontrolleri yapilir
+* Adres Ad "", Soyad "", Telefon "" ve Adres İsmi "" girilir.
+* Kaydet ikonuna tiklanir "Ad alanı boş bırakılamaz." uyarı mesajı görülür.
+* Yukarı scroll et ve "YeniAd" textini "newAddressCustomerName" elementine yaz.
+* Kaydet ikonuna tiklanir "Soyad alanı boş bırakılamaz." uyarı mesajı görülür.
+* Yukarı scroll et ve "YeniSoyad" textini "newAddressCustomerSurname" elementine yaz.
+* Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
+* "2" saniye bekle
+* Yukarı scroll et ve "5325217474" textini "newAddressCustomerPhone" elementine yaz.
+* Kaydet ikonuna tiklanir "Lütfen adres ismi giriniz" uyarı mesajı görülür.
+* "2" saniye bekle
+* Yukarı scroll et ve "adresismi" textini "newAddressCustomerAddressTitle" elementine yaz.
+* Kaydet ikonuna tiklanir "Adresiniz Başarıyla Güncellendi" uyarı mesajı görülür.
+* "2" saniye bekle
+* Adres düzenleme alanına gidilir.
+* Yukarı scroll et ve "" textini "newAddressCustomerAddressDetail" elementine yaz.
+* Kaydet ikonuna tiklanir "Lütfen adres bilgilerinizi giriniz" uyarı mesajı görülür.
+* "2" saniye bekle
+* Yukarı scroll et ve "Test ortamı icin adres detay No:1453409" textini "newAddressCustomerAddressDetail" elementine yaz.
+* Kaydet ikonuna tiklanir "Adresiniz Başarıyla Güncellendi" uyarı mesajı görülür.
+* "2" saniye bekle
+* Adres düzenleme alanına gidilir.
+* Adres Ad "a", Soyad "b", Telefon "" ve Adres İsmi "c" girilir.
+* Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. İsminizi kontrol ediniz." uyarı mesajı görülür.
+* Yukarı scroll et ve "YeniAd" textini "newAddressCustomerName" elementine yaz.
+* Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür.
+* Yukarı scroll et ve "YeniSoyad" textini "newAddressCustomerSurname" elementine yaz.
+* Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
+* "2" saniye bekle
+* Yukarı scroll et ve "2122223311" textini "newAddressCustomerPhone" elementine yaz.
+* Kaydet ikonuna tiklanir "Telefon Numarası Geçersiz.Telefon numaranız 0(5**) *** ** ** formatında olmalıdır" uyarı mesajı görülür.
+* "2" saniye bekle
+* Yukarı scroll et ve "5112223311" textini "newAddressCustomerPhone" elementine yaz.
+* Kaydet ikonuna tiklanir "Lütfen adres ismi giriniz" uyarı mesajı görülür.
+* "2" saniye bekle
+* Yukarı scroll et ve "adresismi" textini "newAddressCustomerAddressTitle" elementine yaz.
+* Kaydet ikonuna tiklanir "Adresiniz Başarıyla Güncellendi" uyarı mesajı görülür.
+* "2" saniye bekle
+
+# Fatura bilgileri adres duzenleme alani adres uyari kontrolleri yapilir
+* Adres Ad "", Soyad "", Telefon "" ve Adres İsmi "" girilir.
+* Kaydet ikonuna tiklanir "Ad alanı boş bırakılamaz." uyarı mesajı görülür.
+* Yukarı scroll et ve "YeniAd" textini "newAddressCustomerName" elementine yaz.
+* Kaydet ikonuna tiklanir "Soyad alanı boş bırakılamaz." uyarı mesajı görülür.
+* Yukarı scroll et ve "YeniSoyad" textini "newAddressCustomerSurname" elementine yaz.
+* Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
+* "2" saniye bekle
+* Yukarı scroll et ve "5325217474" textini "newAddressCustomerPhone" elementine yaz.
+* Kaydet ikonuna tiklanir "Lütfen adres ismi giriniz" uyarı mesajı görülür.
+* "2" saniye bekle
+* Yukarı scroll et ve "adresismi" textini "newAddressCustomerAddressTitle" elementine yaz.
+* Kaydet ikonuna tiklanir "Adresiniz Başarıyla Güncellendi" uyarı mesajı görülür.
+* "2" saniye bekle
+* Fatura bilgileri adresi düzenle butonuna tıklanır.
+* Yukarı scroll et ve "" textini "newAddressCustomerAddressDetail" elementine yaz.
+* Kaydet ikonuna tiklanir "Lütfen adres bilgilerinizi giriniz" uyarı mesajı görülür.
+* "2" saniye bekle
+* Yukarı scroll et ve "Test ortamı icin adres detay No:1453409" textini "newAddressCustomerAddressDetail" elementine yaz.
+* Kaydet ikonuna tiklanir "Adresiniz Başarıyla Güncellendi" uyarı mesajı görülür.
+* "2" saniye bekle
+* Fatura bilgileri adresi düzenle butonuna tıklanır.
+* Adres Ad "a", Soyad "b", Telefon "" ve Adres İsmi "c" girilir.
+* Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. İsminizi kontrol ediniz." uyarı mesajı görülür.
+* Yukarı scroll et ve "YeniAd" textini "newAddressCustomerName" elementine yaz.
+* Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür.
+* Yukarı scroll et ve "YeniSoyad" textini "newAddressCustomerSurname" elementine yaz.
+* Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
+* "2" saniye bekle
+* Yukarı scroll et ve "2122223311" textini "newAddressCustomerPhone" elementine yaz.
+* Kaydet ikonuna tiklanir "Telefon Numarası Geçersiz.Telefon numaranız 0(5**) *** ** ** formatında olmalıdır" uyarı mesajı görülür.
+* "2" saniye bekle
+* Yukarı scroll et ve "5112223311" textini "newAddressCustomerPhone" elementine yaz.
+* Kaydet ikonuna tiklanir "Lütfen adres ismi giriniz" uyarı mesajı görülür.
+* "2" saniye bekle
+* Yukarı scroll et ve "adresismi" textini "newAddressCustomerAddressTitle" elementine yaz.
+* Kaydet ikonuna tiklanir "Adresiniz Başarıyla Güncellendi" uyarı mesajı görülür.
+* "2" saniye bekle
