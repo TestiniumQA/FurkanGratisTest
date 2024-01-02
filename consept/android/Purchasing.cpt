@@ -413,14 +413,12 @@ This is a concept file with following syntax for each concept.
 * Yukarı scroll et ve "YeniAd" textini "newAddressCustomerName" elementine yaz.
 * Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür.
 * Yukarı scroll et ve "YeniSoyad" textini "newAddressCustomerSurname" elementine yaz.
-* Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
-* "2" saniye bekle
+* "1" saniye bekle
 * Yukarı scroll et ve "2122223311" textini "newAddressCustomerPhone" elementine yaz.
 * Kaydet ikonuna tiklanir "Telefon Numarası Geçersiz.Telefon numaranız 0(5**) *** ** ** formatında olmalıdır" uyarı mesajı görülür.
 * "2" saniye bekle
 * Yukarı scroll et ve "5112223311" textini "newAddressCustomerPhone" elementine yaz.
-* Kaydet ikonuna tiklanir "Lütfen adres ismi giriniz" uyarı mesajı görülür.
-* "2" saniye bekle
+* "1" saniye bekle
 * Yukarı scroll et ve "adresismi" textini "newAddressCustomerAddressTitle" elementine yaz.
 * Kaydet ikonuna tiklanir "Adresiniz Başarıyla Güncellendi" uyarı mesajı görülür.
 * "2" saniye bekle
@@ -452,14 +450,12 @@ This is a concept file with following syntax for each concept.
 * Yukarı scroll et ve "YeniAd" textini "newAddressCustomerName" elementine yaz.
 * Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür.
 * Yukarı scroll et ve "YeniSoyad" textini "newAddressCustomerSurname" elementine yaz.
-* Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
-* "2" saniye bekle
+* "1" saniye bekle
 * Yukarı scroll et ve "2122223311" textini "newAddressCustomerPhone" elementine yaz.
 * Kaydet ikonuna tiklanir "Telefon Numarası Geçersiz.Telefon numaranız 0(5**) *** ** ** formatında olmalıdır" uyarı mesajı görülür.
 * "2" saniye bekle
 * Yukarı scroll et ve "5112223311" textini "newAddressCustomerPhone" elementine yaz.
-* Kaydet ikonuna tiklanir "Lütfen adres ismi giriniz" uyarı mesajı görülür.
-* "2" saniye bekle
+* "1" saniye bekle
 * Yukarı scroll et ve "adresismi" textini "newAddressCustomerAddressTitle" elementine yaz.
 * Kaydet ikonuna tiklanir "Adresiniz Başarıyla Güncellendi" uyarı mesajı görülür.
 * "2" saniye bekle
