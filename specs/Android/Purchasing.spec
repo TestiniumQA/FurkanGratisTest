@@ -103,7 +103,7 @@ tags:Gratis_Android_AdresDuzenleme
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
 * Adres düzenleme alanına gidilir.
-* Teslimat bilgileri adres duzenleme alani adres uyari kontrolleri yapilir
+* Teslimat bilgileri adres duzenleme alani adres uyari kontrolleri yapilir.
 * Adres düzenleme alanına gidilir.
 * Teslimat bilgileri alanında adres bilgileri girilir.
 * Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
@@ -321,7 +321,7 @@ tags:Gratis_Android_MagazadanTeslimatFaturaAdresiDuzenle
 * Mağaza saatleri kontrol edilir.
 * Mağazadan Teslim mağazası seçilir.
 * Fatura bilgileri adresi düzenle butonuna tıklanır.
-* Fatura bilgileri adres duzenleme alani adres uyari kontrolleri yapilir
+* Fatura bilgileri adres duzenleme alani adres uyari kontrolleri yapilir.
 * Fatura bilgileri adresi düzenle butonuna tıklanır.
 * Fatura adresi alanında yeni adres eklenir.
 * Mağazadan Teslimat Fatura Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.

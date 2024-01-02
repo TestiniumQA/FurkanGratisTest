@@ -386,7 +386,7 @@ This is a concept file with following syntax for each concept.
 * Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
 * Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur.
 
-# Teslimat bilgileri adres duzenleme alani adres uyari kontrolleri yapilir
+# Teslimat bilgileri adres duzenleme alani adres uyari kontrolleri yapilir.
 * Adres Ad "", Soyad "", Telefon "" ve Adres İsmi "" girilir.
 * Kaydet ikonuna tiklanir "Ad alanı boş bırakılamaz." uyarı mesajı görülür.
 * Yukarı scroll et ve "YeniAd" textini "newAddressCustomerName" elementine yaz.
@@ -425,7 +425,7 @@ This is a concept file with following syntax for each concept.
 * Kaydet ikonuna tiklanir "Adresiniz Başarıyla Güncellendi" uyarı mesajı görülür.
 * "2" saniye bekle
 
-# Fatura bilgileri adres duzenleme alani adres uyari kontrolleri yapilir
+# Fatura bilgileri adres duzenleme alani adres uyari kontrolleri yapilir.
 * Adres Ad "", Soyad "", Telefon "" ve Adres İsmi "" girilir.
 * Kaydet ikonuna tiklanir "Ad alanı boş bırakılamaz." uyarı mesajı görülür.
 * Yukarı scroll et ve "YeniAd" textini "newAddressCustomerName" elementine yaz.
