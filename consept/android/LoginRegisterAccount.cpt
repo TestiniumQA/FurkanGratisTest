@@ -255,7 +255,7 @@ This is a concept file with following syntax for each concept.
 * <text> textini <key> elemente yaz
 
 # Adres Ekle Sehir ismi secilir.
-* "newAddressCustomerAddressDetail"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* "newAddressAddNeighbourhoodDropdown"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * "1" saniye bekle
 * Element var mı kontrol et "newAddressAddCityDropdown"
 * Elementine tıkla "newAddressAddCityDropdown"
