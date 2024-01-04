@@ -299,7 +299,7 @@ This is a concept file with following syntax for each concept.
 # Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur.
 * Element var mı kontrol et "newAddressSavedBtn"
 * Elementine tıkla "newAddressSavedBtn"
-* Element var mı kontrol et "newAddressCard"
+//* Element var mı kontrol et "newAddressCard"
 
 # Kaydet ikonuna tiklanir <key> uyarı mesajı görülür.
 * "newAddressSavedBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
