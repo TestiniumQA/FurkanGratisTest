@@ -46,7 +46,7 @@ tags:Gratis_Android_KargoIndirimsiz
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
 * Adres alanında yeni adres eklenir.
 * Ana sayfaya geçilir.
-* Anasayfa urun kodu "10000236" yazilir, arama yapilir.
+* Anasayfa urun kodu "10000238" yazilir, arama yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -253,7 +253,7 @@ tags:Gratis_Android_MagazadanBaskasiTeslimat
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis3 login olunur.
-* Sepet temizlenir, adres ve yeni ürün "10000236" eklenir.
+* Sepet temizlenir, adres ve yeni ürün "10000238" eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
