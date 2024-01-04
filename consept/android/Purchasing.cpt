@@ -244,6 +244,7 @@ This is a concept file with following syntax for each concept.
 * "alertTitle" li elementin text degerini hafizada "silinecekAdres" olarak saklanan text ile karsilastir
 * "popupOkayButton" li elementin değeri "SİL" e içerdiğini kontrol et
 * Elementine tıkla "popupOkayButton"
+* "addressBtn"li elementi bulana kadar "2" kere yukarı swipe yap ve elementi bul
 * Elementine tıkla "addressBtn"
 
 # Mağazadan Teslim Sehir ismi secilir.
