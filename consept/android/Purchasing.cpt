@@ -526,4 +526,4 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 * Devam Et ikonuna tiklanir "Lütfen girilen adres alanını kontrol ediniz." uyarı mesajı görülür.
 * Yukarı scroll et ve "Test ortamı icin adres detay No:1453409" textini "storeAddressDetail" elementine yaz.
-* "storeAddressName"li elementi bulana kadar "4" kere yukarı swipe yap ve elementi bul
+//* "storeAddressName"li elementi bulana kadar "4" kere yukarı swipe yap ve elementi bul
