@@ -501,3 +501,29 @@ This is a concept file with following syntax for each concept.
 * Yukarı scroll et ve "adresismi" textini "newAddressCustomerAddressTitle" elementine yaz.
 * Kaydet ikonuna tiklanir "Adresiniz Başarıyla Güncellendi" uyarı mesajı görülür.
 * "2" saniye bekle
+
+# Fatura bilgileri adres ekleme alani uyari kontrolleri yapilir.
+* Devam Et ikonuna tiklanir "Lütfen adres ismi giriniz" uyarı mesajı görülür.
+* Yukarı scroll et ve "adresismi" textini "storeAddressName" elementine yaz.
+* Devam Et ikonuna tiklanir "Ad alanı boş bırakılamaz." uyarı mesajı görülür.
+* Yukarı scroll et ve "a" textini "storeFirstName" elementine yaz.
+* Devam Et ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. İsminizi kontrol ediniz." uyarı mesajı görülür.
+* Yukarı scroll et ve "YeniAd" textini "storeFirstName" elementine yaz.
+* Devam Et ikonuna tiklanir "Soyad alanı boş bırakılamaz." uyarı mesajı görülür.
+* Yukarı scroll et ve "b" textini "storeSurName" elementine yaz.
+* Devam Et ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür.
+* Yukarı scroll et ve "YeniSoyad" textini "storeSurName" elementine yaz.
+* Devam Et ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz" uyarı mesajı görülür.
+* "1" saniye bekle
+* Yukarı scroll et ve "2122223311" textini "storePhoneNumber" elementine yaz.
+* Devam Et ikonuna tiklanir "Telefon Numarası Geçersiz.Telefon numaranız 0(5**) *** ** ** formatında olmalıdır" uyarı mesajı görülür.
+* "1" saniye bekle
+* Yukarı scroll et ve "5112223311" textini "storePhoneNumber" elementine yaz.
+* "1" saniye bekle
+* Fatura bilgileri şehir ismi secilir.
+* Fatura bilgileri ilce ismi secilir.
+* Fatura bilgileri mahalle ismi secilir.
+* "1" saniye bekle
+* Devam Et ikonuna tiklanir "Lütfen girilen adres alanını kontrol ediniz." uyarı mesajı görülür.
+* Yukarı scroll et ve "Test ortamı icin adres detay No:1453409" textini "storeAddressDetail" elementine yaz.
+* "storeFirstName"li elementi bulana kadar "3" kere yukarı swipe yap ve elementi bul
