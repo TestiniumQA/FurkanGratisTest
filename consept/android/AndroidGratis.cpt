@@ -4,6 +4,7 @@ This is a concept file with following syntax for each concept.
 # Uygulama baslatilir.
 //* "permissionDenyBtn" li element varsa tıkla yoksa devam et
 * "uygulamaAnasayfa" icin sayac tut
+* Elementin yüklenmesini bekle "cargoText"
 
 # Login sayfasina gecilir.
 * "digerTab" elementine sayacli tikla "loginTab" value degerini bekle

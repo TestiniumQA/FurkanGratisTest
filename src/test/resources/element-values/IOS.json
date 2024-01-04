@@ -3206,10 +3206,10 @@
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "cargoText",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeStaticText[`label == '81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları'`]",
     "iosType": "classChain"
   },
   {

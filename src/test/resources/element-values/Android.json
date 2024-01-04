@@ -795,7 +795,7 @@
   },
   {
     "key": "addListButton",
-    "androidValue": "//*[@text='YENİ LİSTE OLUŞTUR']",
+    "androidValue": "(//*[@class='android.widget.Button'])[1]",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
@@ -2020,6 +2020,11 @@
   {
     "key": "iycCard",
     "androidValue": "//*[@resource-id='iyz-tab-credit-card']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "cargoText",
+    "androidValue": "//*[@text='81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları']",
     "androidType": "xpath"
   }
 ]
