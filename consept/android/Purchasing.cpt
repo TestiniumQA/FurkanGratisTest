@@ -141,7 +141,7 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 * Elementine tıkla "storeBilTownSpinner"
 * "2" saniye bekle
-* "storeBilTownSpinner" elementinin koordinatlarına x="0" y="-100" degerlerini ekleyerek tıkla
+* "storeBilTownSpinner" elementinin koordinatlarına x="0" y="-70" degerlerini ekleyerek tıkla
 //* sayfadaki "20" "85" alana dokun
 * "2" saniye bekle
 
