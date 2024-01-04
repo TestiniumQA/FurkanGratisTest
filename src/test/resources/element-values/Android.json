@@ -2026,5 +2026,10 @@
     "key": "CargoText",
     "androidValue": "//*[@text='81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları']",
     "androidType": "xpath"
+  },
+  {
+    "key": "newAddressAddCityDropdownName",
+    "androidValue": "//*[@text='Seçiniz']",
+    "androidType": "xpath"
   }
 ]

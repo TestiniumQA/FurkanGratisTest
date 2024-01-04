@@ -119,10 +119,12 @@ tags:Gratis_Android_YeniAdresSilipEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis4 login olunur.
-* Sepet temizlenir, adres ve yeni ürün "10000236" eklenir.
+* Sepet temizlenir, adres ve yeni ürün "10168121" eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Adres silme butonuna tıklanır ve adres silinir.
+* Teslimat bilgileri adres ekleme alani uyari kontrolleri yapilir.
 * Adres silme butonuna tıklanır ve adres silinir.
 * Teslimat bilgileri alanında adres bilgileri girilir.
 * Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
@@ -344,6 +346,7 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 * Mağaza saatleri kontrol edilir.
 * Fatura bilgileri adresi sil butonuna tıklanır.
 * Mağazadan Teslim mağazası seçilir.
+//* Fatura bilgileri adres ekleme alani uyari kontrolleri yapilir.
 * Fatura bilgileri alanında yeni adres eklenir.
 * Satın alma alanında devam et butonuna tıklanır.
 * Sipariş Özeti alanı kontrol edilir.
