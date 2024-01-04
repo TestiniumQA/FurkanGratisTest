@@ -125,8 +125,8 @@ tags:Gratis_Android_YeniAdresSilipEkleme
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
 * Adres silme butonuna tıklanır ve adres silinir.
 * Teslimat bilgileri adres ekleme alani uyari kontrolleri yapilir.
-* Adres silme butonuna tıklanır ve adres silinir.
-* Teslimat bilgileri alanında adres bilgileri girilir.
+//* Adres silme butonuna tıklanır ve adres silinir.
+//* Teslimat bilgileri alanında adres bilgileri girilir.
 * Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
 * Satın alma alanında devam et butonuna tıklanır.
 * Teslimat alanı kontrol edilir.
