@@ -449,7 +449,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "newAddressAddCityDropdown"
 * "1" saniye bekle
 //* "newAddressAddCityDropdownName" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"120" deger kadar asagisina tikla
-* sayfadaki "20" "50" alana dokun
+* sayfadaki "20" "90" alana dokun
 * "1" saniye bekle
 * Element var mı kontrol et "newAddressAddDistrictDropdown"
 * Elementine tıkla "newAddressAddDistrictDropdown"
