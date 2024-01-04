@@ -306,6 +306,15 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "newAddressSavedBtn"
 * toast message <key> değerine eşit mi
 
+# Devam Et ikonuna tiklanir <text> uyarı mesajı görülür.
+* "continueBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Elementine tıkla "continueBtn"
+* "1" saniye bekle
+* "alertSuccessfulPopup" li elementin değeri <text> e içerdiğini kontrol et
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* Elementine tıkla "popupOkayButton"
+
 # Profil sayfasındaki Favori butonuna tiklanir.
 * Element var mı kontrol et "profilepageFavoriteButton"
 * Elementine tıkla "profilepageFavoriteButton"
