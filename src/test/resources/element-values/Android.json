@@ -2023,7 +2023,7 @@
     "androidType": "xpath"
   },
   {
-    "key": "cargoText",
+    "key": "CargoText",
     "androidValue": "//*[@text='81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları']",
     "androidType": "xpath"
   }

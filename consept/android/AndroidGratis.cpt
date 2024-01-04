@@ -4,7 +4,7 @@ This is a concept file with following syntax for each concept.
 # Uygulama baslatilir.
 //* "permissionDenyBtn" li element varsa tıkla yoksa devam et
 * "uygulamaAnasayfa" icin sayac tut
-* Elementin yüklenmesini bekle "cargoText"
+* Elementin yüklenmesini bekle "CargoText"
 
 # Login sayfasina gecilir.
 * "digerTab" elementine sayacli tikla "loginTab" value degerini bekle
@@ -61,13 +61,13 @@ This is a concept file with following syntax for each concept.
 
 # Sepet kontrol edilerek temizlenir.
 //* "sepetBtn" li element varsa tıkla yoksa devam et
-* "sepetReklamKapat" li element varsa tıkla yoksa devam et
+//* "sepetReklamKapat" li element varsa tıkla yoksa devam et
 * "sepetTemizleBtn" li element varsa tıkla yoksa devam et
 * "sepetTemizleOnay" li element varsa tıkla yoksa devam et
 * "sepetTemizleBtn" li element varsa tıkla yoksa devam et
 * "sepetTemizleOnay" li element varsa tıkla yoksa devam et
-* "sepetTemizleBtn" li element varsa tıkla yoksa devam et
-* "sepetTemizleOnay" li element varsa tıkla yoksa devam et
+//* "sepetTemizleBtn" li element varsa tıkla yoksa devam et
+//* "sepetTemizleOnay" li element varsa tıkla yoksa devam et
 * "bosSepetListesi" icin sayac tut
 
 # Bir ürün için sepet kontrol edilerek temizlenir.
