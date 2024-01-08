@@ -109,7 +109,8 @@
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-//* "sepetPopUpKapatBtn" li element varsa tıkla
+* "2" saniye bekle
+* "sepetPopUpKapatBtn" li element varsa tıkla "sepetiKapatmaBtn" tıkla
 * Element var mı kontrol et "CartToolbar"
 
 # Sepet ikonu ile Gratis1 login olunur
