@@ -127,7 +127,7 @@ public class HookImpl {
                 localAndroid=false;
                 System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!İos Test baslıyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
                 // capabilities.setCapability(MobileCapabilityType.NO_RESET, false);
-                capabilities.setCapability("noReset", fale);
+                capabilities.setCapability("noReset", false);
                 capabilities.setCapability(MobileCapabilityType.FULL_RESET, false);
                 capabilities.setCapability("usePrebuiltWDA", true); //changed
                 capabilities.setCapability("key", System.getenv("key"));
@@ -145,7 +145,7 @@ public class HookImpl {
                 .createElementHelper(localAndroid ? SelectorType.ANDROID : SelectorType.IOS);
         appiumDriver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         appiumFluentWait = new FluentWait<AppiumDriver<MobileElement>>(appiumDriver);
-        appiumFluentWait.withTimeout(Duration.ofSeconds(15))
+        appiumFluentWait.withTimeout(Duration.ofSeconds(10))
                 .pollingEvery(Duration.ofMillis(300))
                 .ignoring(NoSuchElementException.class);
 
