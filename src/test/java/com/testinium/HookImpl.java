@@ -81,7 +81,6 @@ public class HookImpl {
                 desiredCapabilities.setCapability(MobileCapabilityType.UDID, "ca796f0c0ead8729c124b5bda73f8de53b4dec8a");
                 desiredCapabilities
                         .setCapability(IOSMobileCapabilityType.BUNDLE_ID, "com.pharos.Gratis");
-                        //setCapability(IOSMobileCapabilityType.BUNDLE_ID, "com.pharos.gratis.uat");
                 desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "devtestinium iPhone X");
                 desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "13.3.1");
                 desiredCapabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 300);
@@ -110,7 +109,7 @@ public class HookImpl {
                         .setCapability(AndroidMobileCapabilityType.APP_ACTIVITY,
                                 "com.app.gratis.ui.splash.SplashActivity");
                 capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME,"uiautomator2");
-                capabilities.setCapability(MobileCapabilityType.NO_RESET, false);
+                capabilities.setCapability(MobileCapabilityType.NO_RESET, true);
                 capabilities.setCapability(MobileCapabilityType.FULL_RESET, false);
                 capabilities.setCapability(AndroidMobileCapabilityType.AUTO_GRANT_PERMISSIONS, true);
                 capabilities.setCapability("unicodeKeyboard", true);
