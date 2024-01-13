@@ -579,3 +579,34 @@
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir
+
+# Teslimat bilgileri adres duzenleme alani adres uyari kontrolleri yapilir
+* "ShippingCustomerName" li elementi bul ve temizle
+* "ShippingCustomerSurname" li elementi bul ve temizle
+* "ShippingCustomerPhone" li elementi bul ve temizle
+* "ShippingCustomerAddressTitle" li elementi bul ve temizle
+* Klavye kapatilir
+* Kaydet ikonuna tiklanir "Ad zorunludur." uyarı mesajı görülür
+* Yukarı scroll et ve "F" textini "ShippingCustomerName" elementine yaz
+* Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. İsminizi kontrol ediniz." uyarı mesajı görülür
+* Yukarı scroll et ve "Fatih" textini "ShippingCustomerName" elementine yaz
+* Kaydet ikonuna tiklanir "Soyad alanı boş bırakılamaz." uyarı mesajı görülür
+* Yukarı scroll et ve "T" textini "ShippingCustomerSurname" elementine yaz
+* Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür
+* Yukarı scroll et ve "Terim" textini "ShippingCustomerSurname" elementine yaz
+* Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz" uyarı mesajı görülür
+* Yukarı scroll et ve "5" textini "ShippingCustomerPhone" elementine yaz
+* Kaydet ikonuna tiklanir "Telefon Numarası Geçersiz. Lütfen 10 hane olacak şekilde giriniz." uyarı mesajı görülür
+* Yukarı scroll et ve "326637275" textini "ShippingCustomerPhone" elementine yaz
+* Kaydet ikonuna tiklanir "Lütfen adres ismi giriniz." uyarı mesajı görülür
+* Yukarı scroll et ve "Şampiyon" textini "ShippingCustomerAddressTitle" elementine yaz
+* Elementin yüklenmesini bekle "ShippingNewAddressCustomerAddressTitle"
+* "ShippingNewAddressCustomerAddressTitle" li elementi bul ve değerini "AdresIsmi" olarak sakla
+* Adres Ekle Sehir ismi guncelleme icin "2" swipe ile secilir
+* Adres Ekle Ilce ismi guncelleme icin "1" swipe ile secilir
+* Adres Ekle Mahalle ismi guncelleme icin "1" swipe ile secilir
+* "ShippingCustomerAddressDetail" li elementi bul ve temizle
+* Kaydet ikonuna tiklanir "Lütfen adres bilgilerinizi giriniz." uyarı mesajı görülür
+* "ShippingCustomerAddressDetail" li elementi bul, temizle ve "Test ortamı icin adres detay bilgisi No:109 Şampiyon" değerini yaz
+//* "NewAddressSavedBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+//* Elementine tıkla "NewAddressSavedBtn"

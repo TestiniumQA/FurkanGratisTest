@@ -99,7 +99,8 @@ tags:Gratis_IOS_AdresDuzenleme
 * Adrese Teslim butonuna tıklanır
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir
 * Adres düzenleme alanına gidilir
-* Teslimat bilgileri alanında guncel adres bilgileri girilir
+* Teslimat bilgileri adres duzenleme alani adres uyari kontrolleri yapilir
+//* Teslimat bilgileri alanında guncel adres bilgileri girilir
 * Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir
 * Satın alma alanında devam et butonuna tıklanır
 * Teslimat alanı kontrol edilir
