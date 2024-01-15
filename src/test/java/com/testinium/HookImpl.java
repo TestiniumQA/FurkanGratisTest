@@ -110,8 +110,8 @@ public class HookImpl {
                         .setCapability(AndroidMobileCapabilityType.APP_ACTIVITY,
                                 "com.app.gratis.ui.splash.SplashActivity");
                 capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME,"uiautomator2");
-                capabilities.setCapability(MobileCapabilityType.NO_RESET, false);
-                capabilities.setCapability(MobileCapabilityType.FULL_RESET, false);
+                capabilities.setCapability(MobileCapabilityType.NO_RESET, true);
+                capabilities.setCapability(MobileCapabilityType.FULL_RESET, true);
                 capabilities.setCapability(AndroidMobileCapabilityType.AUTO_GRANT_PERMISSIONS, true);
                 capabilities.setCapability("unicodeKeyboard", true);
                 capabilities.setCapability("resetKeyboard", true);
@@ -127,8 +127,8 @@ public class HookImpl {
                 localAndroid=false;
                 System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!İos Test baslıyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
                 // capabilities.setCapability(MobileCapabilityType.NO_RESET, false);
-                capabilities.setCapability("noReset", false);
-                capabilities.setCapability(MobileCapabilityType.FULL_RESET, false);
+                capabilities.setCapability("noReset", true);
+                capabilities.setCapability(MobileCapabilityType.FULL_RESET, true);
                 capabilities.setCapability("usePrebuiltWDA", true); //changed
                 capabilities.setCapability("key", System.getenv("key"));
                 capabilities.setCapability("waitForAppScript", "$.delay(1000);");
