@@ -599,7 +599,7 @@
 * Kaydet ikonuna tiklanir "Telefon Numarası Geçersiz. Lütfen 10 hane olacak şekilde giriniz." uyarı mesajı görülür
 * Yukarı scroll et ve "326637275" textini "ShippingCustomerPhone" elementine yaz
 * Kaydet ikonuna tiklanir "Lütfen adres ismi giriniz." uyarı mesajı görülür
-* Yukarı scroll et ve "Şampiyon" textini "ShippingNewAddressCustomerAddressTitle" elementine yaz
+* Yukarı scroll et ve "Şampiyon" textini "ShippingCustomerAddressTitle" elementine yaz
 * Elementin yüklenmesini bekle "ShippingNewAddressCustomerAddressTitle"
 * "ShippingNewAddressCustomerAddressTitle" li elementi bul ve değerini "AdresIsmi" olarak sakla
 * Adres Ekle Sehir ismi guncelleme icin "2" swipe ile secilir
