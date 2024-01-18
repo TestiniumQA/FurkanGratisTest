@@ -640,7 +640,7 @@
     "key": "ForgetPasswordFailPopup",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='Lütfen geçerli bir e-posta adresi giriniz']",
+    "iosValue": "//*[@name='Lütfen e-posta adresi giriniz']",
     "iosType": "xpath"
   },
   {
