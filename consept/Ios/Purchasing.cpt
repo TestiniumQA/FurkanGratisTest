@@ -584,6 +584,7 @@
 * "ShippingCustomerName" li elementi bul ve temizle
 * "ShippingCustomerSurname" li elementi bul ve temizle
 * "ShippingCustomerPhone" li elementi bul ve temizle
+* Klavye kapatilir
 * "ShippingNewAddressCustomerAddressTitle" li elementi bul ve temizle
 * Klavye kapatilir
 * Kaydet ikonuna tiklanir "Ad zorunludur." uyarı mesajı görülür
