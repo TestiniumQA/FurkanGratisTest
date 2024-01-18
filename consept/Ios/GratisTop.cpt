@@ -102,7 +102,7 @@
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 //* "sepetPopUpKapatBtn" li element varsa tıkla
-* Element var mı kontrol et "CartToolbar"
+* Elementin yüklenmesini bekle "CartToolbar"
 
 # Sepet ikonu ile Gratis0 login olunur
 * "IOSmail" csv dosyasindan "0" numaralı kullaniciyi sec
@@ -111,7 +111,7 @@
 * Elementine tıkla "girisYapBtn"
 * "2" saniye bekle
 * "sepetPopUpKapatBtn" li element varsa tıkla "sepetiKapatmaBtn" tıkla
-* Element var mı kontrol et "CartToolbar"
+* Elementin yüklenmesini bekle "CartToolbar"
 
 # Sepet ikonu ile Gratis1 login olunur
 * "IOSmail" csv dosyasindan "1" numaralı kullaniciyi sec
@@ -119,7 +119,7 @@
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 //* "sepetPopUpKapatBtn" li element varsa tıkla
-* Element var mı kontrol et "CartToolbar"
+* Elementin yüklenmesini bekle "CartToolbar"
 
 # Sepet ikonu ile Gratis2 login olunur
 * "IOSmail" csv dosyasindan "2" numaralı kullaniciyi sec
@@ -127,7 +127,7 @@
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 //* "sepetPopUpKapatBtn" li element varsa tıkla
-* Element var mı kontrol et "CartToolbar"
+* Elementin yüklenmesini bekle "CartToolbar"
 
 # Sepet ikonu ile Gratis3 login olunur
 * "IOSmail" csv dosyasindan "3" numaralı kullaniciyi sec
@@ -135,7 +135,7 @@
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 //* "sepetPopUpKapatBtn" li element varsa tıkla
-* Element var mı kontrol et "CartToolbar"
+* Elementin yüklenmesini bekle "CartToolbar"
 
 # Sepet ikonu ile Gratis4 login olunur
 * "IOSmail" csv dosyasindan "4" numaralı kullaniciyi sec
@@ -143,4 +143,4 @@
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 //* "sepetPopUpKapatBtn" li element varsa tıkla
-* Element var mı kontrol et "CartToolbar"
+* Elementin yüklenmesini bekle "CartToolbar"
