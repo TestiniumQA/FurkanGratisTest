@@ -475,20 +475,20 @@
 * Elementine tıkla "NewAddressSavedBtn"
 * Element var mı kontrol et "NewAddressCard"
 
-# Kaydet ikonuna tiklanir <key> uyarı mesajı görülür
+# Kaydet ikonuna tiklanir <String> uyarı mesajı görülür
 * "NewAddressSavedBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 * Elementine tıkla "NewAddressSavedBtn"
 * "1" saniye bekle
-* <key> text degerine sahip elementin goruntulendigi kontrol edilir
+* <String> text degerine sahip elementin goruntulendigi kontrol edilir
 * "1" saniye bekle
 //* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 
-# Devam Et ikonuna tiklanir <text> uyarı mesajı görülür
+# Devam Et ikonuna tiklanir <String> uyarı mesajı görülür
 * "ContinueBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 * Elementine tıkla "ContinueBtn"
 * "1" saniye bekle
-//* <key> text degerine sahip elementin goruntulendigi kontrol edilir
+* <String> text degerine sahip elementin goruntulendigi kontrol edilir
 * "1" saniye bekle
 //* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
