@@ -369,7 +369,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "sortByHighPrice"
 * Elementine tıkla "sortByHighPrice"
 * "1" saniye bekle
-* "gratisCardPrice"li elementi bulana kadar "5" kere swipe yap ve elementi bul
+* "listSalePriceOne"li elementi bulana kadar "5" kere swipe yap ve elementi bul
 //* Fiyatların yazdığı "gratisCardPrice" li elementin degerinin fiyata gore azalan oldugu kontrol edilir
 * Fiyatların yazdığı "listSalePriceOne" li elementin degerinin fiyata gore azalan oldugu kontrol edilir
 
