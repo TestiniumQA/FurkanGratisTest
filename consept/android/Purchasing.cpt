@@ -200,7 +200,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "changeAddressBtn"
 * Elementine tıkla "changeAddressBtn"
 * "2" saniye bekle
-* "1" kere yukarı doğru kaydır
+* "3" kere yukarı doğru kaydır
 * "addressBtn"li elementi bulana kadar "5" kere yukarı swipe yap ve elementi bul
 
 # Sipariş Özeti alanı kontrol edilir.
