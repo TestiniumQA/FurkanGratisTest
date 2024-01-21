@@ -153,9 +153,9 @@ This is a concept file with following syntax for each concept.
 * "storeBilDistrictSpinner" elementinin koordinatlarına x="0" y="170" degerlerini ekleyerek tıkla
 //* sayfadaki "20" "90" alana dokun
 * "2" saniye bekle
-* Elementine tıkla "storeBilDistrictSpinner"
-* "2" saniye bekle
-* "storeBilDistrictSpinner" elementinin koordinatlarına x="0" y="-100" degerlerini ekleyerek tıkla
+//* Elementine tıkla "storeBilDistrictSpinner"
+//* "2" saniye bekle
+//* "storeBilDistrictSpinner" elementinin koordinatlarına x="0" y="-100" degerlerini ekleyerek tıkla
 
 # Fatura bilgileri alanında yeni adres eklenir.
 * Fatura bilgileri için Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
