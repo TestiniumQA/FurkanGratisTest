@@ -611,3 +611,92 @@
 * "ShippingCustomerAddressDetail" li elementi bul, temizle ve "Test ortamı icin adres detay bilgisi No:109 Şampiyon" değerini yaz
 //* "NewAddressSavedBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 //* Elementine tıkla "NewAddressSavedBtn"
+
+# Teslimat bilgileri adres ekleme alani uyari kontrolleri yapilir
+* Devam Et ikonuna tiklanir "Lütfen adres ismi giriniz." uyarı mesajı görülür
+* Yukarı scroll et ve "EvYeniAdres" textini "NewShippingCustomerAddressTitle" elementine yaz
+* Elementin yüklenmesini bekle "NewShippingAddressCustomerAddressTitle"
+* "NewShippingAddressCustomerAddressTitle" li elementi bul ve değerini "AdresIsmi" olarak sakla
+* Devam Et ikonuna tiklanir "Ad zorunludur." uyarı mesajı görülür
+* Yukarı scroll et ve "a" textini "NewShippingCustomerName" elementine yaz
+* Devam Et ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. İsminizi kontrol ediniz." uyarı mesajı görülür
+* Yukarı scroll et ve "YeniAd" textini "NewShippingCustomerName" elementine yaz
+* Devam Et ikonuna tiklanir "Soyad alanı boş bırakılamaz." uyarı mesajı görülür
+* Yukarı scroll et ve "b" textini "NewShippingCustomerSurname" elementine yaz.
+* Devam Et ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür
+* Yukarı scroll et ve "YeniSoyad" textini "NewShippingCustomerSurname" elementine yaz
+* Devam Et ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz" uyarı mesajı görülür
+* Yukarı scroll et ve "5" textini "NewShippingCustomerPhone" elementine yaz
+* Devam Et ikonuna tiklanir "Telefon Numarası Geçersiz. Lütfen 10 hane olacak şekilde giriniz." uyarı mesajı görülür
+* Klavye kapatilir
+* Yukarı scroll et ve "326637275" textini "NewShippingCustomerPhoneTwo" elementine yaz
+* Adres Ekle Sehir ismi secilir
+* Adres Ekle Ilce ismi secilir
+* Adres Ekle Mahalle ismi secilir
+* "1" saniye bekle
+* Devam Et ikonuna tiklanir "Lütfen adres bilgilerinizi giriniz." uyarı mesajı görülür
+* Klavye kapatilir
+* Elementin yüklenmesini bekle "NewShippingCustomerAddressDetail"
+* "Test ortamı icin adres detay bilgisi No:109 Şampiyon" textini "NewShippingCustomerAddressDetail" elemente yaz
+* Klavye kapatilir
+
+# Fatura bilgileri adres duzenleme alani adres uyari kontrolleri yapilir
+* "ShippingCustomerName" li elementi bul ve temizle
+* "ShippingCustomerSurname" li elementi bul ve temizle
+* "ShippingCustomerPhone" li elementi bul ve temizle
+* Klavye kapatilir
+* "ShippingCustomerAddressTitle" li elementi bul ve temizle
+* Klavye kapatilir
+* Kaydet ikonuna tiklanir "Ad zorunludur." uyarı mesajı görülür
+* Yukarı scroll et ve "F" textini "ShippingCustomerName" elementine yaz
+* Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. İsminizi kontrol ediniz." uyarı mesajı görülür
+* Yukarı scroll et ve "Fatih" textini "ShippingCustomerName" elementine yaz
+* Kaydet ikonuna tiklanir "Soyad alanı boş bırakılamaz." uyarı mesajı görülür
+* Yukarı scroll et ve "T" textini "ShippingCustomerSurname" elementine yaz
+* Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür
+* Yukarı scroll et ve "Terim" textini "ShippingCustomerSurname" elementine yaz
+* Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz" uyarı mesajı görülür
+* Yukarı scroll et ve "5" textini "ShippingCustomerPhone" elementine yaz
+* Kaydet ikonuna tiklanir "Telefon Numarası Geçersiz. Lütfen 10 hane olacak şekilde giriniz." uyarı mesajı görülür
+* Klavye kapatilir
+* Yukarı scroll et ve "326637275" textini "ShippingCustomerPhone" elementine yaz
+* Kaydet ikonuna tiklanir "Lütfen adres ismi giriniz." uyarı mesajı görülür
+* Yukarı scroll et ve "Şampiyon" textini "ShippingCustomerAddressTitle" elementine yaz
+* Elementin yüklenmesini bekle "ShippingNewAddressCustomerAddressTitle"
+* "ShippingNewAddressCustomerAddressTitle" li elementi bul ve değerini "FaturaAdres" olarak sakla
+* Adres Ekle Sehir ismi guncelleme icin "2" swipe ile secilir
+* Adres Ekle Ilce ismi guncelleme icin "1" swipe ile secilir
+* Adres Ekle Mahalle ismi guncelleme icin "1" swipe ile secilir
+* "ShippingCustomerAddressDetail" li elementi bul ve temizle
+* Kaydet ikonuna tiklanir "Lütfen adres bilgilerinizi giriniz." uyarı mesajı görülür
+* Klavye kapatilir
+* "ShippingCustomerAddressDetail" li elementi bul, temizle ve "Test ortamı icin adres detay bilgisi No:109 Şampiyon" değerini yaz
+* Klavye kapatilir
+
+# Fatura bilgileri adres ekleme alani uyari kontrolleri yapilir
+* "StoreFirstName"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Devam Et ikonuna tiklanir "Lütfen adres ismi giriniz." uyarı mesajı görülür
+* Yukarı scroll et ve "EvYeniAdres" textini "StoreAddressName" elementine yaz
+* Devam Et ikonuna tiklanir "Ad zorunludur." uyarı mesajı görülür
+* Yukarı scroll et ve "a" textini "StoreFirstName" elementine yaz
+* Devam Et ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. İsminizi kontrol ediniz." uyarı mesajı görülür
+* Yukarı scroll et ve "YeniAd" textini "StoreFirstName" elementine yaz
+* Devam Et ikonuna tiklanir "Soyad alanı boş bırakılamaz." uyarı mesajı görülür
+* Yukarı scroll et ve "b" textini "StoreSurName" elementine yaz.
+* Devam Et ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür
+* Yukarı scroll et ve "YeniSoyad" textini "StoreSurName" elementine yaz
+* Devam Et ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz" uyarı mesajı görülür
+* Yukarı scroll et ve "5" textini "StorePhoneNumber" elementine yaz
+* Devam Et ikonuna tiklanir "Telefon Numarası Geçersiz. Lütfen 10 hane olacak şekilde giriniz." uyarı mesajı görülür
+* Klavye kapatilir
+* Yukarı scroll et ve "326637275" textini "StorePhoneNumber" elementine yaz
+* Fatura bilgileri şehir ismi secilir
+* Fatura bilgileri ilce ismi secilir
+* Fatura bilgileri mahalle ismi secilir
+* "1" saniye bekle
+* Devam Et ikonuna tiklanir "Lütfen adres bilgilerinizi giriniz." uyarı mesajı görülür
+* Klavye kapatilir
+* "1" kere yukarı doğru kaydır
+* Elementin yüklenmesini bekle "StoreAddressDetail"
+* "StoreAddressDetail" li elementi bul, temizle ve "Test ortamı icin adres detay bilgisi No:1000000000" değerini yaz
+* Klavye kapatilir

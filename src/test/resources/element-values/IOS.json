@@ -2761,8 +2761,8 @@
     "key": "NewShippingCustomerAddressDetail",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeTextView[`value == \"Lütfen buraya yazınız\"`]",
-    "iosType": "classChain"
+    "iosValue": "XCUIElementTypeTextView",
+    "iosType": "class"
   },
   {
     "key": "NewShippingCustomerPostcode",

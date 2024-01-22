@@ -127,7 +127,8 @@ tags:Gratis_IOS_YeniAdresSilipEkleme
 * Adrese Teslim butonuna tıklanır
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir
 * Adres silme butonuna tıklanır ve adres silinir
-* Teslimat bilgileri alanında yeni adres bilgileri girilir
+* Teslimat bilgileri adres ekleme alani uyari kontrolleri yapilir
+//* Teslimat bilgileri alanında yeni adres bilgileri girilir
 * Teslimat Adresi devam et ikonuna tıklanır ve seçildiği kontrol edilir
 * Teslimat alanı kontrol edilir
 * Sipariş Özeti alanı kontrol edilir
@@ -382,7 +383,8 @@ tags:Gratis_IOS_MagazadanTeslimatFaturaAdresiDuzenle
 * Mağaza saatleri kontrol edilir
 * Mağazadan Teslim mağazası seçilir
 * Fatura bilgileri adresi düzenle butonuna tıklanır
-* Fatura bilgileri alanında guncel adres bilgileri girilir
+* Fatura bilgileri adres duzenleme alani adres uyari kontrolleri yapilir
+//* Fatura bilgileri alanında guncel adres bilgileri girilir
 * Mağazadan Teslimat Fatura Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir
 * Satın alma alanında devam et butonuna tıklanır
 * Sipariş Özeti alanı kontrol edilir
@@ -406,14 +408,13 @@ tags:Gratis_IOS_MagazadanBaskasiTeslimatFaturaAdresiSilipEkle
 //* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir
-* Mağazadan Teslim Sehir ismi secilir
-* Mağazadan Teslim Ilce ismi secilir
-* Mağaza saatleri kontrol edilir
 * Fatura bilgileri adresi sil butonuna tıklanır
 * Mağazadan Teslim Sehir ismi secilir
 * Mağazadan Teslim Ilce ismi secilir
+* Mağaza saatleri kontrol edilir
 * Mağazadan Teslim mağazası seçilir
-* Fatura bilgileri alanında yeni adres eklenir
+* Fatura bilgileri adres ekleme alani uyari kontrolleri yapilir
+//* Fatura bilgileri alanında yeni adres eklenir
 * Satın alma alanında devam et butonuna tıklanır
 * Sipariş Özeti alanı kontrol edilir
 * Iyzico alanı mağazadan teslimat için fiyat kontrol edilir

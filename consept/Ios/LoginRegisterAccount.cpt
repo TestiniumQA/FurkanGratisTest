@@ -485,7 +485,7 @@
 * Elementine tıkla "PopupOkayBtnIos"
 
 # Devam Et ikonuna tiklanir <String> uyarı mesajı görülür
-* "ContinueBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* "ContinueBtn"li elementi bulana kadar "4" kere swipe yap ve elementi bul
 * Elementine tıkla "ContinueBtn"
 * "1" saniye bekle
 * <String> text degerine sahip elementin goruntulendigi kontrol edilir
