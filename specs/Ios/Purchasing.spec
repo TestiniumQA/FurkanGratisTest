@@ -38,7 +38,7 @@ tags:Gratis_IOS_KargoIndirimsiz
 * Sepet temizlenir, adres silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Göz Makyajı", "Far" seçilir
+* Alt kategorilerden biri "Tırnak Bakım", "Oje" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -60,7 +60,7 @@ tags:Gratis_IOS_MagazaSecPopup
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Göz Makyajı", "Far" seçilir
+* Alt kategorilerden biri "Tırnak Bakım", "Oje" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -90,7 +90,7 @@ tags:Gratis_IOS_AdresDuzenleme
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Göz Makyajı", "Far" seçilir
+* Alt kategorilerden biri "Tırnak Bakım", "Oje" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
