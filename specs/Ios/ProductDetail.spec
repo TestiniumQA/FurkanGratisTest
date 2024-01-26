@@ -31,7 +31,7 @@ tags:Gratis_IOS_UrunDetayAdetSecimiNonLoginSepetDevam
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Kalem Ruj" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detayda "3" kadar ürün adedi seçilir
 * Non-Login ürün detay sayfasinda urun sepete eklenir
@@ -165,5 +165,15 @@ tags:Gratis_IOS_UrunDetayAltBarlar
 * Alt bar alanları kontrol edilir
 * Ürün bilgileri kontrol edilir
 * Anahtar kelimelerden birine tıklanır
+
+IOS Scenario Sub-Bars Comment
+-----------------------------
+tags:Gratis_IOS_UrunDetayAltBarYorum
+* Uygulama baslatilir
+* Search ikonuna tiklanir
+* Arama sayfasinin acildigi gorulur
+* Urun adi "10394248" yazilir, arama yapilir
+* Ürün detay yorumlar alanina gecilir
+* Yorum yap ikonu ile Gratis0 login olunur
 
 
