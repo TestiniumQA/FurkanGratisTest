@@ -70,6 +70,8 @@ This is a concept file with following syntax for each concept.
 
 # Adrese Teslim Fatura Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
 * Elementine tıkla "profilePageMyPasswordSaved"
+* "2" saniye bekle
+* "3" kere yukarı doğru kaydır
 * Elementine tıkla "addressBtn"
 * "billingHeaderTxt"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * "2" saniye bekle
