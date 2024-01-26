@@ -144,8 +144,8 @@ tags:Gratis_IOS_YeniAdresEkleme
 * Sepet ikonu ile Gratis0 login olunur
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
-* "Saç Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "Şampuanlar", "Erkek Şampuan" seçilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Kaş" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
