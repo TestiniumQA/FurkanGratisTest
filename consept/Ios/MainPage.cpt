@@ -259,7 +259,7 @@
 
 # En Son Gezdiklerim alanına gidilir
 * "2" kere aşağıya kaydır
-* "VisitedAddBtn"li elementi bulana kadar "20" kere swipe yap ve elementi bul
+* "VisitedTitle"li elementi bulana kadar "20" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "VisitedAddBtn"
 * Elementin yüklenmesini bekle "VisitedTitle"
 * Elementin yüklenmesini bekle "VisitedText"
