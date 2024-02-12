@@ -23,7 +23,7 @@ Colour and Non-Login Add To Cart
 tags:Gratis_Android_UrunDetayRenkVeAdetSecimiNonLoginSepeteEkleme
 * Uygulama baslatilir.
 //* Urun kodu "10011726" yazilir, arama yapilir.
-* Urun kodu "10149079" yazilir, arama yapilir.
+* Urun kodu "10022971" yazilir, arama yapilir.
 * Ürünün renk tonu değiştirilir.
 * Ürün detayda "3" kadar ürün adedi seçilir.
 * Non-Login ürün detay sayfasinda urun sepete eklenir.
@@ -118,3 +118,13 @@ tags:Gratis_Android_UrunDetayAltBarlar
 * Alt bar alanları kontrol edilir.
 * Ürün bilgileri kontrol edilir.
 * Anahtar kelimelerden birine tıklanır.
+
+Sub-Bars Comment
+----------------
+tags:Gratis_Android_UrunDetayAltBarYorum
+* Uygulama baslatilir.
+* Search ikonuna tiklanir.
+* Arama sayfasinin acildigi gorulur.
+* Urun adi "10394248" yazilir, arama yapilir.
+* Ürün detay yorumlar alanina gecilir.
+* Yorum yap ikonu ile Gratis1 login olunur.

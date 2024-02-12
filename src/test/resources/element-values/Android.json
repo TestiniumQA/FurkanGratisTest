@@ -2031,5 +2031,325 @@
     "key": "newAddressAddCityDropdownName",
     "androidValue": "//*[@text='Seçiniz']",
     "androidType": "xpath"
+  },
+  {
+    "key": "promotionPriceTwo",
+    "androidValue": "com.gratis.android:id/discount_sale_price_two_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "promotionPriceOne",
+    "androidValue": "com.gratis.android:id/discount_sale_price_one_txt",
+    "androidType": "id"
+  },
+  {
+    "key": "araToplamOne",
+    "androidValue": "//*[@text='405']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "araToplamTwo",
+    "androidValue": "//*[@text=',00']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "araToplamThree",
+    "androidValue": "//*[@text='280']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "araToplamFour",
+    "androidValue": "//*[@text=',35']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "urunFiyatıOne",
+    "androidValue": "com.gratis.android:id/shopping_item_price_one",
+    "androidType": "id"
+  },
+  {
+    "key": "urunFiyatıTwo",
+    "androidValue": "com.gratis.android:id/shopping_item_price_two",
+    "androidType": "id"
+  },
+  {
+    "key": "araToplamFive",
+    "androidValue": "//*[@text='315']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "araToplamSix",
+    "androidValue": "//*[@text=',25']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "araToplamSeven",
+    "androidValue": "//*[@text='427']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "araToplamEight",
+    "androidValue": "//*[@text=',50']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "productComment",
+    "androidValue": "//*[@text='Yorumlar (0)']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "productVideo",
+    "androidValue": "//*[@text='Video']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "emptyCommentBtn",
+    "androidValue": "emptyReviewBtn",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
+  },
+  {
+    "key": "xxxx",
+    "androidValue": "xxxx",
+    "androidType": "id"
   }
 ]

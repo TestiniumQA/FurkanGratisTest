@@ -178,3 +178,24 @@ This is a concept file with following syntax for each concept.
 * "pageToolbarTitle" li elementin text degeri hafizada "anahtarKelime" olarak saklanan text ile esit mi kontrol et
 * Element var mı kontrol et "urunDetay"
 * Element var mı kontrol et "urunDetayy"
+
+# Ürün detay yorumlar alanina gecilir.
+* "2" saniye bekle
+* "1" kere aşağıya kaydır
+* "2" saniye bekle
+* Element var mı kontrol et "productComment"
+* Elementine tıkla "productComment"
+* "1" saniye bekle
+
+# Yorum yap ikonu ile Gratis1 login olunur.
+* Element var mı kontrol et "emptyCommentBtn"
+* Elementine tıkla "emptyCommentBtn"
+* "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "2" saniye bekle
+//android te burada yorum penceresi açılmıyor login olunca ios ta yorum penceresi geliyor öyle olmalı
+* "PUANLA VE YORUM YAP!" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Yorum Yaz" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "İsmim gözükmesin" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Ürün incelemeniz moderatörler tarafından kontrol edildikten sonra yayına alınacaktır." text degerine sahip elementin sayfada gorundugu kontrol edilir
