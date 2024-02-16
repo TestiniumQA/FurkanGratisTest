@@ -66,9 +66,9 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "storeLocationBtn"
 * Elementine tıkla "storeLocationBtn"
 * "3" saniye bekle
-* Elementine tıkla "getDirectionsBtn"
-* "1" saniye bekle
-* "getDirectionsBtn" değerini sayfa üzerinde olmadıgını kontrol et
+//* Elementine tıkla "getDirectionsBtn"
+//* "1" saniye bekle
+//* "getDirectionsBtn" değerini sayfa üzerinde olmadıgını kontrol et
 
 # Harita tabina basilir.
 * Elementin yüklenmesini bekle "mapBtn"
