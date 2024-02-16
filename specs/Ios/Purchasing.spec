@@ -38,7 +38,7 @@ tags:Gratis_IOS_KargoIndirimsiz
 * Sepet temizlenir, adres silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Tırnak Bakım", "Oje" seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Kaş" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -103,7 +103,7 @@ tags:Gratis_IOS_AdresDuzenleme
 //* Teslimat bilgileri alanında guncel adres bilgileri girilir
 * Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir
 * Satın alma alanında devam et butonuna tıklanır
-* Teslimat alanı kontrol edilir
+* Teslimat alanı kargo kontrol edilir
 * Sipariş Özeti alanı kontrol edilir
 * Iyzico alanı fiyat kontrol edilir
 
@@ -130,7 +130,7 @@ tags:Gratis_IOS_YeniAdresSilipEkleme
 * Teslimat bilgileri adres ekleme alani uyari kontrolleri yapilir
 //* Teslimat bilgileri alanında yeni adres bilgileri girilir
 * Teslimat Adresi devam et ikonuna tıklanır ve seçildiği kontrol edilir
-* Teslimat alanı kontrol edilir
+* Teslimat alanı kargo kontrol edilir
 * Sipariş Özeti alanı kontrol edilir
 * Iyzico alanı fiyat kontrol edilir
 
@@ -145,7 +145,7 @@ tags:Gratis_IOS_YeniAdresEkleme
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Tırnak Bakım", "Oje" seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Kaş" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -159,7 +159,7 @@ tags:Gratis_IOS_YeniAdresEkleme
 * Başka Adres Seç seçeneğine tıklanır
 * Adrese Teslim Fatura adresi değiştirilir
 * Satın alma alanında devam et butonuna tıklanır
-* Teslimat alanı kontrol edilir
+* Teslimat alanı kargo kontrol edilir
 * Sipariş Özeti alanı kontrol edilir
 * Iyzico alanı fiyat kontrol edilir
 
@@ -184,7 +184,7 @@ tags:Gratis_IOS_YeniFaturaAdresiEkleme
 * Fatura adresi alanında yeni adres eklenir
 * Adrese Teslim Fatura Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir
 * Satın alma alanında devam et butonuna tıklanır
-* Teslimat alanı kontrol edilir
+* Teslimat alanı kargo kontrol edilir
 * Sipariş Özeti alanı kontrol edilir
 * Iyzico alanı fiyat kontrol edilir
 
