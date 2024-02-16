@@ -199,6 +199,21 @@
 * Elementin yüklenmesini bekle "ContinueBtn"
 * Elementine tıkla "ContinueBtn"
 
+# Teslimat alanı kargo kontrol edilir
+* Mağazadan seç popup'ı varsa kapatilir
+//* "HeaderTxt" elementinin "Teslimat ve Ödeme" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "ShippingCheckBox"
+* "ShippingCheckBox" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "1" saniye bekle
+* "ShippingPriceOne2" li elementi bul ve değerini "fiyat2" olarak sakla
+* "ShippingPriceTwo2" li elementli küsüratı bul ve değerini "ikinciKüsür" olarak sakla
+* "1" saniye bekle
+* "SalePriceOnee" li elementi bul ve değerini "fiyat1" olarak sakla
+* "SalePriceTwoo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "ContinueBtn"
+* Elementine tıkla "ContinueBtn"
+
 # Teslimat alanı ve kargo secimi kontrol edilir
 * Mağazadan seç popup'ı varsa kapatilir
 * Elementin yüklenmesini bekle "ContinueBtn"
