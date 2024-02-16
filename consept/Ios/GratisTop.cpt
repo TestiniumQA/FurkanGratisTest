@@ -3,7 +3,9 @@
 * Elementin yüklenmesini bekle "KampanyaSec"
 * "GratisBeautyAnasayfaIcon" elementi bulunana kadar en fazla "10" saniye kadar bekle
 * "GratisBeautyAnasayfaIcon" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "uygulamaKullanirkenIzinver" li element varsa tıkla
 * "GratisBeautyPage" elementi bulunana kadar en fazla "50" saniye kadar bekle
+* "uygulamaKullanirkenIzinver" li element varsa tıkla
 
 # Geri butonu ile ana sayfaya donulur
 * Element var mı kontrol et "geriBtn"
