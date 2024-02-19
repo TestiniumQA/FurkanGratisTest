@@ -183,7 +183,7 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "2" saniye bekle
-* Element var mı kontrol et "productComment"
+* Elementin yüklenmesini bekle "productComment"
 * Elementine tıkla "productComment"
 * "1" saniye bekle
 
@@ -193,9 +193,35 @@ This is a concept file with following syntax for each concept.
 * "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
-* "2" saniye bekle
-//android te burada yorum penceresi açılmıyor login olunca ios ta yorum penceresi geliyor öyle olmalı
+* Elementin yüklenmesini bekle "AcceptButton"
 * "PUANLA VE YORUM YAP!" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * "Yorum Yaz" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * "İsmim gözükmesin" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * "Ürün incelemeniz moderatörler tarafından kontrol edildikten sonra yayına alınacaktır." text degerine sahip elementin sayfada gorundugu kontrol edilir
+
+# Yorum penceresi kapatilir ve anasayfaya gecilir.
+* Element var mı kontrol et "closeButton"
+* Elementine tıkla "closeButton"
+* Geri butonuna bas
+* Ana sayfa tab'ına tıklanır.
+
+# Yorum yazin alanina tiklanir pencere kontrol edilir.
+* Element var mı kontrol et "reviewCommentBtn"
+* Elementine tıkla "reviewCommentBtn"
+* "PUANLA VE YORUM YAP!" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Yorum Yaz" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "İsmim gözükmesin" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Ürün incelemeniz moderatörler tarafından kontrol edildikten sonra yayına alınacaktır." text degerine sahip elementin sayfada gorundugu kontrol edilir
+
+# Basarili sekilde urun yorum uyarısı kontrol edilir.
+//* Elementin yüklenmesini bekle "ratingBarComment"
+//* Elementine tıkla "ratingBarComment"
+* Element var mı kontrol et "reviewInputComment"
+* "Test icin yorum yaziliyor. Bu urunu cok beğendim, tavsiye ediyorum." textini "reviewInputComment" elemente yaz
+* Element var mı kontrol et "commentNameCheckbox"
+* Elementine tıkla "commentNameCheckbox"
+* Elementin yüklenmesini bekle "AcceptButton"
+* Elementine tıkla "AcceptButton"
+//* Elementin yüklenmesini bekle "alisveriseDevamEt"
+* "Ürün zaten değerlendirilmiş." text degerine sahip elementin sayfada gorundugu kontrol edilir
+//* "Ürün incelemeniz moderatörler tarafından kontrol edildikten sonra yayına alınacaktır." text degerine sahip elementin sayfada gorundugu kontrol edilir

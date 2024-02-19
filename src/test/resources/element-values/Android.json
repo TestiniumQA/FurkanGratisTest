@@ -2094,7 +2094,7 @@
   },
   {
     "key": "productComment",
-    "androidValue": "//*[@text='Yorumlar (0)']",
+    "androidValue": "(//*[@class='android.widget.LinearLayout'])[2]",
     "androidType": "xpath"
   },
   {
@@ -2108,18 +2108,38 @@
     "androidType": "id"
   },
   {
-    "key": "xxxx",
-    "androidValue": "xxxx",
+    "key": "reviewCommentBtn",
+    "androidValue": "reviewBtn",
     "androidType": "id"
   },
   {
-    "key": "xxxx",
-    "androidValue": "xxxx",
+    "key": "reviewInputComment",
+    "androidValue": "reviewEt",
     "androidType": "id"
   },
   {
-    "key": "xxxx",
-    "androidValue": "xxxx",
+    "key": "commentNameCheckbox",
+    "androidValue": "nameCheckbox",
+    "androidType": "id"
+  },
+  {
+    "key": "ratingBarComment",
+    "androidValue": "(//*[@class='android.widget.ImageView'])[5]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "closeButton",
+    "androidValue": "com.gratis.android:id/close_btn",
+    "androidType": "id"
+  },
+  {
+    "key": "AraToplamDeneme1",
+    "androidValue": "com.gratis.android:id/totalPriceOneTxt",
+    "androidType": "id"
+  },
+  {
+    "key": "AraToplamDeneme2",
+    "androidValue": "com.gratis.android:id/totalPriceTwoTxt",
     "androidType": "id"
   },
   {

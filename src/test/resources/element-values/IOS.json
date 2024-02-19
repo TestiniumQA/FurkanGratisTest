@@ -3235,30 +3235,30 @@
   },
   {
     "key": "AcceptButton",
-    "androidValue": "",
-    "androidType": "",
+    "androidValue": "com.gratis.android:id/sendBtn",
+    "androidType": "id",
     "iosValue": "//XCUIElementTypeButton[@name='Gönder']",
     "iosType": "xpath"
   },
   {
-    "key": "xxxx",
+    "key": "ReviewCommentBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == ' Yorum Yazın'`]",
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
+    "key": "ReviewInputComment",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "classChain"
+    "iosValue": "XCUIElementTypeTextView",
+    "iosType": "class"
   },
   {
-    "key": "xxxx",
+    "key": "CommentNameCheckbox",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "xxxx",
+    "iosValue": "**/XCUIElementTypeImage[`name == 'checkboxUnselectedIcon'`]",
     "iosType": "classChain"
   },
   {

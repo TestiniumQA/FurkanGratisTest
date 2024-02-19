@@ -172,8 +172,15 @@ tags:Gratis_IOS_UrunDetayAltBarYorum
 * Uygulama baslatilir
 * Search ikonuna tiklanir
 * Arama sayfasinin acildigi gorulur
-* Urun adi "10394248" yazilir, arama yapilir
+* Urun adi "10012651" yazilir, arama yapilir
 * Ürün detay yorumlar alanina gecilir
 * Yorum yap ikonu ile Gratis0 login olunur
+* Yorum penceresi kapatilir ve anasayfaya gecilir
+* Search ikonuna tiklanir
+* Arama sayfasinin acildigi gorulur
+* Urun adi "10223323" yazilir, arama yapilir
+* Ürün detay yorumlar 2 alanina gecilir
+* Yorum yazin alanina tiklanir pencere kontrol edilir
+* Basarili sekilde urun yorum uyarısı kontrol edilir
 
 

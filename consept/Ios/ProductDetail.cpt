@@ -205,3 +205,61 @@
 * Elementin yüklenmesini bekle "PageToolbarTitleText"
 * "PageToolbarTitleText" li elementin text degeri hafizada "anahtarKelime" olarak saklanan text ile esit mi kontrol et
 * Elementin yüklenmesini bekle "UrunDetay"
+
+# Ürün detay yorumlar alanina gecilir
+* "2" saniye bekle
+* "1" kere aşağıya kaydır
+* "2" saniye bekle
+* "Yorumlar (0)" text degerine sahip elemente tikla
+* "2" saniye bekle
+
+# Ürün detay yorumlar 2 alanina gecilir
+* "2" saniye bekle
+* "1" kere aşağıya kaydır
+* "2" saniye bekle
+* "Yorumlar (2)" text degerine sahip elemente tikla
+* "2" saniye bekle
+
+# Yorum yap ikonu ile Gratis0 login olunur
+* "Yorum Yap" text degerine sahip elemente tikla
+* "IOSmail" csv dosyasindan "0" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "EyeIcon"
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "AcceptButton"
+* "PUANLA VE YORUM YAP!" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Yorum Yaz" text degerine sahip elementin goruntulendigi kontrol edilir
+* "İsmim gözükmesin" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Ürün incelemeniz moderatörler tarafından kontrol edildikten sonra yayına alınacaktır." text degerine sahip elementin goruntulendigi kontrol edilir
+
+# Yorum penceresi kapatilir ve anasayfaya gecilir
+* Element var mı kontrol et "PageCloseIcon"
+* Elementine tıkla "PageCloseIcon"
+* Element var mı kontrol et "geriBtn"
+* Elementine tıkla "geriBtn"
+* Ana sayfa tab'ına tıklanır
+
+# Yorum yazin alanina tiklanir pencere kontrol edilir
+* Element var mı kontrol et "ReviewCommentBtn"
+* Elementine tıkla "ReviewCommentBtn"
+* "PUANLA VE YORUM YAP!" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Yorum Yaz" text degerine sahip elementin goruntulendigi kontrol edilir
+* "İsmim gözükmesin" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Ürün incelemeniz moderatörler tarafından kontrol edildikten sonra yayına alınacaktır." text degerine sahip elementin goruntulendigi kontrol edilir
+
+# Basarili sekilde urun yorum uyarısı kontrol edilir
+//* Elementin yüklenmesini bekle "RatingBarComment"
+//* Elementine tıkla "RatingBarComment"
+* Elementin yüklenmesini bekle "ReviewInputComment"
+* "Test icin yorum yaziliyor. Bu urunu cok beğendim, tavsiye ediyorum." textini "ReviewInputComment" elemente yaz
+* Klavye kapatilir
+* Element var mı kontrol et "CommentNameCheckbox"
+* "CommentNameCheckbox" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "AcceptButton"
+* Elementine tıkla "AcceptButton"
+//* Elementin yüklenmesini bekle "ContinueShoppingButton"
+* "Ürün zaten değerlendirilmiş." text degerine sahip elementin goruntulendigi kontrol edilir
+//* "Ürün incelemeniz moderatörler tarafından kontrol edildikten sonra yayına alınacaktır." text degerine sahip elementin sayfada gorundugu kontrol edilir
