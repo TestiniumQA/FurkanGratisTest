@@ -132,6 +132,6 @@ tags:Gratis_Android_UrunDetayAltBarYorum
 * Search ikonuna tiklanir.
 * Arama sayfasinin acildigi gorulur.
 * Urun adi "10223323" yazilir, arama yapilir.
-* Ürün detay yorumlar alanina gecilir.
+* Ürün detay yorumlar 2 alanina gecilir.
 * Yorum yazin alanina tiklanir pencere kontrol edilir.
 * Basarili sekilde urun yorum uyarısı kontrol edilir.

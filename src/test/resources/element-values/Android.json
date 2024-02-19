@@ -2094,7 +2094,12 @@
   },
   {
     "key": "productComment",
-    "androidValue": "(//*[@class='android.widget.LinearLayout'])[2]",
+    "androidValue": "//*[@content-desc='Yorumlar (0)']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "productCommentTwo",
+    "androidValue": "//*[@content-desc='Yorumlar (2)']",
     "androidType": "xpath"
   },
   {

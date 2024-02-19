@@ -187,6 +187,14 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "productComment"
 * "1" saniye bekle
 
+# Ürün detay yorumlar 2 alanina gecilir.
+* "2" saniye bekle
+* "1" kere aşağıya kaydır
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "productCommentTwo"
+* Elementine tıkla "productCommentTwo"
+* "1" saniye bekle
+
 # Yorum yap ikonu ile Gratis1 login olunur.
 * Element var mı kontrol et "emptyCommentBtn"
 * Elementine tıkla "emptyCommentBtn"

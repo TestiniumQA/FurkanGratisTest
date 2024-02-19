@@ -240,6 +240,7 @@
 * Elementine tıkla "PageCloseIcon"
 * Element var mı kontrol et "geriBtn"
 * Elementine tıkla "geriBtn"
+* "geriBtn" li element varsa tıkla
 * Ana sayfa tab'ına tıklanır
 
 # Yorum yazin alanina tiklanir pencere kontrol edilir
