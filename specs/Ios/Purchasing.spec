@@ -42,7 +42,7 @@ tags:Gratis_IOS_KargoIndirimsiz
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-//* Sepet kasa arkasi popup'i kapatilir
+* Sepet kasa arkasi popup'i kapatilir
 * Tek ürünün ve toplam fiyatın kontrolü yapılır
 * Adrese Teslim butonuna tıklanır
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir

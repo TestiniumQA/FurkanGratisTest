@@ -73,8 +73,8 @@
 # Sepet kasa arkasi popup'i kapatilir
 //* Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
 //* Elementine tıkla "sepetPopUpKapatBtn"
-* "1" saniye bekle
-* "sepetPopUpKapatBtn" li element varsa tıkla
+* "3" saniye bekle
+* "sepetPopUpKapatBtn" li element varsa "sepetiKapatmaBtn" tıkla
 
 # Sepette favoriye ekleme ve cikarma yapilir
 * Elementin yüklenmesini bekle "ShoppingItemFavBtn"

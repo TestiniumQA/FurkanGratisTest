@@ -750,6 +750,13 @@ public class StepImpl extends HookImpl {
         logger.info("["+StoreHelper.INSTANCE.getValue(saveKey)+"]" + " degeri ["+ saveKey + "] ismiyle hafizaya kaydedildi");
     }
 
+    @Step({"<key> li promosyon elementini bul ve değerini <saveKey> olarak sakla",
+            "Find element by <key> and save text <saveKey>"})
+    public void saveTextByKeyPromosyon(String key, String saveKey) {
+        StoreHelper.INSTANCE.saveValue(saveKey, findElementByKey(key).getText().replace("-", "").trim());
+        logger.info("["+StoreHelper.INSTANCE.getValue(saveKey)+"]" + " degeri ["+ saveKey + "] ismiyle hafizaya kaydedildi");
+    }
+
     @Step({"<key> li elementli markayı bul ve değerini <saveKey> olarak sakla",
             "Find element by <key> and save text <saveKey>"})
     public void saveTextByKeyy(String key, String saveKey) {
@@ -1477,6 +1484,30 @@ public class StepImpl extends HookImpl {
         }
     }
 
+    @Step("<key> li element varsa <key2> tıkla")
+    public void tapElementWithKeyControlLoginClick(String key, String key2) {
+
+        logger.info("element varsa verilen tıkla girdi");
+        MobileElement mobileElement;
+
+        waitBySecond(2);
+
+        mobileElement = findElementByKeyWithoutAssert(key);
+
+        if (mobileElement != null) {
+
+            doesElementExistByKey(key, 3);
+            findElementByKey(key);
+            findElementByKey(key2).click();
+            logger.info(key + "elemente tıkladı");
+
+        }
+        else {
+            System.out.println(key + " element bulunamadi");
+
+        }
+    }
+
     @Step("<key> li element varsa tıkla yoksa devam et")
     public void tapElementWithKeyControlArea(String key) {
 
@@ -2034,6 +2065,24 @@ public class StepImpl extends HookImpl {
         assertEquals(toplam,count,"Degerler birbirine esit degil");
     }
 
+    @Step("Saklanan tek ürün fiyat değerlerinin <priceTwo>, <priceOne> toplam fiyat <sum> ile eşit mi kontrol et")
+    public void sumAllPricesBasket(String priceTwo, String priceOne, String sum) {
+        String priceTwos = StoreHelper.INSTANCE.getValue(priceTwo);
+        String priceOnes = StoreHelper.INSTANCE.getValue(priceOne);
+
+        logger.info("Expected Value : " + priceTwos);
+        logger.info("Expected Value : " + priceOnes);
+        waitBySecond(1);
+
+        double expectedSum = Double.parseDouble(sum);
+        double total = (Double.parseDouble(priceTwos) / 100) + Double.parseDouble(priceOnes);
+
+        logger.info("Expected Value : " + expectedSum);
+        logger.info("Actual Value : " + total);
+
+        assertEquals(total, expectedSum, "Degerler birbirine esit degil");
+    }
+
     @Step("Saklanan tek ürün fiyat değerlerini <priceTwo>, <priceOne> toplam fiyat <sum> ile eşit mi kontrol et")
     public void sumAllPricesIyzıco(String priceTwo, String priceOne, String sum)
     {
@@ -2056,6 +2105,23 @@ public class StepImpl extends HookImpl {
 
         assertEquals(toplam,count,"Degerler birbirine esit degil");
     }
+
+    @Step("Ödenecek tutar <ödenecektutar> toplam fiyat <sum> ile eşit mi kontrol et")
+    public void sumAllPricesIyzıco(String ödenecektutar, String sum) {
+
+        double ödenecekTutar = Double.parseDouble(ödenecektutar);
+
+        String sumPrice = findElementByKey(sum).getText();
+        String sums = sumPrice.substring(0, sumPrice.length() - 7);
+        sums = sums.replace(",", ".");
+        double toplam = Double.parseDouble(sums);
+
+        logger.info("Expected Value : " + ödenecekTutar);
+        logger.info("Actual Value : " + toplam);
+
+        assertEquals(toplam, ödenecekTutar, "Degerler birbirine esit degil");
+    }
+
 
     @Step("Saklanan fiyat değerlerini <priceTwo>, <secondPriceTwo>, <priceOne>, <secondPriceOne> toplam fiyat <sum> ile eşit mi kontrol et")
     public void sumAllPricesStr(String priceTwo, String secondPriceTwo, String priceOne, String secondPriceOne, String sum)
