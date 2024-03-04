@@ -1074,7 +1074,7 @@
   },
   {
     "key": "careerPage",
-    "androidValue": "//android.widget.Image[@text='Gratis_logo']",
+    "androidValue": "//android.view.View[@content-desc='Appointment']/android.widget.Image",
     "androidType": "xpath"
   },
   {
@@ -1289,7 +1289,7 @@
   },
   {
     "key": "catalogPages",
-    "androidValue": "//android.view.MenuItem",
+    "androidValue": "//*[@text='26-27. sayfa']",
     "androidType": "xpath"
   },
   {

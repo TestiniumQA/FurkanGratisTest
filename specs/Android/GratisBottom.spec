@@ -91,7 +91,9 @@ Sort By
 tags:Gratis_Android_Siralama
 * Uygulama baslatilir.
 * Kategoriler sayfasina gecilir.
-* Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
+//* Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
+* "Makyaj" isimli kategori seçilir.
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir.
 * Sırala butonuna tıklanır.
 * Çok Satanlar butonuna tıklanır.
 * Sırala butonuna tıklanır.

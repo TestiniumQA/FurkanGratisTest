@@ -321,7 +321,6 @@ This is a concept file with following syntax for each concept.
 * "3" saniye bekle
 * Elementin yüklenmesini bekle "catalogPagesBtn"
 * Elementine tıkla "catalogPagesBtn"
-* Element var mı kontrol et "catalogPages"
 * "4" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "catalogPages"
 * Elementine tıkla "catalogPages"
