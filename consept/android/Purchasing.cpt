@@ -595,7 +595,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "continueBtn"
 
 # Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "continueBtn"li elementi bulana kadar "5" kere swipe yap ve elementi bul
 * "2" saniye bekle
 * "urunFiyatıTwo" li elementli küsüratı bul ve değerini "urunFiyatKüsür" olarak sakla
 * "urunFiyatıOne" li elementi bul ve değerini "urunFiyat1" olarak sakla
@@ -619,7 +619,7 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 
 # Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "continueBtn"li elementi bulana kadar "5" kere swipe yap ve elementi bul
 * "2" saniye bekle
 * "urunFiyatıTwo" li elementli küsüratı bul ve değerini "urunFiyatKüsür" olarak sakla
 * "urunFiyatıOne" li elementi bul ve değerini "urunFiyat1" olarak sakla
