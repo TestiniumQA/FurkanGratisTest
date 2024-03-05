@@ -51,6 +51,18 @@
 * Element var mı kontrol et "kampanyaSec"
 * "1" saniye bekle
 
+# Excelden <sheetname>,<deger>,<row> saklanan urun kodu aramasi yapilir.
+* "urunSearchBox" elementi bulunana kadar en fazla "5" saniye kadar bekle
+* Elementine tıkla "urunSearchBox"
+* "urunSearchTxt" elementi bulunana kadar en fazla "5" saniye kadar bekle
+* "5" saniye bekle
+* Excelden degerler <sheetname>,<deger>,<row> sku okunur ve "sKUSave" saklanir
+* Saklanan "sKUSave" textini "urunSearchTxt" elemente yaz
+* "2" saniye bekle
+* Android Enter tıkla
+* Android Enter tıkla
+* Element var mı kontrol et "productDetailTitle"
+
 # Aradiginiz sonuc bulunamadi sayfasinin acildigi gorulur.
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "searchNoResultFound"

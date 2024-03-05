@@ -22,6 +22,15 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.apache.poi.ss.usermodel.*;
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 import java.io.*;
 import java.sql.SQLOutput;
@@ -232,6 +241,67 @@ public class StepImpl extends HookImpl {
             e.printStackTrace();
         }
         return mobileElements;
+    }
+
+    @Step("Excelden degerler <sheetneme>,<deger> okunur")
+    public void excel(String sheetname, Integer deger) throws IOException {
+
+        List<Object> excelRead = new ArrayList<>();
+        String path = "src/test/resources/excel/KampanyaTestleri.xlsx";
+        FileInputStream fis = new FileInputStream(path);
+        Workbook workbook = new XSSFWorkbook(fis);
+        Sheet sheet = workbook.getSheet(sheetname);
+
+        int rowCount=sheet.getLastRowNum()-sheet.getFirstRowNum();
+        System.out.println("row count:"+rowCount);
+
+        for(int i=0;i<=rowCount;i++){
+            System.out.print(sheet.getRow(i).getCell(deger));
+            System.out.println();
+            excelRead.add((sheet.getRow(i).getCell(deger)).toString().trim());
+        }
+    }
+
+    @Step("Excelden degerler <sheetname>,<deger>,<row> okunur ve <saveKey> sakla")
+    public void excelRead(String sheetname, Integer deger, Integer row, String saveKey) throws IOException {
+
+        List<Object> excelRead = new ArrayList<>();
+        String path = "src/test/resources/excel/KampanyaTestleri.xlsx";
+        FileInputStream fis = new FileInputStream(path);
+        Workbook workbook = new XSSFWorkbook(fis);
+        Sheet sheet = workbook.getSheet(sheetname);
+
+        Cell cell = sheet.getRow(row - 1).getCell(deger - 1);
+        String value = (cell != null) ? cell.toString().trim() : "";
+
+        System.out.println("Değer: " + value);
+        StoreHelper.INSTANCE.saveValue(saveKey, value);
+    }
+
+    @Step("Excelden degerler <sheetname>,<deger>,<row> sku okunur ve <saveKey> saklanir")
+    public void excelReadSKU(String sheetname, Integer deger, Integer row, String saveKey) throws IOException {
+
+        List<Object> excelRead = new ArrayList<>();
+        String path = "src/test/resources/excel/KampanyaTestleri.xlsx";
+        FileInputStream fis = new FileInputStream(path);
+        Workbook workbook = new XSSFWorkbook(fis);
+        Sheet sheet = workbook.getSheet(sheetname);
+
+        Cell cell = sheet.getRow(row - 1).getCell(deger - 1);
+
+        // SKU
+        if (cell.getCellType() == CellType.NUMERIC) {
+            DataFormatter dataFormatter = new DataFormatter();
+            String formattedValue = dataFormatter.formatCellValue(cell);
+            System.out.println("Değer: " + formattedValue);
+            StoreHelper.INSTANCE.saveValue(saveKey, formattedValue);
+        } else {
+            String value = (cell != null) ? cell.toString().trim() : "";
+            System.out.println("Değer: " + value);
+            StoreHelper.INSTANCE.saveValue(saveKey, value);
+        }
+
+        workbook.close();
     }
 
     @Step({"<str> elementine <str2> degerini gir", "<str> element write <str2> text"})
@@ -732,6 +802,14 @@ public class StepImpl extends HookImpl {
         doesElementExistByKey(k, 5);
         findElementByKey(k).sendKeys(t);
         logger.info(t+" texti"+k+" key elementine yazildi");
+    }
+
+    @Step({"Saklanan <SKU> textini <key> elemente yaz"})
+    public void getSendKeysByKeyNotClear(String SKU, String key) {
+        String sKUs = StoreHelper.INSTANCE.getValue(SKU);
+        doesElementExistByKey(key, 5);
+        findElementByKey(key).sendKeys(sKUs);
+        logger.info(SKU+" texti"+key+" key elementine yazildi");
     }
 
     public int createRandomNumber(int max) {
@@ -2083,6 +2161,25 @@ public class StepImpl extends HookImpl {
         assertEquals(total, expectedSum, "Degerler birbirine esit degil");
     }
 
+    @Step("Saklanan tek ürün fiyat değerlerinin <priceTwo>, <priceOne> saklanan toplam fiyat <priceSum> ile eşit mi kontrol et")
+    public void sumGetAllPricesBasket(String priceTwo, String priceOne, String priceSum) {
+        String priceTwos = StoreHelper.INSTANCE.getValue(priceTwo);
+        String priceOnes = StoreHelper.INSTANCE.getValue(priceOne);
+        String priceSums = StoreHelper.INSTANCE.getValue(priceSum);
+
+        logger.info("Expected Value : " + priceTwos);
+        logger.info("Expected Value : " + priceOnes);
+        waitBySecond(1);
+
+        double expectedSum = Double.parseDouble(priceSums);
+        double total = (Double.parseDouble(priceTwos) / 100) + Double.parseDouble(priceOnes);
+
+        logger.info("Expected Value : " + expectedSum);
+        logger.info("Actual Value : " + total);
+
+        assertEquals(total, expectedSum, "Degerler birbirine esit degil");
+    }
+
     @Step("Saklanan tek ürün fiyat değerlerini <priceTwo>, <priceOne> toplam fiyat <sum> ile eşit mi kontrol et")
     public void sumAllPricesIyzıco(String priceTwo, String priceOne, String sum)
     {
@@ -2113,6 +2210,23 @@ public class StepImpl extends HookImpl {
 
         String sumPrice = findElementByKey(sum).getText();
         String sums = sumPrice.substring(0, sumPrice.length() - 7);
+        sums = sums.replace(",", ".");
+        double toplam = Double.parseDouble(sums);
+
+        logger.info("Expected Value : " + ödenecekTutar);
+        logger.info("Actual Value : " + toplam);
+
+        assertEquals(toplam, ödenecekTutar, "Degerler birbirine esit degil");
+    }
+
+    @Step("Saklanan ödenecek tutar <odenecekToplamSum> toplam fiyat <sum> ile eşit mi kontrol et")
+    public void sumGetAllPricesIyzıco(String odenecekToplamSum, String sum) {
+        String odenecekToplamSums = StoreHelper.INSTANCE.getValue(odenecekToplamSum);
+        double ödenecekTutar = Double.parseDouble(odenecekToplamSums);
+
+        String sumPrice = findElementByKey(sum).getText();
+        String sums = sumPrice.substring(0, sumPrice.length() - 7);
+        sums = sums.replace(".", "");
         sums = sums.replace(",", ".");
         double toplam = Double.parseDouble(sums);
 

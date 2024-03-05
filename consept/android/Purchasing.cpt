@@ -198,6 +198,20 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 * Elementine tıkla "continueBtn"
 
+# Teslimat alanı kargo kontrol edilir.
+* Mağazadan seç popup'ı varsa kapatilir.
+//* "headerTxt" elementinin "Teslimat ve Ödeme" textini içerdiği kontrol edilir
+* "shippingPriceOne" li elementi bul ve değerini "fiyat2" olarak sakla
+* "shippingPriceTwo" li elementli küsüratı bul ve değerini "ikinciKüsür" olarak sakla
+* Elementine tıkla "shippingCheckBox"
+* "1" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "ikinciKüsür", "fiyat2" toplam fiyat "34.90" ile eşit mi kontrol et
+* "1" saniye bekle
+* "salePriceOne" li elementi bul ve değerini "fiyat1" olarak sakla
+* "salePriceTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
+* "1" saniye bekle
+* Elementine tıkla "continueBtn"
+
 # Teslimat Bilgileri değiştirme butonuna tıklanır.
 * Element var mı kontrol et "changeAddressBtn"
 * Elementine tıkla "changeAddressBtn"
@@ -230,14 +244,22 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "continueBtn"
 
 # Iyzico alanı fiyat kontrol edilir.
+* "1" saniye bekle
 * "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 * "2" saniye bekle
 * Saklanan fiyat değerlerini kargo indirimine bağlı "ilkKüsür", "ikinciKüsür", "fiyat1", "fiyat2" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
 
 # Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
+* "1" saniye bekle
 * "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 * "3" saniye bekle
 * Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
+
+# Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* "2" saniye bekle
+* "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* "3" saniye bekle
+* Saklanan ödenecek tutar "odenecekToplam" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
 
 # Adres silme butonuna tıklanır ve adres silinir.
 * Element var mı kontrol et "deleteAddressBtn"
@@ -529,3 +551,112 @@ This is a concept file with following syntax for each concept.
 * Devam Et ikonuna tiklanir "Lütfen girilen adres alanını kontrol ediniz." uyarı mesajı görülür.
 * Yukarı scroll et ve "Test ortamı icin adres detay No:1453409" textini "storeAddressDetail" elementine yaz.
 //* "storeAddressName"li elementi bulana kadar "4" kere yukarı swipe yap ve elementi bul
+
+# Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* "continueBtn"li elementi bulana kadar "4" kere swipe yap ve elementi bul
+* "2" saniye bekle
+* "urunFiyatıTwo" li elementli küsüratı bul ve değerini "urunFiyatKüsür" olarak sakla
+* "urunFiyatıOne" li elementi bul ve değerini "urunFiyat1" olarak sakla
+* "2" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "urunFiyatKüsür", "urunFiyat1" saklanan toplam fiyat "urunFiyatıToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+* "promotionPriceTwo" li elementli küsüratı bul ve değerini "promosyonKüsür" olarak sakla
+* "promotionPriceOne" li promosyon elementini bul ve değerini "promosyon1" olarak sakla
+* "2" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "promosyonKüsür", "promosyon1" saklanan toplam fiyat "promosyonToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+* "araToplamTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
+* "araToplamOne" li elementi bul ve değerini "fiyat1" olarak sakla
+* "3" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "ilkKüsür", "fiyat1" saklanan toplam fiyat "araToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "continueBtn"
+* Elementine tıkla "continueBtn"
+
+# Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* "continueBtn"li elementi bulana kadar "4" kere swipe yap ve elementi bul
+* "2" saniye bekle
+* "urunFiyatıTwo" li elementli küsüratı bul ve değerini "urunFiyatKüsür" olarak sakla
+* "urunFiyatıOne" li elementi bul ve değerini "urunFiyat1" olarak sakla
+* "2" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "urunFiyatKüsür", "urunFiyat1" saklanan toplam fiyat "urunFiyatıToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+* "promotionPriceTwo" li elementli küsüratı bul ve değerini "promosyonKüsür" olarak sakla
+* "promotionPriceOne" li promosyon elementini bul ve değerini "promosyon1" olarak sakla
+* "2" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "promosyonKüsür", "promosyon1" saklanan toplam fiyat "promosyonToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+* "araToplamTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
+* "araToplamOne" li elementi bul ve değerini "fiyat1" olarak sakla
+* "3" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "ilkKüsür", "fiyat1" saklanan toplam fiyat "araToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "continueBtn"
+* Elementine tıkla "continueBtn"
+
+# Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "2" saniye bekle
+* "urunFiyatıTwo" li elementli küsüratı bul ve değerini "urunFiyatKüsür" olarak sakla
+* "urunFiyatıOne" li elementi bul ve değerini "urunFiyat1" olarak sakla
+* "2" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "urunFiyatKüsür", "urunFiyat1" saklanan toplam fiyat "urunFiyatıToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+* "promotionPriceTwo" li elementli küsüratı bul ve değerini "promosyonKüsür" olarak sakla
+* "promotionPriceOne" li promosyon elementini bul ve değerini "promosyon1" olarak sakla
+* "2" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "promosyonKüsür", "promosyon1" saklanan toplam fiyat "promosyonToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+* "shippingPriceOne" li elementi bul ve değerini "fiyat2" olarak sakla
+* "shippingPriceTwo" li elementli küsüratı bul ve değerini "ikinciKüsür" olarak sakla
+* "2" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "ikinciKüsür", "fiyat2" saklanan toplam fiyat "kargoToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+* "odenecekTutarTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
+* "odenecekTutarOne" li elementi bul ve değerini "fiyat1" olarak sakla
+* "3" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "ilkKüsür", "fiyat1" saklanan toplam fiyat "odenecekToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+
+# Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "2" saniye bekle
+* "urunFiyatıTwo" li elementli küsüratı bul ve değerini "urunFiyatKüsür" olarak sakla
+* "urunFiyatıOne" li elementi bul ve değerini "urunFiyat1" olarak sakla
+* "2" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "urunFiyatKüsür", "urunFiyat1" saklanan toplam fiyat "urunFiyatıToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+* "promotionPriceTwo" li elementli küsüratı bul ve değerini "promosyonKüsür" olarak sakla
+* "promotionPriceOne" li promosyon elementini bul ve değerini "promosyon1" olarak sakla
+* "2" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "promosyonKüsür", "promosyon1" saklanan toplam fiyat "promosyonToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+* "shippingPriceOne" li elementi bul ve değerini "fiyat2" olarak sakla
+* "shippingPriceTwo" li elementli küsüratı bul ve değerini "ikinciKüsür" olarak sakla
+* "2" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "ikinciKüsür", "fiyat2" saklanan toplam fiyat "kargoToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+* "odenecekTutarTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
+* "odenecekTutarOne" li elementi bul ve değerini "fiyat1" olarak sakla
+* "3" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "ilkKüsür", "fiyat1" saklanan toplam fiyat "odenecekToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+
+# Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* "continueBtn"li elementi bulana kadar "5" kere swipe yap ve elementi bul
+* "2" saniye bekle
+* "urunFiyatıTwo" li elementli küsüratı bul ve değerini "urunFiyatKüsür" olarak sakla
+* "urunFiyatıOne" li elementi bul ve değerini "urunFiyat1" olarak sakla
+* "2" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "urunFiyatKüsür", "urunFiyat1" saklanan toplam fiyat "urunFiyatıToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+* "promotionPriceTwo" li elementli küsüratı bul ve değerini "promosyonKüsür" olarak sakla
+* "promotionPriceOne" li promosyon elementini bul ve değerini "promosyon1" olarak sakla
+* "2" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "promosyonKüsür", "promosyon1" saklanan toplam fiyat "promosyonToplam" ile eşit mi kontrol et
+* "2" saniye bekle
+* "odenecekTutarTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
+* "odenecekTutarOne" li elementi bul ve değerini "fiyat1" olarak sakla
+* "3" saniye bekle
+* Saklanan tek ürün fiyat değerlerinin "ilkKüsür", "fiyat1" saklanan toplam fiyat "odenecekToplam" ile eşit mi kontrol et
+* "2" saniye bekle

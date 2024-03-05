@@ -111,6 +111,30 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "loginBtn"
 * "sepetReklamKapat" li element varsa tıkla
 
+# Sepet ikonu ile Gratis6 login olunur.
+* "AndroidMail" csv dosyasindan "6" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "sepetReklamKapat" li element varsa tıkla
+
+# Sepet ikonu ile Gratis7 login olunur.
+* "AndroidMail" csv dosyasindan "7" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "sepetReklamKapat" li element varsa tıkla
+
+# Sepet ikonu ile Gratis8 login olunur.
+* "AndroidMail" csv dosyasindan "8" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "sepetReklamKapat" li element varsa tıkla
+
+# Sepet ikonu ile Gratis9 login olunur.
+* "AndroidMail" csv dosyasindan "9" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
+* Elementine tıkla "loginBtn"
+* "sepetReklamKapat" li element varsa tıkla
+
 # Sepet ikonu ile Gratis0 login olunur.
 * "AndroidMail" csv dosyasindan "0" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir

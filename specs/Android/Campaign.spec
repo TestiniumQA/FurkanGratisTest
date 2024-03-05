@@ -1,0 +1,77 @@
+Specification Heading
+=====================
+Created by testinium on 4.03.2024
+
+This is an executable specification file which follows markdown syntax.
+Every heading in this file denotes a scenario. Every bulleted point denotes a step.
+     
+Purchasing with Campaing1 Excel 200TL Loreal 20TL - 1022210222
+--------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim200TLLoreal20ExcelKampanya1
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Loreal kampanyası1 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022210222","2","2" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022210222","3","2" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022210222","4","2" okunur ve "araToplam" sakla
+* Excelden degerler "1022210222","5","2" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022210222","6","2" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing2 Excel 200TL Loreal 20TL - 1022210222
+--------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim200TLLoreal20ExcelKampanya2
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis7 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Loreal kampanyası2 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022210222","2","11" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022210222","3","11" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022210222","4","11" okunur ve "araToplam" sakla
+* Excelden degerler "1022210222","5","11" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022210222","6","11" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing3 Excel 200TL Loreal 20TL - 1022210222
+--------------------------------------------------------------
+tags:Gratis_IOS_MagazadanTeslimat200TLLoreal20ExcelKampanya3
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis8 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Loreal kampanyası3 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022210222","2","20" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022210222","3","20" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022210222","4","20" okunur ve "araToplam" sakla
+* Excelden degerler "1022210222","5","20" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022210222","6","20" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
