@@ -199,8 +199,8 @@ tags:Gratis_IOS_MagazadanTeslimat200TLSepette10ExcelKampanya3
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis8 login olunur.
-//* Kampanya sepeti kontrol edilerek temizlenir.
-//* Sepette10 kampanyası3 için gerekli urunler sepete eklenir.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Sepette10 kampanyası3 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022110221","2","18" okunur ve "urunFiyatıToplam" sakla
 * Excelden degerler "1022110221","3","18" okunur ve "promosyonToplam" sakla
 * Excelden degerler "1022110221","4","18" okunur ve "araToplam" sakla
