@@ -308,7 +308,7 @@ tags:Gratis_Android_AdreseTeslim400TLSepetteY10ExcelKampanya1
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
-* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
@@ -356,7 +356,7 @@ tags:Gratis_Android_AdreseTeslim400TLSepetteY10ExcelKampanya3
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
-* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
