@@ -480,3 +480,216 @@ tags:Gratis_IOS_MagazadanTeslimat300TLSepeteJel10ExcelKampanya4
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing1 Excel Loreal Lipliner Fondoten 5TL - 1022410224
+-------------------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya1
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Fondoten5TL kampanyası1 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022410224","2","2" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022410224","3","2" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022410224","4","2" okunur ve "araToplam" sakla
+* Excelden degerler "1022410224","5","2" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022410224","6","2" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing2 Excel Loreal Lipliner Fondoten 5TL - 1022410224
+-------------------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya2
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis7 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Fondoten5TL kampanyası2 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022410224","2","11" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022410224","3","11" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022410224","4","11" okunur ve "araToplam" sakla
+* Excelden degerler "1022410224","5","11" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022410224","6","11" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing3 Excel Loreal Lipliner Fondoten 5TL - 1022410224
+-------------------------------------------------------------------------
+tags:Gratis_IOS_MagazadanTeslimatFondoten5TLExcelKampanya3
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis8 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Fondoten5TL kampanyası3 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022410224","2","18" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022410224","3","18" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022410224","4","18" okunur ve "araToplam" sakla
+* Excelden degerler "1022410224","5","18" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022410224","6","18" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing4 Excel Loreal Lipliner Fondoten 5TL - 1022410224
+-------------------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya4
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis9 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Fondoten5TL kampanyası4 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022410224","2","25" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022410224","3","25" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022410224","4","25" okunur ve "araToplam" sakla
+* Excelden degerler "1022410224","5","25" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022410224","6","25" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing5 Excel Loreal Lipliner Fondoten 5TL - 1022410224
+-------------------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya5
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Fondoten5TL kampanyası5 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022410224","2","34" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022410224","3","34" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022410224","4","34" okunur ve "araToplam" sakla
+* Excelden degerler "1022410224","5","34" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022410224","6","34" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing6 Excel Loreal Lipliner Fondoten 5TL - 1022410224
+-------------------------------------------------------------------------
+tags:Gratis_IOS_MagazadanTeslimatFondoten5TLExcelKampanya6
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis7 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Fondoten5TL kampanyası6 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022410224","2","41" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022410224","3","41" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022410224","4","41" okunur ve "araToplam" sakla
+* Excelden degerler "1022410224","5","41" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022410224","6","41" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing7 Excel Loreal Lipliner Fondoten 5TL - 1022410224
+-------------------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya7
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis8 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Fondoten5TL kampanyası7 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022410224","2","50" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022410224","3","50" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022410224","4","50" okunur ve "araToplam" sakla
+* Excelden degerler "1022410224","5","50" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022410224","6","50" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing8 Excel Loreal Lipliner Fondoten 5TL - 1022410224
+-------------------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya8
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis9 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Fondoten5TL kampanyası8 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022410224","2","58" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022410224","3","58" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022410224","4","58" okunur ve "araToplam" sakla
+* Excelden degerler "1022410224","5","58" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022410224","6","58" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing9 Excel Loreal Lipliner Fondoten 5TL - 1022410224
+-------------------------------------------------------------------------
+tags:Gratis_IOS_MagazadanTeslimatFondoten5TLExcelKampanya9
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Fondoten5TL kampanyası9 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022410224","2","66" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022410224","3","66" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022410224","4","66" okunur ve "araToplam" sakla
+* Excelden degerler "1022410224","5","66" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022410224","6","66" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
