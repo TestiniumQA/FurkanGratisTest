@@ -53,7 +53,7 @@ tags:Gratis_Android_AdreseTeslim200TLLoreal20ExcelKampanya2
 
 Purchasing with Campaing3 Excel 200TL Loreal 20TL - 1022210222
 --------------------------------------------------------------
-tags:Gratis_IOS_MagazadanTeslimat200TLLoreal20ExcelKampanya3
+tags:Gratis_Android_MagazadanTeslimat200TLLoreal20ExcelKampanya3
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis8 login olunur.
@@ -124,7 +124,7 @@ tags:Gratis_Android_AdreseTeslim200TLLoreal20ExcelKampanya5
 
 Purchasing with Campaing6 Excel 200TL Loreal 20TL - 1022210222
 --------------------------------------------------------------
-tags:Gratis_IOS_MagazadanTeslimat200TLLoreal20ExcelKampanya6
+tags:Gratis_Android_MagazadanTeslimat200TLLoreal20ExcelKampanya6
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis7 login olunur.
@@ -195,7 +195,7 @@ tags:Gratis_Android_AdreseTeslim200TLSepette10ExcelKampanya2
 
 Purchasing with Campaing3 Excel 200TL SKU 10TL - 1022110221
 -----------------------------------------------------------
-tags:Gratis_IOS_MagazadanTeslimat200TLSepette10ExcelKampanya3
+tags:Gratis_Android_MagazadanTeslimat200TLSepette10ExcelKampanya3
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis8 login olunur.
@@ -266,7 +266,7 @@ tags:Gratis_Android_AdreseTeslim200TLSepette10ExcelKampanya5
 
 Purchasing with Campaing6 Excel 200TL SKU 10TL - 1022110221
 -----------------------------------------------------------
-tags:Gratis_IOS_MagazadanTeslimat200TLSepette10ExcelKampanya6
+tags:Gratis_Android_MagazadanTeslimat200TLSepette10ExcelKampanya6
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis7 login olunur.
@@ -314,7 +314,7 @@ tags:Gratis_Android_AdreseTeslim400TLSepetteY10ExcelKampanya1
 
 Purchasing with Campaing2 Excel 400TL All Items Y10 - 1022510225
 ----------------------------------------------------------------
-tags:Gratis_IOS_MagazadanTeslimat400TLSepetteY10ExcelKampanya2
+tags:Gratis_Android_MagazadanTeslimat400TLSepetteY10ExcelKampanya2
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis7 login olunur.
@@ -362,7 +362,7 @@ tags:Gratis_Android_AdreseTeslim400TLSepetteY10ExcelKampanya3
 
 Purchasing with Campaing4 Excel 400TL All Items Y10 - 1022510225
 ----------------------------------------------------------------
-tags:Gratis_IOS_MagazadanTeslimat400TLSepetteY10ExcelKampanya4
+tags:Gratis_Android_MagazadanTeslimat400TLSepetteY10ExcelKampanya4
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis9 login olunur.
@@ -410,7 +410,7 @@ tags:Gratis_Android_AdreseTeslim300TLSepeteJel10ExcelKampanya1
 
 Purchasing with Campaing2 Excel 300TL Jel 10TL - 1022310223
 -----------------------------------------------------------
-tags:Gratis_IOS_MagazadanTeslimat300TLSepeteJel10ExcelKampanya2
+tags:Gratis_Android_MagazadanTeslimat300TLSepeteJel10ExcelKampanya2
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis7 login olunur.
@@ -458,7 +458,7 @@ tags:Gratis_Android_AdreseTeslim300TLSepeteJel10ExcelKampanya3
 
 Purchasing with Campaing4 Excel 300TL Jel 10TL - 1022310223
 -----------------------------------------------------------
-tags:Gratis_IOS_MagazadanTeslimat300TLSepeteJel10ExcelKampanya4
+tags:Gratis_Android_MagazadanTeslimat300TLSepeteJel10ExcelKampanya4
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis9 login olunur.
@@ -529,7 +529,7 @@ tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya2
 
 Purchasing with Campaing3 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 -------------------------------------------------------------------------
-tags:Gratis_IOS_MagazadanTeslimatFondoten5TLExcelKampanya3
+tags:Gratis_Android_MagazadanTeslimatFondoten5TLExcelKampanya3
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis8 login olunur.
@@ -600,7 +600,7 @@ tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya5
 
 Purchasing with Campaing6 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 -------------------------------------------------------------------------
-tags:Gratis_IOS_MagazadanTeslimatFondoten5TLExcelKampanya6
+tags:Gratis_Android_MagazadanTeslimatFondoten5TLExcelKampanya6
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis7 login olunur.
@@ -671,7 +671,7 @@ tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya8
 
 Purchasing with Campaing9 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 -------------------------------------------------------------------------
-tags:Gratis_IOS_MagazadanTeslimatFondoten5TLExcelKampanya9
+tags:Gratis_Android_MagazadanTeslimatFondoten5TLExcelKampanya9
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis6 login olunur.
