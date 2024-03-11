@@ -1684,8 +1684,8 @@
   },
   {
     "key": "iyzPaymentBtn",
-    "androidValue": "//*[@resource-id='iyz-payment-button']",
-    "androidType": "xpath"
+    "androidValue": "android.widget.Button",
+    "androidType": "class"
   },
   {
     "key": "addressTypeTxt",
