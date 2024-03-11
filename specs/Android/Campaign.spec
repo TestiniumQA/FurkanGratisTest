@@ -693,3 +693,216 @@ tags:Gratis_Android_MagazadanTeslimatFondoten5TLExcelKampanya9
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing1 Excel Flormar 2. 1TL - 1022610226
+-----------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimFlormar1TLExcelKampanya1
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar1TL kampanyası1 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022610226","2","2" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022610226","3","2" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022610226","4","2" okunur ve "araToplam" sakla
+* Excelden degerler "1022610226","5","2" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022610226","6","2" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing2 Excel Flormar 2. 1TL - 1022610226
+-----------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimFlormar1TLExcelKampanya2
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis7 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar1TL kampanyası2 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022610226","2","11" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022610226","3","11" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022610226","4","11" okunur ve "araToplam" sakla
+* Excelden degerler "1022610226","5","11" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022610226","6","11" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing3 Excel Flormar 2. 1TL - 1022610226
+-----------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimatFlormar1TLExcelKampanya3
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis8 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar1TL kampanyası3 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022610226","2","20" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022610226","3","20" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022610226","4","20" okunur ve "araToplam" sakla
+* Excelden degerler "1022610226","5","20" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022610226","6","20" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing4 Excel Flormar 2. 1TL - 1022610226
+-----------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimFlormar1TLExcelKampanya4
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis9 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar1TL kampanyası4 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022610226","2","29" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022610226","3","29" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022610226","4","29" okunur ve "araToplam" sakla
+* Excelden degerler "1022610226","5","29" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022610226","6","29" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing5 Excel Flormar 2. 1TL - 1022610226
+-----------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimFlormar1TLExcelKampanya5
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar1TL kampanyası5 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022610226","2","38" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022610226","3","38" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022610226","4","38" okunur ve "araToplam" sakla
+* Excelden degerler "1022610226","5","38" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022610226","6","38" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing6 Excel Flormar 2. 1TL - 1022610226
+-----------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimatFlormar1TLExcelKampanya6
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis7 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar1TL kampanyası6 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022610226","2","45" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022610226","3","45" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022610226","4","45" okunur ve "araToplam" sakla
+* Excelden degerler "1022610226","5","45" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022610226","6","45" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing7 Excel Flormar 2. 1TL - 1022610226
+-----------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimFlormar1TLExcelKampanya7
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis8 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar1TL kampanyası7 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022610226","2","52" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022610226","3","52" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022610226","4","52" okunur ve "araToplam" sakla
+* Excelden degerler "1022610226","5","52" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022610226","6","52" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing8 Excel Flormar 2. 1TL - 1022610226
+-----------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimFlormar1TLExcelKampanya8
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis9 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar1TL kampanyası8 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022610226","2","60" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022610226","3","60" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022610226","4","60" okunur ve "araToplam" sakla
+* Excelden degerler "1022610226","5","60" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022610226","6","60" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing9 Excel Flormar 2. 1TL - 1022610226
+-----------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimatFlormar1TLExcelKampanya9
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar1TL kampanyası9 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022610226","2","68" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022610226","3","68" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022610226","4","68" okunur ve "araToplam" sakla
+* Excelden degerler "1022610226","5","68" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022610226","6","68" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.

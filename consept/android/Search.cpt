@@ -59,6 +59,7 @@
 * Excelden degerler <sheetname>,<deger>,<row> sku okunur ve "sKUSave" saklanir
 * Saklanan "sKUSave" textini "urunSearchTxt" elemente yaz
 * "2" saniye bekle
+* Elementine tıkla "urunSearchTxt"
 * Android Enter tıkla
 * Android Enter tıkla
 * Element var mı kontrol et "productDetailTitle"
