@@ -906,3 +906,120 @@ tags:Gratis_Android_MagazadanTeslimatFlormar1TLExcelKampanya9
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing1 Excel Beaulis Take3 Pay2 - 1023110231
+---------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimBeaulis3Al2OdeExcelKampanya1
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Beaulis kampanyası1 için gerekli urunler sepete eklenir.
+* Excelden degerler "1023110231","2","2" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1023110231","3","2" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1023110231","4","2" okunur ve "araToplam" sakla
+* Excelden degerler "1023110231","5","2" okunur ve "kargoToplam" sakla
+* Excelden degerler "1023110231","6","2" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing2 Excel Beaulis Take3 Pay2 - 1023110231
+---------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimBeaulis3Al2OdeExcelKampanya2
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis7 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Beaulis kampanyası2 için gerekli urunler sepete eklenir.
+* Excelden degerler "1023110231","2","11" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1023110231","3","11" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1023110231","4","11" okunur ve "araToplam" sakla
+* Excelden degerler "1023110231","5","11" okunur ve "kargoToplam" sakla
+* Excelden degerler "1023110231","6","11" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing3 Excel Beaulis Take3 Pay2 - 1023110231
+---------------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimatBeaulis3Al2OdeExcelKampanya3
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis8 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Beaulis kampanyası3 için gerekli urunler sepete eklenir.
+* Excelden degerler "1023110231","2","18" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1023110231","3","18" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1023110231","4","18" okunur ve "araToplam" sakla
+* Excelden degerler "1023110231","5","18" okunur ve "kargoToplam" sakla
+* Excelden degerler "1023110231","6","18" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing4 Excel Beaulis Take3 Pay2 - 1023110231
+---------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimBeaulis3Al2OdeExcelKampanya4
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis9 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Beaulis kampanyası4 için gerekli urunler sepete eklenir.
+* Excelden degerler "1023110231","2","27" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1023110231","3","27" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1023110231","4","27" okunur ve "araToplam" sakla
+* Excelden degerler "1023110231","5","27" okunur ve "kargoToplam" sakla
+* Excelden degerler "1023110231","6","27" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing5 Excel Beaulis Take3 Pay2 - 1023110231
+---------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimBeaulis3Al2OdeExcelKampanya5
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Beaulis kampanyası5 için gerekli urunler sepete eklenir.
+* Excelden degerler "1023110231","2","35" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1023110231","3","35" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1023110231","4","35" okunur ve "araToplam" sakla
+* Excelden degerler "1023110231","5","35" okunur ve "kargoToplam" sakla
+* Excelden degerler "1023110231","6","35" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
