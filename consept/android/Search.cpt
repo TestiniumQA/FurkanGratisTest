@@ -21,6 +21,7 @@
 * "urunSearchTxt" elementi bulunana kadar en fazla "5" saniye kadar bekle
 * Elementine tıkla "urunSearchTxt"
 * <text> textini "urunSearchTxt" elemente yaz
+* Elementine tıkla "urunSearchTxt"
 * Android Enter tıkla
 * "1" saniye bekle
 
@@ -31,6 +32,7 @@
 * "urunSearchTxt" elementi bulunana kadar en fazla "5" saniye kadar bekle
 * <text> textini "urunSearchTxt" elemente yaz
 * "2" saniye bekle
+* Elementine tıkla "urunSearchTxt"
 * Android Enter tıkla
 * Android Enter tıkla
 * "pageToolbarTitle" li elementin değeri "Ürün Detay" e içerdiğini kontrol et
