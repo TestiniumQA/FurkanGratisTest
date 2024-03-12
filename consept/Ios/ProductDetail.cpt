@@ -133,7 +133,7 @@
 
 # Ürünün renk tonu değiştirilir
 * "ProductSubTwoDetailTitle" li elementi bul ve değerini "varsayılanRenkAd" olarak sakla
-* "ColorList"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "SecondColor"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "SecondColor"
 * "1" saniye bekle
 * Elementine tıkla "SecondColor"
@@ -217,7 +217,7 @@
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "2" saniye bekle
-* "Yorumlar (2)" text degerine sahip elemente tikla
+* "Yorumlar (4)" text degerine sahip elemente tikla
 * "2" saniye bekle
 
 # Yorum yap ikonu ile Gratis0 login olunur
