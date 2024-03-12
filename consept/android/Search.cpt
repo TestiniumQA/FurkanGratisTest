@@ -21,6 +21,7 @@
 * "urunSearchTxt" elementi bulunana kadar en fazla "5" saniye kadar bekle
 * Elementine tıkla "urunSearchTxt"
 * <text> textini "urunSearchTxt" elemente yaz
+* "1" saniye bekle
 * Elementine tıkla "urunSearchTxt"
 * Android Enter tıkla
 * "1" saniye bekle
