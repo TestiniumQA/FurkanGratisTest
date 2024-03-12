@@ -1023,3 +1023,166 @@ tags:Gratis_Android_AdreseTeslimBeaulis3Al2OdeExcelKampanya5
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing1 Excel Golden Rose Flormar Oje - 1023610236
+--------------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimGoldenRoseAlanaFlormarOjeExcelKampanya1
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar bedava kampanyası1 için gerekli urunler sepete eklenir.
+* Excelden degerler "1023610236","2","2" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1023610236","3","2" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1023610236","4","2" okunur ve "araToplam" sakla
+* Excelden degerler "1023610236","5","2" okunur ve "kargoToplam" sakla
+* Excelden degerler "1023610236","6","2" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing2 Excel Golden Rose Flormar Oje - 1023610236
+--------------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimGoldenRoseAlanaFlormarOjeExcelKampanya2
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis7 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar bedava kampanyası2 için gerekli urunler sepete eklenir.
+* Excelden degerler "1023610236","2","11" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1023610236","3","11" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1023610236","4","11" okunur ve "araToplam" sakla
+* Excelden degerler "1023610236","5","11" okunur ve "kargoToplam" sakla
+* Excelden degerler "1023610236","6","11" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing3 Excel Golden Rose Flormar Oje - 1023610236
+--------------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimGoldenRoseAlanaFlormarOjeExcelKampanya3
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis8 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar bedava kampanyası3 için gerekli urunler sepete eklenir.
+* Excelden degerler "1023610236","2","20" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1023610236","3","20" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1023610236","4","20" okunur ve "araToplam" sakla
+* Excelden degerler "1023610236","5","20" okunur ve "kargoToplam" sakla
+* Excelden degerler "1023610236","6","20" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing4 Excel Golden Rose Flormar Oje - 1023610236
+--------------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimGoldenRoseAlanaFlormarOjeExcelKampanya4
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis9 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar bedava kampanyası4 için gerekli urunler sepete eklenir.
+* Excelden degerler "1023610236","2","29" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1023610236","3","29" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1023610236","4","29" okunur ve "araToplam" sakla
+* Excelden degerler "1023610236","5","29" okunur ve "kargoToplam" sakla
+* Excelden degerler "1023610236","6","29" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing5 Excel Golden Rose Flormar Oje - 1023610236
+--------------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimGoldenRoseAlanaFlormarOjeExcelKampanya5
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar bedava kampanyası5 için gerekli urunler sepete eklenir.
+* Excelden degerler "1023610236","2","36" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1023610236","3","36" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1023610236","4","36" okunur ve "araToplam" sakla
+* Excelden degerler "1023610236","5","36" okunur ve "kargoToplam" sakla
+* Excelden degerler "1023610236","6","36" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing6 Excel Golden Rose Flormar Oje - 1023610236
+--------------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslimGoldenRoseAlanaFlormarOjeExcelKampanya6
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis7 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar bedava kampanyası6 için gerekli urunler sepete eklenir.
+* Excelden degerler "1023610236","2","45" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1023610236","3","45" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1023610236","4","45" okunur ve "araToplam" sakla
+* Excelden degerler "1023610236","5","45" okunur ve "kargoToplam" sakla
+* Excelden degerler "1023610236","6","45" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing7 Excel Golden Rose Flormar Oje - 1023610236
+--------------------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimatGoldenRoseAlanaFlormarOjeExcelKampanya7
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis8 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Flormar bedava kampanyası7 için gerekli urunler sepete eklenir.
+* Excelden degerler "1023610236","2","52" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1023610236","3","52" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1023610236","4","52" okunur ve "araToplam" sakla
+* Excelden degerler "1023610236","5","52" okunur ve "kargoToplam" sakla
+* Excelden degerler "1023610236","6","52" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
