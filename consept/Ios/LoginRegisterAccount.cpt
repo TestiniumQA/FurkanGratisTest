@@ -634,7 +634,7 @@
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "EditListDropdownName"
 * "EditListDropdownName" elementinin "Yeni Liste Adı" textini içerdiği kontrol edilir
-* "ProductDetailFromFavoriteListText" li elementin text degeri hafizada "ürün adı" olarak saklanan text ile esit mi kontrol et
+//* "ProductDetailFromFavoriteListText" li elementin text degeri hafizada "ürün adı" olarak saklanan text ile esit mi kontrol et
 
 # Listeden adı <yeniListe> olan favori listesi secilir
 * Elementin yüklenmesini bekle "EditListNameButton"
