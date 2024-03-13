@@ -149,6 +149,7 @@ This is a concept file with following syntax for each concept.
 
 # Ürün detay sayfasında ürün favori butonuna tıklanır.
 * "detailFavBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* "1" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "detailFavBtn"
 * Elementine tıkla "detailFavBtn"
 
