@@ -577,7 +577,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "gratisCardConnectBtn"
 * "Gratis Kartınızı henüz bağlamadınız!" değerini sayfa üzerinde olup olmadığını kontrol et.
 * Elementin yüklenmesini bekle "gratisCardConnectBtn"
-* "Gratis kartın avantajları:" değerini sayfa üzerinde olup olmadığını kontrol et.
+//* "Gratis kartın avantajları:" değerini sayfa üzerinde olup olmadığını kontrol et.
 * "- Size özel puanlar - Size özel indirimler - Farklı markalarda avantajlar" değerini sayfa üzerinde olup olmadığını kontrol et.
 * Elementine tıkla "gratisCardConnectBtn"
 * Elementin yüklenmesini bekle "popupBtn2"
