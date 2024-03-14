@@ -964,7 +964,7 @@
   },
   {
     "key": "gratisBeautyPage",
-    "androidValue": "//*[@resource-id='next_button']",
+    "androidValue": "(//android.view.View[@content-desc='Alternate Text'])[1]/android.widget.Image",
     "androidType": "xpath"
   },
   {

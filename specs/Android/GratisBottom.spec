@@ -113,7 +113,7 @@ tags:Gratis_Android_KategoriSecimiVeSepet
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
 * Başa Dön butonuna bas.
 * Uygulama geri butonuna bas.
-* Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir.
+* Alt kategorilerden biri "Tırnak Bakım", "Oje" seçilir.
 * Urun detay sayfasına geçilir.
 * Uygulama geri butonuna bas.
 * Sepete Ekle butonuna tıklanır.
@@ -218,7 +218,7 @@ tags:Gratis_Android_FiltrelerTiklamaylaKaldirmaVeStok
 * Uygulama baslatilir.
 * Kategoriler sayfasina gecilir.
 * "Makyaj" isimli kategori seçilir.
-* Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir.
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir.
 * Filtreleme butonuna tıklanır.
 * Stok filtresine tıklanır.
 * Filtreleme butonuna tıklanır.

@@ -10,7 +10,7 @@ This is a concept file with following syntax for each concept.
 # Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur.
 * "Mehmet" textini "newAddressCustomerName" elemente yaz
 * "Uludağ" textini "newAddressCustomerSurname" elemente yaz
-* "javatestautomation@gmail.com" textini "registerMail" elemente yaz
+* "javaautomationtest@gmail.com" textini "registerMail" elemente yaz
 * "5555217475" textini "registerPhone" elemente yaz
 * Elementine tıkla "registerBirth"
 * Element var mı kontrol et "popupOkayButton"
@@ -575,22 +575,18 @@ This is a concept file with following syntax for each concept.
 
 # Gratis Card baglama islemi yapilir.
 * Elementin yüklenmesini bekle "gratisCardConnectBtn"
-* "Gratis Kartınızı henüz bağlamadınız!" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "Gratis Kartınızı henüz bağlamadınız!" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * Elementin yüklenmesini bekle "gratisCardConnectBtn"
-//* "Gratis kartın avantajları:" değerini sayfa üzerinde olup olmadığını kontrol et.
-* "- Size özel puanlar - Size özel indirimler - Farklı markalarda avantajlar" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "Gratis Kartın Avantajları:" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "- Size özel puanlar" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "- Size özel indirimler" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "- Farklı markalarda avantajlar" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * Elementine tıkla "gratisCardConnectBtn"
-* Elementin yüklenmesini bekle "popupBtn2"
-* Elementine tıkla "popupBtn2"
 * "1" saniye bekle
-* Elementin yüklenmesini bekle "gratisCardConnectBtn"
-* Elementine tıkla "gratisCardConnectBtn"
-//* Elementin yüklenmesini bekle "GratisCardGetBtn"
-//* Elementine tıkla "GratisCardGetBtn"
-* "SMS Onayı" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "SMS ONAYI" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * Elementin yüklenmesini bekle "editListTextbox"
-* "5" saniye bekle
-//* "12345" textini "GratisCardSmsTextbox" elemente yaz
+* "1" saniye bekle
+* "12345" textini "editListTextbox" elemente yaz
 * Elementin yüklenmesini bekle "popupOkayButton"
 * Elementine tıkla "popupOkayButton"
 * "1" saniye bekle

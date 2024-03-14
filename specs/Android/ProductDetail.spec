@@ -11,7 +11,7 @@ tags:Gratis_Android_UrunDetayPaylasZoomNonLoginGratisKart
 * Uygulama baslatilir.
 * Kategoriler sayfasina gecilir.
 * "Makyaj" isimli kategori seçilir.
-* Alt kategorilerden biri "Dudak Makyajı", "Kalem Ruj" seçilir.
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir.
 * Gratis kart indirimli ürün detay sayfasına geçilir.
 * Ürün detayda ürün fotosu swipe yapılır.
 * Ürünün paylaş ikonuna tıklanır.
