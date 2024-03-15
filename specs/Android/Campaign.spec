@@ -1399,3 +1399,287 @@ tags:Gratis_Android_MagazadanTeslimat200TLPastelY10ExcelKampanya9
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing1 Excel 250TL OralB Y10 - 1022910229
+------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya1
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* OralB kampanyası1 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022910229","2","2" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022910229","3","2" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022910229","4","2" okunur ve "araToplam" sakla
+* Excelden degerler "1022910229","5","2" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022910229","6","2" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing2 Excel 250TL OralB Y10 - 1022910229
+------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya2
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis7 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* OralB kampanyası2 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022910229","2","8" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022910229","3","8" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022910229","4","8" okunur ve "araToplam" sakla
+* Excelden degerler "1022910229","5","8" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022910229","6","8" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing3 Excel 250TL OralB Y10 - 1022910229
+------------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimat250TLOralBY10ExcelKampanya3
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis8 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* OralB kampanyası3 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022910229","2","12" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022910229","3","12" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022910229","4","12" okunur ve "araToplam" sakla
+* Excelden degerler "1022910229","5","12" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022910229","6","12" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing4 Excel 250TL OralB Y10 - 1022910229
+------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya4
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis9 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* OralB kampanyası4 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022910229","2","17" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022910229","3","17" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022910229","4","17" okunur ve "araToplam" sakla
+* Excelden degerler "1022910229","5","17" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022910229","6","17" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing5 Excel 250TL OralB Y10 - 1022910229
+------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya5
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* OralB kampanyası5 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022910229","2","26" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022910229","3","26" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022910229","4","26" okunur ve "araToplam" sakla
+* Excelden degerler "1022910229","5","26" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022910229","6","26" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing6 Excel 250TL OralB Y10 - 1022910229
+------------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimat250TLOralBY10ExcelKampanya6
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis7 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* OralB kampanyası6 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022910229","2","35" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022910229","3","35" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022910229","4","35" okunur ve "araToplam" sakla
+* Excelden degerler "1022910229","5","35" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022910229","6","35" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing7 Excel 250TL OralB Y10 - 1022910229
+------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya7
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis8 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* OralB kampanyası7 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022910229","2","44" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022910229","3","44" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022910229","4","44" okunur ve "araToplam" sakla
+* Excelden degerler "1022910229","5","44" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022910229","6","44" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing8 Excel 250TL OralB Y10 - 1022910229
+------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya8
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis9 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* OralB kampanyası8 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022910229","2","49" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022910229","3","49" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022910229","4","49" okunur ve "araToplam" sakla
+* Excelden degerler "1022910229","5","49" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022910229","6","49" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing9 Excel 250TL OralB Y10 - 1022910229
+------------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimat250TLOralBY10ExcelKampanya9
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* OralB kampanyası9 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022910229","2","53" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022910229","3","53" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022910229","4","53" okunur ve "araToplam" sakla
+* Excelden degerler "1022910229","5","53" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022910229","6","53" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing10 Excel 250TL OralB Y10 - 1022910229
+-------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya10
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis7 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* OralB kampanyası10 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022910229","2","58" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022910229","3","58" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022910229","4","58" okunur ve "araToplam" sakla
+* Excelden degerler "1022910229","5","58" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022910229","6","58" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing11 Excel 250TL OralB Y10 - 1022910229
+-------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya11
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis8 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* OralB kampanyası11 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022910229","2","67" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022910229","3","67" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022910229","4","67" okunur ve "araToplam" sakla
+* Excelden degerler "1022910229","5","67" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022910229","6","67" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing12 Excel 250TL OralB Y10 - 1022910229
+-------------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimat250TLOralBY10ExcelKampanya12
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis9 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* OralB kampanyası12 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022910229","2","74" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022910229","3","74" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022910229","4","74" okunur ve "araToplam" sakla
+* Excelden degerler "1022910229","5","74" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022910229","6","74" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
