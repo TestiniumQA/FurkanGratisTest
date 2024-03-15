@@ -1186,3 +1186,216 @@ tags:Gratis_Android_MagazadanTeslimatGoldenRoseAlanaFlormarOjeExcelKampanya7
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing1 Excel 200TL Pastel Y10 - 1022010220
+-------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim200TLPastelY10ExcelKampanya1
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Pastel kampanyası1 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022010220","2","2" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022010220","3","2" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022010220","4","2" okunur ve "araToplam" sakla
+* Excelden degerler "1022010220","5","2" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022010220","6","2" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing2 Excel 200TL Pastel Y10 - 1022010220
+-------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim200TLPastelY10ExcelKampanya2
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis7 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Pastel kampanyası2 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022010220","2","11" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022010220","3","11" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022010220","4","11" okunur ve "araToplam" sakla
+* Excelden degerler "1022010220","5","11" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022010220","6","11" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing3 Excel 200TL Pastel Y10 - 1022010220
+-------------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimat200TLPastelY10ExcelKampanya3
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis8 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Pastel kampanyası3 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022010220","2","21" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022010220","3","21" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022010220","4","21" okunur ve "araToplam" sakla
+* Excelden degerler "1022010220","5","21" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022010220","6","21" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing4 Excel 200TL Pastel Y10 - 1022010220
+-------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim200TLPastelY10ExcelKampanya4
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis9 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Pastel kampanyası4 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022010220","2","31" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022010220","3","31" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022010220","4","31" okunur ve "araToplam" sakla
+* Excelden degerler "1022010220","5","31" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022010220","6","31" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing5 Excel 200TL Pastel Y10 - 1022010220
+-------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim200TLPastelY10ExcelKampanya5
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Pastel kampanyası5 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022010220","2","40" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022010220","3","40" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022010220","4","40" okunur ve "araToplam" sakla
+* Excelden degerler "1022010220","5","40" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022010220","6","40" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing6 Excel 200TL Pastel Y10 - 1022010220
+-------------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimat200TLPastelY10ExcelKampanya6
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis7 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Pastel kampanyası6 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022010220","2","51" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022010220","3","51" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022010220","4","51" okunur ve "araToplam" sakla
+* Excelden degerler "1022010220","5","51" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022010220","6","51" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing7 Excel 200TL Pastel Y10 - 1022010220
+-------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim200TLPastelY10ExcelKampanya7
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis8 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Pastel kampanyası7 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022010220","2","62" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022010220","3","62" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022010220","4","62" okunur ve "araToplam" sakla
+* Excelden degerler "1022010220","5","62" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022010220","6","62" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing8 Excel 200TL Pastel Y10 - 1022010220
+-------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim200TLPastelY10ExcelKampanya8
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis9 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Pastel kampanyası8 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022010220","2","73" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022010220","3","73" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022010220","4","73" okunur ve "araToplam" sakla
+* Excelden degerler "1022010220","5","73" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022010220","6","73" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing9 Excel 200TL Pastel Y10 - 1022010220
+-------------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimat200TLPastelY10ExcelKampanya9
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* Pastel kampanyası9 için gerekli urunler sepete eklenir.
+* Excelden degerler "1022010220","2","82" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022010220","3","82" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022010220","4","82" okunur ve "araToplam" sakla
+* Excelden degerler "1022010220","5","82" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022010220","6","82" okunur ve "odenecekToplam" sakla
+//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
