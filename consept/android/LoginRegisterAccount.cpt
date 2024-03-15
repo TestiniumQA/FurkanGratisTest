@@ -589,5 +589,6 @@ This is a concept file with following syntax for each concept.
 * "12345" textini "editListTextbox" elemente yaz
 * Elementin yüklenmesini bekle "popupOkayButton"
 * Elementine tıkla "popupOkayButton"
-* "1" saniye bekle
-* Elementin yüklenmesini bekle "GratisCardBackGround"
+* "5" saniye bekle
+* "pageToolbarTitle" elementinin "Gratis Kart" textini içerdiği kontrol edilir
+* Elementin yüklenmesini bekle "gratisCardView"
