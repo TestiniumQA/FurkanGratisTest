@@ -104,7 +104,7 @@ Purchasing with Campaing5 Excel 200TL Loreal 20TL - 1022210222
 tags:Gratis_Android_AdreseTeslim200TLLoreal20ExcelKampanya5
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis6 login olunur.
+* Sepet ikonu ile Gratis10 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Loreal kampanyası5 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022210222","2","37" okunur ve "urunFiyatıToplam" sakla
@@ -127,7 +127,7 @@ Purchasing with Campaing6 Excel 200TL Loreal 20TL - 1022210222
 tags:Gratis_Android_MagazadanTeslimat200TLLoreal20ExcelKampanya6
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis7 login olunur.
+* Sepet ikonu ile Gratis11 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Loreal kampanyası6 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022210222","2","44" okunur ve "urunFiyatıToplam" sakla
@@ -246,7 +246,7 @@ Purchasing with Campaing5 Excel 200TL SKU 10TL - 1022110221
 tags:Gratis_Android_AdreseTeslim200TLSepette10ExcelKampanya5
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis6 login olunur.
+* Sepet ikonu ile Gratis10 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Sepette10 kampanyası5 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022110221","2","35" okunur ve "urunFiyatıToplam" sakla
@@ -269,7 +269,7 @@ Purchasing with Campaing6 Excel 200TL SKU 10TL - 1022110221
 tags:Gratis_Android_MagazadanTeslimat200TLSepette10ExcelKampanya6
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis7 login olunur.
+* Sepet ikonu ile Gratis11 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Sepette10 kampanyası6 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022110221","2","42" okunur ve "urunFiyatıToplam" sakla
@@ -580,7 +580,7 @@ Purchasing with Campaing5 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya5
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis6 login olunur.
+* Sepet ikonu ile Gratis10 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Fondoten5TL kampanyası5 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022410224","2","34" okunur ve "urunFiyatıToplam" sakla
@@ -603,7 +603,7 @@ Purchasing with Campaing6 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 tags:Gratis_Android_MagazadanTeslimatFondoten5TLExcelKampanya6
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis7 login olunur.
+* Sepet ikonu ile Gratis11 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Fondoten5TL kampanyası6 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022410224","2","41" okunur ve "urunFiyatıToplam" sakla
@@ -628,7 +628,7 @@ Purchasing with Campaing7 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya7
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis8 login olunur.
+* Sepet ikonu ile Gratis12 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Fondoten5TL kampanyası7 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022410224","2","50" okunur ve "urunFiyatıToplam" sakla
@@ -651,7 +651,7 @@ Purchasing with Campaing8 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya8
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis9 login olunur.
+* Sepet ikonu ile Gratis13 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Fondoten5TL kampanyası8 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022410224","2","58" okunur ve "urunFiyatıToplam" sakla
@@ -674,7 +674,7 @@ Purchasing with Campaing9 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 tags:Gratis_Android_MagazadanTeslimatFondoten5TLExcelKampanya9
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis6 login olunur.
+* Sepet ikonu ile Gratis14 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Fondoten5TL kampanyası9 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022410224","2","66" okunur ve "urunFiyatıToplam" sakla
@@ -793,7 +793,7 @@ Purchasing with Campaing5 Excel Flormar 2. 1TL - 1022610226
 tags:Gratis_Android_AdreseTeslimFlormar1TLExcelKampanya5
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis6 login olunur.
+* Sepet ikonu ile Gratis10 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Flormar1TL kampanyası5 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022610226","2","38" okunur ve "urunFiyatıToplam" sakla
@@ -816,7 +816,7 @@ Purchasing with Campaing6 Excel Flormar 2. 1TL - 1022610226
 tags:Gratis_Android_MagazadanTeslimatFlormar1TLExcelKampanya6
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis7 login olunur.
+* Sepet ikonu ile Gratis11 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Flormar1TL kampanyası6 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022610226","2","45" okunur ve "urunFiyatıToplam" sakla
@@ -841,7 +841,7 @@ Purchasing with Campaing7 Excel Flormar 2. 1TL - 1022610226
 tags:Gratis_Android_AdreseTeslimFlormar1TLExcelKampanya7
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis8 login olunur.
+* Sepet ikonu ile Gratis12 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Flormar1TL kampanyası7 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022610226","2","52" okunur ve "urunFiyatıToplam" sakla
@@ -864,7 +864,7 @@ Purchasing with Campaing8 Excel Flormar 2. 1TL - 1022610226
 tags:Gratis_Android_AdreseTeslimFlormar1TLExcelKampanya8
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis9 login olunur.
+* Sepet ikonu ile Gratis13 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Flormar1TL kampanyası8 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022610226","2","60" okunur ve "urunFiyatıToplam" sakla
@@ -887,7 +887,7 @@ Purchasing with Campaing9 Excel Flormar 2. 1TL - 1022610226
 tags:Gratis_Android_MagazadanTeslimatFlormar1TLExcelKampanya9
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis6 login olunur.
+* Sepet ikonu ile Gratis14 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Flormar1TL kampanyası9 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022610226","2","68" okunur ve "urunFiyatıToplam" sakla
@@ -1006,7 +1006,7 @@ Purchasing with Campaing5 Excel Beaulis Take3 Pay2 - 1023110231
 tags:Gratis_Android_AdreseTeslimBeaulis3Al2OdeExcelKampanya5
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis6 login olunur.
+* Sepet ikonu ile Gratis10 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Beaulis kampanyası5 için gerekli urunler sepete eklenir.
 * Excelden degerler "1023110231","2","35" okunur ve "urunFiyatıToplam" sakla
@@ -1121,7 +1121,7 @@ Purchasing with Campaing5 Excel Golden Rose Flormar Oje - 1023610236
 tags:Gratis_Android_AdreseTeslimGoldenRoseAlanaFlormarOjeExcelKampanya5
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis6 login olunur.
+* Sepet ikonu ile Gratis10 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Flormar bedava kampanyası5 için gerekli urunler sepete eklenir.
 * Excelden degerler "1023610236","2","36" okunur ve "urunFiyatıToplam" sakla
@@ -1144,7 +1144,7 @@ Purchasing with Campaing6 Excel Golden Rose Flormar Oje - 1023610236
 tags:Gratis_Android_AdreseTeslimGoldenRoseAlanaFlormarOjeExcelKampanya6
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis7 login olunur.
+* Sepet ikonu ile Gratis11 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Flormar bedava kampanyası6 için gerekli urunler sepete eklenir.
 * Excelden degerler "1023610236","2","45" okunur ve "urunFiyatıToplam" sakla
@@ -1167,7 +1167,7 @@ Purchasing with Campaing7 Excel Golden Rose Flormar Oje - 1023610236
 tags:Gratis_Android_MagazadanTeslimatGoldenRoseAlanaFlormarOjeExcelKampanya7
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis8 login olunur.
+* Sepet ikonu ile Gratis12 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Flormar bedava kampanyası7 için gerekli urunler sepete eklenir.
 * Excelden degerler "1023610236","2","52" okunur ve "urunFiyatıToplam" sakla
@@ -1286,7 +1286,7 @@ Purchasing with Campaing5 Excel 200TL Pastel Y10 - 1022010220
 tags:Gratis_Android_AdreseTeslim200TLPastelY10ExcelKampanya5
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis6 login olunur.
+* Sepet ikonu ile Gratis10 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Pastel kampanyası5 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022010220","2","40" okunur ve "urunFiyatıToplam" sakla
@@ -1309,7 +1309,7 @@ Purchasing with Campaing6 Excel 200TL Pastel Y10 - 1022010220
 tags:Gratis_Android_MagazadanTeslimat200TLPastelY10ExcelKampanya6
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis7 login olunur.
+* Sepet ikonu ile Gratis11 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Pastel kampanyası6 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022010220","2","51" okunur ve "urunFiyatıToplam" sakla
@@ -1334,7 +1334,7 @@ Purchasing with Campaing7 Excel 200TL Pastel Y10 - 1022010220
 tags:Gratis_Android_AdreseTeslim200TLPastelY10ExcelKampanya7
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis8 login olunur.
+* Sepet ikonu ile Gratis12 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Pastel kampanyası7 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022010220","2","62" okunur ve "urunFiyatıToplam" sakla
@@ -1357,7 +1357,7 @@ Purchasing with Campaing8 Excel 200TL Pastel Y10 - 1022010220
 tags:Gratis_Android_AdreseTeslim200TLPastelY10ExcelKampanya8
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis9 login olunur.
+* Sepet ikonu ile Gratis13 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Pastel kampanyası8 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022010220","2","73" okunur ve "urunFiyatıToplam" sakla
@@ -1380,7 +1380,7 @@ Purchasing with Campaing9 Excel 200TL Pastel Y10 - 1022010220
 tags:Gratis_Android_MagazadanTeslimat200TLPastelY10ExcelKampanya9
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis6 login olunur.
+* Sepet ikonu ile Gratis14 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Pastel kampanyası9 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022010220","2","82" okunur ve "urunFiyatıToplam" sakla
@@ -1499,7 +1499,7 @@ Purchasing with Campaing5 Excel 250TL OralB Y10 - 1022910229
 tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya5
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis6 login olunur.
+* Sepet ikonu ile Gratis10 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * OralB kampanyası5 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022910229","2","26" okunur ve "urunFiyatıToplam" sakla
@@ -1522,7 +1522,7 @@ Purchasing with Campaing6 Excel 250TL OralB Y10 - 1022910229
 tags:Gratis_Android_MagazadanTeslimat250TLOralBY10ExcelKampanya6
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis7 login olunur.
+* Sepet ikonu ile Gratis11 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * OralB kampanyası6 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022910229","2","35" okunur ve "urunFiyatıToplam" sakla
@@ -1547,7 +1547,7 @@ Purchasing with Campaing7 Excel 250TL OralB Y10 - 1022910229
 tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya7
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis8 login olunur.
+* Sepet ikonu ile Gratis12 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * OralB kampanyası7 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022910229","2","44" okunur ve "urunFiyatıToplam" sakla
@@ -1570,7 +1570,7 @@ Purchasing with Campaing8 Excel 250TL OralB Y10 - 1022910229
 tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya8
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis9 login olunur.
+* Sepet ikonu ile Gratis13 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * OralB kampanyası8 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022910229","2","49" okunur ve "urunFiyatıToplam" sakla
@@ -1593,7 +1593,7 @@ Purchasing with Campaing9 Excel 250TL OralB Y10 - 1022910229
 tags:Gratis_Android_MagazadanTeslimat250TLOralBY10ExcelKampanya9
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis6 login olunur.
+* Sepet ikonu ile Gratis14 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * OralB kampanyası9 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022910229","2","53" okunur ve "urunFiyatıToplam" sakla
@@ -1618,7 +1618,7 @@ Purchasing with Campaing10 Excel 250TL OralB Y10 - 1022910229
 tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya10
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis7 login olunur.
+* Sepet ikonu ile Gratis6 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * OralB kampanyası10 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022910229","2","58" okunur ve "urunFiyatıToplam" sakla
@@ -1641,7 +1641,7 @@ Purchasing with Campaing11 Excel 250TL OralB Y10 - 1022910229
 tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya11
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis8 login olunur.
+* Sepet ikonu ile Gratis7 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * OralB kampanyası11 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022910229","2","67" okunur ve "urunFiyatıToplam" sakla
@@ -1664,7 +1664,7 @@ Purchasing with Campaing12 Excel 250TL OralB Y10 - 1022910229
 tags:Gratis_Android_MagazadanTeslimat250TLOralBY10ExcelKampanya12
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis9 login olunur.
+* Sepet ikonu ile Gratis8 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * OralB kampanyası12 için gerekli urunler sepete eklenir.
 * Excelden degerler "1022910229","2","74" okunur ve "urunFiyatıToplam" sakla
