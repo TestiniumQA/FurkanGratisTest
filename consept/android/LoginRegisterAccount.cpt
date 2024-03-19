@@ -437,6 +437,13 @@ This is a concept file with following syntax for each concept.
 * "favListSpinner" elementinin <yeniListe> textini içermediği kontrol edilir
 * "favListItem" değerini sayfa üzerinde olmadıgını kontrol et
 
+# Favori listesinde asagi scroll ve urun kontrolu yapilir.
+* Elementin yüklenmesini bekle "productDetailFromFavoriteList"
+* "15" kere aşağıya kaydır
+* "2" saniye bekle
+//* "productDetailFromFavoriteList" elementinin "Pastel Classic Ruj 62" textini içerdiği kontrol edilir
+* "productDetailFromFavoriteList" elementinin "Pastel Classic Ruj 62", "Derby Kil Maskesi 75 ml" veya "Gillette Permatik Banyo Kullan At Tıraş Bıçağı 5'li" textini içerdiği kontrol edilir
+
 # Favorilerden urun detay sayfasına gecilir.
 * Elementine tıkla "productDetailFromFavoriteList"
 * Elementin yüklenmesini bekle "1"

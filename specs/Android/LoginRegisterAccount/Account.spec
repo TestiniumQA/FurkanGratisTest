@@ -155,6 +155,16 @@ tags:Gratis_Android_AyniIsimdeListeOlusturma
 * Listeden yeni eklenen favori listesi secilir.
 * Favori listesi silinir.
 
+Scroll to Favorites Page
+------------------------
+tags:Gratis_Android_FavorilerSayfasiScroll
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Gratis14 ile login olunur.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Profil sayfasındaki Favori butonuna tiklanir.
+* Favori listesinde asagi scroll ve urun kontrolu yapilir.
+
 Address Warning Messages
 ------------------------
 tags:Gratis_Android_AdresUyariMesajlari

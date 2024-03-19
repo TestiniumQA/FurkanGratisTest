@@ -730,7 +730,21 @@ public class StepImpl extends HookImpl {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-    } @Step("<key> elementi <text> degerine esit mi")
+    }
+
+    @Step("<key> elementinin <text>, <text2> veya <text3> textini içerdiği kontrol edilir")
+    public void checkTextByKey(String key, String text, String text2, String text3) {
+        try {
+            Thread.sleep(3000);
+            String elementText = findElementByKey(key).getText();
+            System.out.println("******"+ elementText + "******");
+            assertTrue(elementText.contains(text) || elementText.contains(text2) || elementText.contains(text3), "Element beklenen değeri taşımıyor !");
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+
+    @Step("<key> elementi <text> degerine esit mi")
     public void checkTextEqualsByKey(String key, String text) {
         try {
             Thread.sleep(3000);

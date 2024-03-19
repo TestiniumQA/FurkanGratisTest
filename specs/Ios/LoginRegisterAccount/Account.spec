@@ -171,3 +171,13 @@ tags:Gratis_IOS_FavorilerdeMaximumSepeteEkleme
 * Ana sayfa tab'ına tıklanır
 * Ana sayfa sepet ikonuna tiklanir
 * Sepet kontrol edilerek temizlenir
+
+IOS Scenario Scroll to Favorites Page
+-------------------------------------
+tags:Gratis_IOS_FavorilerSayfasiScroll
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Gratis14 ile login olunur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Profil sayfasındaki Favorilerim ikonuna tiklanir
+* Favori listesinde asagi scroll ve urun kontrolu yapilir

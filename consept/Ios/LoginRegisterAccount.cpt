@@ -666,6 +666,14 @@
 * "EditListDropdownName" elementinin <yeniListe> textini içermediği kontrol edilir
 * Elementin yüklenmesini bekle "EmptyFavoriteList"
 
+# Favori listesinde asagi scroll ve urun kontrolu yapilir
+* Elementin yüklenmesini bekle "ProductDetailFromFavoriteListText"
+* "20" kere aşağıya kaydır
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "FavoriteScrollProduct"
+//* "FavoriteScrollProduct" elementinin "Derby Siyah Soyulabilen Maske 75 ml" textini içerdiği kontrol edilir
+* "FavoriteScrollProduct" elementinin "Gillette Permatik Banyo Kullan At Tıraş Bıçağı 5'li", "Derby Siyah Soyulabilen Maske 75 ml" veya "Derby Kil Maskesi 75 ml" textini içerdiği kontrol edilir
+
 # Favorilerden urun detay sayfasına gecilir
 * Elementin yüklenmesini bekle "ProductDetailFromFavoriteList"
 * Elementine tıkla "ProductDetailFromFavoriteList"

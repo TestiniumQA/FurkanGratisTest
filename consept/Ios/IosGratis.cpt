@@ -93,6 +93,16 @@
 * Elementine tıkla "girisYapBtn"
 * Elementin yüklenmesini bekle "profilim"
 
+# Gratis14 ile login olunur
+* "IOSmail" csv dosyasindan "6" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "EpostaInputAlani"
+* Elementin yüklenmesini bekle "sifreInputAlani"
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "EyeIcon"
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "profilim"
+
 # Kategoriler sayfasina gecilir
 * "kategorilerSekmesi" elementine sayacli tikla "kategorilerNavbar" value degerini bekle
 
