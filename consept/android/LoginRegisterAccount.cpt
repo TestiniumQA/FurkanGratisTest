@@ -439,7 +439,7 @@ This is a concept file with following syntax for each concept.
 
 # Favori listesinde asagi scroll ve urun kontrolu yapilir.
 * Elementin yüklenmesini bekle "productDetailFromFavoriteList"
-* "15" kere aşağıya kaydır
+* "20" kere aşağıya kaydır
 * "2" saniye bekle
 //* "productDetailFromFavoriteList" elementinin "Pastel Classic Ruj 62" textini içerdiği kontrol edilir
 * "productDetailFromFavoriteList" elementinin "Pastel Classic Ruj 62", "Derby Kil Maskesi 75 ml" veya "Gillette Permatik Banyo Kullan At Tıraş Bıçağı 5'li" textini içerdiği kontrol edilir
