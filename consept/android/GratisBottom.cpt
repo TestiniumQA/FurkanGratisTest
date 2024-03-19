@@ -23,18 +23,20 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 
 # Birinci indirim kampanyasına tiklanir.
-* "%50indirim"li elementi bulana kadar "3" kere swipe yap ve elementi bul
-* "%50indirim" elementinin koordinatlarına x="0" y="200" degerlerini ekleyerek tıkla
+* "birinciIndirim"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Elementine tıkla "birinciIndirim"
 * Elementin yüklenmesini bekle "toolbarUrunler"
+* Elementin yüklenmesini bekle "productName"
 * "2" saniye bekle
 * Elementine tıkla "geriBtn"
 
 # İkinci indirim kampanyasına tiklanir.
 * Elementin yüklenmesini bekle "kampanyaSec"
-* "3" kere aşağıya kaydır
-* Elementin yüklenmesini bekle "%60indirim"
-* "%60indirim" elementinin koordinatlarına x="0" y="200" degerlerini ekleyerek tıkla
+* "2" kere aşağıya kaydır
+* Elementin yüklenmesini bekle "ikinciIndirim"
+* Elementine tıkla "ikinciIndirim"
 * Elementin yüklenmesini bekle "toolbarUrunler"
+* Elementin yüklenmesini bekle "productName"
 * "2" saniye bekle
 * Elementine tıkla "geriBtn"
 

@@ -1038,6 +1038,16 @@
     "androidType": "xpath"
   },
   {
+    "key": "birinciIndirim",
+    "androidValue": "//*[@resource-id='com.gratis.android:id/campaign_root']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "ikinciIndirim",
+    "androidValue": "(//*[@resource-id='com.gratis.android:id/campaign_root'])[2]",
+    "androidType": "xpath"
+  },
+  {
     "key": "trademark",
     "androidValue": "com.gratis.android:id/root_view",
     "androidType": "id"

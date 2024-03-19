@@ -15,16 +15,16 @@ tags:Gratis_IOS_KampanyalarSlideVeTiklama
 //* Birinci indirim kampanyasına tiklanir
 //* İkinci indirim kampanyasına tiklanir
 
-IOS Scenario %50 Campaign Slide And Click
------------------------------------------
-tags:Gratis_IOS_KampanyalarTiklama%50Indirim
+IOS Scenario First Campaign Slide And Click
+-------------------------------------------
+tags:Gratis_IOS_KampanyalarTiklamaBirinciIndirim
 * Uygulama baslatilir
 * Kampanyalar sayfasi acilir
 * Birinci indirim kampanyasına tiklanir
 
-IOS Scenario %60 Campaign Slide And Click
------------------------------------------
-tags:Gratis_IOS_KampanyalarTiklama%60Indirim
+IOS Scenario Second Campaign Slide And Click
+--------------------------------------------
+tags:Gratis_IOS_KampanyalarTiklamaİkinciIndirim
 * Uygulama baslatilir
 * Kampanyalar sayfasi acilir
 * İkinci indirim kampanyasına tiklanir
