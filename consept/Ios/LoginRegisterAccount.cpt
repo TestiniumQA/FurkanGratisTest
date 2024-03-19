@@ -668,7 +668,7 @@
 
 # Favori listesinde asagi scroll ve urun kontrolu yapilir
 * Elementin yüklenmesini bekle "ProductDetailFromFavoriteListText"
-* "20" kere aşağıya kaydır
+* "22" kere aşağıya kaydır
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "FavoriteScrollProduct"
 //* "FavoriteScrollProduct" elementinin "Derby Siyah Soyulabilen Maske 75 ml" textini içerdiği kontrol edilir
