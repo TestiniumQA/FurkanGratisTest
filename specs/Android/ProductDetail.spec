@@ -125,13 +125,13 @@ tags:Gratis_Android_UrunDetayAltBarYorum
 * Uygulama baslatilir.
 * Search ikonuna tiklanir.
 * Arama sayfasinin acildigi gorulur.
-* Urun adi "10039453" yazilir, arama yapilir.
+* Urun adi "10058755" yazilir, arama yapilir.
 * Ürün detay yorumlar alanina gecilir.
 * Yorum yap ikonu ile Gratis1 login olunur.
 * Yorum penceresi kapatilir ve anasayfaya gecilir.
 * Search ikonuna tiklanir.
 * Arama sayfasinin acildigi gorulur.
-* Urun adi "10223323" yazilir, arama yapilir.
+* Urun adi "10039430" yazilir, arama yapilir.
 * Ürün detay yorumlar 2 alanina gecilir.
 * Yorum yazin alanina tiklanir pencere kontrol edilir.
 * Basarili sekilde urun yorum uyarısı kontrol edilir.
