@@ -43,8 +43,8 @@ tags:Gratis_Android_DigerTab
 * Diger tabina tiklanir.
 * Diğer alaninda Gratis Beauty sayfasina gecilir.
 * Kariyer sayfasina gecilir.
-* Iletisim sayfasina gecilir.
-* Iletisim numarasına tiklanir.
+//* Iletisim sayfasina gecilir.
+//* Iletisim numarasına tiklanir.
 * Uyelik Sozlesmesi sayfasina gecilir.
 * Gizlilik ve Guvenlik sayfasina gecilir.
 * Kullanim kosullari sayfasina gecilir.
