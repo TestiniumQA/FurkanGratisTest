@@ -299,7 +299,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "catalogBtn"
 * Elementine tıkla "catalogBtn"
 * "4" saniye bekle
-* "beautyPopup" li element varsa tıkla
+* "beautyPopupTwo" li element varsa tıkla
 * Elementin yüklenmesini bekle "catalogOptions"
 * "1" saniye bekle
 
