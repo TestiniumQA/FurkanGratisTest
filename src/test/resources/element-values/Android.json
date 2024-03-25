@@ -1384,8 +1384,8 @@
   },
   {
     "key": "beautyPopup",
-    "androidValue": "//*[@text='X']",
-    "androidType": "xpath"
+    "androidValue": "android.widget.Image",
+    "androidType": "class"
   },
   {
     "key": "sortByMost",
