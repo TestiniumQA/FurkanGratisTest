@@ -1383,6 +1383,11 @@
     "androidType": "id"
   },
   {
+    "key": "beautyPopupTwo",
+    "androidValue": "//android.view.View[@text='X']",
+    "androidType": "xpath"
+  },
+  {
     "key": "beautyPopup",
     "androidValue": "android.widget.Image",
     "androidType": "class"
