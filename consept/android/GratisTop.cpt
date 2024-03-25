@@ -85,36 +85,36 @@ This is a concept file with following syntax for each concept.
 * "AndroidMail" csv dosyasindan rastgele kullanici sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
-* "beautyPopup" li element varsa tıkla yoksa devam et
 * "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Sepet ikonu ile Gratis1 login olunur.
 * "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
-* "beautyPopup" li element varsa tıkla yoksa devam et
 * "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Sepet ikonu ile Gratis2 login olunur.
 * "AndroidMail" csv dosyasindan "2" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
-* "beautyPopup" li element varsa tıkla yoksa devam et
 * "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Sepet ikonu ile Gratis3 login olunur.
 * "AndroidMail" csv dosyasindan "3" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
-* "beautyPopup" li element varsa tıkla yoksa devam et
 * "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Sepet ikonu ile Gratis4 login olunur.
 * "AndroidMail" csv dosyasindan "4" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
-* "beautyPopup" li element varsa tıkla yoksa devam et
 * "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Sepet ikonu ile Gratis6 login olunur.
 * "AndroidMail" csv dosyasindan "6" numaralı kullaniciyi sec
