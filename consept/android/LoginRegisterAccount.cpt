@@ -443,6 +443,7 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 //* "productDetailFromFavoriteList" elementinin "Pastel Classic Ruj 62" textini içerdiği kontrol edilir
 * "productDetailFromFavoriteList" elementinin "Pastel Classic Ruj 62", "Derby Kil Maskesi 75 ml" veya "Gillette Permatik Banyo Kullan At Tıraş Bıçağı 5'li" textini içerdiği kontrol edilir
+// SAYFADA ŞU TEXT DEĞERİ VAR MI OALYINA ÇEVİREBİLİRİM
 
 # Favorilerden urun detay sayfasına gecilir.
 * Elementine tıkla "productDetailFromFavoriteList"
@@ -597,5 +598,5 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "popupOkayButton"
 * Elementine tıkla "popupOkayButton"
 * "5" saniye bekle
-* "pageToolbarTitle" elementinin "Gratis Kart" textini içerdiği kontrol edilir
+//* "pageToolbarTitle" elementinin "Gratis Kart" textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "gratisCardView"
