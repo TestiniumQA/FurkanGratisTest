@@ -1384,7 +1384,7 @@
   },
   {
     "key": "beautyPopup",
-    "androidValue": "//android.view.View[@text='X']",
+    "androidValue": "//*[@text='X']",
     "androidType": "xpath"
   },
   {
