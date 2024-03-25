@@ -121,54 +121,63 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
 * "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Sepet ikonu ile Gratis7 login olunur.
 * "AndroidMail" csv dosyasindan "7" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
 * "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Sepet ikonu ile Gratis8 login olunur.
 * "AndroidMail" csv dosyasindan "8" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
 * "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Sepet ikonu ile Gratis9 login olunur.
 * "AndroidMail" csv dosyasindan "9" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
 * "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Sepet ikonu ile Gratis10 login olunur.
 * "AndroidMail" csv dosyasindan "10" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
 * "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Sepet ikonu ile Gratis11 login olunur.
 * "AndroidMail" csv dosyasindan "11" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
 * "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Sepet ikonu ile Gratis12 login olunur.
 * "AndroidMail" csv dosyasindan "12" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
 * "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Sepet ikonu ile Gratis13 login olunur.
 * "AndroidMail" csv dosyasindan "13" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
 * "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Sepet ikonu ile Gratis14 login olunur.
 * "AndroidMail" csv dosyasindan "14" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
 * "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Sepet ikonu ile Gratis0 login olunur.
 * "AndroidMail" csv dosyasindan "0" numaralı kullaniciyi sec
