@@ -15,6 +15,7 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
 * "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 
 # Gratis1 ile login olunur.
@@ -22,6 +23,7 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
 * "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 
 # Gratis2 ile login olunur.
@@ -29,6 +31,7 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
 * "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 
 # Gratis3 ile login olunur.
@@ -36,6 +39,7 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
 * "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 
 # Gratis4 ile login olunur.
@@ -43,6 +47,7 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
 * "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 
 # Gratis0 ile login olunur.
@@ -50,6 +55,7 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
 * "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 
 # Gratis14 ile login olunur.
@@ -57,6 +63,7 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
 * "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 
 # Gratis5 ile login olunur.
@@ -64,6 +71,7 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
 * "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 //* "2" saniye bekle
 //* "beautyPopup" li element varsa tıkla
