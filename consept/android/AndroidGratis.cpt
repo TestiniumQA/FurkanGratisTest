@@ -14,7 +14,7 @@ This is a concept file with following syntax for each concept.
 * "AndroidMail" csv dosyasindan rastgele kullanici sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
-* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "loginBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 
@@ -22,7 +22,7 @@ This is a concept file with following syntax for each concept.
 * "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
-* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "loginBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 
@@ -30,7 +30,7 @@ This is a concept file with following syntax for each concept.
 * "AndroidMail" csv dosyasindan "2" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
-* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "loginBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 
@@ -38,7 +38,7 @@ This is a concept file with following syntax for each concept.
 * "AndroidMail" csv dosyasindan "3" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
-* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "loginBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 
@@ -46,7 +46,7 @@ This is a concept file with following syntax for each concept.
 * "AndroidMail" csv dosyasindan "4" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
-* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "loginBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 
@@ -54,7 +54,7 @@ This is a concept file with following syntax for each concept.
 * "AndroidMail" csv dosyasindan "0" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
-* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "loginBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 
@@ -62,7 +62,7 @@ This is a concept file with following syntax for each concept.
 * "AndroidMail" csv dosyasindan "14" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
-* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "loginBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 
@@ -70,7 +70,7 @@ This is a concept file with following syntax for each concept.
 * "AndroidMail" csv dosyasindan "5" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
-* "loginBtn" elementine sayacli tikla "digerTab" value degerini bekle
+* Elementine tıkla "loginBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 //* "2" saniye bekle
