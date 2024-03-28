@@ -599,4 +599,5 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "popupOkayButton"
 * "5" saniye bekle
 //* "pageToolbarTitle" elementinin "Gratis Kart" textini içerdiği kontrol edilir
-* Elementin yüklenmesini bekle "gratisCardView"
+//* Elementin yüklenmesini bekle "gratisCardView"
+//Sonra güncelle
