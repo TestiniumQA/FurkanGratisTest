@@ -153,8 +153,6 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "bosFavoriListesi"
 
 # Uygulamadan cikis yapilir.
-* Geri butonuna bas
-* "1" saniye bekle
 * "digerTab" elementine sayacli tikla "profilTab" value degerini bekle
 * "1" kere aşağıya kaydır
 * "cikisYapButon"li elementi bulana kadar "3" kere swipe yap ve elementi bul
