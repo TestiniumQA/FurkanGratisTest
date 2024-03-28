@@ -179,7 +179,7 @@ This is a concept file with following syntax for each concept.
 * "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
 
 # En Son Gezdiklerim alanına gidilir.
-* "4" kere aşağıya kaydır
+* "6" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "key"
 * "visitedAddBtn"li elementi bulana kadar "10" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "visitedAddBtn"
