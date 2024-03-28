@@ -2054,7 +2054,7 @@
   },
   {
     "key": "productCommentTwo",
-    "androidValue": "//*[@content-desc='Yorumlar (1)']",
+    "androidValue": "//*[@content-desc='Yorumlar (3)']",
     "androidType": "xpath"
   },
   {
