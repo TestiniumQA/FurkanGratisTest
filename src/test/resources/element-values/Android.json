@@ -802,7 +802,7 @@
   },
   {
     "key": "addListPopupTitle",
-    "androidValue": "//*[@text='YENİ LİSTE OLUŞTUR']",
+    "androidValue": "//*[@text='Yeni Liste Oluştur']",
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
