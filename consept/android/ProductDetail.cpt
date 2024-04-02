@@ -1260,7 +1260,7 @@ This is a concept file with following syntax for each concept.
 * Uygulama geri butonuna bas.
 * Ana sayfa tab'ına tıklanır.
 * Excelden "1022410224","1","64" saklanan urun kodu aramasi yapilir.
-* Ürün detay sayfasinda urun sepete eklenir
+* Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır
 
 # Fondoten5TL kampanyası9 için gerekli urunler sepete eklenir.
