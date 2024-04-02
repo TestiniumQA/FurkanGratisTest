@@ -1924,9 +1924,9 @@ This is a concept file with following syntax for each concept.
 * Ana sayfa tab'ına tıklanır.
 * Excelden "1023610236","1","22" saklanan urun kodu aramasi yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
-* Alışverişe devam edilir
-* Uygulama geri butonuna bas
-* Ana sayfa tab'ına tıklanır
+* Alışverişe devam edilir.
+* Uygulama geri butonuna bas.
+* Ana sayfa tab'ına tıklanır.
 * Excelden "1023610236","1","23" saklanan urun kodu aramasi yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Alışverişe devam edilir.
