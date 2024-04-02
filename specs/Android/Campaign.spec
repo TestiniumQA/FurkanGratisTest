@@ -393,11 +393,11 @@ tags:Gratis_Android_AdreseTeslim300TLSepeteJel10ExcelKampanya1
 * Sepet ikonu ile Gratis6 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Jel kampanyası1 için gerekli urunler sepete eklenir.
-* Excelden degerler "1022510225","2","2" okunur ve "urunFiyatıToplam" sakla
-* Excelden degerler "1022510225","3","2" okunur ve "promosyonToplam" sakla
-* Excelden degerler "1022510225","4","2" okunur ve "araToplam" sakla
-* Excelden degerler "1022510225","5","2" okunur ve "kargoToplam" sakla
-* Excelden degerler "1022510225","6","2" okunur ve "odenecekToplam" sakla
+* Excelden degerler "1022310223","2","2" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022310223","3","2" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022310223","4","2" okunur ve "araToplam" sakla
+* Excelden degerler "1022310223","5","2" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022310223","6","2" okunur ve "odenecekToplam" sakla
 //* Sepet kasa arkasi popup'i varsa kapatilir.
 * Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Adrese Teslim butonuna tıklanır.
@@ -416,11 +416,11 @@ tags:Gratis_Android_MagazadanTeslimat300TLSepeteJel10ExcelKampanya2
 * Sepet ikonu ile Gratis7 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Jel kampanyası2 için gerekli urunler sepete eklenir.
-* Excelden degerler "1022510225","2","11" okunur ve "urunFiyatıToplam" sakla
-* Excelden degerler "1022510225","3","11" okunur ve "promosyonToplam" sakla
-* Excelden degerler "1022510225","4","11" okunur ve "araToplam" sakla
-* Excelden degerler "1022510225","5","11" okunur ve "kargoToplam" sakla
-* Excelden degerler "1022510225","6","11" okunur ve "odenecekToplam" sakla
+* Excelden degerler "1022310223","2","11" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022310223","3","11" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022310223","4","11" okunur ve "araToplam" sakla
+* Excelden degerler "1022310223","5","11" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022310223","6","11" okunur ve "odenecekToplam" sakla
 //* Sepet kasa arkasi popup'i varsa kapatilir.
 * Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -441,11 +441,11 @@ tags:Gratis_Android_AdreseTeslim300TLSepeteJel10ExcelKampanya3
 * Sepet ikonu ile Gratis8 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Jel kampanyası3 için gerekli urunler sepete eklenir.
-* Excelden degerler "1022510225","2","17" okunur ve "urunFiyatıToplam" sakla
-* Excelden degerler "1022510225","3","17" okunur ve "promosyonToplam" sakla
-* Excelden degerler "1022510225","4","17" okunur ve "araToplam" sakla
-* Excelden degerler "1022510225","5","17" okunur ve "kargoToplam" sakla
-* Excelden degerler "1022510225","6","17" okunur ve "odenecekToplam" sakla
+* Excelden degerler "1022310223","2","17" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022310223","3","17" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022310223","4","17" okunur ve "araToplam" sakla
+* Excelden degerler "1022310223","5","17" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022310223","6","17" okunur ve "odenecekToplam" sakla
 //* Sepet kasa arkasi popup'i varsa kapatilir.
 * Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Adrese Teslim butonuna tıklanır.
@@ -464,11 +464,11 @@ tags:Gratis_Android_MagazadanTeslimat300TLSepeteJel10ExcelKampanya4
 * Sepet ikonu ile Gratis9 login olunur.
 * Kampanya sepeti kontrol edilerek temizlenir.
 * Jel kampanyası4 için gerekli urunler sepete eklenir.
-* Excelden degerler "1022510225","2","24" okunur ve "urunFiyatıToplam" sakla
-* Excelden degerler "1022510225","3","24" okunur ve "promosyonToplam" sakla
-* Excelden degerler "1022510225","4","24" okunur ve "araToplam" sakla
-* Excelden degerler "1022510225","5","24" okunur ve "kargoToplam" sakla
-* Excelden degerler "1022510225","6","24" okunur ve "odenecekToplam" sakla
+* Excelden degerler "1022310223","2","24" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1022310223","3","24" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1022310223","4","24" okunur ve "araToplam" sakla
+* Excelden degerler "1022310223","5","24" okunur ve "kargoToplam" sakla
+* Excelden degerler "1022310223","6","24" okunur ve "odenecekToplam" sakla
 //* Sepet kasa arkasi popup'i varsa kapatilir.
 * Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
