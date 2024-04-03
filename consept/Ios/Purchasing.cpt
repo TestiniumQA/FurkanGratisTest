@@ -48,6 +48,7 @@
 * "ShippingNewAddressCustomerAddressTitle" li elementi bul ve değerini "AdresIsmi" olarak sakla
 * Adres Ekle Sehir ismi secilir
 * Adres Ekle Ilce ismi secilir
+* "1" kere aşağıya kaydır
 * Adres Ekle Mahalle ismi secilir
 * Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir
 
@@ -96,6 +97,7 @@
 * Fatura bilgileri için Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir
 * Fatura bilgileri şehir ismi secilir
 * Fatura bilgileri ilce ismi secilir
+* "1" kere aşağıya kaydır
 * Fatura bilgileri mahalle ismi secilir
 * Fatura bilgileri icin Adres Detay ve Posta Kodu bilgileri girilir
 
