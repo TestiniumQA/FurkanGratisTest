@@ -78,7 +78,7 @@
 # Hizli scroll harflerine basılır ve listeden bir marka secilir
 * Elementin yüklenmesini bekle "FastScroller"
 * "2" saniye bekle
-* Elementin yüklenmesini bekle "FastScroller"
+//* Elementin yüklenmesini bekle "FastScroller"
 * "FastScroller" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "2" saniye bekle
 * "ElementListFour" elementi bulunana kadar en fazla "25" saniye kadar bekle

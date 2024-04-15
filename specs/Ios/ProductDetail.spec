@@ -21,7 +21,7 @@ tags:Gratis_IOS_UrunDetayRenkSecimi
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Likit Ruj" seçilir
 * Urun detay sayfasına geçilir
 * Ürünün renk tonu değiştirilir
 
@@ -172,7 +172,7 @@ tags:Gratis_IOS_UrunDetayAltBarYorum
 * Uygulama baslatilir
 * Search ikonuna tiklanir
 * Arama sayfasinin acildigi gorulur
-* Urun adi "10039453" yazilir, arama yapilir
+* Urun adi "10428073" yazilir, arama yapilir
 * Ürün detay yorumlar alanina gecilir
 * Yorum yap ikonu ile Gratis0 login olunur
 * Yorum penceresi kapatilir ve anasayfaya gecilir
