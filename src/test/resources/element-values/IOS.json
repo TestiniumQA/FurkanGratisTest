@@ -1907,21 +1907,21 @@
     "key": "CatalogPagesBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeLink[`label == \"Bu yayındaki sayfaların listesi olarak sayfaya genel bakış\"`][1]",
+    "iosValue": "**/XCUIElementTypeMenuItem[`label == 'Bu yayındaki sayfaların listesi olarak sayfaya genel bakış'`]",
     "iosType": "classChain"
   },
   {
     "key": "CatalogPages",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeMenuItem[@name='10-11. sayfa']",
+    "iosValue": "//XCUIElementTypeStaticText[@name='10-11']",
     "iosType": "xpath"
   },
   {
     "key": "CatalogFav",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeLink[`label == \"Paylaşılacak ürünlerin listesi olarak favorilerim\"`]",
+    "iosValue": "**/XCUIElementTypeMenuItem[`label == 'Paylaşılacak ürünlerin listesi olarak favorilerim'`]",
     "iosType": "classChain"
   },
   {
@@ -1935,7 +1935,7 @@
     "key": "CatalogPdf",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeLink[`label == \"Bu yayını PDF olarak indirin (erişilebilir)\"`][1]",
+    "iosValue": "**/XCUIElementTypeMenuItem[`label == 'Bu yayını PDF olarak indirin (erişilebilir)'`]",
     "iosType": "classChain"
   },
   {
