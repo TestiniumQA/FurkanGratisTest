@@ -64,8 +64,8 @@ tags:Gratis_IOS_UrunDetaySepeteEkleme
 * Login sayfasina gecilir
 * Gratis3 ile login olunur
 * Kategoriler sayfasina gecilir
-* "Cilt Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "El Bakımı", "Vazelin" seçilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Kalem Ruj" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detayda "3" kadar ürün adedi seçilir
 * Ürün detay sayfasinda urun sepete eklenir
@@ -84,8 +84,8 @@ tags:Gratis_IOS_UrunDetayMaximumSepeteEkleme
 * Sepet ikonu ile Gratis3 login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
-* "Cilt Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "El Bakımı", "Vazelin" seçilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Kalem Ruj" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detayda "3" kadar ürün adedi seçilir
 * Ürün detay sayfasinda urun sepete eklenir
