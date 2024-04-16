@@ -47,8 +47,8 @@ IOS Scenario Piece Select and Non-Login Add To Cart and Go To Cart
 tags:Gratis_IOS_UrunDetayAdetSecimiNonLoginSepeteGit
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
-* "Cilt Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "El Bakımı", "Vazelin" seçilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Kalem Ruj" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detayda "3" kadar ürün adedi seçilir
 * Non-Login ürün detay sayfasinda urun sepete eklenir
