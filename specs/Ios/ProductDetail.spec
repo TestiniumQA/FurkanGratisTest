@@ -21,7 +21,7 @@ tags:Gratis_IOS_UrunDetayRenkSecimi
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Dudak Makyajı", "Likit Ruj" seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Kalem Ruj" seçilir
 * Urun detay sayfasına geçilir
 * Ürünün renk tonu değiştirilir
 
