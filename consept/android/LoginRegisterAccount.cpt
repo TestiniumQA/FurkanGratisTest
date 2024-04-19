@@ -420,7 +420,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "favListSpinner"
 * Element var mı kontrol et "newFavListElement"
 * <yeniListe> text degerine sahip elemente tikla.
-//* "favListSpinner" elementinin <yeniListe> textini içerdiği kontrol edilir
+* "favListSpinner" elementinin <yeniListe> textini içerdiği kontrol edilir
 * "productDetailFromFavoriteList" li elementin text degeri hafizada "ürün adı" olarak saklanan text ile esit mi kontrol et
 
 # Favori listesi silinir.
@@ -434,7 +434,7 @@ This is a concept file with following syntax for each concept.
 * "favCikar" değerini sayfa üzerinde olmadıgını kontrol et
 
 # <yeniListe> isimli favori listesi silindiği kontrol edilir.
-//* "favListSpinner" elementinin <yeniListe> textini içermediği kontrol edilir
+* "favListSpinner" elementinin <yeniListe> textini içermediği kontrol edilir
 * "favListItem" değerini sayfa üzerinde olmadıgını kontrol et
 
 # Favori listesinde asagi scroll ve urun kontrolu yapilir.
