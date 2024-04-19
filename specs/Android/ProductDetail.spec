@@ -95,6 +95,7 @@ tags:Gratis_Android_UrunDetayNonLoginFavori
 * Ürün detay sayfasında ürün favori butonuna tıklanır.
 * Favori ikonu ile Gratis0 login olunur.
 * Urun favorilere eklenir.
+* "geriBtn" li element varsa tıkla yoksa devam et
 * Uygulamadan cikis yapilir.
 * Kategoriler sayfasina gecilir.
 * "Ev & Yaşam" isimli kategori seçilir.
@@ -131,7 +132,8 @@ tags:Gratis_Android_UrunDetayAltBarYorum
 * Yorum penceresi kapatilir ve anasayfaya gecilir.
 * Search ikonuna tiklanir.
 * Arama sayfasinin acildigi gorulur.
-* Urun adi "10039430" yazilir, arama yapilir.
+//* Urun adi "10039430" yazilir, arama yapilir.
+* Urun adi "10042106" yazilir, arama yapilir.
 * Ürün detay yorumlar 2 alanina gecilir.
 * Yorum yazin alanina tiklanir pencere kontrol edilir.
 * Basarili sekilde urun yorum uyarısı kontrol edilir.
