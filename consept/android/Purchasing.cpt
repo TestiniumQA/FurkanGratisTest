@@ -18,10 +18,10 @@ This is a concept file with following syntax for each concept.
 # Tek ürünün ve toplam fiyatın kontrolü yapılır.
 //* "productCartName" li elementi bul ve değerini "urun1" olarak sakla
 //* "productSecondCartName" li elementi bul ve değerini "urun2" olarak sakla
-* "priceTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
-* "priceOne" li elementi bul ve değerini "fiyat1" olarak sakla
+//* "priceTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
+//* "priceOne" li elementi bul ve değerini "fiyat1" olarak sakla
 * "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
-* Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "salePriceOne", "salePriceTwo" ile eşit mi kontrol et
+//* Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "salePriceOne", "salePriceTwo" ile eşit mi kontrol et
 * Elementine tıkla "continueBtn"
 
 # Adrese Teslim butonuna tıklanır.
