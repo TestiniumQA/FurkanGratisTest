@@ -10,7 +10,11 @@ Gratis Card Discount Product Add To Cart
 tags:Gratis_Android_GratisKartliUrunSepeteEkleme
 * Ana sayfa sepet ikonuna tiklanir.
 * Sepet ikonu ile Gratis0 login olunur.
+* Sepet kontrol edilerek temizlenir.
 * Ana sayfa tab'ına tıklanır.
+* Kategoriler sayfasina gecilir.
+* "Makyaj" isimli kategori seçilir.
+* Alt kategorilerden biri "Göz Makyajı", "Maskara" seçilir.
 * Gratis Kart indirimli urun sepete eklenir.
 
 Cart Popup Slider And Add To Cart

@@ -13,7 +13,7 @@ tags:Gratis_Android_KampanyalarSlideVeTiklama
 * Kampanyalar swipe edilir.
 * Kampanyaya tiklanir.
 * Birinci indirim kampanyasına tiklanir.
-* İkinci indirim kampanyasına tiklanir.
+//* İkinci indirim kampanyasına tiklanir.
 
 TradeMarks
 ----------

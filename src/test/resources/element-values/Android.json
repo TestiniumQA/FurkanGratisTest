@@ -424,8 +424,8 @@
   },
   {
     "key": "myPasswordOldPassword",
-    "androidValue": "old_password_et",
-    "androidType": "id",
+    "androidValue": "(//*[@class='android.widget.EditText'])[1]",
+    "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
   },
@@ -948,6 +948,13 @@
     "iosType": ""
   },
   {
+    "key": "shoppingItemFavBtnTwo",
+    "androidValue": "(//*[@class='android.widget.ImageView'])[4]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
     "key": "cartPopupProduct",
     "androidValue": "com.gratis.android:id/item_cart_back_root",
     "androidType": "id"
@@ -1294,17 +1301,17 @@
   },
   {
     "key": "catalogPagesBtn",
-    "androidValue": "//*[@text='Sayfa genel bakış']",
-    "androidType": "xpath"
+    "androidValue": "android.view.MenuItem",
+    "androidType": "class"
   },
   {
     "key": "catalogPages",
-    "androidValue": "//*[@text='26-27. sayfa']",
+    "androidValue": "//*[@text='26-27']",
     "androidType": "xpath"
   },
   {
     "key": "catalogPdf",
-    "androidValue": "//*[@text='PDF Indir']",
+    "androidValue": "(//*[@class='android.view.MenuItem'])[2]",
     "androidType": "xpath"
   },
   {
@@ -1329,6 +1336,11 @@
   },
   {
     "key": "catalogFav",
+    "androidValue": "(//*[@class='android.view.MenuItem'])[3]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "catalogFavPage",
     "androidValue": "//*[@text='Favorilerim']",
     "androidType": "xpath"
   },
@@ -2074,8 +2086,8 @@
   },
   {
     "key": "reviewInputComment",
-    "androidValue": "reviewEt",
-    "androidType": "id"
+    "androidValue": "android.widget.EditText",
+    "androidType": "class"
   },
   {
     "key": "commentNameCheckbox",

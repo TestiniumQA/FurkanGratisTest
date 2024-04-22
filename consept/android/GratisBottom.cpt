@@ -323,7 +323,7 @@ This is a concept file with following syntax for each concept.
 * "3" saniye bekle
 * Elementin yüklenmesini bekle "catalogPagesBtn"
 * Elementine tıkla "catalogPagesBtn"
-* "4" kere aşağıya kaydır
+* "3" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "catalogPages"
 * Elementine tıkla "catalogPages"
 
@@ -336,7 +336,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "catalogOptions"
 * Element var mı kontrol et "catalogFav"
 * Elementine tıkla "catalogFav"
-* Element var mı kontrol et "catalogFav"
+* Element var mı kontrol et "catalogFavPage"
 * Elementine tıkla "catalogFavClose"
 
 # Sırala butonuna tıklanır.

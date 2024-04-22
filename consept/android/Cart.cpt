@@ -2,7 +2,8 @@ Created by testinium on 20.06.2023
 
 This is a concept file with following syntax for each concept.
 # Gratis Kart indirimli urun sepete eklenir.
-* Elementin yüklenmesini bekle "kampanyaSec"
+//* Elementin yüklenmesini bekle "kampanyaSec"
+* Elementin yüklenmesini bekle "productName"
 * "1" kere aşağıya kaydır
 * "gratisCardPrice"li elementi bulana kadar "2" kere swipe yap ve elementi bul
 * "productAddButton"li elementi bulana kadar "2" kere swipe yap ve elementi bul
