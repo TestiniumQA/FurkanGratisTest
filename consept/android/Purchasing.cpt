@@ -18,10 +18,10 @@ This is a concept file with following syntax for each concept.
 # Tek ürünün ve toplam fiyatın kontrolü yapılır.
 //* "productCartName" li elementi bul ve değerini "urun1" olarak sakla
 //* "productSecondCartName" li elementi bul ve değerini "urun2" olarak sakla
-//* "priceTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
-//* "priceOne" li elementi bul ve değerini "fiyat1" olarak sakla
+* "priceTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
+* "priceOne" li elementi bul ve değerini "fiyat1" olarak sakla
 * "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
-//* Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "salePriceOne", "salePriceTwo" ile eşit mi kontrol et
+* Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "salePriceOne", "salePriceTwo" ile eşit mi kontrol et
 * Elementine tıkla "continueBtn"
 
 # Adrese Teslim butonuna tıklanır.
@@ -246,12 +246,12 @@ This is a concept file with following syntax for each concept.
 # Iyzico alanı fiyat kontrol edilir.
 * "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 * "2" saniye bekle
-//* Saklanan fiyat değerlerini kargo indirimine bağlı "ilkKüsür", "ikinciKüsür", "fiyat1", "fiyat2" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
+* Saklanan fiyat değerlerini kargo indirimine bağlı "ilkKüsür", "ikinciKüsür", "fiyat1", "fiyat2" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
 
 # Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 * "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 * "3" saniye bekle
-//* Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
+* Saklanan tek ürün fiyat değerlerini "ilkKüsür", "fiyat1" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
 
 # Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 * "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
