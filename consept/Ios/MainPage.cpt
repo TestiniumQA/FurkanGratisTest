@@ -33,14 +33,14 @@
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "2" saniye bekle
-* Elementin yüklenmesini bekle "ProductName"
-* Elementine tıkla "ProductName"
-* "2" saniye bekle
-* Elementin yüklenmesini bekle "ProductDetailTitle"
-* "2" saniye bekle
-* Elementin yüklenmesini bekle "geriBtn"
-* Elementine tıkla "geriBtn"
-* "3" saniye bekle
+//* Elementin yüklenmesini bekle "ProductName"
+//* Elementine tıkla "ProductName"
+//* "2" saniye bekle
+//* Elementin yüklenmesini bekle "ProductDetailTitle"
+//* "2" saniye bekle
+//* Elementin yüklenmesini bekle "geriBtn"
+//* Elementine tıkla "geriBtn"
+//* "3" saniye bekle
 
 # Ana sayfa kampanyalarina tiklanir
 * "1" kere aşağıya kaydır
