@@ -1836,7 +1836,7 @@
   },
   {
     "key": "otherRadioCheckedBtn",
-    "androidValue": "//*[@resource-id='com.gratis.android:id/otherRadioBtn'][@checked='true']",
+    "androidValue": "//*[@resource-id='com.gratis.android:id/otherRadioBtn'][@checkable='true']",
     "androidType": "xpath"
   },
   {
