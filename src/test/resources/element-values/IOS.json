@@ -329,6 +329,13 @@
     "iosType": "classChain"
   },
   {
+    "key": "uygulamaKullanirkenTakipIzinver",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"Takip Etmeye İzin Ver\"`]",
+    "iosType": "classChain"
+  },
+  {
     "key": "ForgotPasswordIos",
     "androidValue": "",
     "androidType": "",

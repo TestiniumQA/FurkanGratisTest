@@ -1,4 +1,5 @@
 # Uygulama baslatilir
+* "uygulamaKullanirkenTakipIzinver" li element varsa tıkla
 * "uygulamaIzinver" li element varsa tıkla
 * "1" saniye bekle
 //* "LocationPermissionBtn" li element varsa tıkla yoksa devam et
