@@ -439,11 +439,9 @@ This is a concept file with following syntax for each concept.
 
 # Favori listesinde asagi scroll ve urun kontrolu yapilir.
 * Elementin yüklenmesini bekle "productDetailFromFavoriteList"
-* "20" kere aşağıya kaydır
+* "35" kere aşağıya kaydır
 * "2" saniye bekle
-//* "productDetailFromFavoriteList" elementinin "Pastel Classic Ruj 62" textini içerdiği kontrol edilir
-* "productDetailFromFavoriteList" elementinin "Pastel Classic Ruj 62", "Derby Kil Maskesi 75 ml" veya "Gillette Permatik Banyo Kullan At Tıraş Bıçağı 5'li" textini içerdiği kontrol edilir
-// SAYFADA ŞU TEXT DEĞERİ VAR MI OALYINA ÇEVİREBİLİRİM
+* "productDetailFromFavoriteList" elementinin "Sebamed Q10 Krem Yaşlanma Karşıtı Koruyucu Krem 50 ml", "Maybelline New York Color Sensational Ruj 630 Velvet Beige" veya "Gillette Blue3 Kullan At Tıraş Bıçağı 6'lı" textini içerdiği kontrol edilir
 
 # Favorilerden urun detay sayfasına gecilir.
 * Elementine tıkla "productDetailFromFavoriteList"
@@ -484,6 +482,15 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "emptyFavButton"
 * Elementine tıkla "emptyFavButton"
 * Elementin yüklenmesini bekle "kampanyaSec"
+
+# En fazla 100 ürün favori ekleme uyarısı görülür.
+* Elementin yüklenmesini bekle "alertSuccessfulPopup"
+* "alertSuccessfulPopup" elementinin "Bir listeye en fazla 100 ürün eklenebilir." textini içerdiği kontrol edilir
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* Elementine tıkla "popupOkayButton"
+* "1" saniye bekle
+* Geri butonuna bas
 
 # Uye bilgilerim sayfasina gecilir.
 * Elementin yüklenmesini bekle "customerInformation"

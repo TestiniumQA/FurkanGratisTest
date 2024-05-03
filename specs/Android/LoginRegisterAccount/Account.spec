@@ -161,6 +161,12 @@ tags:Gratis_Android_FavorilerSayfasiScroll
 * Uygulama baslatilir.
 * Login sayfasina gecilir.
 * Gratis14 ile login olunur.
+* Ana sayfaya geçilir.
+* Urun kodu "10000238" yazilir, arama yapilir.
+* "1" kere aşağıya kaydır
+* Ürün detay sayfasında ürün favori butonuna tıklanır.
+* Urun favorilere eklenir.
+* En fazla 100 ürün favori ekleme uyarısı görülür.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
 * Favori listesinde asagi scroll ve urun kontrolu yapilir.
