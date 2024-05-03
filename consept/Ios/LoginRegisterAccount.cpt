@@ -668,11 +668,11 @@
 
 # Favori listesinde asagi scroll ve urun kontrolu yapilir
 * Elementin yüklenmesini bekle "ProductDetailFromFavoriteListText"
-* "22" kere aşağıya kaydır
+* "35" kere aşağıya kaydır
+* "20" kere aşağıya kaydır
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "FavoriteScrollProduct"
-//* "FavoriteScrollProduct" elementinin "Derby Siyah Soyulabilen Maske 75 ml" textini içerdiği kontrol edilir
-* "FavoriteScrollProduct" elementinin "Gillette Permatik Banyo Kullan At Tıraş Bıçağı 5'li", "Derby Siyah Soyulabilen Maske 75 ml" veya "Derby Kil Maskesi 75 ml" textini içerdiği kontrol edilir
+* "FavoriteScrollProduct" elementinin "Gillette Permatik Banyo Kullan At Tıraş Bıçağı 5'li", "Gillette Permatik 1 Kullan-At Tıraş Bıçağı 5'li Paket" veya "Gillette Blue3 Kullan At Tıraş Bıçağı 6'lı" textini içerdiği kontrol edilir
 
 # Favorilerden urun detay sayfasına gecilir
 * Elementin yüklenmesini bekle "ProductDetailFromFavoriteList"
@@ -735,6 +735,21 @@
 * Element var mı kontrol et "EmptyFavButton"
 * Elementine tıkla "EmptyFavButton"
 * Elementin yüklenmesini bekle "KampanyaSec"
+
+# En fazla 100 ürün favori ekleme uyarısı görülür
+* Elementin yüklenmesini bekle "AddFavoritePopup"
+* Elementin yüklenmesini bekle "PopupSavedBtnIos"
+* Elementine tıkla "PopupSavedBtnIos"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "AlertPopup"
+* "AlertPopup" elementinin "Bir listeye en fazla 100 ürün eklenebilir." textini içerdiği kontrol edilir
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "PageCloseIcon"
+* Elementine tıkla "PageCloseIcon"
+* "1" saniye bekle
 
 # Uye bilgilerim sayfasina gecilir
 * Elementin yüklenmesini bekle "CustomerInformation"

@@ -3129,6 +3129,13 @@
     "iosType": "classChain"
   },
   {
+    "key": "AlertPopup",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeAlert[`label == 'Hata'`]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeScrollView[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText[2]",
+    "iosType": "classChain"
+  },
+  {
     "key": "AlertVisiblePopup",
     "androidValue": "",
     "androidType": "",

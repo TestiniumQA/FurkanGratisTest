@@ -178,6 +178,12 @@ tags:Gratis_IOS_FavorilerSayfasiScroll
 * Uygulama baslatilir
 * Login sayfasina gecilir
 * Gratis14 ile login olunur
+* Kategoriler sayfasina gecilir
+* "Ev & Yaşam" isimli kategori seçilir
+* Alt kategorilerden biri "Dekorasyon", "Mum" seçilir
+* Listeleme alanından bir ürünün favori butonuna tıklanır
+* En fazla 100 ürün favori ekleme uyarısı görülür
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Profil sayfasındaki Favorilerim ikonuna tiklanir
 * Favori listesinde asagi scroll ve urun kontrolu yapilir
