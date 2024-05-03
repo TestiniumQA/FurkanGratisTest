@@ -479,6 +479,13 @@
     "iosType": ""
   },
   {
+    "key": "myNewAddAddress",
+    "androidValue": "com.gratis.android:id/add_address_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
     "key": "newAddressAddCityDropdown",
     "androidValue": "city_spinner",
     "androidType": "id",

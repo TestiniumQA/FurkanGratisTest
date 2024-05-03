@@ -236,6 +236,12 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "myAddressNewAddAddress"
 * "myAddressNewAddAddress" elementine sayacli tikla "pageToolbarTitle" value degerini bekle
 
+# Yeni Adres Ekle'ye tiklanir.
+* "myNewAddAddress"li elementi bulana kadar "4" kere swipe yap ve elementi bul
+* "1" saniye bekle
+* Element var mı kontrol et "myNewAddAddress"
+* "myNewAddAddress" elementine sayacli tikla "pageToolbarTitle" value degerini bekle
+
 # Adres güncellemeye tıklanır.
 * "updateAddressButton" li elementi bul ve varsa dokun
 
@@ -300,6 +306,14 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "newAddressSavedBtn"
 * Elementine tıkla "newAddressSavedBtn"
 //* Element var mı kontrol et "newAddressCard"
+
+# En fazla 10 adres ekleme uyarısı görülür.
+* Element var mı kontrol et "newAddressSavedBtn"
+* Elementine tıkla "newAddressSavedBtn"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "alertSuccessfulPopup"
+* "alertSuccessfulPopup" elementinin "10'dan fazla adres oluşturamazsınız." textini içerdiği kontrol edilir
+* "1" saniye bekle
 
 # Kaydet ikonuna tiklanir <key> uyarı mesajı görülür.
 * "newAddressSavedBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul

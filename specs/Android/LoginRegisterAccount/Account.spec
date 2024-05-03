@@ -192,3 +192,20 @@ tags:Gratis_Android_AdresUyariMesajlari
 * Kaydet ikonuna tiklanir "Telefon Numarası Geçersiz.Telefon numaranız 0(5**) *** ** ** formatında olmalıdır" uyarı mesajı görülür.
 * Yukarı scroll et ve "5112223311" textini "newAddressCustomerPhone" elementine yaz.
 * Kaydet ikonuna tiklanir "Lütfen adres ismi giriniz" uyarı mesajı görülür.
+
+Maximum Address Addition Warning
+--------------------------------
+tags:Gratis_Android_MaksimumAdresEklemeUyarisi
+* Uygulama baslatilir.
+* Login sayfasina gecilir.
+* Gratis14 ile login olunur.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
+* Yeni Adres Ekle'ye tiklanir.
+//* Android klavye kapatılır
+* Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
+* Adres Ekle Sehir ismi secilir.
+* Adres Ekle Ilce ismi secilir.
+* Adres Ekle Mahalle ismi secilir.
+* Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir.
+* En fazla 10 adres ekleme uyarısı görülür.

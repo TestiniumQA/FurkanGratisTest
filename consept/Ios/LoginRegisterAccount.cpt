@@ -475,6 +475,14 @@
 * Elementine tıkla "NewAddressSavedBtn"
 * Element var mı kontrol et "NewAddressCard"
 
+# En fazla 10 adres ekleme uyarısı görülür
+* Element var mı kontrol et "NewAddressSavedBtn"
+* Elementine tıkla "NewAddressSavedBtn"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "AlertPopup"
+* "AlertPopup" elementinin "10'dan fazla adres oluşturamazsınız." textini içerdiği kontrol edilir
+* "1" saniye bekle
+
 # Kaydet ikonuna tiklanir <String> uyarı mesajı görülür
 * "NewAddressSavedBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 * Elementine tıkla "NewAddressSavedBtn"
@@ -669,7 +677,7 @@
 # Favori listesinde asagi scroll ve urun kontrolu yapilir
 * Elementin yüklenmesini bekle "ProductDetailFromFavoriteListText"
 * "35" kere aşağıya kaydır
-* "20" kere aşağıya kaydır
+* "25" kere aşağıya kaydır
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "FavoriteScrollProduct"
 * "FavoriteScrollProduct" elementinin "Gillette Permatik Banyo Kullan At Tıraş Bıçağı 5'li", "Gillette Permatik 1 Kullan-At Tıraş Bıçağı 5'li Paket" veya "Gillette Blue3 Kullan At Tıraş Bıçağı 6'lı" textini içerdiği kontrol edilir

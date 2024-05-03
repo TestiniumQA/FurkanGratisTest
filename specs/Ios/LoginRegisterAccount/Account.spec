@@ -187,3 +187,19 @@ tags:Gratis_IOS_FavorilerSayfasiScroll
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Profil sayfasındaki Favorilerim ikonuna tiklanir
 * Favori listesinde asagi scroll ve urun kontrolu yapilir
+
+IOS Scenario Maximum Address Addition Warning
+---------------------------------------------
+tags:Gratis_IOS_MaksimumAdresEklemeUyarisi
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Gratis14 ile login olunur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur
+* Yeni Adres Ekle'ye tiklanir adres ekleme sayfasinin acildigi gorulur
+* Adres icin Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir
+* Adres Ekle Sehir ismi secilir
+* Adres Ekle Ilce ismi secilir
+* Adres Ekle Mahalle ismi secilir
+* Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir
+* En fazla 10 adres ekleme uyarısı görülür
