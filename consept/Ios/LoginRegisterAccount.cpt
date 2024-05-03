@@ -689,7 +689,7 @@
 # Favori listesinde asagi scroll ve urun kontrolu yapilir
 * Elementin yüklenmesini bekle "ProductDetailFromFavoriteListText"
 * "35" kere aşağıya kaydır
-* "25" kere aşağıya kaydır
+* "30" kere aşağıya kaydır
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "FavoriteScrollProduct"
 * "FavoriteScrollProduct" elementinin "Gillette Permatik Banyo Kullan At Tıraş Bıçağı 5'li", "Gillette Permatik 1 Kullan-At Tıraş Bıçağı 5'li Paket" veya "Gillette Blue3 Kullan At Tıraş Bıçağı 6'lı" textini içerdiği kontrol edilir
