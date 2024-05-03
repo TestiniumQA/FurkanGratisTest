@@ -203,3 +203,15 @@ tags:Gratis_IOS_MaksimumAdresEklemeUyarisi
 * Adres Ekle Mahalle ismi secilir
 * Adres Ekleme icin Adres Detay ve Posta Kodu bilgileri girilir
 * En fazla 10 adres ekleme uyarısı görülür
+
+IOS Scenario Maximum Favorite List Addition Warning
+---------------------------------------------------
+tags:Gratis_IOS_MaksimumFavoriListesiEklemeUyarisi
+* Uygulama baslatilir
+* Login sayfasina gecilir
+* Gratis14 ile login olunur
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Tırnak Bakım", "Aseton" seçilir
+* Listeleme alanından bir ürünün favori butonuna tıklanır
+* En fazla 10 favori listesi ekleme uyarısı görülür

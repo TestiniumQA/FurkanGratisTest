@@ -398,6 +398,18 @@ This is a concept file with following syntax for each concept.
 * "alertSuccessfulPopup" li elementin değeri "İstek listesi adı benzersiz olmalıdır" e içerdiğini kontrol et
 * "popupOkayButton" li element varsa tıkla
 
+# En fazla 10 favori listesi ekleme uyarısı görülür.
+* Elementine tıkla "addListButton"
+//* Element var mı kontrol et "addListPopupTitle"
+* Elementin yüklenmesini bekle "1"
+* "yeni liste adı" textini "addListTextbox" elemente yaz
+* Elementin yüklenmesini bekle "1"
+* Elementine tıkla "popupOkayButton"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "alertSuccessfulPopup"
+* "alertSuccessfulPopup" elementinin "10'dan fazla istek listesi oluşturamazsınız." textini içerdiği kontrol edilir
+* "1" saniye bekle
+
 # <yeniListe> isimli yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * Elementine tıkla "addListButton"
 * Element var mı kontrol et "addListPopupTitle"

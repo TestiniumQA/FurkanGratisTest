@@ -626,6 +626,18 @@
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 
+# En fazla 10 favori listesi ekleme uyarısı görülür
+* Elementin yüklenmesini bekle "AddListButton"
+* Elementine tıkla "AddListButton"
+* Elementin yüklenmesini bekle "AddListPopupTitle"
+* "Yeni Liste Adı" textini "AddListTextbox" elemente yaz
+* Elementin yüklenmesini bekle "PopupAddBtnIos"
+* Elementine tıkla "PopupAddBtnIos"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "AlertPopup"
+* "AlertPopup" elementinin "10'dan fazla istek listesi oluşturamazsınız." textini içerdiği kontrol edilir
+* "1" saniye bekle
+
 # Profil sayfasındaki Favorilerim ikonuna tiklanir
 * Elementin yüklenmesini bekle "ProfilePageFavoriteIcon"
 * Elementine tıkla "ProfilePageFavoriteIcon"
