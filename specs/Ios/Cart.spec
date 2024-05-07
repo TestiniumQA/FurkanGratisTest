@@ -19,8 +19,10 @@ IOS Scenario Cart Popup Slider And Add To Cart
 ----------------------------------------------
 tags:Gratis_IOS_KasaArkasiPopupSlideVeUrunEkleme
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Gratis1 ile login olunur
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet ikonu ile Gratis1 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
 * Kasa arkası popup'inda swipe yapilir ve urun sepete eklenir
 * Sepet kontrol edilerek temizlenir
@@ -29,8 +31,10 @@ IOS Scenario Cart Slider And Add To Cart
 ----------------------------------------
 tags:Gratis_IOS_KasaArkasiSlideVeUrunEkleme
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Gratis2 ile login olunur
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet ikonu ile Gratis2 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
 * Sepet kasa arkasi popup'i kapatilir
 * Kasa arkasında swipe yapilir ve urun sepete eklenir
@@ -87,8 +91,10 @@ IOS Scenario Cart Popup Slider Product Detail And Add To Cart
 -------------------------------------------------------------
 tags:Gratis_IOS_KasaArkasiPopupUrunDetayVeSepeteEkleme
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Gratis3 ile login olunur
+* Ana sayfa sepet ikonuna tiklanir
+* Sepet ikonu ile Gratis3 login olunur
+* Sepet kontrol edilerek temizlenir
+* Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
 * Kasa arkasi urun detayina gidilir
 * Urun detay sayfasinda urun sepete eklenir
