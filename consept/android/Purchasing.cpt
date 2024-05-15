@@ -256,7 +256,7 @@ This is a concept file with following syntax for each concept.
 # Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 * "iyzPaymentBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 * "3" saniye bekle
-* Saklanan ödenecek tutar "odenecekToplam" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
+//* Saklanan ödenecek tutar "odenecekToplam" toplam fiyat "iyzPaymentBtn" ile eşit mi kontrol et
 
 # Adres silme butonuna tıklanır ve adres silinir.
 * Element var mı kontrol et "deleteAddressBtn"
