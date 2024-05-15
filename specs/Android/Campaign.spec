@@ -302,7 +302,7 @@ tags:Gratis_Android_AdreseTeslim400TLSepetteY10ExcelKampanya1
 * Excelden degerler "1031510315","4","2" okunur ve "araToplam" sakla
 * Excelden degerler "1031510315","5","2" okunur ve "kargoToplam" sakla
 * Excelden degerler "1031510315","6","2" okunur ve "odenecekToplam" sakla
-//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 * Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -325,7 +325,7 @@ tags:Gratis_Android_MagazadanTeslimat400TLSepetteY10ExcelKampanya2
 * Excelden degerler "1031510315","4","11" okunur ve "araToplam" sakla
 * Excelden degerler "1031510315","5","11" okunur ve "kargoToplam" sakla
 * Excelden degerler "1031510315","6","11" okunur ve "odenecekToplam" sakla
-//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 * Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
@@ -350,7 +350,7 @@ tags:Gratis_Android_AdreseTeslim400TLSepetteY10ExcelKampanya3
 * Excelden degerler "1031510315","4","18" okunur ve "araToplam" sakla
 * Excelden degerler "1031510315","5","18" okunur ve "kargoToplam" sakla
 * Excelden degerler "1031510315","6","18" okunur ve "odenecekToplam" sakla
-//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 * Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
@@ -373,7 +373,7 @@ tags:Gratis_Android_MagazadanTeslimat400TLSepetteY10ExcelKampanya4
 * Excelden degerler "1031510315","4","25" okunur ve "araToplam" sakla
 * Excelden degerler "1031510315","5","25" okunur ve "kargoToplam" sakla
 * Excelden degerler "1031510315","6","25" okunur ve "odenecekToplam" sakla
-//* Sepet kasa arkasi popup'i varsa kapatilir.
+* Sepet kasa arkasi popup'i varsa kapatilir.
 * Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
