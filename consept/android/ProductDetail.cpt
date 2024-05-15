@@ -730,11 +730,6 @@ This is a concept file with following syntax for each concept.
 * Alışverişe devam edilir.
 * Uygulama geri butonuna bas.
 * Ana sayfa tab'ına tıklanır.
-* Excelden "1031510315","1","11" saklanan urun kodu aramasi yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Alışverişe devam edilir.
-* Uygulama geri butonuna bas.
-* Ana sayfa tab'ına tıklanır.
 * Excelden "1031510315","1","12" saklanan urun kodu aramasi yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Alışverişe devam edilir.
