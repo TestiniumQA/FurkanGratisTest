@@ -222,7 +222,7 @@ This is a concept file with following syntax for each concept.
 # Sipariş Özeti alanı kontrol edilir.
 //* "productCartName" li elementin text degerini hafizada "urun2" olarak saklanan text ile karsilastir
 //* "productSecondCartName" li elementin text degerini hafizada "urun1" olarak saklanan text ile karsilastir
-* "continueBtn"li elementi bulana kadar "4" kere swipe yap ve elementi bul
+* "continueBtn"li elementi bulana kadar "5" kere swipe yap ve elementi bul
 * Elementine tıkla "infoCheckbox"
 * Elementine tıkla "salesContractCheckbox"
 * Element var mı kontrol et "continueBtn"
