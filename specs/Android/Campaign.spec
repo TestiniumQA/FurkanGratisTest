@@ -310,7 +310,7 @@ tags:Gratis_Android_AdreseTeslim400TLSepetteY10ExcelKampanya1
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
 * Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing2 Excel 400TL All Items Y10 - 1031510315
 ----------------------------------------------------------------
@@ -335,7 +335,7 @@ tags:Gratis_Android_MagazadanTeslimat400TLSepetteY10ExcelKampanya2
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
 * Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing3 Excel 400TL All Items Y10 - 1031510315
 ----------------------------------------------------------------
@@ -358,7 +358,7 @@ tags:Gratis_Android_AdreseTeslim400TLSepetteY10ExcelKampanya3
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
 * Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing4 Excel 400TL All Items Y10 - 1031510315
 ----------------------------------------------------------------
@@ -383,7 +383,7 @@ tags:Gratis_Android_MagazadanTeslimat400TLSepetteY10ExcelKampanya4
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
 * Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing1 Excel 300TL Jel 10TL - 1022310223
 -----------------------------------------------------------
