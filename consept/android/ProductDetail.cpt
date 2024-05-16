@@ -752,14 +752,14 @@ This is a concept file with following syntax for each concept.
 * Ana sayfa tab'ına tıklanır.
 * Excelden "1031510315","1","16" saklanan urun kodu aramasi yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
+* Alışverişe devam edilir.
+* Uygulama geri butonuna bas.
+* Ana sayfa tab'ına tıklanır.
+* Excelden "1031510315","1","17" saklanan urun kodu aramasi yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 
 # SepetteY10 kampanyası3 için gerekli urunler sepete eklenir.
-* Ana sayfa tab'ına tıklanır.
-* Excelden "1031510315","1","18" saklanan urun kodu aramasi yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Alışverişe devam edilir.
-* Uygulama geri butonuna bas.
 * Ana sayfa tab'ına tıklanır.
 * Excelden "1031510315","1","19" saklanan urun kodu aramasi yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
@@ -783,14 +783,14 @@ This is a concept file with following syntax for each concept.
 * Ana sayfa tab'ına tıklanır.
 * Excelden "1031510315","1","23" saklanan urun kodu aramasi yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
+* Alışverişe devam edilir.
+* Uygulama geri butonuna bas.
+* Ana sayfa tab'ına tıklanır.
+* Excelden "1031510315","1","24" saklanan urun kodu aramasi yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 
 # SepetteY10 kampanyası4 için gerekli urunler sepete eklenir.
-* Ana sayfa tab'ına tıklanır.
-* Excelden "1031510315","1","25" saklanan urun kodu aramasi yapilir.
-* Ürün detay sayfasinda urun sepete eklenir.
-* Alışverişe devam edilir.
-* Uygulama geri butonuna bas.
 * Ana sayfa tab'ına tıklanır.
 * Excelden "1031510315","1","26" saklanan urun kodu aramasi yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
@@ -818,6 +818,11 @@ This is a concept file with following syntax for each concept.
 * Uygulama geri butonuna bas.
 * Ana sayfa tab'ına tıklanır.
 * Excelden "1031510315","1","31" saklanan urun kodu aramasi yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Alışverişe devam edilir.
+* Uygulama geri butonuna bas.
+* Ana sayfa tab'ına tıklanır.
+* Excelden "1031510315","1","32" saklanan urun kodu aramasi yapilir.
 * Ürün detay sayfasinda urun sepete eklenir.
 * Sepete git'e tıklanır.
 
