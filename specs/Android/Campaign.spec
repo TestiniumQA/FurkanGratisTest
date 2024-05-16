@@ -1683,3 +1683,99 @@ tags:Gratis_Android_MagazadanTeslimat250TLOralBY10ExcelKampanya12
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
 * Sipariş Özeti alanı kontrol edilir.
 * Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing1 Excel 250TL All Items Y50 - 1031610316
+----------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim250TLSepetteY50ExcelKampanya1
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* SepetteY50 kampanyası1 için gerekli urunler sepete eklenir.
+* Excelden degerler "1031610316","2","2" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1031610316","3","2" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1031610316","4","2" okunur ve "araToplam" sakla
+* Excelden degerler "1031610316","5","2" okunur ve "kargoToplam" sakla
+* Excelden degerler "1031610316","6","2" okunur ve "odenecekToplam" sakla
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing2 Excel 250TL All Items Y50 - 1031610316
+----------------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimat250TLSepetteY50ExcelKampanya2
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis7 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* SepetteY50 kampanyası2 için gerekli urunler sepete eklenir.
+* Excelden degerler "1031610316","2","11" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1031610316","3","11" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1031610316","4","11" okunur ve "araToplam" sakla
+* Excelden degerler "1031610316","5","11" okunur ve "kargoToplam" sakla
+* Excelden degerler "1031610316","6","11" okunur ve "odenecekToplam" sakla
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing3 Excel 250TL All Items Y50 - 1031610316
+----------------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim250TLSepetteY50ExcelKampanya3
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis8 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* SepetteY50 kampanyası3 için gerekli urunler sepete eklenir.
+* Excelden degerler "1031610316","2","19" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1031610316","3","19" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1031610316","4","19" okunur ve "araToplam" sakla
+* Excelden degerler "1031610316","5","19" okunur ve "kargoToplam" sakla
+* Excelden degerler "1031610316","6","19" okunur ve "odenecekToplam" sakla
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing4 Excel 250TL All Items Y50 - 1031610316
+----------------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimat250TLSepetteY50ExcelKampanya4
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis9 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* SepetteY50 kampanyası4 için gerekli urunler sepete eklenir.
+* Excelden degerler "1031610316","2","26" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1031610316","3","26" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1031610316","4","26" okunur ve "araToplam" sakla
+* Excelden degerler "1031610316","5","26" okunur ve "kargoToplam" sakla
+* Excelden degerler "1031610316","6","26" okunur ve "odenecekToplam" sakla
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
