@@ -226,7 +226,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "infoCheckbox"
 * Elementine tıkla "salesContractCheckbox"
 * Element var mı kontrol et "continueBtn"
-//* Elementine tıkla "continueBtn"
+* Elementine tıkla "continueBtn"
 //* Elementin yüklenmesini bekle "iycCard"
 
 # Sipariş Özeti ve sözleşmeler alanı kontrol edilir.
