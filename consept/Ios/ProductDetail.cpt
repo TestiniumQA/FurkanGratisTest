@@ -1,8 +1,8 @@
 
 # En Çok Satanlar alanında bir ürünün ürün detay sayfasına geçilir
-* "ProductNameNew"li elementi bulana kadar "2" kere swipe yap ve elementi bul
-* Elementin yüklenmesini bekle "ProductNameNew"
-* Elementine tıkla "ProductNameNew"
+* "ProductName"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "ProductName"
+* Elementine tıkla "ProductName"
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "ProductDetailTitle"
 * Elementin yüklenmesini bekle "ProductAddButton"
