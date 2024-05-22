@@ -15,8 +15,8 @@ tags:Gratis_IOS_KargoIndirimli
 * Sepet ikonu ile Gratis0 login olunur
 * Sepet temizlenir, adres silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
-* "Elektrikli Ürünler" isimli kategori seçilir
-* Alt kategorilerden biri "Küçük Ev Aletleri", "Elektrikli Süpürge" seçilir
+* "Parfüm & Deodorant" isimli kategori seçilir
+* Alt kategorilerden biri "Parfüm", "Erkek Parfüm" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
