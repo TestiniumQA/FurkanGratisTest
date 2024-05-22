@@ -108,7 +108,7 @@ tags:Gratis_IOS_UrunDetayFavori
 * Gratis4 ile login olunur
 * Kategoriler sayfasina gecilir
 * "Ev & Yaşam" isimli kategori seçilir
-* Alt kategorilerden biri "Dekorasyon", "Mum" seçilir
+* Alt kategorilerden biri "Dekorasyon", "Aydınlatma" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
 * Urun favorilere eklenir
@@ -128,7 +128,7 @@ tags:Gratis_IOS_UrunDetayNonLoginFavori
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
 * "Ev & Yaşam" isimli kategori seçilir
-* Alt kategorilerden biri "Dekorasyon", "Mum" seçilir
+* Alt kategorilerden biri "Dekorasyon", "Aydınlatma" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
 * Favori ikonu ile Gratis0 login olunur
@@ -141,7 +141,7 @@ tags:Gratis_IOS_UrunDetayNonLoginFavoriListesi
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
 * "Ev & Yaşam" isimli kategori seçilir
-* Alt kategorilerden biri "Dekorasyon", "Mum" seçilir
+* Alt kategorilerden biri "Dekorasyon", "Aydınlatma" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
 * Favori ikonu ile Gratis0 login olunur
