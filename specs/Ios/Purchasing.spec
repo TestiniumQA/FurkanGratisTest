@@ -171,8 +171,8 @@ tags:Gratis_IOS_YeniFaturaAdresiEkleme
 * Sepet ikonu ile Gratis1 login olunur
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
-* "Saç Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "Şampuanlar", "Erkek Şampuan" seçilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Likit Ruj" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
@@ -197,8 +197,8 @@ tags:Gratis_IOS_BaskaAdresSecerekSiparis
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
-* "Saç Bakım" isimli kategori seçilir
-* Alt kategorilerden biri "Şampuanlar", "Erkek Şampuan" seçilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Likit Ruj" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
