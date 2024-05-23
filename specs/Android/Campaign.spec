@@ -25,8 +25,8 @@ tags:Gratis_Android_AdreseTeslim200TLLoreal20ExcelKampanya1
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing2 Excel 200TL Loreal 20TL - 1024910249
 --------------------------------------------------------------
@@ -48,8 +48,8 @@ tags:Gratis_Android_AdreseTeslim200TLLoreal20ExcelKampanya2
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing3 Excel 200TL Loreal 20TL - 1024910249
 --------------------------------------------------------------
@@ -73,8 +73,8 @@ tags:Gratis_Android_MagazadanTeslimat200TLLoreal20ExcelKampanya3
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing4 Excel 200TL Loreal 20TL - 1024910249
 --------------------------------------------------------------
@@ -96,8 +96,8 @@ tags:Gratis_Android_AdreseTeslim200TLLoreal20ExcelKampanya4
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing5 Excel 200TL Loreal 20TL - 1024910249
 --------------------------------------------------------------
@@ -119,8 +119,8 @@ tags:Gratis_Android_AdreseTeslim200TLLoreal20ExcelKampanya5
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing6 Excel 200TL Loreal 20TL - 1024910249
 --------------------------------------------------------------
@@ -144,8 +144,8 @@ tags:Gratis_Android_MagazadanTeslimat200TLLoreal20ExcelKampanya6
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing1 Excel 200TL SKU 10TL - 1022110221
 -----------------------------------------------------------
@@ -167,8 +167,8 @@ tags:Gratis_Android_AdreseTeslim200TLSepette10ExcelKampanya1
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing2 Excel 200TL SKU 10TL - 1022110221
 -----------------------------------------------------------
@@ -190,8 +190,8 @@ tags:Gratis_Android_AdreseTeslim200TLSepette10ExcelKampanya2
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing3 Excel 200TL SKU 10TL - 1022110221
 -----------------------------------------------------------
@@ -215,8 +215,8 @@ tags:Gratis_Android_MagazadanTeslimat200TLSepette10ExcelKampanya3
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing4 Excel 200TL SKU 10TL - 1022110221
 -----------------------------------------------------------
@@ -238,8 +238,8 @@ tags:Gratis_Android_AdreseTeslim200TLSepette10ExcelKampanya4
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing5 Excel 200TL SKU 10TL - 1022110221
 -----------------------------------------------------------
@@ -261,8 +261,8 @@ tags:Gratis_Android_AdreseTeslim200TLSepette10ExcelKampanya5
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing6 Excel 200TL SKU 10TL - 1022110221
 -----------------------------------------------------------
@@ -286,8 +286,8 @@ tags:Gratis_Android_MagazadanTeslimat200TLSepette10ExcelKampanya6
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing1 Excel 400TL All Items Y10 - 1031510315
 ----------------------------------------------------------------
@@ -309,7 +309,7 @@ tags:Gratis_Android_AdreseTeslim400TLSepetteY10ExcelKampanya1
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
 //* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing2 Excel 400TL All Items Y10 - 1031510315
@@ -334,7 +334,7 @@ tags:Gratis_Android_MagazadanTeslimat400TLSepetteY10ExcelKampanya2
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
 //* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing3 Excel 400TL All Items Y10 - 1031510315
@@ -357,7 +357,7 @@ tags:Gratis_Android_AdreseTeslim400TLSepetteY10ExcelKampanya3
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
 //* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing4 Excel 400TL All Items Y10 - 1031510315
@@ -382,7 +382,7 @@ tags:Gratis_Android_MagazadanTeslimat400TLSepetteY10ExcelKampanya4
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
 //* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing1 Excel 300TL Jel 10TL - 1022310223
@@ -405,8 +405,8 @@ tags:Gratis_Android_AdreseTeslim300TLSepeteJel10ExcelKampanya1
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing2 Excel 300TL Jel 10TL - 1022310223
 -----------------------------------------------------------
@@ -430,8 +430,8 @@ tags:Gratis_Android_MagazadanTeslimat300TLSepeteJel10ExcelKampanya2
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing3 Excel 300TL Jel 10TL - 1022310223
 -----------------------------------------------------------
@@ -453,8 +453,8 @@ tags:Gratis_Android_AdreseTeslim300TLSepeteJel10ExcelKampanya3
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing4 Excel 300TL Jel 10TL - 1022310223
 -----------------------------------------------------------
@@ -478,8 +478,8 @@ tags:Gratis_Android_MagazadanTeslimat300TLSepeteJel10ExcelKampanya4
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing1 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 -------------------------------------------------------------------------
@@ -501,8 +501,8 @@ tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya1
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing2 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 -------------------------------------------------------------------------
@@ -524,8 +524,8 @@ tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya2
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing3 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 -------------------------------------------------------------------------
@@ -549,8 +549,8 @@ tags:Gratis_Android_MagazadanTeslimatFondoten5TLExcelKampanya3
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing4 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 -------------------------------------------------------------------------
@@ -572,8 +572,8 @@ tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya4
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing5 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 -------------------------------------------------------------------------
@@ -595,8 +595,8 @@ tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya5
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing6 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 -------------------------------------------------------------------------
@@ -620,8 +620,8 @@ tags:Gratis_Android_MagazadanTeslimatFondoten5TLExcelKampanya6
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing7 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 -------------------------------------------------------------------------
@@ -643,8 +643,8 @@ tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya7
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing8 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 -------------------------------------------------------------------------
@@ -666,8 +666,8 @@ tags:Gratis_Android_AdreseTeslimFondoten5TLExcelKampanya8
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing9 Excel Loreal Lipliner Fondoten 5TL - 1022410224
 -------------------------------------------------------------------------
@@ -691,8 +691,8 @@ tags:Gratis_Android_MagazadanTeslimatFondoten5TLExcelKampanya9
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing1 Excel Flormar 2. 1TL - 1022610226
 -----------------------------------------------------------
@@ -714,8 +714,8 @@ tags:Gratis_Android_AdreseTeslimFlormar1TLExcelKampanya1
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing2 Excel Flormar 2. 1TL - 1022610226
 -----------------------------------------------------------
@@ -737,8 +737,8 @@ tags:Gratis_Android_AdreseTeslimFlormar1TLExcelKampanya2
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing3 Excel Flormar 2. 1TL - 1022610226
 -----------------------------------------------------------
@@ -762,8 +762,8 @@ tags:Gratis_Android_MagazadanTeslimatFlormar1TLExcelKampanya3
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing4 Excel Flormar 2. 1TL - 1022610226
 -----------------------------------------------------------
@@ -785,8 +785,8 @@ tags:Gratis_Android_AdreseTeslimFlormar1TLExcelKampanya4
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing5 Excel Flormar 2. 1TL - 1022610226
 -----------------------------------------------------------
@@ -808,8 +808,8 @@ tags:Gratis_Android_AdreseTeslimFlormar1TLExcelKampanya5
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing6 Excel Flormar 2. 1TL - 1022610226
 -----------------------------------------------------------
@@ -833,8 +833,8 @@ tags:Gratis_Android_MagazadanTeslimatFlormar1TLExcelKampanya6
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing7 Excel Flormar 2. 1TL - 1022610226
 -----------------------------------------------------------
@@ -856,8 +856,8 @@ tags:Gratis_Android_AdreseTeslimFlormar1TLExcelKampanya7
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing8 Excel Flormar 2. 1TL - 1022610226
 -----------------------------------------------------------
@@ -879,8 +879,8 @@ tags:Gratis_Android_AdreseTeslimFlormar1TLExcelKampanya8
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing9 Excel Flormar 2. 1TL - 1022610226
 -----------------------------------------------------------
@@ -904,8 +904,8 @@ tags:Gratis_Android_MagazadanTeslimatFlormar1TLExcelKampanya9
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing1 Excel Beaulis Take3 Pay2 - 1023110231
 ---------------------------------------------------------------
@@ -927,8 +927,8 @@ tags:Gratis_Android_AdreseTeslimBeaulis3Al2OdeExcelKampanya1
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing2 Excel Beaulis Take3 Pay2 - 1023110231
 ---------------------------------------------------------------
@@ -950,8 +950,8 @@ tags:Gratis_Android_AdreseTeslimBeaulis3Al2OdeExcelKampanya2
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing3 Excel Beaulis Take3 Pay2 - 1023110231
 ---------------------------------------------------------------
@@ -975,8 +975,8 @@ tags:Gratis_Android_MagazadanTeslimatBeaulis3Al2OdeExcelKampanya3
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing4 Excel Beaulis Take3 Pay2 - 1023110231
 ---------------------------------------------------------------
@@ -998,8 +998,8 @@ tags:Gratis_Android_AdreseTeslimBeaulis3Al2OdeExcelKampanya4
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing5 Excel Beaulis Take3 Pay2 - 1023110231
 ---------------------------------------------------------------
@@ -1021,8 +1021,8 @@ tags:Gratis_Android_AdreseTeslimBeaulis3Al2OdeExcelKampanya5
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing1 Excel Golden Rose Flormar Oje - 1023610236
 --------------------------------------------------------------------
@@ -1044,8 +1044,8 @@ tags:Gratis_Android_AdreseTeslimGoldenRoseAlanaFlormarOjeExcelKampanya1
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing2 Excel Golden Rose Flormar Oje - 1023610236
 --------------------------------------------------------------------
@@ -1067,8 +1067,8 @@ tags:Gratis_Android_AdreseTeslimGoldenRoseAlanaFlormarOjeExcelKampanya2
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing3 Excel Golden Rose Flormar Oje - 1023610236
 --------------------------------------------------------------------
@@ -1090,8 +1090,8 @@ tags:Gratis_Android_AdreseTeslimGoldenRoseAlanaFlormarOjeExcelKampanya3
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing4 Excel Golden Rose Flormar Oje - 1023610236
 --------------------------------------------------------------------
@@ -1113,8 +1113,8 @@ tags:Gratis_Android_AdreseTeslimGoldenRoseAlanaFlormarOjeExcelKampanya4
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing5 Excel Golden Rose Flormar Oje - 1023610236
 --------------------------------------------------------------------
@@ -1136,8 +1136,8 @@ tags:Gratis_Android_AdreseTeslimGoldenRoseAlanaFlormarOjeExcelKampanya5
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing6 Excel Golden Rose Flormar Oje - 1023610236
 --------------------------------------------------------------------
@@ -1159,8 +1159,8 @@ tags:Gratis_Android_AdreseTeslimGoldenRoseAlanaFlormarOjeExcelKampanya6
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing7 Excel Golden Rose Flormar Oje - 1023610236
 --------------------------------------------------------------------
@@ -1184,8 +1184,8 @@ tags:Gratis_Android_MagazadanTeslimatGoldenRoseAlanaFlormarOjeExcelKampanya7
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing1 Excel 200TL Pastel Y10 - 1022010220
 -------------------------------------------------------------
@@ -1207,8 +1207,8 @@ tags:Gratis_Android_AdreseTeslim200TLPastelY10ExcelKampanya1
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing2 Excel 200TL Pastel Y10 - 1022010220
 -------------------------------------------------------------
@@ -1230,8 +1230,8 @@ tags:Gratis_Android_AdreseTeslim200TLPastelY10ExcelKampanya2
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing3 Excel 200TL Pastel Y10 - 1022010220
 -------------------------------------------------------------
@@ -1255,8 +1255,8 @@ tags:Gratis_Android_MagazadanTeslimat200TLPastelY10ExcelKampanya3
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing4 Excel 200TL Pastel Y10 - 1022010220
 -------------------------------------------------------------
@@ -1278,8 +1278,8 @@ tags:Gratis_Android_AdreseTeslim200TLPastelY10ExcelKampanya4
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing5 Excel 200TL Pastel Y10 - 1022010220
 -------------------------------------------------------------
@@ -1301,8 +1301,8 @@ tags:Gratis_Android_AdreseTeslim200TLPastelY10ExcelKampanya5
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing6 Excel 200TL Pastel Y10 - 1022010220
 -------------------------------------------------------------
@@ -1326,8 +1326,8 @@ tags:Gratis_Android_MagazadanTeslimat200TLPastelY10ExcelKampanya6
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing7 Excel 200TL Pastel Y10 - 1022010220
 -------------------------------------------------------------
@@ -1349,8 +1349,8 @@ tags:Gratis_Android_AdreseTeslim200TLPastelY10ExcelKampanya7
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing8 Excel 200TL Pastel Y10 - 1022010220
 -------------------------------------------------------------
@@ -1372,8 +1372,8 @@ tags:Gratis_Android_AdreseTeslim200TLPastelY10ExcelKampanya8
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing9 Excel 200TL Pastel Y10 - 1022010220
 -------------------------------------------------------------
@@ -1397,8 +1397,8 @@ tags:Gratis_Android_MagazadanTeslimat200TLPastelY10ExcelKampanya9
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing1 Excel 250TL OralB Y10 - 1025510255
 ------------------------------------------------------------
@@ -1420,8 +1420,8 @@ tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya1
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing2 Excel 250TL OralB Y10 - 1025510255
 ------------------------------------------------------------
@@ -1443,8 +1443,8 @@ tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya2
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing3 Excel 250TL OralB Y10 - 1025510255
 ------------------------------------------------------------
@@ -1468,8 +1468,8 @@ tags:Gratis_Android_MagazadanTeslimat250TLOralBY10ExcelKampanya3
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing4 Excel 250TL OralB Y10 - 1025510255
 ------------------------------------------------------------
@@ -1491,8 +1491,8 @@ tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya4
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing5 Excel 250TL OralB Y10 - 1025510255
 ------------------------------------------------------------
@@ -1514,8 +1514,8 @@ tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya5
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing6 Excel 250TL OralB Y10 - 1025510255
 ------------------------------------------------------------
@@ -1539,8 +1539,8 @@ tags:Gratis_Android_MagazadanTeslimat250TLOralBY10ExcelKampanya6
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing7 Excel 250TL OralB Y10 - 1025510255
 ------------------------------------------------------------
@@ -1562,8 +1562,8 @@ tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya7
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing8 Excel 250TL OralB Y10 - 1025510255
 ------------------------------------------------------------
@@ -1585,8 +1585,8 @@ tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya8
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing9 Excel 250TL OralB Y10 - 1025510255
 ------------------------------------------------------------
@@ -1610,8 +1610,8 @@ tags:Gratis_Android_MagazadanTeslimat250TLOralBY10ExcelKampanya9
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing10 Excel 250TL OralB Y10 - 1025510255
 -------------------------------------------------------------
@@ -1633,8 +1633,8 @@ tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya10
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing11 Excel 250TL OralB Y10 - 1025510255
 -------------------------------------------------------------
@@ -1656,8 +1656,8 @@ tags:Gratis_Android_AdreseTeslim250TLOralBY10ExcelKampanya11
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing12 Excel 250TL OralB Y10 - 1025510255
 -------------------------------------------------------------
@@ -1681,8 +1681,8 @@ tags:Gratis_Android_MagazadanTeslimat250TLOralBY10ExcelKampanya12
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing1 Excel 250TL All Items Y50 - 1031610316
 ----------------------------------------------------------------
@@ -1704,7 +1704,7 @@ tags:Gratis_Android_AdreseTeslim250TLSepetteY50ExcelKampanya1
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
 //* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing2 Excel 250TL All Items Y50 - 1031610316
@@ -1729,7 +1729,7 @@ tags:Gratis_Android_MagazadanTeslimat250TLSepetteY50ExcelKampanya2
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
 //* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing3 Excel 250TL All Items Y50 - 1031610316
@@ -1752,7 +1752,7 @@ tags:Gratis_Android_AdreseTeslim250TLSepetteY50ExcelKampanya3
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Teslimat alanı kargo kontrol edilir.
 * Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
 //* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
 
 Purchasing with Campaing4 Excel 250TL All Items Y50 - 1031610316
@@ -1777,5 +1777,101 @@ tags:Gratis_Android_MagazadanTeslimat250TLSepetteY50ExcelKampanya4
 * Kendim Teslim alacağım seçeneği seçilir.
 * Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
 * Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
-* Sipariş Özeti alanı kontrol edilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing1 Excel 250TL PL Y70 - 1033110331
+---------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim250TLSepettePLY70ExcelKampanya1
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis6 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* SepetteY70 Pl kampanyası1 için gerekli urunler sepete eklenir.
+* Excelden degerler "1033110331","2","2" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1033110331","3","2" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1033110331","4","2" okunur ve "araToplam" sakla
+* Excelden degerler "1033110331","5","2" okunur ve "kargoToplam" sakla
+* Excelden degerler "1033110331","6","2" okunur ve "odenecekToplam" sakla
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing2 Excel 250TL PL Y70 - 1033110331
+---------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimat250TLSepettePLY70ExcelKampanya2
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis7 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* SepetteY70 Pl kampanyası2 için gerekli urunler sepete eklenir.
+* Excelden degerler "1033110331","2","6" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1033110331","3","6" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1033110331","4","6" okunur ve "araToplam" sakla
+* Excelden degerler "1033110331","5","6" okunur ve "kargoToplam" sakla
+* Excelden degerler "1033110331","6","6" okunur ve "odenecekToplam" sakla
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing3 Excel 250TL PL Y70 - 1033110331
+---------------------------------------------------------
+tags:Gratis_Android_AdreseTeslim250TLSepettePLY70ExcelKampanya3
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis8 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* SepetteY70 Pl kampanyası3 için gerekli urunler sepete eklenir.
+* Excelden degerler "1033110331","2","14" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1033110331","3","14" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1033110331","4","14" okunur ve "araToplam" sakla
+* Excelden degerler "1033110331","5","14" okunur ve "kargoToplam" sakla
+* Excelden degerler "1033110331","6","14" okunur ve "odenecekToplam" sakla
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Adrese Teslim butonuna tıklanır.
+* Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Teslimat alanı kargo kontrol edilir.
+* Sipariş bilgileri ürünlerin, promosyonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
+//* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.
+
+Purchasing with Campaing4 Excel 250TL PL Y70 - 1033110331
+---------------------------------------------------------
+tags:Gratis_Android_MagazadanTeslimat250TLSepettePLY70ExcelKampanya4
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Sepet ikonu ile Gratis9 login olunur.
+* Kampanya sepeti kontrol edilerek temizlenir.
+* SepetteY70 Pl kampanyası4 için gerekli urunler sepete eklenir.
+* Excelden degerler "1033110331","2","18" okunur ve "urunFiyatıToplam" sakla
+* Excelden degerler "1033110331","3","18" okunur ve "promosyonToplam" sakla
+* Excelden degerler "1033110331","4","18" okunur ve "araToplam" sakla
+* Excelden degerler "1033110331","5","18" okunur ve "kargoToplam" sakla
+* Excelden degerler "1033110331","6","18" okunur ve "odenecekToplam" sakla
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
+* Mağazadan Teslim Sehir ismi secilir.
+* Mağazadan Teslim Ilce ismi secilir.
+* Mağazadan Teslim mağazası seçilir.
+* Kendim Teslim alacağım seçeneği seçilir.
+* Teslimat bilgileri ürünlerin, promosyonun ve toplam fiyatın kontrolü yapilir.
+* Sipariş bilgileri magazadan teslimat ürünlerin, promosyonun, kargonun ve ödenecek fiyatın kontrolü yapilir.
+* Sipariş Özeti kampanya alanı kontrol edilir.
 //* Iyzico alanı kampanyaya bağlı fiyat kontrol edilir.

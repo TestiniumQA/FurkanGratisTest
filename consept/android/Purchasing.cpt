@@ -229,6 +229,12 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "continueBtn"
 //* Elementin yüklenmesini bekle "iycCard"
 
+# Sipariş Özeti kampanya alanı kontrol edilir.
+* "continueBtn"li elementi bulana kadar "10" kere swipe yap ve elementi bul
+* Elementine tıkla "infoCheckbox"
+* Elementine tıkla "salesContractCheckbox"
+* Element var mı kontrol et "continueBtn"
+
 # Sipariş Özeti ve sözleşmeler alanı kontrol edilir.
 * "continueBtn"li elementi bulana kadar "4" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "preInfo"
