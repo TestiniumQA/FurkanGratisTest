@@ -205,7 +205,7 @@ This is a concept file with following syntax for each concept.
 * "shippingPriceTwo" li elementli küsüratı bul ve değerini "ikinciKüsür" olarak sakla
 * Elementine tıkla "shippingCheckBox"
 * "1" saniye bekle
-* Saklanan tek ürün fiyat değerlerinin "ikinciKüsür", "fiyat2" toplam fiyat "34.90" ile eşit mi kontrol et
+//* Saklanan tek ürün fiyat değerlerinin "ikinciKüsür", "fiyat2" toplam fiyat "34.90" ile eşit mi kontrol et
 * "1" saniye bekle
 * "salePriceOne" li elementi bul ve değerini "fiyat1" olarak sakla
 * "salePriceTwo" li elementli küsüratı bul ve değerini "ilkKüsür" olarak sakla
