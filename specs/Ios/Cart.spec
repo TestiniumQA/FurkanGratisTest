@@ -63,12 +63,7 @@ tags:Gratis_IOS_SepetteFavoriEklemeCikarma
 * Uygulama baslatilir
 * Login sayfasina gecilir
 * Gratis2 ile login olunur
-* Kategoriler sayfasina gecilir
-* "Ev & Yaşam" isimli kategori seçilir
-* Alt kategorilerden biri "Dekorasyon", "Aydınlatma" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+* Ana sayfadan bir urun sepete eklenir
 * Sepet kasa arkasi popup'i kapatilir
 * Sepette favoriye ekleme ve cikarma yapilir
 * Sepet kontrol edilerek temizlenir
@@ -79,13 +74,7 @@ tags:Gratis_IOS_SepetteFavoriListesiOlusturmaVeSilme
 * Uygulama baslatilir
 * Login sayfasina gecilir
 * Gratis3 ile login olunur
-//* Ana sayfadan bir urun sepete eklenir
-* Kategoriler sayfasina gecilir
-* "Ev & Yaşam" isimli kategori seçilir
-* Alt kategorilerden biri "Dekorasyon", "Aydınlatma" seçilir
-* Urun detay sayfasına geçilir
-* Ürün detay sayfasinda urun sepete eklenir
-* Sepete git'e tıklanır
+* Ana sayfadan bir urun sepete eklenir
 * Sepet kasa arkasi popup'i kapatilir
 * Sepette favori butonuna tiklanir
 * Sepette Yeni favori listesi olusturulur ve secilen urun favori eklenir
