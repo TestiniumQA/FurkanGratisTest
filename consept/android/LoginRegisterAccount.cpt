@@ -436,16 +436,18 @@ This is a concept file with following syntax for each concept.
 # Listeden yeni eklenen favori listesi secilir.
 * Element var mı kontrol et "editListNameButton"
 * Elementine tıkla "favListSpinner"
-* Element var mı kontrol et "newFavListElement"
-* Elementine tıkla "newFavListElement"
+* Elementin yüklenmesini bekle "favListSpinner"
+* "1" saniye bekle
+* "favListSpinner" elementinin koordinatlarına x="0" y="310" degerlerini ekleyerek tıkla
 * "favListSpinner" elementinin "yeni liste adı" textini içerdiği kontrol edilir
 * "productDetailFromFavoriteList" li elementin text degeri hafizada "ürün adı" olarak saklanan text ile esit mi kontrol et
 
 # Listeden adı <yeniListe> olan favori listesi secilir.
 * Element var mı kontrol et "editListNameButton"
 * Elementine tıkla "favListSpinner"
-* Element var mı kontrol et "newFavListElement"
-* <yeniListe> text degerine sahip elemente tikla.
+* Elementin yüklenmesini bekle "favListSpinner"
+* "1" saniye bekle
+* "favListSpinner" elementinin koordinatlarına x="0" y="310" degerlerini ekleyerek tıkla
 * "favListSpinner" elementinin <yeniListe> textini içerdiği kontrol edilir
 * "productDetailFromFavoriteList" li elementin text degeri hafizada "ürün adı" olarak saklanan text ile esit mi kontrol et
 
