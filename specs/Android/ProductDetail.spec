@@ -97,6 +97,7 @@ tags:Gratis_Android_UrunDetayNonLoginFavori
 * Favori ikonu ile Gratis0 login olunur.
 * Urun favorilere eklenir.
 * "geriBtn" li element varsa tıkla yoksa devam et
+* "geriBtn" li element varsa tıkla yoksa devam et
 * Uygulamadan cikis yapilir.
 * Kategoriler sayfasina gecilir.
 * "Ev & Yaşam" isimli kategori seçilir.
