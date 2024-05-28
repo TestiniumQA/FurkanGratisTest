@@ -107,6 +107,8 @@ tags:Gratis_Android_UrunDetayNonLoginFavori
 * Ürün detay sayfasında ürün favori butonuna tıklanır.
 * Favori ikonu ile Gratis0 login olunur.
 * "nonLoginFavori" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir.
+* "geriBtn" li element varsa tıkla yoksa devam et
+* "geriBtn" li element varsa tıkla yoksa devam et
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
 * Favori listesi kontrol edilerek temizlenir.
