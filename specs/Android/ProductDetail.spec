@@ -99,6 +99,7 @@ tags:Gratis_Android_UrunDetayNonLoginFavori
 * "geriBtn" li element varsa tıkla yoksa devam et
 * "geriBtn" li element varsa tıkla yoksa devam et
 * Uygulamadan cikis yapilir.
+* "kategorilerTab" li element varsa tıkla yoksa devam et
 * Kategoriler sayfasina gecilir.
 * "Ev & Yaşam" isimli kategori seçilir.
 * Alt kategorilerden biri "Dekorasyon", "Aydınlatma" seçilir.
