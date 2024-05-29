@@ -74,7 +74,7 @@
 //* Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
 //* Elementine tıkla "sepetPopUpKapatBtn"
 * "4" saniye bekle
-* "sepetPopUpKapatBtn" li element varsa "sepetiKapatmaBtn" tıkla
+* "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 
 # Sepette favoriye ekleme ve cikarma yapilir
 * Elementin yüklenmesini bekle "ShoppingItemFavBtn"
