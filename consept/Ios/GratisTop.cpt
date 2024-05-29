@@ -104,7 +104,8 @@
 //* "girisYapBtn" elementine sayacli tikla "sepetPopUpKapatBtn" value degerini bekle
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-//* "sepetPopUpKapatBtn" li element varsa "sepetiKapatmaBtn" tıkla
+* "3" saniye bekle
+* "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
 
 # Sepet ikonu ile Gratis0 login olunur
@@ -112,8 +113,8 @@
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-* "2" saniye bekle
-* "sepetPopUpKapatBtn" li element varsa "sepetiKapatmaBtn" tıkla
+* "3" saniye bekle
+* "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
 
 # Sepet ikonu ile Gratis1 login olunur
@@ -121,7 +122,8 @@
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-* "sepetPopUpKapatBtn" li element varsa "sepetiKapatmaBtn" tıkla
+* "3" saniye bekle
+* "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
 
 # Sepet ikonu ile Gratis2 login olunur
@@ -129,7 +131,8 @@
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-//* "sepetPopUpKapatBtn" li element varsa "sepetiKapatmaBtn" tıkla
+* "3" saniye bekle
+* "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
 
 # Sepet ikonu ile Gratis3 login olunur
@@ -137,7 +140,8 @@
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-//* "sepetPopUpKapatBtn" li element varsa "sepetiKapatmaBtn" tıkla
+* "3" saniye bekle
+* "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
 
 # Sepet ikonu ile Gratis4 login olunur
@@ -145,5 +149,6 @@
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-//* "sepetPopUpKapatBtn" li element varsa "sepetiKapatmaBtn" tıkla
+* "3" saniye bekle
+* "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
