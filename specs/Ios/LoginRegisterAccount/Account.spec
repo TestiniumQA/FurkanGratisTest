@@ -170,6 +170,7 @@ tags:Gratis_IOS_FavorilerdeMaximumSepeteEkleme
 * Favori listesi kontrol edilerek temizlenir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfa sepet ikonuna tiklanir
+* Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
 
 IOS Scenario Scroll to Favorites Page
