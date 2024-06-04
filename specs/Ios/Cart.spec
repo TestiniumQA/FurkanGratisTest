@@ -25,6 +25,7 @@ tags:Gratis_IOS_KasaArkasiPopupSlideVeUrunEkleme
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
 * Kasa arkası popup'inda swipe yapilir ve urun sepete eklenir
+* Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
 
 IOS Scenario Cart Slider And Add To Cart

@@ -104,7 +104,7 @@
 //* "girisYapBtn" elementine sayacli tikla "sepetPopUpKapatBtn" value degerini bekle
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-* "3" saniye bekle
+* "4" saniye bekle
 * "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
 
@@ -113,7 +113,7 @@
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-* "3" saniye bekle
+* "4" saniye bekle
 * "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
 
@@ -122,7 +122,7 @@
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-* "3" saniye bekle
+* "4" saniye bekle
 * "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
 
@@ -131,7 +131,7 @@
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-* "3" saniye bekle
+* "4" saniye bekle
 * "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
 
@@ -140,7 +140,7 @@
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-* "3" saniye bekle
+* "4" saniye bekle
 * "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
 
@@ -149,6 +149,6 @@
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-* "3" saniye bekle
+* "4" saniye bekle
 * "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
