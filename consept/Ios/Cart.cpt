@@ -136,7 +136,8 @@
 * Elementine tıkla "CartHeaderText"
 
 # Kasa arkasi urun detayina gidilir
-* Elementin yüklenmesini bekle "sepetPopUpKapatBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "gratisCardPopupImage"
 * Elementin yüklenmesini bekle "CartPopupProduct"
 * Elementine tıkla "CartPopupProduct"
 * Elementin yüklenmesini bekle "ProductDetailTitle"
