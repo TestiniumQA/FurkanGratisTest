@@ -949,8 +949,8 @@
   },
   {
     "key": "shoppingItemFavBtn",
-    "androidValue": "shopping_item_fav_btn",
-    "androidType": "id",
+    "androidValue": "//android.widget.ImageView[@content-desc=\"Favorite Button\"]",
+    "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
   },
