@@ -1193,7 +1193,7 @@
     "key": "GratisBeautyAnasayfaIcon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeNavigationBar[`name == \"Gratis.HomeView\"`]/XCUIElementTypeStaticText[1]",
+    "iosValue": "**/XCUIElementTypeNavigationBar[`name == \"Gratis.HomeView\"`]/XCUIElementTypeStaticText",
     "iosType": "classChain"
   },
   {
