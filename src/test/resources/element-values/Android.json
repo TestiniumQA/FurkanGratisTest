@@ -1313,7 +1313,7 @@
   },
   {
     "key": "catalogPages",
-    "androidValue": "//*[@text='26-27']",
+    "androidValue": "//*[@text='30-31']",
     "androidType": "xpath"
   },
   {
