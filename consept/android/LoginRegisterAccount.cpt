@@ -305,6 +305,8 @@ This is a concept file with following syntax for each concept.
 # Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur.
 * Element var mı kontrol et "newAddressSavedBtn"
 * Elementine tıkla "newAddressSavedBtn"
+* Elementin yüklenmesini bekle "popupOkayButton"
+* Elementine tıkla "popupOkayButton"
 //* Element var mı kontrol et "newAddressCard"
 
 # En fazla 10 adres ekleme uyarısı görülür.
