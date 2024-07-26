@@ -523,6 +523,7 @@ This is a concept file with following syntax for each concept.
 # Uye bilgilerim sayfasina gecilir.
 * Elementin yüklenmesini bekle "customerInformation"
 * Elementine tıkla "customerInformation"
+* Elementin yüklenmesini bekle "pageToolbarTitle"
 * "pageToolbarTitle" elementinin "Üye Bilgilerim" textini içerdiği kontrol edilir
 
 # Uye bilgileri basarili sekilde guncellenir.
