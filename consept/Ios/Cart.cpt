@@ -118,20 +118,26 @@
 # Kasa arkası popup'inda swipe yapilir ve urun sepete eklenir
 * Elementin yüklenmesini bekle "CartAddButton"
 * "CartAddButton" elementinin hizasından sağdan sola "3" kere kaydır
-* Elementin yüklenmesini bekle "ProductItemTitle"
-* "ProductItemTitle" elementinin hizasından soldan sağa "3" kere kaydır
+* Elementin yüklenmesini bekle "CartAddButton"
+* "1" saniye bekle
+* "CartAddButton" elementinin hizasından soldan sağa "3" kere kaydır
 * Elementin yüklenmesini bekle "CartAddButton"
 * Elementine tıkla "CartAddButton"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
 
 # Kasa arkasında swipe yapilir ve urun sepete eklenir
 * Elementin yüklenmesini bekle "CartHeaderText"
 * Elementine tıkla "CartHeaderText"
 * Elementin yüklenmesini bekle "CartAddButton"
 * "CartAddButton" elementinin hizasından sağdan sola "3" kere kaydır
-* Elementin yüklenmesini bekle "ProductDropwdownItemTitle"
-* "ProductDropwdownItemTitle" elementinin hizasından soldan sağa "3" kere kaydır
+* Elementin yüklenmesini bekle "CartAddButton"
+* "1" saniye bekle
+* "CartAddButton" elementinin hizasından soldan sağa "3" kere kaydır
 * "CartAddButton" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "CartAddButton"
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "CartHeaderText"
 * Elementine tıkla "CartHeaderText"
 
