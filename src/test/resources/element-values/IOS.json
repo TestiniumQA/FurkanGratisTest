@@ -2264,7 +2264,7 @@
     "key": "BeautyPopupTwo",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//*[@name='x']",
+    "iosValue": "//*[@name='X']",
     "iosType": "xpath"
   },
   {

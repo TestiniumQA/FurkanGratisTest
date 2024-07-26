@@ -33,8 +33,10 @@
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 * "BeautyPopupTwo" li element varsa tıkla
+* "BeautyPopup" li element varsa tıkla
 * Elementin yüklenmesini bekle "profilim"
 * "BeautyPopupTwo" li element varsa tıkla
+* "BeautyPopup" li element varsa tıkla
 //* "girisYapBtn" elementine sayacli tikla "profilim" value degerini bekle
 
 # Gratis0 ile login olunur
