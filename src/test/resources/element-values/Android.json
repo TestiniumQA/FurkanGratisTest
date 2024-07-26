@@ -2112,6 +2112,11 @@
     "androidType": "id"
   },
   {
+    "key": "closeButtonTwo",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[2]/android.view.View/android.widget.Image",
+    "androidType": "xpath"
+  },
+  {
     "key": "araToplamTwo",
     "androidValue": "com.gratis.android:id/totalPriceTwoTxt",
     "androidType": "id"

@@ -137,6 +137,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "AddedToCartText"
 * "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
 * "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+* "closeButtonTwo" li element varsa tıkla yoksa devam et
 
 # Sepete Ekle butonu ile Gratis1 login olunur.
 * "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
@@ -145,6 +146,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "AddedToCartText"
 * "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
 * "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+* "closeButtonTwo" li element varsa tıkla yoksa devam et
 
 # Sepete Ekle butonu ile Gratis2 login olunur.
 * "AndroidMail" csv dosyasindan "2" numaralı kullaniciyi sec
@@ -153,6 +155,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "AddedToCartText"
 * "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
 * "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+* "closeButtonTwo" li element varsa tıkla yoksa devam et
 
 # Sepete Ekle butonu ile Gratis3 login olunur.
 * "AndroidMail" csv dosyasindan "3" numaralı kullaniciyi sec
@@ -161,6 +164,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "AddedToCartText"
 * "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
 * "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+* "closeButtonTwo" li element varsa tıkla yoksa devam et
 
 # Sepete Ekle butonu ile Gratis4 login olunur.
 * "AndroidMail" csv dosyasindan "4" numaralı kullaniciyi sec
@@ -169,6 +173,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "AddedToCartText"
 * "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
 * "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+* "closeButtonTwo" li element varsa tıkla yoksa devam et
 
 # Sepete Ekle butonu ile Gratis0 login olunur.
 * "AndroidMail" csv dosyasindan "0" numaralı kullaniciyi sec
@@ -177,6 +182,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "AddedToCartText"
 * "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
 * "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+* "closeButtonTwo" li element varsa tıkla yoksa devam et
 
 # En Son Gezdiklerim alanına gidilir.
 * "6" kere aşağıya kaydır
