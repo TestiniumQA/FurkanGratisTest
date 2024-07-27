@@ -11,6 +11,7 @@
 * Elementin yüklenmesini bekle "TabHeaderSlct"
 
 # En Cok Satanlar urunleri swipe edilir ve tiklanir
+* "1" kere aşağıya kaydır
 * "ProductName"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "ProductName"
 * "ProductName" elementinin hizasından sağdan sola "1" kere kaydır
@@ -43,7 +44,8 @@
 //* "3" saniye bekle
 
 # Ana sayfa kampanyalarina tiklanir
-* "1" kere aşağıya kaydır
+* "2" kere aşağıya kaydır
+* "MainPageCampaignOne"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "MainPageCampaignOne"
 * Elementine tıkla "MainPageCampaignOne"
 * "1" saniye bekle
@@ -54,6 +56,7 @@
 * "3" saniye bekle
 * "MainPageCampaignOne" elementi bulunana kadar en fazla "10" saniye kadar bekle
 * "1" kere aşağıya kaydır
+* "MainPageCampaignTwo"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "MainPageCampaignTwo"
 * Elementine tıkla "MainPageCampaignTwo"
 * "1" saniye bekle
@@ -64,6 +67,7 @@
 * "3" saniye bekle
 * "MainPageCampaignTwo" elementi bulunana kadar en fazla "10" saniye kadar bekle
 * "1" kere aşağıya kaydır
+* "MainPageCampaignThree"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "MainPageCampaignThree"
 * Elementine tıkla "MainPageCampaignThree"
 * "1" saniye bekle
@@ -74,6 +78,7 @@
 * "3" saniye bekle
 * "MainPageCampaignThree" elementi bulunana kadar en fazla "10" saniye kadar bekle
 * "1" kere aşağıya kaydır
+* "MainPageCampaignFour"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "MainPageCampaignFour"
 * Elementine tıkla "MainPageCampaignFour"
 * "1" saniye bekle
