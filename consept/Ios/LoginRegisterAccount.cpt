@@ -550,8 +550,8 @@
 * Elementine tıkla "AnasayfaTab"
 //* Elementin yüklenmesini bekle "KampanyaSec"
 //* Elementin yüklenmesini bekle "EnCokSatanlarProduct"
-* "ProductAddButton"li elementi bulana kadar "1" kere swipe yap ve elementi bul
-* Elementin yüklenmesini bekle "ProductAddButton"
+* "1" kere aşağıya kaydır
+* "ProductName" li elementi bul ve değerini "ürün adı" olarak sakla
 * "FavBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "FavBtn"
 * "2" saniye bekle

@@ -32,11 +32,7 @@
 * Elementin yüklenmesini bekle "EyeIcon"
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-* "BeautyPopupTwo" li element varsa tıkla
-* "BeautyPopup" li element varsa tıkla
 * Elementin yüklenmesini bekle "profilim"
-* "BeautyPopupTwo" li element varsa tıkla
-* "BeautyPopup" li element varsa tıkla
 //* "girisYapBtn" elementine sayacli tikla "profilim" value degerini bekle
 
 # Gratis0 ile login olunur
@@ -47,11 +43,7 @@
 * Elementin yüklenmesini bekle "EyeIcon"
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-* "BeautyPopupTwo" li element varsa tıkla
-* "BeautyPopup" li element varsa tıkla
 * Elementin yüklenmesini bekle "profilim"
-* "BeautyPopupTwo" li element varsa tıkla
-* "BeautyPopup" li element varsa tıkla
 
 # Gratis1 ile login olunur
 * "IOSmail" csv dosyasindan "1" numaralı kullaniciyi sec
@@ -61,11 +53,7 @@
 * Elementin yüklenmesini bekle "EyeIcon"
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-* "BeautyPopupTwo" li element varsa tıkla
-* "BeautyPopup" li element varsa tıkla
 * Elementin yüklenmesini bekle "profilim"
-* "BeautyPopupTwo" li element varsa tıkla
-* "BeautyPopup" li element varsa tıkla
 
 # Gratis2 ile login olunur
 * "IOSmail" csv dosyasindan "2" numaralı kullaniciyi sec
@@ -75,11 +63,7 @@
 * Elementin yüklenmesini bekle "EyeIcon"
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-* "BeautyPopupTwo" li element varsa tıkla
-* "BeautyPopup" li element varsa tıkla
 * Elementin yüklenmesini bekle "profilim"
-* "BeautyPopupTwo" li element varsa tıkla
-* "BeautyPopup" li element varsa tıkla
 
 # Gratis3 ile login olunur
 * "IOSmail" csv dosyasindan "3" numaralı kullaniciyi sec
@@ -89,11 +73,7 @@
 * Elementin yüklenmesini bekle "EyeIcon"
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-* "BeautyPopupTwo" li element varsa tıkla
-* "BeautyPopup" li element varsa tıkla
 * Elementin yüklenmesini bekle "profilim"
-* "BeautyPopupTwo" li element varsa tıkla
-* "BeautyPopup" li element varsa tıkla
 
 # Gratis4 ile login olunur
 * "IOSmail" csv dosyasindan "4" numaralı kullaniciyi sec
@@ -103,11 +83,7 @@
 * Elementin yüklenmesini bekle "EyeIcon"
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
-* "BeautyPopupTwo" li element varsa tıkla
-* "BeautyPopup" li element varsa tıkla
 * Elementin yüklenmesini bekle "profilim"
-* "BeautyPopupTwo" li element varsa tıkla
-* "BeautyPopup" li element varsa tıkla
 
 # Gratis5 ile login olunur
 * "IOSmail" csv dosyasindan "5" numaralı kullaniciyi sec
