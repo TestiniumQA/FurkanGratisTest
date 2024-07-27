@@ -182,7 +182,8 @@ IOS Scenario Non-Login Choose Category and Add To Cart And Go To Cart
 tags:Gratis_IOS_KategoriSecimiVeNonLoginSepetDevam
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
-* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepete Ekle butonu ile Gratis4 login olunur
 * Alışverişe devam edilir
@@ -198,7 +199,8 @@ tags:Gratis_IOS_KategoriSecimiVeLoginSepeteEkleme
 * Login sayfasina gecilir
 * Gratis0 ile login olunur
 * Kategoriler sayfasina gecilir
-* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir
 * Sepete Ekle butonuna tıklanır
 * Alışverişe devam edilir
 * Sepete Ekle butonuna tıklanır
@@ -214,7 +216,8 @@ tags:Gratis_IOS_KategoriSecimiVeListelemeMaximumSepeteEkleme
 * Sepet ikonu ile Gratis4 login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
-* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir
 * Sepete Ekle butonuna tıklanır
 * Alışverişe devam edilir
 * Sepete Ekle butonuna tıklanır
@@ -233,7 +236,8 @@ IOS Scenario Non-Login Category and Add To Favorite
 tags:Gratis_IOS_NonLoginKategoriFavoriEkleme
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
-* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir
 * Listeleme alanından bir ürünün favori butonuna tıklanır
 * Favori ikonu ile Gratis1 login olunur
 * Urun favorilere eklenir
