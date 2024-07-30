@@ -17,6 +17,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "loginBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Gratis1 ile login olunur.
 * "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
@@ -25,6 +26,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "loginBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Gratis2 ile login olunur.
 * "AndroidMail" csv dosyasindan "2" numaralı kullaniciyi sec
@@ -33,6 +35,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "loginBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Gratis3 ile login olunur.
 * "AndroidMail" csv dosyasindan "3" numaralı kullaniciyi sec
@@ -41,6 +44,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "loginBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Gratis4 ile login olunur.
 * "AndroidMail" csv dosyasindan "4" numaralı kullaniciyi sec
@@ -49,6 +53,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "loginBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Gratis0 ile login olunur.
 * "AndroidMail" csv dosyasindan "0" numaralı kullaniciyi sec
@@ -57,6 +62,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "loginBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Gratis14 ile login olunur.
 * "AndroidMail" csv dosyasindan "14" numaralı kullaniciyi sec
