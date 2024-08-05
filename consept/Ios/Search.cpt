@@ -102,7 +102,7 @@
 # Marka ile ilgili urunlerin listelendigi gorulur
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "PageToolbarTitleText"
-* "PageToolbarTitleText" elementinin "Arko Men" textini içerdiği kontrol edilir
+* "PageToolbarTitleText" elementinin "Bebak" textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle

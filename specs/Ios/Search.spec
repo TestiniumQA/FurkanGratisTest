@@ -32,7 +32,7 @@ tags:Gratis_IOS_KategoriVeMarkaArama
 * Kategori ile ilgili urunlerin listelendigi gorulur
 * Search ikonuna tiklanir
 * Arama sayfasinin acildigi gorulur
-* Marka adi "Arko Men" yazilir, marka secilir
+* Marka adi "Bebak" yazilir, marka secilir
 * Marka ile ilgili urunlerin listelendigi gorulur
 
 IOS Scenario Popular Category And Popular Trademark Search

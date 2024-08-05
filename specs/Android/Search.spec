@@ -32,7 +32,7 @@ tags:Gratis_Android_KategoriVeMarkaArama
 * Kategori ile ilgili urunlerin listelendigi gorulur.
 * Search alanında arama textbox'ına tıklanır.
 * Arama sayfasinin acildigi gorulur.
-* Marka adi "Arko Men" yazilir, marka secilir.
+* Marka adi "Bebak" yazilir, marka secilir.
 * Marka ile ilgili urunlerin listelendigi gorulur.
 
 Scenario Popular Category And Popular Trademark Search

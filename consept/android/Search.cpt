@@ -134,7 +134,7 @@
 # Marka ile ilgili urunlerin listelendigi gorulur.
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "pageToolbarTitle"
-* "pageToolbarTitle" elementinin "Arko Men" textini içerdiği kontrol edilir
+* "pageToolbarTitle" elementinin "Bebak" textini içerdiği kontrol edilir
 * Element var mı kontrol et "urunDetay"
 * Element var mı kontrol et "urunDetayy"
 * Elementin yüklenmesini bekle "geriBtn"
