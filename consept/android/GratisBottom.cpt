@@ -436,6 +436,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "filterOkayBtn"
 
 # Ürünlerin filtrelendiği ismi ile kontrol edilir.
+* "1" kere aşağıya kaydır
 * "productName" li elementin text degerini hafizada "marka adı" olarak saklanan text ile karsilastir
 
 # Form filtresine tıklanır.
