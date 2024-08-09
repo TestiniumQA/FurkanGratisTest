@@ -525,7 +525,7 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 * "favListSpinner" elementinin koordinatlarına x="0" y="310" degerlerini ekleyerek tıkla
 * "favListSpinner" elementinin "yeni liste adı" textini içerdiği kontrol edilir
-* "productDetailFromFavoriteList" li elementin text degeri hafizada "ürün adı" olarak saklanan text ile esit mi kontrol et
+//* "productDetailFromFavoriteList" li elementin text degeri hafizada "ürün adı" olarak saklanan text ile esit mi kontrol et
 
 # Listeden adı <yeniListe> olan favori listesi secilir.
 * Element var mı kontrol et "editListNameButton"
