@@ -9,8 +9,8 @@ Deleting Address and Adding New Address
 ------------------
 tags:Gratis_Android_YeniAdresEklemeVeSilme
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis0 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis0 ile login olunur.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
@@ -28,8 +28,8 @@ Updating Address
 ----------------
 tags:Gratis_Android_AdresGuncelleme
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis1 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis1 ile login olunur.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
 * Adres güncellemeye tıklanır.
@@ -44,8 +44,8 @@ Favorite List Name Update
 --------------------
 tags:Gratis_Android_FavoriAdiListeDuzenleme
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis2 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis2 ile login olunur.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
 * Favori Liste Adi Duzenle alani kontrol edilir.
@@ -55,8 +55,8 @@ Adding A Product To Favorite List
 ---------------------------------
 tags:Gratis_Android_FavorilereUrunEklemeVeCikarma
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis3 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis3 ile login olunur.
 * En Cok Satanlar alanindan bir urunun favori butonuna tıklanir.
 * Urun favorilere eklenir.
 * Ana sayfadaki urun favorilerden cikarilir.
@@ -65,8 +65,8 @@ Add Select and Delete Favorite List
 ------------------------------------
 tags:Gratis_Android_ListeOlusturmaSecmeVeSilme
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis4 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis4 ile login olunur.
 * En Cok Satanlar alanindan bir urunun favori butonuna tıklanir.
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
@@ -78,7 +78,7 @@ Add To Cart From Favorite List
 ------------------------------
 tags:Gratis_Android_FavoriListesindenSepeteEkleme
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis0 login olunur.
+* Yeni sepet ikonu ile Gratis0 login olunur.
 * Sepet kontrol edilerek temizlenir.
 * Kategoriler sayfasina gecilir.
 * "Saç Bakım" isimli kategori seçilir.
@@ -98,8 +98,8 @@ From Favorite List to Home Page
 -------------------------------
 tags:Gratis_Android_FavorilerdenAnasayfayaYonlendirme
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis1 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis1 ile login olunur.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Favori listesi kontrol edilerek temizlenir.
 * Favori listesinden ana sayfaya yonlendirme yapilir.
@@ -109,7 +109,7 @@ Max Add To Cart in Favorites
 tags:Gratis_Android_FavorilerdeMaximumSepeteEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis2 login olunur.
+* Yeni sepet ikonu ile Gratis2 login olunur.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Kategoriler sayfasina gecilir.
 * "Makyaj" isimli kategori seçilir.
@@ -130,8 +130,8 @@ Scenario Updating Customer Information
 ------------------------------------------
 tags:Gratis_Android_UyeBilgileriGuncelleme
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis0 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis0 ile login olunur.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Uye bilgilerim sayfasina gecilir.
 * Uye bilgileri basarili sekilde guncellenir.
@@ -144,8 +144,8 @@ Add Favorite List With Same Name
 --------------------------------
 tags:Gratis_Android_AyniIsimdeListeOlusturma
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis3 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis3 ile login olunur.
 * En Cok Satanlar alanindan bir urunun favori butonuna tıklanir.
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * En Cok Satanlar alanindan ikinci urunun favori butonuna tıklanir.
@@ -159,8 +159,8 @@ Scroll to Favorites Page
 ------------------------
 tags:Gratis_Android_FavorilerSayfasiScroll
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis14 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis14 ile login olunur.
 * Ana sayfaya geçilir.
 * Urun kodu "10000238" yazilir, arama yapilir.
 * "1" kere aşağıya kaydır
@@ -175,8 +175,8 @@ Address Warning Messages
 ------------------------
 tags:Gratis_Android_AdresUyariMesajlari
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis4 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis4 ile login olunur.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
 * Adres varsa Silme'ye tıklanır, adres silme pop-up'ın açıldığı görülür ve adres silinir.
@@ -197,8 +197,8 @@ Maximum Address Addition Warning
 --------------------------------
 tags:Gratis_Android_MaksimumAdresEklemeUyarisi
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis14 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis14 ile login olunur.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Adreslerim'e tiklanir adreslerim sayfasinin acildigi gorulur.
 * Yeni Adres Ekle'ye tiklanir.
@@ -214,8 +214,8 @@ Maximum Favorite List Addition Warning
 --------------------------------------
 tags:Gratis_Android_MaksimumFavoriListesiEklemeUyarisi
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis14 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis14 ile login olunur.
 * Kategoriler sayfasina gecilir.
 * "Makyaj" isimli kategori seçilir.
 * Alt kategorilerden biri "Tırnak Bakım", "Tırnak Süsleri" seçilir.

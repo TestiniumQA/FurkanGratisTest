@@ -10,11 +10,24 @@ This is a concept file with following syntax for each concept.
 * "digerTab" elementine sayacli tikla "loginTab" value degerini bekle
 * "loginTab" elementine sayacli tikla "emailInput" value degerini bekle
 
+# Yeni login sayfasina gecilir.
+* "digerTab" elementine sayacli tikla "loginTab" value degerini bekle
+* "loginTab" elementine sayacli tikla "phoneNumberInput" value degerini bekle
+
 # Rastgele login olunur.
 * "AndroidMail" csv dosyasindan rastgele kullanici sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
 * Elementine tıkla "loginBtn"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+* Elementine tıkla "anasayfaTab"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
+# Yeni rastgele login olunur.
+* "AndroidPhone" csv dosyasindan rastgele kullanici sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 * "beautyPopup" li element varsa tıkla yoksa devam et
@@ -28,11 +41,29 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "anasayfaTab"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
+# Yeni Gratis1 ile login olunur.
+* "AndroidPhone" csv dosyasindan "1" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+* Elementine tıkla "anasayfaTab"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
 # Gratis2 ile login olunur.
 * "AndroidMail" csv dosyasindan "2" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
 * Elementine tıkla "loginBtn"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+* Elementine tıkla "anasayfaTab"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
+# Yeni Gratis2 ile login olunur.
+* "AndroidPhone" csv dosyasindan "2" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 * "beautyPopup" li element varsa tıkla yoksa devam et
@@ -46,11 +77,29 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "anasayfaTab"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
+# Yeni Gratis3 ile login olunur.
+* "AndroidPhone" csv dosyasindan "3" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+* Elementine tıkla "anasayfaTab"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
 # Gratis4 ile login olunur.
 * "AndroidMail" csv dosyasindan "4" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Element var mı kontrol et "textInputEndIcon"
 * Elementine tıkla "loginBtn"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+* Elementine tıkla "anasayfaTab"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
+# Yeni Gratis4 ile login olunur.
+* "AndroidPhone" csv dosyasindan "4" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 * "beautyPopup" li element varsa tıkla yoksa devam et
@@ -64,6 +113,15 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "anasayfaTab"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
+# Yeni Gratis0 ile login olunur.
+* "AndroidPhone" csv dosyasindan "0" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+* Elementine tıkla "anasayfaTab"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
 # Gratis14 ile login olunur.
 * "AndroidMail" csv dosyasindan "14" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
@@ -71,6 +129,15 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "loginBtn"
 * "beautyPopup" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
+
+# Yeni Gratis14 ile login olunur.
+* "AndroidPhone" csv dosyasindan "6" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+* Elementine tıkla "anasayfaTab"
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Gratis5 ile login olunur.
 * "AndroidMail" csv dosyasindan "5" numaralı kullaniciyi sec
@@ -82,6 +149,15 @@ This is a concept file with following syntax for each concept.
 //* "2" saniye bekle
 //* "beautyPopup" li element varsa tıkla
 
+# Yeni Gratis5 ile login olunur.
+* "AndroidPhone" csv dosyasindan "5" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+* Elementine tıkla "anasayfaTab"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
 # Sepet kontrol edilerek temizlenir.
 //* "sepetBtn" li element varsa tıkla yoksa devam et
 * "sepetReklamKapat" li element varsa tıkla yoksa devam et
@@ -89,8 +165,8 @@ This is a concept file with following syntax for each concept.
 * "sepetTemizleOnay" li element varsa tıkla yoksa devam et
 * "sepetTemizleBtn" li element varsa tıkla yoksa devam et
 * "sepetTemizleOnay" li element varsa tıkla yoksa devam et
-* "sepetTemizleBtn" li element varsa tıkla yoksa devam et
-* "sepetTemizleOnay" li element varsa tıkla yoksa devam et
+//* "sepetTemizleBtn" li element varsa tıkla yoksa devam et
+//* "sepetTemizleOnay" li element varsa tıkla yoksa devam et
 * "bosSepetListesi" icin sayac tut
 
 # Kampanya sepeti kontrol edilerek temizlenir.

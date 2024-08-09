@@ -4,14 +4,51 @@ This is a concept file with following syntax for each concept.
 
 # Register'a tıklanır.
 * Element var mı kontrol et "registerBtn"
-
 * "registerBtn" elementine sayacli tikla "digerTab" value degerini bekle
 
+# Yeni Register'a tıklanır.
+* "AndroidPhone" csv dosyasindan "5" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+* Elementin yüklenmesini bekle "registerName"
+
 # Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur.
-* "Mehmet" textini "newAddressCustomerName" elemente yaz
-* "Uludağ" textini "newAddressCustomerSurname" elemente yaz
+* "Burhan" textini "newAddressCustomerName" elemente yaz
+* "Aydın" textini "newAddressCustomerSurname" elemente yaz
 * "javaautomationtest@gmail.com" textini "registerMail" elemente yaz
 * "5555217475" textini "registerPhone" elemente yaz
+* Elementine tıkla "registerBirth"
+* Element var mı kontrol et "popupOkayButton"
+* "30","40" oranlarından "30","65" oranlarına "2" kere swipe et
+* "50","40" oranlarından "50","65" oranlarına "2" kere swipe et
+* "70","40" oranlarından "70","65" oranlarına "2" kere swipe et
+* Elementine tıkla "popupOkayButton"
+* Elementine tıkla "registerManGender"
+* "123456Asdf." textini "registerPassword" elemente yaz
+* "123456Asdf." textini "registerPasswordAgain" elemente yaz
+* "1" kere aşağıya kaydır
+* "registerOtherAgreementText" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "registerAgreementText"
+* "register2AgreementText" elementi "" degerine esit mi
+* Elementine tıkla "popupOkayButton"
+* "registerOtherAgreement" li elementi bul ve varsa tıkla
+* Elementine tıkla "SmsCheckbox"
+* Element var mı kontrol et "SmsCheckboxChecked"
+* Elementine tıkla "EmailCheckbox"
+* Element var mı kontrol et "EmailCheckboxChecked"
+* Elementine tıkla "callCheckbox"
+* Element var mı kontrol et "callCheckboxChecked"
+* "registerButton" li elementi bul ve varsa tıkla
+* Element var mı kontrol et "registerEmailErrorPopup"
+* Elementine tıkla "popupOkayButton"
+
+# Yeni Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur.
+* "Burhan" textini "newAddressCustomerName" elemente yaz
+* "Aydın" textini "newAddressCustomerSurname" elemente yaz
+* "javaautomationtest@gmail.com" textini "registerMail" elemente yaz
+//* "5555217475" textini "registerPhone" elemente yaz
 * Elementine tıkla "registerBirth"
 * Element var mı kontrol et "popupOkayButton"
 * "30","40" oranlarından "30","65" oranlarına "2" kere swipe et
@@ -70,6 +107,20 @@ This is a concept file with following syntax for each concept.
 * Rastgele secilen şifre "registerPassword" elementine, şifre tekrar "registerPasswordAgain"  elementine yazilir
 * "1" kere aşağıya kaydır
 
+# Yeni Kullanıcı bilgileri girilir.
+* "AndroidInfoPhone" csv dosyasindan rastgele register kullanicisi sec
+* Rastgele secilen kullanici adi "registerName" elementine, soyadi "registerSurname" elementine, mail "registerMail" elementine yazilir
+//* Rastgele secilen telefon "registerPhone" elementine, doğum tarihi "registerBirth"  elementine yazilir
+* Elementine tıkla "registerBirth"
+* Element var mı kontrol et "popupOkayButton"
+* "30","40" oranlarından "30","65" oranlarına "2" kere swipe et
+* "50","40" oranlarından "50","65" oranlarına "2" kere swipe et
+* "70","40" oranlarından "70","65" oranlarına "2" kere swipe et
+* Elementine tıkla "popupOkayButton"
+* "registerManGender" li element varsa tıkla
+* Rastgele secilen şifre "registerPassword" elementine, şifre tekrar "registerPasswordAgain"  elementine yazilir
+* "1" kere aşağıya kaydır
+
 # Kullanıcı şartlarına tıklanır ve üye olunur.
 * "registerOtherAgreementText" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * Elementin yüklenmesini bekle "registerAgreementText"
@@ -97,6 +148,35 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "popupOkayButton"
 * "pageToolbarTitle" li elementin değeri "Diğer" e içerdiğini kontrol et
 * Element var mı kontrol et "profilTab"
+
+# Yeni Kullanıcı şartlarına tıklanır ve üye olunur.
+* "registerOtherAgreementText" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* Elementin yüklenmesini bekle "registerAgreementText"
+* "register2AgreementText" elementi "" degerine esit mi
+* Elementine tıkla "popupOkayButton"
+* "registerOtherAgreement" li elementi bul ve varsa tıkla
+* Elementine tıkla "SmsCheckbox"
+* Element var mı kontrol et "SmsCheckboxChecked"
+* Elementine tıkla "EmailCheckbox"
+* Element var mı kontrol et "EmailCheckboxChecked"
+* Elementine tıkla "callCheckbox"
+* Element var mı kontrol et "callCheckboxChecked"
+* "1" saniye bekle
+//* "registerMembershipText" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+//* Elementin yüklenmesini bekle "registerAgreementText"
+//* "registerAgreementText" elementi "" degerine esit mi
+//* Elementine tıkla "popupOkayButton"
+//* "registerMembershipAgreement" li elementi bul ve varsa tıkla
+//* "registerPersonalInfo" li elementi bul ve varsa tıkla
+* "registerButton" li elementi bul ve varsa tıkla
+//* Element var mı kontrol et "registerSmsAcceptButton"
+//* "alertTitle" li elementin değeri "SMS ONAYI" e içerdiğini kontrol et
+//* "12345" textini "editListTextbox" elemente yaz
+//* "popupOkayButton" li elementin değeri "GÖNDER" e içerdiğini kontrol et
+//* Elementine tıkla "popupOkayButton"
+//* "pageToolbarTitle" li elementin değeri "Diğer" e içerdiğini kontrol et
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "profilTab"
 
 # Sms uyarısı kontrol edilir.
 * "alertSuccessfulPopup" li elementin değeri "SMS kodu geçersiz" e içerdiğini kontrol et
@@ -305,6 +385,8 @@ This is a concept file with following syntax for each concept.
 # Kaydet ikonuna tiklanir eklenen adresin adreslerim alanina geldigi gorulur.
 * Element var mı kontrol et "newAddressSavedBtn"
 * Elementine tıkla "newAddressSavedBtn"
+* "1" saniye bekle
+* "popupOkayButton" li element varsa tıkla yoksa devam et
 //* Element var mı kontrol et "newAddressCard"
 
 # En fazla 10 adres ekleme uyarısı görülür.
@@ -606,6 +688,8 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "popupBtn2"
 * Elementine tıkla "popupBtn2"
 * "1" saniye bekle
+* "beautyPopup" li element varsa tıkla yoksa devam et
+* "1" saniye bekle
 * Elementin yüklenmesini bekle "accountDelete"
 * "accountDelete" elementine sayacli tikla "alertTitle2" value degerini bekle
 * "popupOkayButton" li elementin değeri "Hesabı Sil" e içerdiğini kontrol et
@@ -630,7 +714,7 @@ This is a concept file with following syntax for each concept.
 * "SMS ONAYI" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * Elementin yüklenmesini bekle "editListTextbox"
 * "1" saniye bekle
-* "12345" textini "editListTextbox" elemente yaz
+* "141414" textini "editListTextbox" elemente yaz
 * Elementin yüklenmesini bekle "popupOkayButton"
 * Elementine tıkla "popupOkayButton"
 * "5" saniye bekle
