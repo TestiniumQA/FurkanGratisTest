@@ -28,6 +28,13 @@
     "iosType": ""
   },
   {
+    "key": "phoneNumberInput",
+    "androidValue": "com.gratis.android:id/et_phoneNumber",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
     "key": "passwordInput",
     "androidValue": "com.gratis.android:id/password_et",
     "androidType": "id",
@@ -35,7 +42,28 @@
     "iosType": ""
   },
   {
+    "key": "smsCodeInput",
+    "androidValue": "com.gratis.android:id/etSmsCode",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
     "key": "loginBtn",
+    "androidValue": "//android.widget.Button",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "validateBtn",
+    "androidValue": "com.gratis.android:id/btnValidate",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "devamEtBtn",
     "androidValue": "//android.widget.Button",
     "androidType": "xpath",
     "iosValue": "",
