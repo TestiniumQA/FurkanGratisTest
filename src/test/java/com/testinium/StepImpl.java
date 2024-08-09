@@ -619,6 +619,17 @@ public class StepImpl extends HookImpl {
         findElementByKey(key2).sendKeys(accountpassword);
     }
 
+    @Step({"Yeni Rastgele secilen kullanici adi <key> elementine, sifre <key> elementine yazilir"})
+    public void existElementtNew(String key,String key2) {
+        findElementByKey(key).sendKeys(accountUser);
+        waitBySecond(1);
+        tapElementWithKeyControlArea("devamEtBtn");
+        tapElementWithKeyControlArea("ContinueBtn");
+        waitBySecond(1);
+        findElementByKey(key2).sendKeys(accountpassword);
+        waitBySecond(2);
+    }
+
     @Step({"Rastgele secilen il adi <key> elementine yazilir"})
     public void existProvince(String key) {
         findElementByKey(key).sendKeys(realProvince);
