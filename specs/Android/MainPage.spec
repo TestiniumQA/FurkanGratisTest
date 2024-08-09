@@ -29,7 +29,7 @@ tags:Gratis_Android_AnasayfaNonLoginFavoriEkleme
 * "Makyaj" isimli kategori seçilir.
 * Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir.
 * Listeleme alanından bir ürünün favori butonuna tıklanır.
-* Favori ikonu ile Gratis0 login olunur.
+* Yeni favori ikonu ile Gratis0 login olunur.
 * Urun favorilere eklenir.
 * Favori listesi kontrol edilerek temizlenir.
 
@@ -38,7 +38,7 @@ Non-Login Add Favorite List
 tags:Gratis_Android_NonLoginFavoriListesiOlusturma
 * Uygulama baslatilir.
 * En Cok Satanlar alanindan bir urunun favori butonuna tıklanir.
-* Favori ikonu ile Gratis1 login olunur.
+* Yeni favori ikonu ile Gratis1 login olunur.
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
@@ -50,12 +50,12 @@ Non-Login Add To Cart
 tags:Gratis_Android_NonLoginSepeteEkleme
 * Uygulama baslatilir.
 * Non-Login ana sayfadan bir urun sepete eklenir.
-* Sepete Ekle butonu ile Gratis2 login olunur.
+* Yeni Sepete Ekle butonu ile Gratis2 login olunur.
 * Alışverişe devam edilir.
 * Uygulamadan cikis yapilir.
 * Ana sayfa tab'ına tıklanır.
 * Non-Login ana sayfadan bir urun sepete eklenir.
-* Sepete Ekle butonu ile Gratis2 login olunur.
+* Yeni Sepete Ekle butonu ile Gratis2 login olunur.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Sepet kontrol edilerek temizlenir.
@@ -64,8 +64,8 @@ Visited Add Favorite
 --------------------
 tags:Gratis_Android_EnSonGezdiklerimFavori
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis3 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis3 ile login olunur.
 * En Çok Satanlar ürünlerine tıklanır.
 * En Son Gezdiklerim alanına gidilir.
 * En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
@@ -86,7 +86,7 @@ tags:Gratis_Android_NonLoginEnSonGezdiklerimFavori
 * En Çok Satanlar ürünlerine tıklanır.
 * En Son Gezdiklerim alanına gidilir.
 * En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
-* Favori ikonu ile Gratis1 login olunur.
+* Yeni favori ikonu ile Gratis1 login olunur.
 * Urun favorilere eklenir.
 * En Son Gezdiklerim alanına gidilir.
 * En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
@@ -94,7 +94,7 @@ tags:Gratis_Android_NonLoginEnSonGezdiklerimFavori
 * Ana sayfa tab'ına tıklanır.
 * En Son Gezdiklerim alanına gidilir.
 * En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
-* Favori ikonu ile Gratis1 login olunur.
+* Yeni favori ikonu ile Gratis1 login olunur.
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
@@ -105,8 +105,8 @@ Visited Add To Cart
 -------------------
 tags:Gratis_Android_EnSonGezdiklerimSepet
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis2 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis2 ile login olunur.
 * En Çok Satanlar ürünlerine tıklanır.
 * En Son Gezdiklerim alanına gidilir.
 * En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
@@ -122,7 +122,7 @@ tags:Gratis_Android_EnSonGezdiklerimNonLoginSepetDevam
 * En Çok Satanlar ürünlerine tıklanır.
 * En Son Gezdiklerim alanına gidilir.
 * En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
-* Sepete Ekle butonu ile Gratis3 login olunur.
+* Yeni Sepete Ekle butonu ile Gratis3 login olunur.
 * Alışverişe devam edilir.
 
 Non-Login Visited Add To Cart And Go To Cart
@@ -132,6 +132,6 @@ tags:Gratis_Android_EnSonGezdiklerimNonLoginSepeteGit
 * En Çok Satanlar ürünlerine tıklanır.
 * En Son Gezdiklerim alanına gidilir.
 * En Son Gezdiklerim alanından bir ürünün sepet butonuna tiklanir.
-* Sepete Ekle butonu ile Gratis4 login olunur.
+* Yeni Sepete Ekle butonu ile Gratis4 login olunur.
 * Sepete git'e tıklanır.
 * Sepet kontrol edilerek temizlenir.
