@@ -9,7 +9,7 @@ Gratis Card Discount Product Add To Cart
 ----------------------------------------
 tags:Gratis_Android_GratisKartliUrunSepeteEkleme
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis0 login olunur.
+* Yeni sepet ikonu ile Gratis0 login olunur.
 * Sepet kontrol edilerek temizlenir.
 * Ana sayfa tab'ına tıklanır.
 * Kategoriler sayfasina gecilir.
@@ -21,7 +21,7 @@ Cart Popup Slider And Add To Cart
 ---------------------------------
 tags:Gratis_Android_KasaArkasiPopupSlideVeUrunEkleme
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis1 login olunur.
+* Yeni sepet ikonu ile Gratis1 login olunur.
 * Sepet kontrol edilerek temizlenir.
 * Ana sayfa tab'ına tıklanır.
 * Ana sayfadan bir urun sepete eklenir.
@@ -31,7 +31,7 @@ Cart Slider And Add To Cart
 ---------------------------
 tags:Gratis_Android_KasaArkasiSlideVeUrunEkleme
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis2 login olunur.
+* Yeni sepet ikonu ile Gratis2 login olunur.
 * Sepet kontrol edilerek temizlenir.
 * Ana sayfa tab'ına tıklanır.
 * Ana sayfadan bir urun sepete eklenir.
@@ -42,7 +42,7 @@ Increase And Decreasing The Number Of Products
 ----------------------------------------------
 tags:Gratis_Android_UrunAdediArttirmaVeAzaltma
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis1 login olunur.
+* Yeni sepet ikonu ile Gratis1 login olunur.
 * Sepet kontrol edilerek temizlenir.
 * Ana sayfaya geçilir.
 * Anasayfa urun kodu "10039453" yazilir, arama yapilir.
@@ -61,7 +61,7 @@ Add And Delete A Product To Favorite List From Cart
 ---------------------------------------------------
 tags:Gratis_Android_SepetteFavoriEklemeCikarma
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis2 login olunur.
+* Yeni sepet ikonu ile Gratis2 login olunur.
 * Ana sayfa tab'ına tıklanır.
 * Ana sayfadan bir urun sepete eklenir.
 * Sepet kasa arkasi popup'i varsa kapatilir.
@@ -71,8 +71,8 @@ Add A Favorite List From Cart
 -----------------------------
 tags:Gratis_Android_SepetteFavoriListesiOlusturmaVeSilme
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis3 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis3 ile login olunur.
 * Ana sayfadan bir urun sepete eklenir.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Sepette favori butonuna tiklanir.
@@ -88,7 +88,7 @@ Cart Popup Slider Product Detail And Add To Cart
 ------------------------------------------------
 tags:Gratis_Android_KasaArkasiPopupUrunDetayVeSepeteEkleme
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis4 login olunur.
+* Yeni sepet ikonu ile Gratis4 login olunur.
 * Sepet kontrol edilerek temizlenir.
 * Ana sayfa tab'ına tıklanır.
 * Ana sayfadan bir urun sepete eklenir.
@@ -101,7 +101,7 @@ Add To Cart Max Product
 tags:Gratis_Android_SepetteMaximumUrunEkleme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Sepet ikonu ile Gratis4 login olunur.
+* Yeni sepet ikonu ile Gratis4 login olunur.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Bir ürün için sepet kontrol edilerek temizlenir.
 * Kategoriler sayfasina gecilir.

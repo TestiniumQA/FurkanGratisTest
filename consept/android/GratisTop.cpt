@@ -88,10 +88,26 @@ This is a concept file with following syntax for each concept.
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
+# Yeni sepet ikonu ile rastgele login olunur.
+* "AndroidPhone" csv dosyasindan rastgele kullanici sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
 # Sepet ikonu ile Gratis1 login olunur.
 * "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
+# Yeni sepet ikonu ile Gratis1 login olunur.
+* "AndroidPhone" csv dosyasindan "1" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
@@ -102,10 +118,26 @@ This is a concept file with following syntax for each concept.
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
+# Yeni sepet ikonu ile Gratis2 login olunur.
+* "AndroidPhone" csv dosyasindan "2" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
 # Sepet ikonu ile Gratis3 login olunur.
 * "AndroidMail" csv dosyasindan "3" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
+# Yeni sepet ikonu ile Gratis3 login olunur.
+* "AndroidPhone" csv dosyasindan "3" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
@@ -116,10 +148,26 @@ This is a concept file with following syntax for each concept.
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
+# Yeni sepet ikonu ile Gratis4 login olunur.
+* "AndroidPhone" csv dosyasindan "4" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
 # Sepet ikonu ile Gratis6 login olunur.
 * "AndroidMail" csv dosyasindan "6" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
+# Yeni sepet ikonu ile Gratis6 login olunur.
+* "AndroidPhone" csv dosyasindan "6" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
@@ -130,10 +178,26 @@ This is a concept file with following syntax for each concept.
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
+# Yeni sepet ikonu ile Gratis7 login olunur.
+* "AndroidPhone" csv dosyasindan "7" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
 # Sepet ikonu ile Gratis8 login olunur.
 * "AndroidMail" csv dosyasindan "8" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
+# Yeni sepet ikonu ile Gratis8 login olunur.
+* "AndroidPhone" csv dosyasindan "8" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
@@ -144,10 +208,26 @@ This is a concept file with following syntax for each concept.
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
+# Yeni sepet ikonu ile Gratis9 login olunur.
+* "AndroidPhone" csv dosyasindan "9" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
 # Sepet ikonu ile Gratis10 login olunur.
 * "AndroidMail" csv dosyasindan "10" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
+# Yeni sepet ikonu ile Gratis10 login olunur.
+* "AndroidPhone" csv dosyasindan "10" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
@@ -158,10 +238,26 @@ This is a concept file with following syntax for each concept.
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
+# Yeni sepet ikonu ile Gratis11 login olunur.
+* "AndroidPhone" csv dosyasindan "11" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
 # Sepet ikonu ile Gratis12 login olunur.
 * "AndroidMail" csv dosyasindan "12" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
+# Yeni sepet ikonu ile Gratis12 login olunur.
+* "AndroidPhone" csv dosyasindan "12" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
@@ -172,6 +268,14 @@ This is a concept file with following syntax for each concept.
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
+# Yeni sepet ikonu ile Gratis13 login olunur.
+* "AndroidPhone" csv dosyasindan "13" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
 # Sepet ikonu ile Gratis14 login olunur.
 * "AndroidMail" csv dosyasindan "14" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
@@ -179,9 +283,25 @@ This is a concept file with following syntax for each concept.
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
+# Yeni sepet ikonu ile Gratis14 login olunur.
+* "AndroidPhone" csv dosyasindan "14" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
 # Sepet ikonu ile Gratis0 login olunur.
 * "AndroidMail" csv dosyasindan "0" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
+# Yeni sepet ikonu ile Gratis0 login olunur.
+* "AndroidPhone" csv dosyasindan "0" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
