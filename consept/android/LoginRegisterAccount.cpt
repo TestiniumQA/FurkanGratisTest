@@ -468,6 +468,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "popupOkayButton"
 * "1" saniye bekle
 * "popupOkayButton" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Yeni favori listesi olusturulur ve aynı isim uyarısı görülür.
 * Elementine tıkla "addListButton"
@@ -479,6 +480,7 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 * "alertSuccessfulPopup" li elementin değeri "İstek listesi adı benzersiz olmalıdır" e içerdiğini kontrol et
 * "popupOkayButton" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # En fazla 10 favori listesi ekleme uyarısı görülür.
 * Elementine tıkla "addListButton"
