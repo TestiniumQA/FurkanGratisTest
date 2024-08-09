@@ -26,7 +26,7 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 * Geri butonuna bas
 * "1" saniye bekle
-* "1" kere aşağıya kaydır
+* "2" kere aşağıya kaydır
 
 # Ana sayfa kampanyasına tıklanır.
 * "1" kere aşağıya kaydır
@@ -65,10 +65,32 @@ This is a concept file with following syntax for each concept.
 * "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 * "" değerini sayfa üzerinde olup olmadığını kontrol et.
 
+# Yeni favori ikonu ile rastgele login olunur.
+* "AndroidPhone" csv dosyasindan rastgele kullanici sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
+* "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+* "" değerini sayfa üzerinde olup olmadığını kontrol et.
+
 # Favori ikonu ile Gratis1 login olunur.
 * "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
+* "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+* "" değerini sayfa üzerinde olup olmadığını kontrol et.
+
+# Yeni favori ikonu ile Gratis1 login olunur.
+* "AndroidPhone" csv dosyasindan "1" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "popupOkayButton"
 * "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
@@ -85,10 +107,32 @@ This is a concept file with following syntax for each concept.
 * "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 * "" değerini sayfa üzerinde olup olmadığını kontrol et.
 
+# Yeni favori ikonu ile Gratis2 login olunur.
+* "AndroidPhone" csv dosyasindan "2" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
+* "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+* "" değerini sayfa üzerinde olup olmadığını kontrol et.
+
 # Favori ikonu ile Gratis3 login olunur.
 * "AndroidMail" csv dosyasindan "3" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
+* "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+* "" değerini sayfa üzerinde olup olmadığını kontrol et.
+
+# Yeni favori ikonu ile Gratis3 login olunur.
+* "AndroidPhone" csv dosyasindan "3" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "popupOkayButton"
 * "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
@@ -105,10 +149,32 @@ This is a concept file with following syntax for each concept.
 * "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 * "" değerini sayfa üzerinde olup olmadığını kontrol et.
 
+# Yeni favori ikonu ile Gratis4 login olunur.
+* "AndroidPhone" csv dosyasindan "4" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
+* "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+* "" değerini sayfa üzerinde olup olmadığını kontrol et.
+
 # Favori ikonu ile Gratis0 login olunur.
 * "AndroidMail" csv dosyasindan "0" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
+* "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+* "" değerini sayfa üzerinde olup olmadığını kontrol et.
+
+# Yeni favori ikonu ile Gratis0 login olunur.
+* "AndroidPhone" csv dosyasindan "0" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "popupOkayButton"
 * "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
@@ -139,10 +205,30 @@ This is a concept file with following syntax for each concept.
 * "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
 * "closeButtonTwo" li element varsa tıkla yoksa devam et
 
+# Yeni Sepete Ekle butonu ile rastgele login olunur.
+* "AndroidPhone" csv dosyasindan rastgele kullanici sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* Elementin yüklenmesini bekle "AddedToCartText"
+* "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+* "closeButtonTwo" li element varsa tıkla yoksa devam et
+
 # Sepete Ekle butonu ile Gratis1 login olunur.
 * "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
+* Elementin yüklenmesini bekle "AddedToCartText"
+* "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+* "closeButtonTwo" li element varsa tıkla yoksa devam et
+
+# Yeni Sepete Ekle butonu ile Gratis1 login olunur.
+* "AndroidPhone" csv dosyasindan "1" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * Elementin yüklenmesini bekle "AddedToCartText"
 * "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
 * "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
@@ -157,10 +243,30 @@ This is a concept file with following syntax for each concept.
 * "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
 * "closeButtonTwo" li element varsa tıkla yoksa devam et
 
+# Yeni Sepete Ekle butonu ile Gratis2 login olunur.
+* "AndroidPhone" csv dosyasindan "2" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* Elementin yüklenmesini bekle "AddedToCartText"
+* "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+* "closeButtonTwo" li element varsa tıkla yoksa devam et
+
 # Sepete Ekle butonu ile Gratis3 login olunur.
 * "AndroidMail" csv dosyasindan "3" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
+* Elementin yüklenmesini bekle "AddedToCartText"
+* "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+* "closeButtonTwo" li element varsa tıkla yoksa devam et
+
+# Yeni Sepete Ekle butonu ile Gratis3 login olunur.
+* "AndroidPhone" csv dosyasindan "3" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * Elementin yüklenmesini bekle "AddedToCartText"
 * "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
 * "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
@@ -175,10 +281,30 @@ This is a concept file with following syntax for each concept.
 * "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
 * "closeButtonTwo" li element varsa tıkla yoksa devam et
 
+# Yeni Sepete Ekle butonu ile Gratis4 login olunur.
+* "AndroidPhone" csv dosyasindan "4" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* Elementin yüklenmesini bekle "AddedToCartText"
+* "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+* "closeButtonTwo" li element varsa tıkla yoksa devam et
+
 # Sepete Ekle butonu ile Gratis0 login olunur.
 * "AndroidMail" csv dosyasindan "0" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir
 * Elementine tıkla "loginBtn"
+* Elementin yüklenmesini bekle "AddedToCartText"
+* "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
+* "closeButtonTwo" li element varsa tıkla yoksa devam et
+
+# Yeni Sepete Ekle butonu ile Gratis0 login olunur.
+* "AndroidPhone" csv dosyasindan "0" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
 * Elementin yüklenmesini bekle "AddedToCartText"
 * "İşlem Başarılı" değerini sayfa üzerinde olup olmadığını kontrol et.
 * "Ürün sepetinize eklendi." değerini sayfa üzerinde olup olmadığını kontrol et.
@@ -201,7 +327,8 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "visitedAddBtn"
 * "2" saniye bekle
 
-#Ana sayfaya geçilir.
+# Ana sayfaya geçilir.
 * "geriBtn" li element varsa tıkla yoksa devam et
 * Elementine tıkla "anasayfaTab"
 * "geriBtn" li element varsa tıkla yoksa devam et
+* Elementine tıkla "anasayfaTab"

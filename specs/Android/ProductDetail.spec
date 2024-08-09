@@ -16,7 +16,7 @@ tags:Gratis_Android_UrunDetayPaylasZoomNonLoginGratisKart
 * Ürün detayda ürün fotosu swipe yapılır.
 * Ürünün paylaş ikonuna tıklanır.
 * Ürünün zoom ikonuna tıklanır.
-* Gratis Card ile ürün detayda Gratis1 login olunur.
+* Yeni Gratis Card ile ürün detayda Gratis1 login olunur.
 
 Colour and Non-Login Add To Cart
 --------------------------------
@@ -28,7 +28,7 @@ tags:Gratis_Android_UrunDetayRenkVeAdetSecimiNonLoginSepeteEkleme
 * Ürünün renk tonu değiştirilir.
 * Ürün detayda "3" kadar ürün adedi seçilir.
 * Non-Login ürün detay sayfasinda urun sepete eklenir.
-* Sepete Ekle butonu ile Gratis2 login olunur.
+* Yeni Sepete Ekle butonu ile Gratis2 login olunur.
 * Alışverişe devam edilir.
 * Uygulamadan cikis yapilir.
 * Kategoriler sayfasina gecilir.
@@ -36,7 +36,7 @@ tags:Gratis_Android_UrunDetayRenkVeAdetSecimiNonLoginSepeteEkleme
 * Alt kategorilerden biri "El Bakımı", "Vazelin" seçilir.
 * Urun detay sayfasına geçilir.
 * Non-Login ürün detay sayfasinda urun sepete eklenir.
-* Sepete Ekle butonu ile Gratis2 login olunur.
+* Yeni Sepete Ekle butonu ile Gratis2 login olunur.
 * Sepete git'e tıklanır.
 * Sepet kontrol edilerek temizlenir.
 
@@ -44,8 +44,8 @@ Add To Cart
 -------------------------------------------
 tags:Gratis_Android_UrunDetaySepeteEkleme
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis3 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis3 ile login olunur.
 * Kategoriler sayfasina gecilir.
 * "Parfüm & Deodorant" isimli kategori seçilir.
 * Alt kategorilerden biri "Parfüm", "Kadın Parfüm" seçilir.
@@ -67,8 +67,8 @@ Add To Favorite
 ---------------
 tags:Gratis_Android_UrunDetayFavori
 * Uygulama baslatilir.
-* Login sayfasina gecilir.
-* Gratis4 ile login olunur.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis4 ile login olunur.
 * Kategoriler sayfasina gecilir.
 * "Anne & Bebek" isimli kategori seçilir.
 * Alt kategorilerden biri "Bebek Banyo Ürünleri", "Bebek & Çocuk Şampuanları" seçilir.
@@ -94,7 +94,7 @@ tags:Gratis_Android_UrunDetayNonLoginFavori
 * Alt kategorilerden biri "Şampuanlar", "Şampuan" seçilir.
 * Urun detay sayfasına geçilir.
 * Ürün detay sayfasında ürün favori butonuna tıklanır.
-* Favori ikonu ile Gratis0 login olunur.
+* Yeni favori ikonu ile Gratis0 login olunur.
 * Urun favorilere eklenir.
 * "geriBtn" li element varsa tıkla yoksa devam et
 * "geriBtn" li element varsa tıkla yoksa devam et
@@ -105,7 +105,7 @@ tags:Gratis_Android_UrunDetayNonLoginFavori
 * Alt kategorilerden biri "Dekorasyon", "Aydınlatma" seçilir.
 * Urun detay sayfasına geçilir.
 * Ürün detay sayfasında ürün favori butonuna tıklanır.
-* Favori ikonu ile Gratis0 login olunur.
+* Yeni favori ikonu ile Gratis0 login olunur.
 * "nonLoginFavori" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * "geriBtn" li element varsa tıkla yoksa devam et
 * "geriBtn" li element varsa tıkla yoksa devam et
@@ -133,7 +133,7 @@ tags:Gratis_Android_UrunDetayAltBarYorum
 * Arama sayfasinin acildigi gorulur.
 * Urun adi "10058755" yazilir, arama yapilir.
 * Ürün detay yorumlar alanina gecilir.
-* Yorum yap ikonu ile Gratis1 login olunur.
+* Yeni yorum yap ikonu ile Gratis1 login olunur.
 * Yorum penceresi kapatilir ve anasayfaya gecilir.
 * Search ikonuna tiklanir.
 * Arama sayfasinin acildigi gorulur.
