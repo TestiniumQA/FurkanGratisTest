@@ -156,6 +156,14 @@ This is a concept file with following syntax for each concept.
 * "sepetReklamKapat" li element varsa tıkla
 * "beautyPopup" li element varsa tıkla yoksa devam et
 
+# Yeni sepet ikonu ile Gratis5 login olunur.
+* "AndroidPhone" csv dosyasindan "5" numaralı kullaniciyi sec
+* Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* "sepetReklamKapat" li element varsa tıkla
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
 # Sepet ikonu ile Gratis6 login olunur.
 * "AndroidMail" csv dosyasindan "6" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "emailInput" elementine, sifre "passwordInput" elementine yazilir

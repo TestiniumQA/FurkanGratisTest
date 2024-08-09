@@ -381,7 +381,7 @@ Purchasing with Store Deliver and Change Delivery Information
 tags:Gratis_Android_MagazadanTeslimatTeslimatBilgileriDegistirme
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
-* Yeni sepet ikonu ile Gratis4 login olunur.
+* Yeni sepet ikonu ile Gratis5 login olunur.
 * Sepet temizlenir, adres ve yeni ürün "10021661" eklenir.
 * Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
