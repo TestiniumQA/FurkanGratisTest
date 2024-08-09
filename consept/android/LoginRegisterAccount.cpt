@@ -507,6 +507,7 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "addFavoritePopup"
 * Elementine tıkla "popupOkayButton"
 * "1" saniye bekle
+* "beautyPopup" li element varsa tıkla yoksa devam et
 //* toast message "Ürün favori listesine eklendi" değerine eşit mi
 //* "1" saniye bekle
 

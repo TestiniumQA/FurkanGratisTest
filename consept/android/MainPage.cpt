@@ -75,6 +75,7 @@ This is a concept file with following syntax for each concept.
 * "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
 * "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 * "" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Favori ikonu ile Gratis1 login olunur.
 * "AndroidMail" csv dosyasindan "1" numaralı kullaniciyi sec
@@ -96,6 +97,7 @@ This is a concept file with following syntax for each concept.
 * "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
 * "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 * "" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Favori ikonu ile Gratis2 login olunur.
 * "AndroidMail" csv dosyasindan "2" numaralı kullaniciyi sec
@@ -117,6 +119,7 @@ This is a concept file with following syntax for each concept.
 * "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
 * "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 * "" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Favori ikonu ile Gratis3 login olunur.
 * "AndroidMail" csv dosyasindan "3" numaralı kullaniciyi sec
@@ -138,6 +141,7 @@ This is a concept file with following syntax for each concept.
 * "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
 * "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 * "" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Favori ikonu ile Gratis4 login olunur.
 * "AndroidMail" csv dosyasindan "4" numaralı kullaniciyi sec
@@ -159,6 +163,7 @@ This is a concept file with following syntax for each concept.
 * "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
 * "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 * "" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Favori ikonu ile Gratis0 login olunur.
 * "AndroidMail" csv dosyasindan "0" numaralı kullaniciyi sec
@@ -180,6 +185,7 @@ This is a concept file with following syntax for each concept.
 * "popupOkayButton" elementinin "KAYDET" textini içerdiği kontrol edilir
 * "alertTitle" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 * "" değerini sayfa üzerinde olup olmadığını kontrol et.
+* "beautyPopup" li element varsa tıkla yoksa devam et
 
 # Non-Login ana sayfadan bir urun sepete eklenir.
 * Elementin yüklenmesini bekle "kampanyaSec"
