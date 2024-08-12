@@ -146,7 +146,8 @@ IOS Scenario Sort By
 tags:Gratis_IOS_Siralama
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
-* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir
 * Sırala butonuna tıklanır
 * Akıllı Sıralama butonuna tıklanır
 * Sırala butonuna tıklanır
@@ -165,7 +166,8 @@ IOS Scenario Non-Login Choose Category and Add To Cart
 tags:Gratis_IOS_KategoriSecimiVeNonLoginSepeteGit
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
-* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir
 * Başa Dön butonuna bas
 * Uygulama geri butonuna bas
 * Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir
@@ -248,7 +250,8 @@ IOS Scenario Non-Login Category and Add To Favorite List
 tags:Gratis_IOS_NonLoginKategoriFavoriListesiOlusturma
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
-* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir
 * Listeleme alanından bir ürünün favori butonuna tıklanır
 * Yeni favori ikonu ile Gratis2 login olunur
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir
@@ -265,7 +268,8 @@ tags:Gratis_IOS_KategoriFavoriEklemeVeListeOlusturma
 * Yeni login sayfasina gecilir
 * Yeni Gratis3 ile login olunur
 * Kategoriler sayfasina gecilir
-* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir
 * Listeleme alanından bir ürünün favori butonuna tıklanır
 * Urun favorilere eklenir
 * Ana sayfadaki urun favorilerden cikarilir
@@ -282,7 +286,8 @@ IOS Scenario Category Filter and List
 tags:Gratis_IOS_KategoriFiltreler
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
-* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
 * Filtreleme butonuna tıklanır
 * Marka filtresine tıklanır
 * Filtreleme butonuna tıklanır
@@ -295,7 +300,8 @@ IOS Scenario Category Remove Filter and List Stock
 tags:Gratis_IOS_KategoriSecilmisFiltreKaldirmaVeStoktaVar
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
-* Kategorilerden biri secilerek urun listeleme sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir
 * Filtreleme butonuna tıklanır
 * Marka filtresine tıklanır
 * Filtreleme butonuna tıklanır

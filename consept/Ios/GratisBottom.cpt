@@ -315,7 +315,7 @@
 * Elementin yüklenmesini bekle "HsOrderSolution"
 * Elementine tıkla "HsOrderSolution"
 * Elementin yüklenmesini bekle "HsOrderSolutionText"
-* "HsOrderSolutionText" elementinin "İstediğiniz ürünü sepetinize ekleyebilirsiniz." textini içerdiği kontrol edilir
+* "HsOrderSolutionText" elementinin "Siparişinizi tamamladıktan sonra sipariş içeriğinde herhangi bir değişiklik yapamazsınız, yeni bir sipariş oluşturabilirsiniz." textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "HsOrder"li elementi bulana kadar "2" kere swipe yap ve elementi bul
@@ -330,7 +330,7 @@
 * Elementin yüklenmesini bekle "HsProductSolution"
 * Elementine tıkla "HsProductSolution"
 * Elementin yüklenmesini bekle "HsProductSolutionText"
-* "HsProductSolutionText" elementinin "Siparişinizi verdiğiniz andan itibaren ilk 30 dakika içinde hesabınız üzerinden iptal edebilirsiniz. Bu süreden sonra iade yapabilmek için siparişinizin uygunluğunu öğrenmek için müşteri deneyimlerimiz ile iletişime geçmeniz gerekmektedir." textini içerdiği kontrol edilir
+* "HsProductSolutionText" elementinin "Siparişiniz hazırlanma statüsünü geçene kadar siparişinizi kendiniz iptal edebilirsiniz." textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * Elementin yüklenmesini bekle "HsProduct"
@@ -530,7 +530,7 @@
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "3" saniye bekle
-* "Flormar" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Golden Rose" text degerine sahip elementin goruntulendigi kontrol edilir
 * "2" saniye bekle
 * "FilterName" li ve değeri "Marka" e eşit olan elementli bulana kadar swipe et ve tıkla
 * Elementin yüklenmesini bekle "FilterOkayBtn"
