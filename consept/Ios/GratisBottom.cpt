@@ -546,7 +546,7 @@
 * Elementin yüklenmesini bekle "geriBtn"
 * Elementine tıkla "geriBtn"
 * "3" saniye bekle
-* "Likit" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Stick" text degerine sahip elementin goruntulendigi kontrol edilir
 * "2" saniye bekle
 * "FilterName" li ve değeri "Form" e eşit olan elementli bulana kadar swipe et ve tıkla
 * Elementin yüklenmesini bekle "FilterOkayBtn"
