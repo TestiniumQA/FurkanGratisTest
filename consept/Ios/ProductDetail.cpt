@@ -54,6 +54,23 @@
 * Elementine tıkla "DetailGratisCardBtn"
 * "girisYapBtn" değerini sayfa üzerinde olmadıgını kontrol et
 
+# Yeni Gratis Card ile ürün detayda rastgele login olunur
+* "DetailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "DetailGratisCardBtn"
+* "IOSPhone" csv dosyasindan rastgele kullanici sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "ProductDetailTitle"
+* Elementin yüklenmesini bekle "DetailShareBtn"
+* Element var mı kontrol et "DetailZoomBtn"
+* Element var mı kontrol et "ProductDetailImage"
+* Elementine tıkla "DetailGratisCardBtn"
+* "girisYapBtn" değerini sayfa üzerinde olmadıgını kontrol et
+
 # Gratis Card ile ürün detayda Gratis1 login olunur
 * "DetailGratisCardBtn" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
 * "IOSmail" csv dosyasindan "1" numaralı kullaniciyi sec
@@ -68,58 +85,14 @@
 * Elementine tıkla "DetailGratisCardBtn"
 * "girisYapBtn" değerini sayfa üzerinde olmadıgını kontrol et
 
-# Gratis Card ile ürün detayda Gratis2 login olunur
-* "DetailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
-* Elementine tıkla "DetailGratisCardBtn"
-* "IOSmail" csv dosyasindan "2" numaralı kullaniciyi sec
-*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
-* Elementin yüklenmesini bekle "girisYapBtn"
-* Elementine tıkla "girisYapBtn"
-* "2" saniye bekle
-* Elementin yüklenmesini bekle "ProductDetailTitle"
-* Elementin yüklenmesini bekle "DetailShareBtn"
-* Element var mı kontrol et "DetailZoomBtn"
-* Element var mı kontrol et "ProductDetailImage"
-* Elementine tıkla "DetailGratisCardBtn"
-* "girisYapBtn" değerini sayfa üzerinde olmadıgını kontrol et
-
-# Gratis Card ile ürün detayda Gratis3 login olunur
-* "7DetailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
-* Elementine tıkla "DetailGratisCardBtn"
-* "IOSmail" csv dosyasindan "3" numaralı kullaniciyi sec
-*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
-* Elementin yüklenmesini bekle "girisYapBtn"
-* Elementine tıkla "girisYapBtn"
-* "2" saniye bekle
-* Elementin yüklenmesini bekle "ProductDetailTitle"
-* Elementin yüklenmesini bekle "DetailShareBtn"
-* Element var mı kontrol et "DetailZoomBtn"
-* Element var mı kontrol et "ProductDetailImage"
-* Elementine tıkla "DetailGratisCardBtn"
-* "girisYapBtn" değerini sayfa üzerinde olmadıgını kontrol et
-
-# Gratis Card ile ürün detayda Gratis4 login olunur
-* "DetailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
-* Elementine tıkla "DetailGratisCardBtn"
-* "IOSmail" csv dosyasindan "4" numaralı kullaniciyi sec
-*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
-* Elementin yüklenmesini bekle "girisYapBtn"
-* Elementine tıkla "girisYapBtn"
-* "2" saniye bekle
-* Elementin yüklenmesini bekle "ProductDetailTitle"
-* Elementin yüklenmesini bekle "DetailShareBtn"
-* Element var mı kontrol et "DetailZoomBtn"
-* Element var mı kontrol et "ProductDetailImage"
-* Elementine tıkla "DetailGratisCardBtn"
-* "girisYapBtn" değerini sayfa üzerinde olmadıgını kontrol et
-
-# Gratis Card ile ürün detayda Gratis5 login olunur
-* "DetailGratisCardBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
-* Elementine tıkla "DetailGratisCardBtn"
-* "IOSmail" csv dosyasindan "5" numaralı kullaniciyi sec
-*  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
-* Elementin yüklenmesini bekle "girisYapBtn"
-* Elementine tıkla "girisYapBtn"
+# Yeni Gratis Card ile ürün detayda Gratis1 login olunur
+* "DetailGratisCardBtn" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
+* "IOSPhone" csv dosyasindan "1" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "ProductDetailTitle"
 * Elementin yüklenmesini bekle "DetailShareBtn"
@@ -159,7 +132,7 @@
 * "ProductAddButton"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "ProductAddButton"
 * Elementine tıkla "ProductAddButton"
-* Element var mı kontrol et "EpostaInputAlani"
+* Element var mı kontrol et "PhoneNumberInput"
 
 # Ürün detay sayfasinda urun sepete eklenir
 * "ProductAddButton"li elementi bulana kadar "1" kere swipe yap ve elementi bul
@@ -229,6 +202,20 @@
 * Elementin yüklenmesini bekle "EyeIcon"
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "AcceptButton"
+* "PUANLA VE YORUM YAP!" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Yorum Yaz" text degerine sahip elementin goruntulendigi kontrol edilir
+* "İsmim gözükmesin" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Ürün incelemeniz moderatörler tarafından kontrol edildikten sonra yayına alınacaktır." text degerine sahip elementin goruntulendigi kontrol edilir
+
+# Yeni yorum yap ikonu ile Gratis0 login olunur
+* "Yorum Yap" text degerine sahip elemente tikla
+* "IOSPhone" csv dosyasindan rastgele kullanici sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
 * Elementin yüklenmesini bekle "AcceptButton"
 * "PUANLA VE YORUM YAP!" text degerine sahip elementin goruntulendigi kontrol edilir
 * "Yorum Yaz" text degerine sahip elementin goruntulendigi kontrol edilir

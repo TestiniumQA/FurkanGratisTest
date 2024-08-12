@@ -17,7 +17,7 @@ tags:Gratis_IOS_UrunDetayPaylasZoomNonLoginGratisKart
 * Ürün detayda ürün fotosu swipe yapılır
 * Ürünün paylaş ikonuna tıklanır
 * Ürünün zoom ikonuna tıklanır
-* Gratis Card ile ürün detayda Gratis1 login olunur
+* Yeni Gratis Card ile ürün detayda Gratis1 login olunur
 
 IOS Scenario Colour Select
 --------------------------
@@ -39,7 +39,7 @@ tags:Gratis_IOS_UrunDetayAdetSecimiNonLoginSepetDevam
 * Urun detay sayfasına geçilir
 * Ürün detayda "3" kadar ürün adedi seçilir
 * Non-Login ürün detay sayfasinda urun sepete eklenir
-* Sepete Ekle butonu ile Gratis2 login olunur
+* Yeni Sepete Ekle butonu ile Gratis2 login olunur
 * Alışverişe devam edilir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfa sepet ikonuna tiklanir
@@ -56,7 +56,7 @@ tags:Gratis_IOS_UrunDetayAdetSecimiNonLoginSepeteGit
 * Urun detay sayfasına geçilir
 * Ürün detayda "3" kadar ürün adedi seçilir
 * Non-Login ürün detay sayfasinda urun sepete eklenir
-* Sepete Ekle butonu ile Gratis2 login olunur
+* Yeni Sepete Ekle butonu ile Gratis2 login olunur
 * Sepete git'e tıklanır
 * Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
@@ -65,8 +65,8 @@ IOS Scenario Login Add To Cart and Go To Cart
 ---------------------------------------------
 tags:Gratis_IOS_UrunDetaySepeteEkleme
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Gratis3 ile login olunur
+* Yeni login sayfasina gecilir
+* Yeni Gratis3 ile login olunur
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
 * Alt kategorilerden biri "Dudak Makyajı", "Kalem Ruj" seçilir
@@ -85,7 +85,7 @@ IOS Scenario Max Add To Cart in Product Detail
 tags:Gratis_IOS_UrunDetayMaximumSepeteEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis3 login olunur
+* Yeni sepet ikonu ile Gratis3 login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
@@ -108,8 +108,8 @@ IOS Scenario Add To Favorite
 ----------------------------
 tags:Gratis_IOS_UrunDetayFavori
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Gratis4 ile login olunur
+* Yeni login sayfasina gecilir
+* Yeni Gratis4 ile login olunur
 * Kategoriler sayfasina gecilir
 * "Ev & Yaşam" isimli kategori seçilir
 * Alt kategorilerden biri "Dekorasyon", "Aydınlatma" seçilir
@@ -135,7 +135,7 @@ tags:Gratis_IOS_UrunDetayNonLoginFavori
 * Alt kategorilerden biri "Dekorasyon", "Aydınlatma" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
-* Favori ikonu ile Gratis0 login olunur
+* Yeni favori ikonu ile Gratis0 login olunur
 * Urun favorilere eklenir
 * Ürün detay sayfasında ürün favorilerden çıkarılır
 
@@ -148,7 +148,7 @@ tags:Gratis_IOS_UrunDetayNonLoginFavoriListesi
 * Alt kategorilerden biri "Dekorasyon", "Aydınlatma" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
-* Favori ikonu ile Gratis0 login olunur
+* Yeni favori ikonu ile Gratis0 login olunur
 * "nonLoginFavori" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir
 * Uygulama geri butonuna bas
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
@@ -164,7 +164,7 @@ tags:Gratis_IOS_UrunDetayAltBarlar
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Yüz Makyajı", "Kapatıcı" seçilir
+* Alt kategorilerden biri "Yüz Makyajı", "Kontür" seçilir
 * Urun detay sayfasına geçilir
 * Alt bar alanları kontrol edilir
 * Ürün bilgileri kontrol edilir
@@ -176,9 +176,9 @@ tags:Gratis_IOS_UrunDetayAltBarYorum
 * Uygulama baslatilir
 * Search ikonuna tiklanir
 * Arama sayfasinin acildigi gorulur
-* Urun adi "10030337" yazilir, arama yapilir
+* Urun adi "29000058" yazilir, arama yapilir
 * Ürün detay yorumlar alanina gecilir
-* Yorum yap ikonu ile Gratis0 login olunur
+* Yeni yorum yap ikonu ile Gratis0 login olunur
 * Yorum penceresi kapatilir ve anasayfaya gecilir
 * Search ikonuna tiklanir
 * Arama sayfasinin acildigi gorulur

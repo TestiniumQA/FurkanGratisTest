@@ -44,7 +44,7 @@
 //* "3" saniye bekle
 
 # Ana sayfa kampanyalarina tiklanir
-* "2" kere aşağıya kaydır
+* "3" kere aşağıya kaydır
 * "MainPageCampaignOne"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "MainPageCampaignOne"
 * Elementine tıkla "MainPageCampaignOne"
@@ -117,6 +117,15 @@
 * Elementine tıkla "girisYapBtn"
 * "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 
+# Yeni favori ikonu ile rastgele login olunur
+* "IOSPhone" csv dosyasindan rastgele kullanici sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+
 # Favori ikonu ile Gratis0 login olunur
 * "IOSmail" csv dosyasindan "0" numaralı kullaniciyi sec
 * Elementin yüklenmesini bekle "EpostaInputAlani"
@@ -124,6 +133,15 @@
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
+* "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+
+# Yeni favori ikonu ile Gratis0 login olunur
+* "IOSPhone" csv dosyasindan "0" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
 * "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 
 # Favori ikonu ile Gratis1 login olunur
@@ -135,6 +153,15 @@
 * Elementine tıkla "girisYapBtn"
 * "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 
+# Yeni favori ikonu ile Gratis1 login olunur
+* "IOSPhone" csv dosyasindan "1" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+
 # Favori ikonu ile Gratis2 login olunur
 * "IOSmail" csv dosyasindan "2" numaralı kullaniciyi sec
 * Elementin yüklenmesini bekle "EpostaInputAlani"
@@ -142,6 +169,15 @@
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
+* "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+
+# Yeni favori ikonu ile Gratis2 login olunur
+* "IOSPhone" csv dosyasindan "2" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
 * "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 
 # Favori ikonu ile Gratis3 login olunur
@@ -153,6 +189,15 @@
 * Elementine tıkla "girisYapBtn"
 * "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 
+# Yeni favori ikonu ile Gratis3 login olunur
+* "IOSPhone" csv dosyasindan "3" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+
 # Favori ikonu ile Gratis4 login olunur
 * "IOSmail" csv dosyasindan "4" numaralı kullaniciyi sec
 * Elementin yüklenmesini bekle "EpostaInputAlani"
@@ -160,6 +205,15 @@
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
+* "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
+
+# Yeni favori ikonu ile Gratis4 login olunur
+* "IOSPhone" csv dosyasindan "4" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
 * "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 
 # Non-Login ana sayfadan bir urun sepete eklenir
@@ -181,6 +235,17 @@
 * "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
 * "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
 
+# Yeni Sepete Ekle butonu ile rastgele login olunur
+* "IOSPhone" csv dosyasindan rastgele kullanici sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "AddedToCartSuccessfulPopupIos" elementi bulunana kadar en fazla "30" saniye kadar bekle
+* "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
+* "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
+
 # Sepete Ekle butonu ile Gratis0 login olunur
 * "IOSmail" csv dosyasindan "0" numaralı kullaniciyi sec
 * Elementin yüklenmesini bekle "EpostaInputAlani"
@@ -189,6 +254,17 @@
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 * Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
+* "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
+* "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
+
+# Yeni Sepete Ekle butonu ile Gratis0 login olunur
+* "IOSPhone" csv dosyasindan "0" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "AddedToCartSuccessfulPopupIos" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
 * "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
 
@@ -203,6 +279,17 @@
 * "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
 * "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
 
+# Yeni Sepete Ekle butonu ile Gratis1 login olunur
+* "IOSPhone" csv dosyasindan "1" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "AddedToCartSuccessfulPopupIos" elementi bulunana kadar en fazla "30" saniye kadar bekle
+* "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
+* "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
+
 # Sepete Ekle butonu ile Gratis2 login olunur
 * "IOSmail" csv dosyasindan "2" numaralı kullaniciyi sec
 * Elementin yüklenmesini bekle "EpostaInputAlani"
@@ -211,6 +298,17 @@
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
 * Elementin yüklenmesini bekle "AddedToCartSuccessfulPopupIos"
+* "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
+* "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
+
+# Yeni Sepete Ekle butonu ile Gratis2 login olunur
+* "IOSPhone" csv dosyasindan "2" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "AddedToCartSuccessfulPopupIos" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
 * "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
 
@@ -225,6 +323,17 @@
 * "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
 * "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
 
+# Yeni Sepete Ekle butonu ile Gratis3 login olunur
+* "IOSPhone" csv dosyasindan "3" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "AddedToCartSuccessfulPopupIos" elementi bulunana kadar en fazla "30" saniye kadar bekle
+* "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
+* "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
+
 # Sepete Ekle butonu ile Gratis4 login olunur
 * "IOSmail" csv dosyasindan "4" numaralı kullaniciyi sec
 * Elementin yüklenmesini bekle "EpostaInputAlani"
@@ -236,8 +345,19 @@
 * "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
 * "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
 
+# Yeni Sepete Ekle butonu ile Gratis4 login olunur
+* "IOSPhone" csv dosyasindan "4" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "AddedToCartSuccessfulPopupIos" elementi bulunana kadar en fazla "30" saniye kadar bekle
+* "AlertTitle" elementinin "İşlem Başarılı" textini içerdiği kontrol edilir
+* "AddedToCartSuccessfulPopupIos" elementinin "Ürün sepetinize eklendi." textini içerdiği kontrol edilir
+
 # Alışverişe devam edilir
-* Elementin yüklenmesini bekle "ContinueShoppingButton"
+* "ContinueShoppingButton" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * Elementine tıkla "ContinueShoppingButton"
 
 # Ana sayfa tab'ına tıklanır
@@ -246,7 +366,7 @@
 * "2" saniye bekle
 
 # Sepete git'e tıklanır
-* Elementin yüklenmesini bekle "GoToCartButton"
+* "GoToCartButton" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * Elementine tıkla "GoToCartButton"
 * "2" saniye bekle
 
