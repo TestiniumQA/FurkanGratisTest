@@ -285,14 +285,14 @@ This is a concept file with following syntax for each concept.
 # Siparis ve Teslimat Sureci alanına tıklanır.
 * Elementine tıkla "hsOrder"
 * Elementine tıkla "hsSolution"
-* "hsSolutionText" elementinin "İstediğiniz ürünü sepetinize ekleyebilirsiniz" textini içerdiği kontrol edilir
+* "hsSolutionText" elementinin "Siparişinizi tamamladıktan sonra sipariş içeriğinde herhangi bir değişiklik yapamazsınız, yeni bir sipariş oluşturabilirsiniz." textini içerdiği kontrol edilir
 * Elementine tıkla "geriBtn"
 * Elementine tıkla "hsOrder"
 
 # Iade, Urun ve Sikayet alanına tıklanır.
 * Elementine tıkla "hsProduct"
 * Elementine tıkla "hsSolution"
-* "hsSolutionText" elementinin "Siparişinizi verdiğiniz andan itibaren ilk 30 dakika içinde hesabınız üzerinden iptal edebilirsiniz. Bu süreden sonra iade yapabilmek için siparişinizin uygunluğunu öğrenmek için müşteri deneyimlerimiz ile iletişime geçmeniz gerekmektedir" textini içerdiği kontrol edilir
+* "hsSolutionText" elementinin "Kolay iade, İade yapmak istediğiniz ürün/ürünlerde size özel kodunuz ile iade sürecinizi kolaylıkla takip etmenizi sağlayan sistemdir" textini içerdiği kontrol edilir
 * Elementine tıkla "geriBtn"
 * Elementine tıkla "hsProduct"
 * "1" saniye bekle
