@@ -9,16 +9,16 @@ IOS Scenario Login
 ------------------
 tags:Gratis_IOS_Login
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Rastgele login olunur
+* Yeni login sayfasina gecilir
+* Yeni rastgele login olunur
 * Uygulamadan cikis yapilir
 
 IOS Scenario Register
 ---------------------
 tags:Gratis_IOS_Register
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Register'a tıklanır
+* Yeni login sayfasina gecilir
+* Yeni Register'a tıklanır
 * Kullanıcı bilgileri girilir
 * Kullanıcı şartlarına tıklanır ve üye olunur
 //* Sms uyarısı kontrol edilir
@@ -27,8 +27,8 @@ IOS Scenario Register Negative
 ------------------------------
 tags:Gratis_IOS_Register_Negatif
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Register'a tıklanır
+* Yeni login sayfasina gecilir
+* Yeni Register'a tıklanır
 * 16 yasindan kucuk dogum tarihi secilir ve uyarı mesaji gorulur
 * Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur
 * Kayıtlı Telefon ile register olunur ve uyarı mesajı gorulur
@@ -37,8 +37,8 @@ IOS Scenario Register Warning Messages
 --------------------------------------
 tags:Gratis_IOS_RegisterUyariMesajlari
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Register'a tıklanır
+* Yeni login sayfasina gecilir
+* Yeni Register'a tıklanır
 * Üye Ol Ad "a", Soyad "b", Telefon "" ve Eposta İsmi "a@" girilir
 * Üye Ol ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. İsminizi kontrol ediniz." uyarı mesajı görülür
 * Yukarı scroll et ve "YeniAd" textini "RegisterNameFull" elementine yaz
@@ -46,6 +46,7 @@ tags:Gratis_IOS_RegisterUyariMesajlari
 * Yukarı scroll et ve "YeniSoyad" textini "RegisterSurnameFull" elementine yaz
 * Üye Ol ikonuna tiklanir "Lütfen geçerli bir e-posta adresi giriniz" uyarı mesajı görülür
 * Yukarı scroll et ve "gratistrtestinium@gmail.com" textini "RegisterMailFull" elementine yaz
+* "RegisterPhoneFull" li elementi bul ve temizle
 * Üye Ol ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz" uyarı mesajı görülür
 * Yukarı scroll et ve "5" textini "RegisterPhoneFull" elementine yaz
 * Üye Ol ikonuna tiklanir "Telefon Numarası Geçersiz. Lütfen 10 hane olacak şekilde giriniz." uyarı mesajı görülür
@@ -56,7 +57,7 @@ IOS Scenario Forget Password
 ----------------------------
 tags:Gratis_IOS_SifremiUnuttum
 * Uygulama baslatilir
-* Login sayfasina gecilir
+* Yeni login sayfasina gecilir
 * Sifremi Unuttum ikonuna tiklanir
 * E-posta alanina "javaautomationtest@gmail.com" girilir
 * Sifremi unuttum Gonder butonuna tiklanir
@@ -66,16 +67,16 @@ IOS Scenario Changing Password
 ------------------------------
 tags:Gratis_IOS_SifreDegistirme
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Rastgele login olunur
+* Yeni login sayfasina gecilir
+* Yeni rastgele login olunur
 * Sifre basarili sekilde degistirilir
 
 IOS Scenario Changing Password Negative
 ---------------------------------------
 tags:Gratis_IOS_SifreDegistirmeNegatif
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Rastgele login olunur
+* Yeni login sayfasina gecilir
+* Yeni rastgele login olunur
 * Sifre değiştirme alanına gidilir
 * Eski şifre eksik yazılır ve uyarı mesajı görülür
 * Yeni şifre ve tekrarı uyuşmuyor uyarı mesajı görülür
@@ -104,8 +105,8 @@ IOS Scenario Updating Customer Information
 ------------------------------------------
 tags:Gratis_IOS_UyeBilgileriGuncelleme
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Gratis0 ile login olunur
+* Yeni login sayfasina gecilir
+* Yeni Gratis0 ile login olunur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Uye bilgilerim sayfasina gecilir
 * Uye bilgileri basarili sekilde guncellenir
@@ -114,8 +115,8 @@ IOS Scenario Deleting Account
 -----------------------------
 tags:Gratis_IOS_HesapSilme
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Gratis5 ile login olunur
+* Yeni login sayfasina gecilir
+* Yeni Gratis5 ile login olunur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Hesabı Sil islemi yapilir
 
@@ -123,6 +124,6 @@ IOS Scenario Gratis Card Connect
 --------------------------------
 tags:Gratis_IOS_GratisCardBagla
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Gratis5 ile login olunur
+* Yeni login sayfasina gecilir
+* Yeni Gratis5 ile login olunur
 * Gratis Card baglama islemi yapilir

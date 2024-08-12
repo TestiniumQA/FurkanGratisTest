@@ -23,6 +23,12 @@
 * Elementin yüklenmesini bekle "EpostaInputAlani"
 //* "uyeOlVeyaGirisYap" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
 
+# Yeni login sayfasina gecilir
+* Elementin yüklenmesini bekle "digerSekmesi"
+* "digerSekmesi" elementine sayacli tikla "navbarDigerTitle" value degerini bekle
+* Elementin yüklenmesini bekle "uyeOlVeyaGirisYap"
+* "uyeOlVeyaGirisYap" elementine sayacli tikla "PhoneNumberInput" value degerini bekle
+
 # Rastgele login olunur
 //* "digerSekmesi" elementine sayacli tikla "EpostaInputAlani" value degerini bekle
 * "IOSmail" csv dosyasindan rastgele kullanici sec
@@ -35,6 +41,15 @@
 * Elementin yüklenmesini bekle "profilim"
 //* "girisYapBtn" elementine sayacli tikla "profilim" value degerini bekle
 
+# Yeni rastgele login olunur
+* "IOSPhone" csv dosyasindan rastgele kullanici sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* Elementin yüklenmesini bekle "profilim"
+
 # Gratis0 ile login olunur
 * "IOSmail" csv dosyasindan "0" numaralı kullaniciyi sec
 * Elementin yüklenmesini bekle "EpostaInputAlani"
@@ -43,6 +58,15 @@
 * Elementin yüklenmesini bekle "EyeIcon"
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "profilim"
+
+# Yeni Gratis0 ile login olunur
+* "IOSPhone" csv dosyasindan "0" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
 * Elementin yüklenmesini bekle "profilim"
 
 # Gratis1 ile login olunur
@@ -55,6 +79,15 @@
 * Elementine tıkla "girisYapBtn"
 * Elementin yüklenmesini bekle "profilim"
 
+# Yeni Gratis1 ile login olunur
+* "IOSPhone" csv dosyasindan "1" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* Elementin yüklenmesini bekle "profilim"
+
 # Gratis2 ile login olunur
 * "IOSmail" csv dosyasindan "2" numaralı kullaniciyi sec
 * Elementin yüklenmesini bekle "EpostaInputAlani"
@@ -63,6 +96,15 @@
 * Elementin yüklenmesini bekle "EyeIcon"
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "profilim"
+
+# Yeni Gratis2 ile login olunur
+* "IOSPhone" csv dosyasindan "2" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
 * Elementin yüklenmesini bekle "profilim"
 
 # Gratis3 ile login olunur
@@ -75,6 +117,15 @@
 * Elementine tıkla "girisYapBtn"
 * Elementin yüklenmesini bekle "profilim"
 
+# Yeni Gratis3 ile login olunur
+* "IOSPhone" csv dosyasindan "3" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* Elementin yüklenmesini bekle "profilim"
+
 # Gratis4 ile login olunur
 * "IOSmail" csv dosyasindan "4" numaralı kullaniciyi sec
 * Elementin yüklenmesini bekle "EpostaInputAlani"
@@ -83,6 +134,15 @@
 * Elementin yüklenmesini bekle "EyeIcon"
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "profilim"
+
+# Yeni Gratis4 ile login olunur
+* "IOSPhone" csv dosyasindan "4" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
 * Elementin yüklenmesini bekle "profilim"
 
 # Gratis5 ile login olunur
@@ -95,6 +155,15 @@
 * Elementine tıkla "girisYapBtn"
 * Elementin yüklenmesini bekle "profilim"
 
+# Yeni Gratis5 ile login olunur
+* "IOSPhone" csv dosyasindan "5" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* Elementin yüklenmesini bekle "profilim"
+
 # Gratis14 ile login olunur
 * "IOSmail" csv dosyasindan "6" numaralı kullaniciyi sec
 * Elementin yüklenmesini bekle "EpostaInputAlani"
@@ -103,6 +172,15 @@
 * Elementin yüklenmesini bekle "EyeIcon"
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
+* Elementin yüklenmesini bekle "profilim"
+
+# Yeni Gratis14 ile login olunur
+* "IOSPhone" csv dosyasindan "6" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
 * Elementin yüklenmesini bekle "profilim"
 
 # Kategoriler sayfasina gecilir

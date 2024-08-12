@@ -104,6 +104,16 @@
 * Element var mı kontrol et "RegisterBtnIos"
 * "RegisterBtnIos" elementine sayacli tikla "RegisterPageTitle" value degerini bekle
 
+# Yeni Register'a tıklanır
+* "IOSPhone" csv dosyasindan "5" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "RegisterName"
+
 # Üye Ol Ad <ad>, Soyad <soyad>, Telefon <telefon> ve Eposta İsmi <ePosta> girilir
 * Element var mı kontrol et "RegisterName"
 * <ad> textini "RegisterName" elemente yaz
@@ -119,7 +129,7 @@
 * "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
 * Rastgele secilen kullanici adi "RegisterName" elementine, soyadi "RegisterSurname" elementine, mail "RegisterMail" elementine yazilir
 * "RegisterMailFull" li elementi bul, temizle ve "gratis.testinium11@gmail.com" değerini yaz
-* "321111125" textini "RegisterPhone" elemente yaz
+//* "321111125" textini "RegisterPhone" elemente yaz
 * "KeyboardDismisserIcon" li element varsa tıkla
 * "RegisterBirth" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "RegisterBirth" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
@@ -161,14 +171,14 @@
 * "1" saniye bekle
 * Element var mı kontrol et "RegisterButton"
 * Elementine tıkla "RegisterButton"
-* Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
-* "SMS Onayı" text degerine sahip elementin goruntulendigi kontrol edilir
-* Elementin yüklenmesini bekle "RegisterSmsTextbox"
-* "5" saniye bekle
-* "12345" textini "RegisterSmsTextbox" elemente yaz
-* Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
-* "RegisterSmsAcceptButton" elementinin "Gönder" textini içerdiği kontrol edilir
-* Elementine tıkla "RegisterSmsAcceptButton"
+//* Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
+//* "SMS Onayı" text degerine sahip elementin goruntulendigi kontrol edilir
+//* Elementin yüklenmesini bekle "RegisterSmsTextbox"
+//* "5" saniye bekle
+//* "12345" textini "RegisterSmsTextbox" elemente yaz
+//* Elementin yüklenmesini bekle "RegisterSmsAcceptButton"
+//* "RegisterSmsAcceptButton" elementinin "Gönder" textini içerdiği kontrol edilir
+//* Elementine tıkla "RegisterSmsAcceptButton"
 * "5" saniye bekle
 * Elementin yüklenmesini bekle "profilim"
 
@@ -186,8 +196,8 @@
 * "Aydın" textini "RegisterSurname" elemente yaz
 * Elementin yüklenmesini bekle "RegisterMail"
 * "javaautomationtest@gmail.com" textini "RegisterMail" elemente yaz
-* Elementin yüklenmesini bekle "RegisterPhone"
-* "326637273" textini "RegisterPhone" elemente yaz
+//* Elementin yüklenmesini bekle "RegisterPhone"
+//* "326637273" textini "RegisterPhone" elemente yaz
 * "KeyboardDismisserIcon" li element varsa tıkla
 * "RegisterBirth" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "RegisterBirth" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
@@ -569,14 +579,14 @@
 * Elementin yüklenmesini bekle "AddFavoritePopup"
 * Elementin yüklenmesini bekle "PopupSavedBtnIos"
 * Elementine tıkla "PopupSavedBtnIos"
-* Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
+* "AddFavoriteSuccessfulPopupIos" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 
 # Ana sayfadaki urun favorilerden cikarilir
 * "FavBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "FavBtn"
-* Elementin yüklenmesini bekle "RemoveFavoriteSuccessfulPopupIos"
+* "RemoveFavoriteSuccessfulPopupIos" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 
@@ -588,12 +598,12 @@
 * "Yeni Liste Adı" textini "AddListTextbox" elemente yaz
 * "PopupAddBtnIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "PopupAddBtnIos"
-* "AddListSuccessfulPopupIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
+* "AddListSuccessfulPopupIos" elementi bulunana kadar en fazla "20" saniye kadar bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "PopupSavedBtnIos"
 * Elementine tıkla "PopupSavedBtnIos"
-* Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
+* "AddFavoriteSuccessfulPopupIos" elementi bulunana kadar en fazla "20" saniye kadar bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 
@@ -623,7 +633,7 @@
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "PopupSavedBtnIos"
 * Elementine tıkla "PopupSavedBtnIos"
-* Elementin yüklenmesini bekle "AddFavoriteSuccessfulPopupIos"
+* "AddFavoriteSuccessfulPopupIos" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 
@@ -747,7 +757,7 @@
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * "FavBtn" li elementi bul ve varsa tıkla
-* Elementin yüklenmesini bekle "RemoveFavoriteSuccessfulPopupIos"
+* "RemoveFavoriteSuccessfulPopupIos" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * Elementin yüklenmesini bekle "EmptyFavoriteList"
