@@ -96,8 +96,8 @@
 
 # Non login durumda Gratis Kart sayfasi kontrol edilir
 * Elementin yüklenmesini bekle "PageToolbarTitle"
-* Elementin yüklenmesini bekle "EpostaInputAlani"
-* Elementin yüklenmesini bekle "sifreInputAlani"
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "ContinueBtn"
 
 # Login olup Gratis Kartim sayfasina gecilir
 * "IOSmail" csv dosyasindan rastgele kullanici sec
@@ -106,6 +106,15 @@
 *  Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
+* "2" saniye bekle
+
+# Yeni login olup Gratis Kartim sayfasina gecilir
+* "IOSPhone" csv dosyasindan rastgele kullanici sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
 * "2" saniye bekle
 
 # Login durumda Gratis Kart sayfasi kontrol edilir
@@ -483,8 +492,8 @@
 * <alt1> text degerine sahip elemente tikla
 * <alt2> text degerine sahip elemente tikla
 * "PageToolbarTitleText" elementinin <alt2> textini içerdiği kontrol edilir
-* Element var mı kontrol et "ProductsName"
-* Element var mı kontrol et "UrunDetay"
+* "ProductsName" elementi bulunana kadar en fazla "30" saniye kadar bekle
+* "UrunDetay" elementi bulunana kadar en fazla "30" saniye kadar bekle
 
 # Urun detay sayfasına geçilir
 * Elementin yüklenmesini bekle "PageToolbarTitleText"

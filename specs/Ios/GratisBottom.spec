@@ -45,7 +45,7 @@ tags:Gratis_IOS_GratisCard
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Non login Gratis Kartim sayfasina gecilir
 * Non login durumda Gratis Kart sayfasi kontrol edilir
-* Login olup Gratis Kartim sayfasina gecilir
+* Yeni login olup Gratis Kartim sayfasina gecilir
 * Login durumda Gratis Kart sayfasi kontrol edilir
 
 IOS Scenario Diger
@@ -172,7 +172,7 @@ tags:Gratis_IOS_KategoriSecimiVeNonLoginSepeteGit
 * Urun detay sayfasına geçilir
 * Uygulama geri butonuna bas
 * Sepete Ekle butonuna tıklanır
-* Sepete Ekle butonu ile Gratis0 login olunur
+* Yeni Sepete Ekle butonu ile Gratis0 login olunur
 * Sepete git'e tıklanır
 * Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
@@ -185,7 +185,7 @@ tags:Gratis_IOS_KategoriSecimiVeNonLoginSepetDevam
 * "Makyaj" isimli kategori seçilir
 * Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir
 * Sepete Ekle butonuna tıklanır
-* Sepete Ekle butonu ile Gratis4 login olunur
+* Yeni Sepete Ekle butonu ile Gratis4 login olunur
 * Alışverişe devam edilir
 * Sepete Ekle butonuna tıklanır
 * Sepete git'e tıklanır
@@ -196,8 +196,8 @@ IOS Scenario Login Choose Category and Add To Cart
 --------------------------------------------------
 tags:Gratis_IOS_KategoriSecimiVeLoginSepeteEkleme
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Gratis0 ile login olunur
+* Yeni login sayfasina gecilir
+* Yeni Gratis0 ile login olunur
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
 * Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir
@@ -213,7 +213,7 @@ IOS Scenario Max Add To Cart in Choose Category and Product List
 tags:Gratis_IOS_KategoriSecimiVeListelemeMaximumSepeteEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis4 login olunur
+* Yeni sepet ikonu ile Gratis4 login olunur
 * Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
@@ -239,7 +239,7 @@ tags:Gratis_IOS_NonLoginKategoriFavoriEkleme
 * "Makyaj" isimli kategori seçilir
 * Alt kategorilerden biri "Göz Makyajı", "Göz Kalemi" seçilir
 * Listeleme alanından bir ürünün favori butonuna tıklanır
-* Favori ikonu ile Gratis1 login olunur
+* Yeni favori ikonu ile Gratis1 login olunur
 * Urun favorilere eklenir
 * Ana sayfadaki urun favorilerden cikarilir
 
@@ -250,7 +250,7 @@ tags:Gratis_IOS_NonLoginKategoriFavoriListesiOlusturma
 * Kategoriler sayfasina gecilir
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir
 * Listeleme alanından bir ürünün favori butonuna tıklanır
-* Favori ikonu ile Gratis2 login olunur
+* Yeni favori ikonu ile Gratis2 login olunur
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
@@ -262,8 +262,8 @@ IOS Scenario Category and Add To Favorite and Favorite List
 -----------------------------------------------------------
 tags:Gratis_IOS_KategoriFavoriEklemeVeListeOlusturma
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Gratis3 ile login olunur
+* Yeni login sayfasina gecilir
+* Yeni Gratis3 ile login olunur
 * Kategoriler sayfasina gecilir
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir
 * Listeleme alanından bir ürünün favori butonuna tıklanır
