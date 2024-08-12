@@ -109,11 +109,33 @@
 * "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
 
+# Yeni sepet ikonu ile rastgele login olunur
+* "IOSPhone" csv dosyasindan rastgele kullanici sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "4" saniye bekle
+* "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
+* Elementin yüklenmesini bekle "CartToolbar"
+
 # Sepet ikonu ile Gratis0 login olunur
 * "IOSmail" csv dosyasindan "0" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
+* "4" saniye bekle
+* "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
+* Elementin yüklenmesini bekle "CartToolbar"
+
+# Yeni sepet ikonu ile Gratis0 login olunur
+* "IOSPhone" csv dosyasindan "0" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
 * "4" saniye bekle
 * "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
@@ -127,11 +149,33 @@
 * "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
 
+# Yeni sepet ikonu ile Gratis1 login olunur
+* "IOSPhone" csv dosyasindan "1" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "4" saniye bekle
+* "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
+* Elementin yüklenmesini bekle "CartToolbar"
+
 # Sepet ikonu ile Gratis2 login olunur
 * "IOSmail" csv dosyasindan "2" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
+* "4" saniye bekle
+* "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
+* Elementin yüklenmesini bekle "CartToolbar"
+
+# Yeni sepet ikonu ile Gratis2 login olunur
+* "IOSPhone" csv dosyasindan "2" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
 * "4" saniye bekle
 * "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
@@ -145,11 +189,33 @@
 * "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
 
+# Yeni sepet ikonu ile Gratis3 login olunur
+* "IOSPhone" csv dosyasindan "3" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "4" saniye bekle
+* "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
+* Elementin yüklenmesini bekle "CartToolbar"
+
 # Sepet ikonu ile Gratis4 login olunur
 * "IOSmail" csv dosyasindan "4" numaralı kullaniciyi sec
 * Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
 * Elementin yüklenmesini bekle "girisYapBtn"
 * Elementine tıkla "girisYapBtn"
+* "4" saniye bekle
+* "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
+* Elementin yüklenmesini bekle "CartToolbar"
+
+# Yeni sepet ikonu ile Gratis4 login olunur
+* "IOSPhone" csv dosyasindan "4" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
 * "4" saniye bekle
 * "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"

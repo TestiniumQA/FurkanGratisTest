@@ -43,4 +43,4 @@ IOS Scenario Login with Cart Icon
 tags:Gratis_IOS_SepetIkonuileLogin
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis0 login olunur
+* Yeni sepet ikonu ile Gratis0 login olunur

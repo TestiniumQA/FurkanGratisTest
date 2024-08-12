@@ -9,8 +9,8 @@ IOS Scenario Gratis Card Discount Product Add To Cart
 -----------------------------------------------------
 tags:Gratis_IOS_GratisKartliUrunSepeteEkleme
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Gratis0 ile login olunur
+* Yeni login sayfasina gecilir
+* Yeni Gratis0 ile login olunur
 * Gratis Kart indirimli urun sepete eklenir
 * Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
@@ -20,7 +20,7 @@ IOS Scenario Cart Popup Slider And Add To Cart
 tags:Gratis_IOS_KasaArkasiPopupSlideVeUrunEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis1 login olunur
+* Yeni sepet ikonu ile Gratis1 login olunur
 * Sepet kontrol edilerek temizlenir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
@@ -33,7 +33,7 @@ IOS Scenario Cart Slider And Add To Cart
 tags:Gratis_IOS_KasaArkasiSlideVeUrunEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis2 login olunur
+* Yeni sepet ikonu ile Gratis2 login olunur
 * Sepet kontrol edilerek temizlenir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
@@ -46,9 +46,9 @@ IOS Scenario Increase And Decreasing The Number Of Products
 tags:Gratis_IOS_UrunAdediArttirmaVeAzaltma
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis1 login olunur
+* Yeni sepet ikonu ile Gratis1 login olunur
 * Sepet kontrol edilerek temizlenir
-//* Login sayfasina gecilir
+//* Yeni login sayfasina gecilir
 //* Gratis1 ile login olunur
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir
@@ -62,8 +62,8 @@ IOS Scenario Add And Delete A Product To Favorite List From Cart
 ----------------------------------------------------------------
 tags:Gratis_IOS_SepetteFavoriEklemeCikarma
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Gratis2 ile login olunur
+* Yeni login sayfasina gecilir
+* Yeni Gratis2 ile login olunur
 * Ana sayfadan bir urun sepete eklenir
 * Sepet kasa arkasi popup'i kapatilir
 * Sepette favoriye ekleme ve cikarma yapilir
@@ -73,8 +73,8 @@ IOS Scenario Add A Favorite List From Cart
 ------------------------------------------
 tags:Gratis_IOS_SepetteFavoriListesiOlusturmaVeSilme
 * Uygulama baslatilir
-* Login sayfasina gecilir
-* Gratis3 ile login olunur
+* Yeni login sayfasina gecilir
+* Yeni Gratis3 ile login olunur
 * Ana sayfadan bir urun sepete eklenir
 * Sepet kasa arkasi popup'i kapatilir
 * Sepette favori butonuna tiklanir
@@ -93,7 +93,7 @@ IOS Scenario Cart Popup Slider Product Detail And Add To Cart
 tags:Gratis_IOS_KasaArkasiPopupUrunDetayVeSepeteEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Sepet ikonu ile Gratis3 login olunur
+* Yeni sepet ikonu ile Gratis3 login olunur
 * Sepet kontrol edilerek temizlenir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfadan bir urun sepete eklenir

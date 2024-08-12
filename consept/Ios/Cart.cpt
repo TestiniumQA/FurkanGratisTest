@@ -49,6 +49,7 @@
 * Elementin yüklenmesini bekle "NumberPlusBtn"
 
 # Maksimum ürün ekleme uyarisi kontrol edilir
+* "PopupOkayBtnIos" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "Hata" text degerine sahip elementin goruntulendigi kontrol edilir
 * "Sepete bu üründen maksimum 4 adet ekleyebilirsiniz." text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
