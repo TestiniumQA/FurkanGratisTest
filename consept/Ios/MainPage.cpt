@@ -124,6 +124,7 @@
 * Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
 * Elementin yüklenmesini bekle "ValidateBtn"
 * Elementine tıkla "ValidateBtn"
+* "AddFavoritePopup" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 
 # Favori ikonu ile Gratis0 login olunur
@@ -142,6 +143,7 @@
 * Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
 * Elementin yüklenmesini bekle "ValidateBtn"
 * Elementine tıkla "ValidateBtn"
+* "AddFavoritePopup" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 
 # Favori ikonu ile Gratis1 login olunur
@@ -160,6 +162,7 @@
 * Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
 * Elementin yüklenmesini bekle "ValidateBtn"
 * Elementine tıkla "ValidateBtn"
+* "AddFavoritePopup" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 
 # Favori ikonu ile Gratis2 login olunur
@@ -178,6 +181,7 @@
 * Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
 * Elementin yüklenmesini bekle "ValidateBtn"
 * Elementine tıkla "ValidateBtn"
+* "AddFavoritePopup" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 
 # Favori ikonu ile Gratis3 login olunur
@@ -196,6 +200,7 @@
 * Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
 * Elementin yüklenmesini bekle "ValidateBtn"
 * Elementine tıkla "ValidateBtn"
+* "AddFavoritePopup" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 
 # Favori ikonu ile Gratis4 login olunur
@@ -214,6 +219,7 @@
 * Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
 * Elementin yüklenmesini bekle "ValidateBtn"
 * Elementine tıkla "ValidateBtn"
+* "AddFavoritePopup" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "AddFavoritePopup" elementinin "Listeye Ekle" textini içerdiği kontrol edilir
 
 # Non-Login ana sayfadan bir urun sepete eklenir
