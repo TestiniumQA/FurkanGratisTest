@@ -126,9 +126,9 @@
 * Klavye kapatilir
 
 # Kullanıcı bilgileri girilir
-* "AndroidInfo" csv dosyasindan rastgele register kullanicisi sec
+* "AndroidInfoPhone" csv dosyasindan rastgele register kullanicisi sec
 * Rastgele secilen kullanici adi "RegisterName" elementine, soyadi "RegisterSurname" elementine, mail "RegisterMail" elementine yazilir
-* "RegisterMailFull" li elementi bul, temizle ve "gratis.testinium11@gmail.com" değerini yaz
+* "RegisterMailFull" li elementi bul, temizle ve "testinium13@gmail.com" değerini yaz
 //* "321111125" textini "RegisterPhone" elemente yaz
 * "KeyboardDismisserIcon" li element varsa tıkla
 * "RegisterBirth" elementi bulunana kadar en fazla "15" saniye kadar bekle
