@@ -44,7 +44,7 @@ tags:Gratis_IOS_RegisterUyariMesajlari
 * Yukarı scroll et ve "YeniAd" textini "RegisterNameFull" elementine yaz
 * Üye Ol ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür
 * Yukarı scroll et ve "YeniSoyad" textini "RegisterSurnameFull" elementine yaz
-* Üye Ol ikonuna tiklanir "Lütfen geçerli bir e-posta adresi giriniz" uyarı mesajı görülür
+* Üye Ol ikonuna tiklanir "Lütfen e-posta adresi giriniz" uyarı mesajı görülür
 * Yukarı scroll et ve "gratistrtestinium@gmail.com" textini "RegisterMailFull" elementine yaz
 * "RegisterPhoneFull" li elementi bul ve temizle
 * Üye Ol ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz" uyarı mesajı görülür
