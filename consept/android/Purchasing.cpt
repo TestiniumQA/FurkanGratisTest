@@ -61,6 +61,8 @@ This is a concept file with following syntax for each concept.
 # Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
 * "profilePageMyPasswordSaved" li element varsa tıkla yoksa devam et
 * "1" saniye bekle
+* "popupOkayButton" li element varsa tıkla yoksa devam et
+* "1" saniye bekle
 * "continueBtn" li element varsa tıkla yoksa devam et
 * "1" saniye bekle
 * "addressBtn"li elementi bulana kadar "4" kere yukarı swipe yap ve elementi bul
