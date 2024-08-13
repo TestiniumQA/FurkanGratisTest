@@ -392,7 +392,9 @@ This is a concept file with following syntax for each concept.
 * <alt1> text degerine sahip elemente tikla.
 * <alt2> text degerine sahip elemente tikla.
 * "pageToolbarTitle" elementinin <alt2> textini içerdiği kontrol edilir
+* "1" saniye bekle
 * "1" kere aşağıya kaydır
+* "1" saniye bekle
 * Elementin yüklenmesini bekle "urunDetay"
 * Elementin yüklenmesini bekle "urunDetayy"
 
