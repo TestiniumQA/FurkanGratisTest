@@ -400,7 +400,10 @@ This is a concept file with following syntax for each concept.
 # Kaydet ikonuna tiklanir <key> uyarı mesajı görülür.
 * "newAddressSavedBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
 * Elementine tıkla "newAddressSavedBtn"
-* toast message <key> değerine eşit mi
+* "1" saniye bekle
+* <key> değerini sayfa üzerinde olup olmadığını kontrol et.
+* "1" saniye bekle
+* Elementine tıkla "popupOkayButton"
 
 # Devam Et ikonuna tiklanir <text> uyarı mesajı görülür.
 * "continueBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
