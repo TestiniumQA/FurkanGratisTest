@@ -231,7 +231,7 @@
 * Ana sayfa tab'ına tıklanır
 
 # Yorum yazin alanina tiklanir pencere kontrol edilir
-* Element var mı kontrol et "ReviewCommentBtn"
+* Elementin yüklenmesini bekle "ReviewCommentBtn"
 * Elementine tıkla "ReviewCommentBtn"
 * "PUANLA VE YORUM YAP!" text degerine sahip elementin goruntulendigi kontrol edilir
 * "Yorum Yaz" text degerine sahip elementin goruntulendigi kontrol edilir

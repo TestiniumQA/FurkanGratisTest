@@ -622,10 +622,10 @@ public class StepImpl extends HookImpl {
     @Step({"Yeni Rastgele secilen kullanici adi <key> elementine, sifre <key> elementine yazilir"})
     public void existElementtNew(String key,String key2) {
         findElementByKey(key).sendKeys(accountUser);
-        waitBySecond(1);
+        waitBySecond(2);
         tapElementWithKeyControlArea("devamEtBtn");
         tapElementWithKeyControlArea("ContinueBtn");
-        waitBySecond(1);
+        waitBySecond(2);
         findElementByKey(key2).sendKeys(accountpassword);
         waitBySecond(2);
     }
