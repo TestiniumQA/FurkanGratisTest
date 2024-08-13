@@ -136,7 +136,7 @@ This is a concept file with following syntax for each concept.
 * "storeBilTownSpinner"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementine tıkla "storeBilCitySpinner"
 * "2" saniye bekle
-* "storeBilCitySpinner" elementinin koordinatlarına x="0" y="235" degerlerini ekleyerek tıkla
+* "storeBilCitySpinner" elementinin koordinatlarına x="0" y="270" degerlerini ekleyerek tıkla
 //* sayfadaki "20" "80" alana dokun
 * "2" saniye bekle
 * Elementine tıkla "storeBilCitySpinner"
