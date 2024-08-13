@@ -172,6 +172,7 @@ This is a concept file with following syntax for each concept.
 
 # Fatura bilgileri alanında yeni adres eklenir.
 * Fatura bilgileri için Ad, Soyad, Telefon ve Adres Ismi bilgileri girilir.
+* "1" kere aşağıya kaydır
 * Fatura bilgileri şehir ismi secilir.
 * Fatura bilgileri ilce ismi secilir.
 * Fatura bilgileri guncel mahalle ismi secilir.
