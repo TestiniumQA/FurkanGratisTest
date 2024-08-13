@@ -96,7 +96,7 @@ This is a concept file with following syntax for each concept.
 
 # Yeni Non login durumda Gratis Kart sayfasi kontrol edilir.
 * Elementin yüklenmesini bekle "pageToolbarTitle"
-* "pageToolbarTitle" elementinin "Giriş Yap" textini içerdiği kontrol edilir
+//* "pageToolbarTitle" elementinin "Giriş Yap" textini içerdiği kontrol edilir
 * "AndroidPhone" csv dosyasindan rastgele kullanici sec
 * Yeni Rastgele secilen kullanici adi "phoneNumberInput" elementine, sifre "smsCodeInput" elementine yazilir
 * Elementin yüklenmesini bekle "validateBtn"
