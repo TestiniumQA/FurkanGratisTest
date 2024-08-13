@@ -473,7 +473,7 @@ This is a concept file with following syntax for each concept.
 * Yukarı scroll et ve "5112223311" textini "newAddressCustomerPhone" elementine yaz.
 * "1" saniye bekle
 * "newAddressCustomerAddressDetail"li elementi bulana kadar "1" kere swipe yap ve elementi bul
-* "1" kere aşağıya kaydır
+* "1" kere yukarı doğru kaydır
 * "1" saniye bekle
 * Element var mı kontrol et "newAddressAddCityDropdown"
 * Elementine tıkla "newAddressAddCityDropdown"
