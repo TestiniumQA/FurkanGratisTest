@@ -491,7 +491,7 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 * "newAddressAddNeighbourhoodDropdown" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"120" deger kadar asagisina tikla
 * "1" saniye bekle
-* Devam Et ikonuna tiklanir "Lütfen girilen adres alanını kontrol ediniz." uyarı mesajı görülür.
+* Devam Et ikonuna tiklanir "Lütfen adres bilgilerinizi giriniz." uyarı mesajı görülür.
 * Yukarı scroll et ve "Test ortamı icin adres detay No:1453409" textini "newAddressCustomerAddressDetail" elementine yaz.
 //* Teslimat Adresi kaydet ikonuna tıklanır ve seçildiği kontrol edilir.
 
