@@ -475,6 +475,8 @@ This is a concept file with following syntax for each concept.
 * Yukarı scroll et ve "adresismi" textini "newAddressCustomerAddressTitle" elementine yaz.
 * Kaydet ikonuna tiklanir "Adresiniz Başarıyla Güncellendi" uyarı mesajı görülür.
 * "2" saniye bekle
+* "1" saniye bekle
+* "popupOkayButton" li element varsa tıkla yoksa devam et
 
 # Teslimat bilgileri adres ekleme alani uyari kontrolleri yapilir.
 * Devam Et ikonuna tiklanir "Lütfen adres ismi alanını kontrol ediniz." uyarı mesajı görülür.
