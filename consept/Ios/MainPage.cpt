@@ -391,6 +391,7 @@
 # En Son Gezdiklerim alanına gidilir
 * "2" kere aşağıya kaydır
 * "VisitedTitle"li elementi bulana kadar "45" kere swipe yap ve elementi bul
+* "1" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "VisitedAddBtn"
 * Elementin yüklenmesini bekle "VisitedTitle"
 * Elementin yüklenmesini bekle "VisitedText"
