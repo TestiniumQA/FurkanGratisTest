@@ -177,7 +177,7 @@
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "PageToolbarTitleText"
 * "PageToolbarTitleText" li elementin text degeri hafizada "anahtarKelime" olarak saklanan text ile esit mi kontrol et
-* Elementin yüklenmesini bekle "UrunDetay"
+//* Elementin yüklenmesini bekle "UrunDetay"
 
 # Ürün detay yorumlar alanina gecilir
 * "2" saniye bekle
