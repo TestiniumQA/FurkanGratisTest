@@ -491,7 +491,10 @@
 # Alt kategorilerden biri <alt1>, <alt2> seçilir
 * <alt1> text degerine sahip elemente tikla
 * <alt2> text degerine sahip elemente tikla
+* "PageToolbarTitleText" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * "PageToolbarTitleText" elementinin <alt2> textini içerdiği kontrol edilir
+* "1" saniye bekle
+* "1" kere aşağıya kaydır
 * "ProductsName" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * "UrunDetay" elementi bulunana kadar en fazla "30" saniye kadar bekle
 
