@@ -102,6 +102,7 @@
 * "girisYapBtn" değerini sayfa üzerinde olmadıgını kontrol et
 
 # <text> isimli kategori seçilir
+* "CategoryName" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "CategoryName" li ve değeri <text> e eşit olan elementli bulana kadar swipe et ve tıkla
 
 # Ürünün renk tonu değiştirilir
