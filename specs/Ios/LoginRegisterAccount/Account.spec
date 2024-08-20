@@ -155,7 +155,7 @@ IOS Scenario Max Add To Cart From Favorite List
 tags:Gratis_IOS_FavorilerdeMaximumSepeteEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Yeni sepet ikonu ile Gratis2 login olunur
+* Yeni sepet ikonu ile Gratis5 login olunur
 * Sepet kontrol edilerek temizlenir
 * En Cok Satanlar alanindan bir urunun favori butonuna tıklanir
 * Urun favorilere eklenir
