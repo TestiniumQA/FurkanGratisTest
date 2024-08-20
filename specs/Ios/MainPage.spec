@@ -48,7 +48,7 @@ tags:Gratis_IOS_NonLoginSepeteEkleme
 * Uygulamadan cikis yapilir
 * Ana sayfa tab'ına tıklanır
 * Non-Login ana sayfadan bir urun sepete eklenir
-* Yeni Sepete Ekle butonu ile Gratis2 login olunur
+* Yeni Sepete Ekle butonu ile Gratis5 login olunur
 * Sepete git'e tıklanır
 * Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
@@ -86,7 +86,7 @@ tags:Gratis_IOS_NonLoginEnSonGezdiklerimFavori
 * Uygulamadan cikis yapilir
 * Ana sayfa tab'ına tıklanır
 * En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır
-* Yeni favori ikonu ile Gratis1 login olunur
+* Yeni favori ikonu ile Gratis5 login olunur
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
 * "1" kere yukarı doğru kaydır

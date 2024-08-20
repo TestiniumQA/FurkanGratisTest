@@ -39,7 +39,7 @@ tags:Gratis_IOS_UrunDetayAdetSecimiNonLoginSepetDevam
 * Urun detay sayfasına geçilir
 * Ürün detayda "3" kadar ürün adedi seçilir
 * Non-Login ürün detay sayfasinda urun sepete eklenir
-* Yeni Sepete Ekle butonu ile Gratis2 login olunur
+* Yeni Sepete Ekle butonu ile Gratis6 login olunur
 * Alışverişe devam edilir
 * Ana sayfa tab'ına tıklanır
 * Ana sayfa sepet ikonuna tiklanir
@@ -148,7 +148,7 @@ tags:Gratis_IOS_UrunDetayNonLoginFavoriListesi
 * Alt kategorilerden biri "Dekorasyon", "Aydınlatma" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
-* Yeni favori ikonu ile Gratis0 login olunur
+* Yeni favori ikonu ile Gratis2 login olunur
 * "nonLoginFavori" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir
 * Uygulama geri butonuna bas
 * Diger'e tiklanir diger sayfasinin acildigi gorulur
