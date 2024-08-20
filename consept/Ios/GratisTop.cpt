@@ -239,3 +239,23 @@
 * "4" saniye bekle
 * "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
 * Elementin yüklenmesini bekle "CartToolbar"
+
+# Sepet ikonu ile Gratis6 login olunur
+* "IOSmail" csv dosyasindan "6" numaralı kullaniciyi sec
+* Rastgele secilen kullanici adi "EpostaInputAlani" elementine, sifre "sifreInputAlani" elementine yazilir
+* Elementin yüklenmesini bekle "girisYapBtn"
+* Elementine tıkla "girisYapBtn"
+* "4" saniye bekle
+* "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
+* Elementin yüklenmesini bekle "CartToolbar"
+
+# Yeni sepet ikonu ile Gratis6 login olunur
+* "IOSPhone" csv dosyasindan "6" numaralı kullaniciyi sec
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Yeni Rastgele secilen kullanici adi "PhoneNumberInput" elementine, sifre "SmsCodeInput" elementine yazilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "4" saniye bekle
+* "gratisCardPopupImage" li element varsa "sepetiKapatmaBtn" tıkla
+* Elementin yüklenmesini bekle "CartToolbar"

@@ -141,7 +141,7 @@ IOS Scenario Purchasing with Adding New Address
 tags:Gratis_IOS_YeniAdresEkleme
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
-* Yeni sepet ikonu ile Gratis5 login olunur
+* Yeni sepet ikonu ile Gratis6 login olunur
 * Sepet temizlenir, adresler silinir ve yeni adres eklenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
