@@ -106,7 +106,7 @@ IOS Scenario Updating Customer Information
 tags:Gratis_IOS_UyeBilgileriGuncelleme
 * Uygulama baslatilir
 * Yeni login sayfasina gecilir
-* Yeni Gratis0 ile login olunur
+* Yeni rastgele login olunur
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Uye bilgilerim sayfasina gecilir
 * Uye bilgileri basarili sekilde guncellenir
