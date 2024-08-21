@@ -28,7 +28,7 @@ tags:Gratis_Android_UrunDetayRenkVeAdetSecimiNonLoginSepeteEkleme
 * Ürünün renk tonu değiştirilir.
 * Ürün detayda "3" kadar ürün adedi seçilir.
 * Non-Login ürün detay sayfasinda urun sepete eklenir.
-* Yeni Sepete Ekle butonu ile Gratis2 login olunur.
+* Yeni Sepete Ekle butonu ile Gratis6 login olunur.
 * Alışverişe devam edilir.
 * Uygulamadan cikis yapilir.
 * Kategoriler sayfasina gecilir.
@@ -96,6 +96,7 @@ tags:Gratis_Android_UrunDetayNonLoginFavori
 * Ürün detay sayfasında ürün favori butonuna tıklanır.
 * Yeni favori ikonu ile Gratis0 login olunur.
 * Urun favorilere eklenir.
+* Ürün detay sayfasında ürün favorilerden çıkarılır.
 * "geriBtn" li element varsa tıkla yoksa devam et
 * "geriBtn" li element varsa tıkla yoksa devam et
 * Uygulamadan cikis yapilir.
@@ -105,13 +106,13 @@ tags:Gratis_Android_UrunDetayNonLoginFavori
 * Alt kategorilerden biri "Dekorasyon", "Aydınlatma" seçilir.
 * Urun detay sayfasına geçilir.
 * Ürün detay sayfasında ürün favori butonuna tıklanır.
-* Yeni favori ikonu ile Gratis0 login olunur.
+* Yeni favori ikonu ile Gratis2 login olunur.
 * "nonLoginFavori" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * "geriBtn" li element varsa tıkla yoksa devam et
 * "geriBtn" li element varsa tıkla yoksa devam et
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.
-* Favori listesi kontrol edilerek temizlenir.
+//* Favori listesi kontrol edilerek temizlenir.
 * Listeden adı "nonLoginFavori" olan favori listesi secilir.
 * Favori listesi silinir.
 * "nonLoginFavori" isimli favori listesi silindiği kontrol edilir.

@@ -55,7 +55,7 @@ tags:Gratis_Android_NonLoginSepeteEkleme
 * Uygulamadan cikis yapilir.
 * Ana sayfa tab'ına tıklanır.
 * Non-Login ana sayfadan bir urun sepete eklenir.
-* Yeni Sepete Ekle butonu ile Gratis2 login olunur.
+* Yeni Sepete Ekle butonu ile Gratis5 login olunur.
 * Sepete git'e tıklanır.
 * Sepet kasa arkasi popup'i varsa kapatilir.
 * Sepet kontrol edilerek temizlenir.
@@ -94,7 +94,7 @@ tags:Gratis_Android_NonLoginEnSonGezdiklerimFavori
 * Ana sayfa tab'ına tıklanır.
 * En Son Gezdiklerim alanına gidilir.
 * En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır.
-* Yeni favori ikonu ile Gratis1 login olunur.
+* Yeni favori ikonu ile Gratis5 login olunur.
 * Yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Profil sayfasındaki Favori butonuna tiklanir.

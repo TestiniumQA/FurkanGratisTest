@@ -124,7 +124,7 @@ tags:Gratis_Android_KategoriSecimiVeSepet
 * Kategoriler sayfasina gecilir.
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
 * Sepete Ekle butonuna tıklanır.
-* Yeni Sepete Ekle butonu ile Gratis0 login olunur.
+* Yeni Sepete Ekle butonu ile Gratis6 login olunur.
 * Alışverişe devam edilir.
 * Kategoriler sayfasina gecilir.
 * Kategorilerden biri secilerek urun listeleme sayfasina gecilir.
