@@ -192,6 +192,42 @@ This is a concept file with following syntax for each concept.
 # Sifre alanına <sifre> girilir.
 * <sifre> textini "passwordInput" elemente yaz
 
+# Otp Telefon alanina <phone> girilir.
+* Elementin yüklenmesini bekle "phoneNumberInput"
+* <phone> textini "phoneNumberInput" elemente yaz
+
+# Otp Sms alanına <sms> girilir.
+* Elementin yüklenmesini bekle "smsCodeInput"
+* <sms> textini "smsCodeInput" elemente yaz
+
+# Otp hatalı sms girme limit uyarısı alınır.
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* Elementin yüklenmesini bekle "alertOTPSuccessfulPopup"
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* Elementin yüklenmesini bekle "alertOTPSuccessfulPopup"
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* Elementin yüklenmesini bekle "popupOTPOkayButton"
+* Elementin yüklenmesini bekle "closeOTPPopupAlertButton"
+* "Doğrulama kodu giriş hakkınız dolmuştur. Lütfen daha sonra tekrar deneyin." text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Elementine tıkla "popupOTPOkayButton"
+* Elementin yüklenmesini bekle "alertOTPSuccessfulPopup"
+* "alertOTPSuccessfulPopup" li elementin değeri "3 dakika içerisinde daha fazla sms doğrulayamazsınız, lütfen daha sonra tekrar deneyiniz." e içerdiğini kontrol et
+* Elementin yüklenmesini bekle "validateBtn"
+* Elementine tıkla "validateBtn"
+* Elementin yüklenmesini bekle "closeOTPPopupAlertButton"
+* Elementine tıkla "closeOTPPopupAlertButton"
+* "sendAgainOTPButton" elementi bulunana kadar en fazla "180" saniye kadar bekle
+* Elementine tıkla "sendAgainOTPButton"
+* Elementin yüklenmesini bekle "validateBtn"
+* Otp Sms alanına "141414" girilir.
+* Elementine tıkla "validateBtn"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+* Elementine tıkla "anasayfaTab"
+* "beautyPopup" li element varsa tıkla yoksa devam et
+
 # Sifremi unuttum Gonder butonuna tiklanir.
 * Element var mı kontrol et "forgotPasswordSendButton"
 * "forgotPasswordSendButton" elementine sayacli tikla "alertSuccessfulPopup" value degerini bekle
@@ -413,6 +449,20 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "popupOkayButton"
 * Elementine tıkla "popupOkayButton"
+
+# Otp Devam Et ikonuna tiklanir <text> uyarı mesajı görülür.
+* "devamEtBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Elementine tıkla "devamEtBtn"
+* "1" saniye bekle
+* "alertOTPSuccessfulPopup" li elementin değeri <text> e içerdiğini kontrol et
+* "1" saniye bekle
+
+# Otp Doğrula ikonuna tiklanir <text> uyarı mesajı görülür.
+* "validateBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Elementine tıkla "validateBtn"
+* "1" saniye bekle
+* "alertOTPSuccessfulPopup" li elementin değeri <text> e içerdiğini kontrol et
+* "1" saniye bekle
 
 # Profil sayfasındaki Favori butonuna tiklanir.
 * Element var mı kontrol et "profilepageFavoriteButton"

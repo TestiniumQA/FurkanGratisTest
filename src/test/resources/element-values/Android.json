@@ -430,6 +430,20 @@
     "iosType": ""
   },
   {
+    "key": "alertOTPSuccessfulPopup",
+    "androidValue": "com.gratis.android:id/tvErrorMessage",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "popupOTPOkayButton",
+    "androidValue": "com.gratis.android:id/btnOk",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
     "key": "popupOkayButton",
     "androidValue": "android:id/button1",
     "androidType": "id",
@@ -2137,6 +2151,21 @@
   {
     "key": "closeButton",
     "androidValue": "com.gratis.android:id/close_btn",
+    "androidType": "id"
+  },
+  {
+    "key": "closeOTPPopupAlertButton",
+    "androidValue": "com.gratis.android:id/imgClose",
+    "androidType": "id"
+  },
+  {
+    "key": "closeOTPButton",
+    "androidValue": "com.gratis.android:id/btnClose",
+    "androidType": "id"
+  },
+  {
+    "key": "sendAgainOTPButton",
+    "androidValue": "com.gratis.android:id/btnSendAgain",
     "androidType": "id"
   },
   {

@@ -123,3 +123,34 @@ tags:Gratis_Android_GratisCardBagla
 * Diger tabina tiklanir.
 * Gratis Kartim sayfasina gecilir.
 * Gratis Card baglama islemi yapilir.
+
+OTP Login Warning Messages
+--------------------------
+tags:Gratis_Android_OTPLoginUyariMesajlari
+* Uygulama baslatilir.
+* Yeni login sayfasina gecilir.
+* Otp Devam Et ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
+* Otp Telefon alanina "5" girilir.
+* Otp Devam Et ikonuna tiklanir "Telefon Numarası Geçersiz. Lütfen 10 hane olacak şekilde giriniz." uyarı mesajı görülür.
+* Otp Telefon alanina "5000000000" girilir.
+* Otp Devam Et ikonuna tiklanir "Telefon Numarası Geçersiz. Telefon numarasının son yedi rakamı aynı olamazz." uyarı mesajı görülür.
+* Uygulama geri butonuna bas.
+* Elementin yüklenmesini bekle "loginTab"
+* Yeni login sayfasina gecilir.
+* Otp Telefon alanina "5995555510" girilir.
+* Elementin yüklenmesini bekle "devamEtBtn"
+* Elementine tıkla "devamEtBtn"
+* Otp Doğrula ikonuna tiklanir "Lütfen doğrulama kodunu eksiksiz giriniz." uyarı mesajı görülür.
+* Otp Sms alanına "55" girilir.
+* Otp Doğrula ikonuna tiklanir "Lütfen 6 karakterli sms kodunu giriniz." uyarı mesajı görülür.
+* Otp Sms alanına "000000" girilir.
+* Otp Doğrula ikonuna tiklanir "Doğrulama kodunu hatalı girdiniz. Lütfen tekrar deneyin." uyarı mesajı görülür.
+* Elementin yüklenmesini bekle "closeOTPButton"
+* Elementine tıkla "closeOTPButton"
+* Elementin yüklenmesini bekle "loginTab"
+* Yeni login sayfasina gecilir.
+* Otp Telefon alanina "5995555510" girilir.
+* Elementin yüklenmesini bekle "devamEtBtn"
+* Elementine tıkla "devamEtBtn"
+* Otp Sms alanına "123456" girilir.
+* Otp hatalı sms girme limit uyarısı alınır.

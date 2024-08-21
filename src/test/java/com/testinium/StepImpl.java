@@ -1085,6 +1085,7 @@ public class StepImpl extends HookImpl {
                 return String.format("text contains be \"%s\". Current text: \"%s\"", text, currentValue);
             }
         }));
+        logger.info(key + " li elementin değeri \"" + text + "\" metnini içeriyor.");
     }
 
     @Step("toast message <key> değerine eşit mi")
