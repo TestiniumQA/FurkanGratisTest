@@ -36,12 +36,12 @@
 * Elementine tıkla "ValidateBtn"
 * Elementin yüklenmesini bekle "PopupOkayBTNIos"
 * Elementin yüklenmesini bekle "CloseOTPPopupAlertButton"
-* "Doğrulama kodu giriş hakkınız dolmuştur. Lütfen daha sonra tekrar deneyin." text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Doğrulama kodu giriş hakkınız dolmuştur. Lütfen daha sonra tekrar deneyin." text degerine sahip elementin goruntulendigi kontrol edilir
 * "1" saniye bekle
 * "KeyboardDismisserIcon" li element varsa tıkla
 * Elementine tıkla "PopupOkayBTNIos"
 * "1" saniye bekle
-* "3 dakika içerisinde daha fazla sms doğrulayamazsınız, lütfen daha sonra tekrar deneyiniz." text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "3 dakika içerisinde daha fazla sms doğrulayamazsınız, lütfen daha sonra tekrar deneyiniz." text degerine sahip elementin goruntulendigi kontrol edilir
 * "1" saniye bekle
 * "KeyboardDismisserIcon" li element varsa tıkla
 * Elementin yüklenmesini bekle "ValidateBtn"
