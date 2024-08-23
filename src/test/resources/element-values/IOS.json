@@ -721,6 +721,20 @@
     "iosType": "classChain"
   },
   {
+    "key": "CloseOTPPopupAlertButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeImage[`name == 'popupCloseButton'`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "SendAgainOTPButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == 'KODU TEKRAR GÖNDER'`]",
+    "iosType": "classChain"
+  },
+  {
     "key": "PageCloseIconTwo",
     "androidValue": "",
     "androidType": "",

@@ -6,6 +6,55 @@
 * Elementin yüklenmesini bekle "sifreInputAlani"
 * <sifre> textini "sifreInputAlani" elemente yaz
 
+# Otp Telefon alanina <phone> girilir
+* Elementin yüklenmesini bekle "PhoneNumberInput"
+* "PhoneNumberInput" li elementi bul ve temizle
+* <phone> textini "PhoneNumberInput" elemente yaz
+* "KeyboardDismisserIcon" li element varsa tıkla
+
+# Otp Sms alanına <sms> girilir
+* Elementin yüklenmesini bekle "SmsCodeInput"
+* Elementine tıkla "SmsCodeInput"
+* "SmsCodeInput" li elementi bul ve temizle
+* <sms> textini "SmsCodeInput" elemente yaz
+* "KeyboardDismisserIcon" li element varsa tıkla
+
+# Otp hatalı sms girme limit uyarısı alınır
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "1" saniye bekle
+* "Doğrulama kodunu hatalı girdiniz. Lütfen tekrar deneyin." text degerine sahip elementin goruntulendigi kontrol edilir
+* "1" saniye bekle
+* Otp Sms alanına "123566" girilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* "1" saniye bekle
+* "Doğrulama kodunu hatalı girdiniz. Lütfen tekrar deneyin." text degerine sahip elementin goruntulendigi kontrol edilir
+* "1" saniye bekle
+* Otp Sms alanına "123899" girilir
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* Elementin yüklenmesini bekle "PopupOkayBTNIos"
+* Elementin yüklenmesini bekle "CloseOTPPopupAlertButton"
+* "Doğrulama kodu giriş hakkınız dolmuştur. Lütfen daha sonra tekrar deneyin." text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "1" saniye bekle
+* "KeyboardDismisserIcon" li element varsa tıkla
+* Elementine tıkla "PopupOkayBTNIos"
+* "1" saniye bekle
+* "3 dakika içerisinde daha fazla sms doğrulayamazsınız, lütfen daha sonra tekrar deneyiniz." text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "1" saniye bekle
+* "KeyboardDismisserIcon" li element varsa tıkla
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Elementine tıkla "ValidateBtn"
+* Elementin yüklenmesini bekle "CloseOTPPopupAlertButton"
+* Elementine tıkla "CloseOTPPopupAlertButton"
+* "SendAgainOTPButton" elementi bulunana kadar en fazla "180" saniye kadar bekle
+* Elementine tıkla "SendAgainOTPButton"
+* Elementin yüklenmesini bekle "ValidateBtn"
+* Otp Sms alanına "141414" girilir
+* Elementine tıkla "ValidateBtn"
+* Elementin yüklenmesini bekle "profilim"
+
 # Sifremi Unuttum ikonuna tiklanir
 * Element var mı kontrol et "ForgotPasswordIos"
 * "ForgotPasswordIos" elementine sayacli tikla "PasswordResetPageIos" value degerini bekle
@@ -508,8 +557,14 @@
 * "1" saniye bekle
 * <String> text degerine sahip elementin goruntulendigi kontrol edilir
 * "1" saniye bekle
-//* Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
+
+# Otp Doğrula ikonuna tiklanir <String> uyarı mesajı görülür
+* "ValidateBtn"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* Elementine tıkla "ValidateBtn"
+* "1" saniye bekle
+* <String> text degerine sahip elementin goruntulendigi kontrol edilir
+* "1" saniye bekle
 
 # Adres güncellemeye tıklanır
 * Element var mı kontrol et "UpdateAddressButton"
@@ -702,8 +757,8 @@
 * "35" kere aşağıya kaydır
 * "35" kere aşağıya kaydır
 * "2" saniye bekle
-* Elementin yüklenmesini bekle "FavoriteScrollProduct"
-* "FavoriteScrollProduct" elementinin "Nivea Men Protect & Care Nemlendirici Tıraş Sonrası Balsam 100 ml", "Arko Men Tıraş Kolonyası Cool 200 ml" veya "Arko Men Tıraş Kolonyası Gold Power 200 ml" textini içerdiği kontrol edilir
+//* Elementin yüklenmesini bekle "FavoriteScrollProduct"
+//* "FavoriteScrollProduct" elementinin "Nivea Men Protect & Care Nemlendirici Tıraş Sonrası Balsam 100 ml", "Arko Men Tıraş Kolonyası Cool 200 ml" veya "Arko Men Tıraş Kolonyası Gold Power 200 ml" textini içerdiği kontrol edilir
 
 # Favorilerden urun detay sayfasına gecilir
 * Elementin yüklenmesini bekle "ProductDetailFromFavoriteList"

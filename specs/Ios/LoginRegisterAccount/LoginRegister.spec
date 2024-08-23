@@ -127,3 +127,34 @@ tags:Gratis_IOS_GratisCardBagla
 * Yeni login sayfasina gecilir
 * Yeni Gratis5 ile login olunur
 * Gratis Card baglama islemi yapilir
+
+IOS Scenario OTP Login Warning Messages
+---------------------------------------
+tags:Gratis_IOS_OTPLoginUyariMesajlari
+* Uygulama baslatilir
+* Yeni login sayfasina gecilir
+* Devam Et ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz" uyarı mesajı görülür
+* Otp Telefon alanina "5" girilir
+* Devam Et ikonuna tiklanir "Telefon Numarası Geçersiz. Lütfen 10 hane olacak şekilde giriniz." uyarı mesajı görülür
+* Otp Telefon alanina "000000000" girilir
+* Devam Et ikonuna tiklanir "Telefon numarasının son 7 hanesi aynı olamaz." uyarı mesajı görülür
+* Uygulama geri butonuna bas
+* Elementin yüklenmesini bekle "uyeOlVeyaGirisYap"
+* Yeni login sayfasina gecilir
+* Otp Telefon alanina "995555503" girilir
+* Elementin yüklenmesini bekle "ContinueBtn"
+* Elementine tıkla "ContinueBtn"
+* Otp Doğrula ikonuna tiklanir "Lütfen doğrulama kodu giriniz." uyarı mesajı görülür
+* Otp Sms alanına "55" girilir
+* Otp Doğrula ikonuna tiklanir "Lütfen 6 karakterli SMS kodunu giriniz." uyarı mesajı görülür
+* Otp Sms alanına "000000" girilir
+* Otp Doğrula ikonuna tiklanir "Doğrulama kodunu hatalı girdiniz. Lütfen tekrar deneyin." uyarı mesajı görülür
+* Elementin yüklenmesini bekle "PageCloseIcon"
+* Elementine tıkla "PageCloseIcon"
+* Uygulama geri butonuna bas
+* Yeni login sayfasina gecilir
+* Otp Telefon alanina "995555503" girilir
+* Elementin yüklenmesini bekle "ContinueBtn"
+* Elementine tıkla "ContinueBtn"
+* Otp Sms alanına "123456" girilir
+* Otp hatalı sms girme limit uyarısı alınır
