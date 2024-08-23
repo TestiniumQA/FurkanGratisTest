@@ -174,7 +174,7 @@ tags:Gratis_IOS_KategoriSecimiVeNonLoginSepeteGit
 * Urun detay sayfasına geçilir
 * Uygulama geri butonuna bas
 * Sepete Ekle butonuna tıklanır
-* Yeni Sepete Ekle butonu ile Gratis0 login olunur
+* Yeni Sepete Ekle butonu ile Gratis1 login olunur
 * Sepete git'e tıklanır
 * Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
