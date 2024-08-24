@@ -163,7 +163,7 @@ tags:Gratis_Android_FavorilerSayfasiScroll
 * Yeni Gratis14 ile login olunur.
 * Ana sayfaya geçilir.
 * Urun kodu "10000238" yazilir, arama yapilir.
-* "1" kere aşağıya kaydır
+//* "1" kere aşağıya kaydır
 * Ürün detay sayfasında ürün favori butonuna tıklanır.
 * Urun favorilere eklenir.
 * En fazla 100 ürün favori ekleme uyarısı görülür.
@@ -188,10 +188,10 @@ tags:Gratis_Android_AdresUyariMesajlari
 * Kaydet ikonuna tiklanir "Türkçe isimler 2 karakterden az olamaz. Soyadınızı kontrol ediniz." uyarı mesajı görülür.
 * Yukarı scroll et ve "YeniSoyad" textini "newAddressCustomerSurname" elementine yaz.
 * Kaydet ikonuna tiklanir "Lütfen telefon numarasını eksiksiz giriniz." uyarı mesajı görülür.
-* Yukarı scroll et ve "2122223311" textini "newAddressCustomerPhone" elementine yaz.
-* Kaydet ikonuna tiklanir "Telefon Numarası Geçersiz.Telefon numaranız 0(5**) *** ** ** formatında olmalıdır" uyarı mesajı görülür.
+* Yukarı scroll et ve "5121111111" textini "newAddressCustomerPhone" elementine yaz.
+* Kaydet ikonuna tiklanir "Telefon Numarası Geçersiz. Telefon numarasının son yedi rakamı aynı olamaz." uyarı mesajı görülür.
 * Yukarı scroll et ve "5112223311" textini "newAddressCustomerPhone" elementine yaz.
-* Kaydet ikonuna tiklanir "Lütfen adres ismi giriniz" uyarı mesajı görülür.
+* Kaydet ikonuna tiklanir "Lütfen il seçiniz." uyarı mesajı görülür.
 
 Maximum Address Addition Warning
 --------------------------------

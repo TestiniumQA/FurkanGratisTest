@@ -2694,6 +2694,7 @@ public class StepImpl extends HookImpl {
             while (true)
             {
                 swipeDownAccordingToPhoneSize();
+                swipeDownAccordingToPhoneSize();
                 try {
                     firtKeyTxt = findElementByKeyWithoutAssert(key1).getText();
                 }
@@ -2713,12 +2714,14 @@ public class StepImpl extends HookImpl {
 
             //swipeDownAccordingToPhoneSize();
             swipeDownAccordingToPhoneSize();
+            swipeDownAccordingToPhoneSize();
             waitBySecond(1);
 
             String secondKeyText = null;
 
             while (true)
             {
+                swipeDownAccordingToPhoneSize();
                 swipeDownAccordingToPhoneSize();
                 try {
                     secondKeyText = findElementByKeyWithoutAssert(key1).getText();

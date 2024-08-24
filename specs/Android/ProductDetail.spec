@@ -76,6 +76,7 @@ tags:Gratis_Android_UrunDetayFavori
 * Ürün detay sayfasında ürün favori butonuna tıklanır.
 * Urun favorilere eklenir.
 * Ürün detay sayfasında ürün favorilerden çıkarılır.
+* "2" kere yukarı doğru kaydır
 * Ürün detay sayfasında ürün favori butonuna tıklanır.
 * "yeni liste adı" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * Uygulama geri butonuna bas.
@@ -106,7 +107,7 @@ tags:Gratis_Android_UrunDetayNonLoginFavori
 * Alt kategorilerden biri "Dekorasyon", "Aydınlatma" seçilir.
 * Urun detay sayfasına geçilir.
 * Ürün detay sayfasında ürün favori butonuna tıklanır.
-* Yeni favori ikonu ile Gratis2 login olunur.
+* Yeni favori ikonu ile Gratis0 login olunur.
 * "nonLoginFavori" isimli yeni favori listesi olusturulur ve secilen urun favori eklenir.
 * "geriBtn" li element varsa tıkla yoksa devam et
 * "geriBtn" li element varsa tıkla yoksa devam et

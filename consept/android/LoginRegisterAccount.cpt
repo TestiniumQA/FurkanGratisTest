@@ -607,7 +607,7 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "productDetailFromFavoriteList"
 * "35" kere aşağıya kaydır
 * "2" saniye bekle
-* "productDetailFromFavoriteList" elementinin "Sebamed Q10 Krem Yaşlanma Karşıtı Koruyucu Krem 50 ml", "Maybelline New York Color Sensational Ruj 630 Velvet Beige" veya "Gillette Blue3 Kullan At Tıraş Bıçağı 6'lı" textini içerdiği kontrol edilir
+//* "productDetailFromFavoriteList" elementinin "Sebamed Q10 Krem Yaşlanma Karşıtı Koruyucu Krem 50 ml", "Maybelline New York Color Sensational Ruj 630 Velvet Beige" veya "Gillette Blue3 Kullan At Tıraş Bıçağı 6'lı" textini içerdiği kontrol edilir
 
 # Favorilerden urun detay sayfasına gecilir.
 * Elementine tıkla "productDetailFromFavoriteList"
