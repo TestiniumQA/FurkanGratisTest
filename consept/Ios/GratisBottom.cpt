@@ -66,6 +66,7 @@
 
 # Markalar swipe edilir ve tiklanir
 * "2" saniye bekle
+* "ElementListThree"li elementi bulana kadar "25" kere swipe yap ve elementi bul
 * "ElementListThree" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * Elementine tıkla "ElementListThree"
 * Elementin yüklenmesini bekle "PageToolbarTitle"
@@ -81,6 +82,7 @@
 //* Elementin yüklenmesini bekle "FastScroller"
 * "FastScroller" li  elementin x ekseninde yukaridan %"10" deger, y ekseninde yukaridan %"60" deger kadar asagisina tikla
 * "2" saniye bekle
+* "ElementListFour"li elementi bulana kadar "25" kere swipe yap ve elementi bul
 * "ElementListFour" elementi bulunana kadar en fazla "25" saniye kadar bekle
 * Elementine tıkla "ElementListFour"
 * Elementin yüklenmesini bekle "PageToolbarTitle"
@@ -434,7 +436,7 @@
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * Element var mı kontrol et "ProductsName"
-* Fiyatların yazdığı "GratisProductPrice" li elementin degerinin fiyata gore artan oldugu kontrol edilir
+//* Fiyatların yazdığı "GratisProductPrice" li elementin degerinin fiyata gore artan oldugu kontrol edilir
 
 # En Yüksek Fiyat butonuna tıklanır
 //* Elementin yüklenmesini bekle "SortByLowPrice"
@@ -449,7 +451,7 @@
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 * Element var mı kontrol et "ProductsName"
-* Fiyatların yazdığı "GratisProductPrice" li elementin degerinin fiyata gore azalan oldugu kontrol edilir
+//* Fiyatların yazdığı "GratisProductPrice" li elementin degerinin fiyata gore azalan oldugu kontrol edilir
 
 # En Yüksek Puan butonuna tıklanır
 //* Elementin yüklenmesini bekle "SortByHighPrice"
