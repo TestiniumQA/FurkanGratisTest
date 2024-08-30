@@ -78,7 +78,7 @@ Add To Cart From Favorite List
 ------------------------------
 tags:Gratis_Android_FavoriListesindenSepeteEkleme
 * Ana sayfa sepet ikonuna tiklanir.
-* Yeni sepet ikonu ile Gratis0 login olunur.
+* Yeni sepet ikonu ile Gratis5 login olunur.
 * Sepet kontrol edilerek temizlenir.
 * Kategoriler sayfasina gecilir.
 * "Saç Bakım" isimli kategori seçilir.
