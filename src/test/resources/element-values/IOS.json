@@ -3269,6 +3269,13 @@
     "iosType": "classChain"
   },
   {
+    "key": "GratisCardSmsPopupBtnTwo",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == 'Tekrar iste'`]",
+    "iosType": "classChain"
+  },
+  {
     "key": "AlertShippingCheckbox",
     "androidValue": "",
     "androidType": "",

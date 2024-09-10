@@ -128,6 +128,15 @@ tags:Gratis_IOS_GratisCardBagla
 * Yeni Gratis5 ile login olunur
 * Gratis Card baglama islemi yapilir
 
+IOS Scenario Gratis Card Connect Warning Messages
+-------------------------------------------------
+tags:Gratis_IOS_GratisCardBaglaUyari
+* Uygulama baslatilir
+* Yeni login sayfasina gecilir
+* Yeni Gratis0 ile login olunur
+* Non login Gratis Kartim sayfasina gecilir
+* Gratis Card baglama islemi uyarı mesajları görülür
+
 IOS Scenario OTP Login Warning Messages
 ---------------------------------------
 tags:Gratis_IOS_OTPLoginUyariMesajlari

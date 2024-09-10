@@ -902,3 +902,38 @@
 * Elementine tıkla "SmsAcceptButton"
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "GratisCardTitle"
+
+# Gratis Card baglama islemi uyarı mesajları görülür
+* "Gratis Kartınızı henüz bağlamadınız!" text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementin yüklenmesini bekle "GratisCardConnectBtn"
+* Elementine tıkla "GratisCardConnectBtn"
+* "Gratis Kart Al,  İndirimlerden Faydalan!" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Gratis kartın avantajları:" text degerine sahip elementin goruntulendigi kontrol edilir
+* "- Size özel puanlar - Size özel indirimler - Farklı markalarda avantajlar" text degerine sahip elementin goruntulendigi kontrol edilir
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "GratisCardConnectBtn"
+* Elementine tıkla "GratisCardConnectBtn"
+* Elementin yüklenmesini bekle "GratisCardGetBtn"
+* Elementine tıkla "GratisCardGetBtn"
+* "SMS Onayı" text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementin yüklenmesini bekle "GratisCardSmsTextbox"
+* Elementin yüklenmesini bekle "SmsAcceptButton"
+* Elementine tıkla "SmsAcceptButton"
+* "1" saniye bekle
+* "Lütfen SMS kodu giriniz." text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* Elementin yüklenmesini bekle "GratisCardSmsTextbox"
+* "5" saniye bekle
+* "000000" textini "GratisCardSmsTextbox" elemente yaz
+* Elementin yüklenmesini bekle "SmsAcceptButton"
+* Elementine tıkla "SmsAcceptButton"
+* "1" saniye bekle
+* "SMS kodu geçersiz" text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* Elementine tıkla "PopupOkayBtnIos"
+* "GratisCardSmsTextbox" li elementi bul ve temizle
+* Elementin yüklenmesini bekle "GratisCardSmsPopupBtnTwo"
+* Elementine tıkla "GratisCardSmsPopupBtnTwo"
+* "1" saniye bekle
+* "Daha fazla sms doğrulaması gönderemezsiniz, lütfen daha sonra tekrar deneyiniz." text degerine sahip elementin goruntulendigi kontrol edilir
