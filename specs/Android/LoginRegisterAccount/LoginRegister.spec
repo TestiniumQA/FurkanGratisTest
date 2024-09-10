@@ -124,6 +124,16 @@ tags:Gratis_Android_GratisCardBagla
 * Gratis Kartim sayfasina gecilir.
 * Gratis Card baglama islemi yapilir.
 
+Gratis Card Connect Warning Messages
+------------------------------------
+tags:Gratis_Android_GratisCardBaglaUyari
+* Uygulama baslatilir.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis0 ile login olunur.
+* Diger tabina tiklanir.
+* Gratis Kartim sayfasina gecilir.
+* Gratis Card baglama islemi uyarı mesajları görülür.
+
 OTP Login Warning Messages
 --------------------------
 tags:Gratis_Android_OTPLoginUyariMesajlari

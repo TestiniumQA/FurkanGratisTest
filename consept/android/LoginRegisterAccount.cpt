@@ -776,3 +776,33 @@ This is a concept file with following syntax for each concept.
 * "5" saniye bekle
 //* "pageToolbarTitle" elementinin "Gratis Kart" textini içerdiği kontrol edilir
 //* Elementin yüklenmesini bekle "gratisCardView"
+
+# Gratis Card baglama islemi uyarı mesajları görülür.
+* Elementin yüklenmesini bekle "gratisCardConnectBtn"
+* "Gratis Kartınızı henüz bağlamadınız!" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Elementin yüklenmesini bekle "gratisCardConnectBtn"
+* "Gratis Kartın Avantajları:" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "- Size özel puanlar" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "- Size özel indirimler" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "- Farklı markalarda avantajlar" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Elementine tıkla "gratisCardConnectBtn"
+* "1" saniye bekle
+* "SMS ONAYI" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Elementin yüklenmesini bekle "editListTextbox"
+* "1" saniye bekle
+* Elementin yüklenmesini bekle "popupOkayButton"
+* Elementine tıkla "popupOkayButton"
+* "alertSuccessfulPopup" li elementin değeri "SMS kodu geçersiz" e içerdiğini kontrol et
+* Elementin yüklenmesini bekle "popupOkayButton"
+* Elementine tıkla "popupOkayButton"
+* "1" saniye bekle
+* "000000" textini "editListTextbox" elemente yaz
+* Elementin yüklenmesini bekle "popupOkayButton"
+* Elementine tıkla "popupOkayButton"
+* "alertSuccessfulPopup" li elementin değeri "SMS kodu geçersiz" e içerdiğini kontrol et
+* Elementin yüklenmesini bekle "popupOkayButton"
+* Elementine tıkla "popupOkayButton"
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "popupBtn2"
+* Elementine tıkla "popupBtn2"
+* "alertSuccessfulPopup" li elementin değeri "Daha fazla sms doğrulaması gönderemezsiniz, lütfen daha sonra tekrar deneyiniz." e içerdiğini kontrol et
