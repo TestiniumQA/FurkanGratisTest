@@ -162,7 +162,7 @@ tags:Gratis_Android_FavorilerSayfasiScroll
 * Yeni login sayfasina gecilir.
 * Yeni Gratis14 ile login olunur.
 * Ana sayfaya geçilir.
-* Urun kodu "10000238" yazilir, arama yapilir.
+* Urun kodu "10016061" yazilir, arama yapilir.
 //* "1" kere aşağıya kaydır
 * Ürün detay sayfasında ürün favori butonuna tıklanır.
 * Urun favorilere eklenir.
