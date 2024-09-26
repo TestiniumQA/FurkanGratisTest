@@ -373,8 +373,9 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "1" saniye bekle
+* "gratisCardPrice"li elementi bulana kadar "5" kere swipe yap ve elementi bul
 //* Fiyatların yazdığı "gratisCardPrice" li elementin degerinin fiyata gore artan oldugu kontrol edilir
-* Fiyatların yazdığı "listSalePriceOne" li elementin degerinin fiyata gore artan oldugu kontrol edilir
+//* Fiyatların yazdığı "listSalePriceOne" li elementin degerinin fiyata gore artan oldugu kontrol edilir
 
 # En Yüksek Fiyat butonuna tıklanır.
 * Element var mı kontrol et "sortByHighPrice"
@@ -382,9 +383,9 @@ This is a concept file with following syntax for each concept.
 * "2" saniye bekle
 * "2" kere aşağıya kaydır
 * "1" saniye bekle
-* "listSalePriceOne"li elementi bulana kadar "5" kere swipe yap ve elementi bul
+* "gratisCardPrice"li elementi bulana kadar "5" kere swipe yap ve elementi bul
 //* Fiyatların yazdığı "gratisCardPrice" li elementin degerinin fiyata gore azalan oldugu kontrol edilir
-* Fiyatların yazdığı "listSalePriceOne" li elementin degerinin fiyata gore azalan oldugu kontrol edilir
+//* Fiyatların yazdığı "listSalePriceOne" li elementin degerinin fiyata gore azalan oldugu kontrol edilir
 
 # Uygulama geri butonuna bas.
 * Element var mı kontrol et "geriBtn"
