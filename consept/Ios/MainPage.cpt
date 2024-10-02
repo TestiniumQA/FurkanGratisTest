@@ -11,6 +11,8 @@
 * Elementin yüklenmesini bekle "TabHeaderSlct"
 
 # En Cok Satanlar urunleri swipe edilir ve tiklanir
+* Elementin yüklenmesini bekle "anasayfa"
+* "2" saniye bekle
 * "1" kere aşağıya kaydır
 * "ProductName"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "ProductName"
@@ -95,18 +97,19 @@
 * "VisitedAddBtn"li elementi bulana kadar "15" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "kampanyalarSekmesi"
 * Elementin yüklenmesini bekle "anasayfa"
+* "1" kere aşağıya kaydır
 * "VisitedAddBtn"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementin yüklenmesini bekle "VisitedTitle"
-* "VisitedText" elementinin hizasından sağdan sola "1" kere kaydır
+* "VisitedAddBtn" elementinin hizasından sağdan sola "1" kere kaydır
 * Elementin yüklenmesini bekle "VisitedAddBtn"
-* "VisitedText" elementinin hizasından soldan sağa "1" kere kaydır
-* Elementin yüklenmesini bekle "VisitedText"
-* Elementine tıkla "VisitedText"
-* Elementin yüklenmesini bekle "ProductDetailTitle"
-* "2" saniye bekle
-* Elementin yüklenmesini bekle "geriBtn"
-* Elementine tıkla "geriBtn"
-* "5" saniye bekle
+* "VisitedAddBtn" elementinin hizasından soldan sağa "1" kere kaydır
+* Elementin yüklenmesini bekle "VisitedAddBtn"
+//* Elementine tıkla "VisitedText"
+//* Elementin yüklenmesini bekle "ProductDetailTitle"
+//* "2" saniye bekle
+//* Elementin yüklenmesini bekle "geriBtn"
+//* Elementine tıkla "geriBtn"
+//* "5" saniye bekle
 
 # Favori ikonu ile rastgele login olunur
 * "IOSmail" csv dosyasindan rastgele kullanici sec

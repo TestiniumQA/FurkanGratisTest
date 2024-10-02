@@ -11,7 +11,7 @@ tags:Gratis_IOS_AnasayfaKampanyalarSwipeVeTiklama
 * Uygulama baslatilir
 * Kampanyalar swipe edilir
 * Kampanyaya tiklanir
-* En Cok Satanlar basliklari swipe edilir ve tiklanir
+//* En Cok Satanlar basliklari swipe edilir ve tiklanir
 * En Cok Satanlar urunleri swipe edilir ve tiklanir
 * Ana sayfa kampanyalarina tiklanir
 * En Son Gezdiklerim urunleri swipe edilir ve tiklanir
