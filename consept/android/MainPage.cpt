@@ -56,7 +56,7 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 
 # En Son Gezdiklerim ürünleri swipe edilir ve tıklanır.
-* "visitedAddBtn"li elementi bulana kadar "10" kere swipe yap ve elementi bul
+* "visitedAddBtn"li elementi bulana kadar "15" kere swipe yap ve elementi bul
 * Element var mı kontrol et "visitedTitle"
 * "visitedText" elementinin hizasından sağdan sola "1" kere kaydır
 * Elementin yüklenmesini bekle "visitedAddBtn"
