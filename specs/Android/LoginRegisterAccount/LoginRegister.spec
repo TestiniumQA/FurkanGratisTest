@@ -154,7 +154,7 @@ tags:Gratis_Android_OTPLoginUyariMesajlari
 * Otp Sms alanına "55" girilir.
 * Otp Doğrula ikonuna tiklanir "Lütfen 6 karakterli sms kodunu giriniz." uyarı mesajı görülür.
 * Otp Sms alanına "000000" girilir.
-* Otp Doğrula ikonuna tiklanir "Doğrulama kodunu hatalı girdiniz. Lütfen tekrar deneyin." uyarı mesajı görülür.
+* Otp Doğrula ikonuna tiklanir "Doğrulama kodu giriş hakkınız dolmuştur. Lütfen daha sonra tekrar deneyin." uyarı mesajı görülür.
 * Elementin yüklenmesini bekle "closeOTPButton"
 * Elementine tıkla "closeOTPButton"
 * Elementin yüklenmesini bekle "loginTab"
@@ -164,11 +164,3 @@ tags:Gratis_Android_OTPLoginUyariMesajlari
 * Elementine tıkla "devamEtBtn"
 * Otp Sms alanına "123456" girilir.
 * Otp hatalı sms girme limit uyarısı alınır.
-
-Login Deneme
-------------
-tags:Gratis_Android_LoginDeneme
-* Uygulama baslatilir.
-* Yeni login sayfasina gecilir.
-* Yeni rastgele login olunur.
-* Uygulamadan cikis yapilir.
