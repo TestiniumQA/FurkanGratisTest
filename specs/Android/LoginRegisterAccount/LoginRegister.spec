@@ -164,3 +164,11 @@ tags:Gratis_Android_OTPLoginUyariMesajlari
 * Elementine tıkla "devamEtBtn"
 * Otp Sms alanına "123456" girilir.
 * Otp hatalı sms girme limit uyarısı alınır.
+
+Login Deneme
+------------
+tags:Gratis_Android_LoginDeneme
+* Uygulama baslatilir.
+* Yeni login sayfasina gecilir.
+* Yeni rastgele login olunur.
+* Uygulamadan cikis yapilir.
