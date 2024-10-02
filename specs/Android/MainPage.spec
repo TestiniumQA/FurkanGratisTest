@@ -17,7 +17,6 @@ tags:Gratis_Android_AnasayfaKampanyalarSwipeVeTiklama
 * Ana sayfa kampanyasına tıklanır.
 * Ana sayfa kampanyasına tıklanır.
 * Ana sayfa kampanyasına tıklanır.
-* Ana sayfa kampanyasına tıklanır.
 //* Ana sayfa kampanyasına tıklanır.
 * En Son Gezdiklerim ürünleri swipe edilir ve tıklanır.
 
