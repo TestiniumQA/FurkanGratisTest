@@ -45,7 +45,7 @@ This is a concept file with following syntax for each concept.
 # Ana sayfa kampanyasına tıklanır.
 * "1" kere aşağıya kaydır
 * "1" saniye bekle
-* "500","1000" koordinatlarına tıkla
+* "500","900" koordinatlarına tıkla
 //* Elementin yüklenmesini bekle "mainPageCampaign"
 //* Elementine tıkla "mainPageCampaign"
 * "2" saniye bekle
