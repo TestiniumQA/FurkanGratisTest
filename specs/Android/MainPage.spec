@@ -11,7 +11,7 @@ tags:Gratis_Android_AnasayfaKampanyalarSwipeVeTiklama
 * Uygulama baslatilir.
 * Kampanyalar swipe edilir.
 * Kampanyaya tiklanir.
-* En Çok Satanlar başlıkları swipe edilir ve tıklanır.
+//* En Çok Satanlar başlıkları swipe edilir ve tıklanır.
 * En Çok Satanlar ürünleri swipe edilir.
 * En Çok Satanlar ürünlerine tıklanır.
 * Ana sayfa kampanyasına tıklanır.

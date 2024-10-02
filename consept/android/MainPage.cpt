@@ -13,7 +13,21 @@ This is a concept file with following syntax for each concept.
 
 # En Çok Satanlar ürünleri swipe edilir.
 * "productName"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementine tıkla "productName"
+* "2" saniye bekle
+* Element var mı kontrol et "productDetailTitle"
+* Element var mı kontrol et "kampanyaSec"
+* "1" saniye bekle
+* Geri butonuna bas
+* "1" saniye bekle
 * "productName" elementinin hizasından sağdan sola "3" kere kaydır
+* Elementine tıkla "productName"
+* "2" saniye bekle
+* Element var mı kontrol et "productDetailTitle"
+* Element var mı kontrol et "kampanyaSec"
+* "1" saniye bekle
+* Geri butonuna bas
+* "1" saniye bekle
 * "productName" elementinin hizasından soldan sağa "1" kere kaydır
 
 # En Çok Satanlar ürünlerine tıklanır.
