@@ -1140,7 +1140,7 @@
   },
   {
     "key": "careerPage",
-    "androidValue": "//android.view.View[@content-desc='Appointment']/android.widget.Image",
+    "androidValue": "(//*[@text='Gratis Kariyer'])[3]",
     "androidType": "xpath"
   },
   {
