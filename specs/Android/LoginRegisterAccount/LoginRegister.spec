@@ -39,7 +39,7 @@ tags:Gratis_Android_SifremiUnuttum
 * Uygulama baslatilir.
 * Yeni login sayfasina gecilir.
 * Sifremi Unuttum ikonuna tiklanir.
-* E-posta alanina "javaautomationtest@gmail.com" girilir.
+* E-posta alanina "gratis.testinium18@gmail.com" girilir.
 * Sifremi unuttum Gonder butonuna tiklanir.
 * Popup Tamam butonuna tiklanir.
 
@@ -78,7 +78,7 @@ tags:Gratis_Android_NegativeLoginAndForgetPassword
 * E-posta alanina "kayitliolmayaneposta@gmail.com" girilir.
 * Sifre alanına "sifresifre" girilir.
 * Kayıtlı olmayan eposta ile login olma uyarısı gorulur.
-* E-posta alanina "javaautomationtest@gmail.com" girilir.
+* E-posta alanina "gratis.testinium18@gmail.com" girilir.
 * Sifre alanına "sifresifre" girilir.
 * Yanlıs sifre veya email/cep telefonu uyarısı gorulur.
 

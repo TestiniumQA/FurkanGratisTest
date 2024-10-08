@@ -244,7 +244,7 @@
 * Elementin yüklenmesini bekle "RegisterSurname"
 * "Aydın" textini "RegisterSurname" elemente yaz
 * Elementin yüklenmesini bekle "RegisterMail"
-* "javaautomationtest@gmail.com" textini "RegisterMail" elemente yaz
+* "gratis.testinium18@gmail.com" textini "RegisterMail" elemente yaz
 //* Elementin yüklenmesini bekle "RegisterPhone"
 //* "326637273" textini "RegisterPhone" elemente yaz
 * "KeyboardDismisserIcon" li element varsa tıkla
@@ -865,7 +865,7 @@
 * "AccountDelete" elementine sayacli tikla "AccountDeletePopupAlert" value degerini bekle
 * "AccountDeletePopupAlert" elementinin "Hesabınızı Silmek İstediğinizden Emin Misiniz?" textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "AccountDeletePopupAlertTwo"
-* "AccountDeletePopupAlertTwo" elementinin "Hesabınızı silmeniz verdiğiniz siparişleri görüntülemenizi ve alışveriş sırasında daha iyi bir kullanıcı deneyimi yaratmanızı engelleyecektir." textini içerdiği kontrol edilir
+* "AccountDeletePopupAlertTwo" elementinin "Onay vermeniz durumunda mevcut ve geçmiş dönemdeki tüm sipariş bilgileriniz tekrar erişilemeyecek şekilde silinecektir." textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "CancelBtn"
 * Elementine tıkla "CancelBtn"
 * "1" saniye bekle
@@ -881,7 +881,7 @@
 
 # Gratis Card baglama islemi yapilir
 * Non login Gratis Kartim sayfasina gecilir
-* "Gratis Kartınızı henüz bağlamadınız!" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Gratis Kart’ınızı Henüz Bağlamadınız." text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "GratisCardConnectBtn"
 * Elementine tıkla "GratisCardConnectBtn"
 * "Gratis Kart Al,  İndirimlerden Faydalan!" text degerine sahip elementin goruntulendigi kontrol edilir
@@ -904,7 +904,7 @@
 * Elementin yüklenmesini bekle "GratisCardTitle"
 
 # Gratis Card baglama islemi uyarı mesajları görülür
-* "Gratis Kartınızı henüz bağlamadınız!" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Gratis Kart’ınızı Henüz Bağlamadınız." text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "GratisCardConnectBtn"
 * Elementine tıkla "GratisCardConnectBtn"
 * "Gratis Kart Al,  İndirimlerden Faydalan!" text degerine sahip elementin goruntulendigi kontrol edilir

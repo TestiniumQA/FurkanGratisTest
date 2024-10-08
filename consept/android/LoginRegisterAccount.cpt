@@ -17,7 +17,7 @@ This is a concept file with following syntax for each concept.
 # Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur.
 * "Burhan" textini "newAddressCustomerName" elemente yaz
 * "Aydın" textini "newAddressCustomerSurname" elemente yaz
-* "javaautomationtest@gmail.com" textini "registerMail" elemente yaz
+* "gratis.testinium18@gmail.com" textini "registerMail" elemente yaz
 * "5555217475" textini "registerPhone" elemente yaz
 * Elementine tıkla "registerBirth"
 * Element var mı kontrol et "popupOkayButton"
@@ -47,7 +47,7 @@ This is a concept file with following syntax for each concept.
 # Yeni Kayıtlı Mail ile register olunur ve uyarı mesajı gorulur.
 * "Burhan" textini "newAddressCustomerName" elemente yaz
 * "Aydın" textini "newAddressCustomerSurname" elemente yaz
-* "javaautomationtest@gmail.com" textini "registerMail" elemente yaz
+* "gratis.testinium18@gmail.com" textini "registerMail" elemente yaz
 //* "5555217475" textini "registerPhone" elemente yaz
 * Elementine tıkla "registerBirth"
 * Element var mı kontrol et "popupOkayButton"
@@ -240,7 +240,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "loginBtn"
 * Element var mı kontrol et "emptyMailFailure"
 * Elementine tıkla "popupOkayButton"
-* E-posta alanina "javaautomationtest@gmail.com" girilir.
+* E-posta alanina "gratis.testinium18@gmail.com" girilir.
 * Elementine tıkla "loginBtn"
 * Element var mı kontrol et "emptyPasswordFailure"
 * Elementine tıkla "popupOkayButton"
@@ -250,7 +250,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "loginBtn"
 * Element var mı kontrol et "wrongMailFailure"
 * Elementine tıkla "popupOkayButton"
-* E-posta alanina "javaautomationtest@gmail.com" girilir.
+* E-posta alanina "gratis.testinium18@gmail.com" girilir.
 * Elementine tıkla "loginBtn"
 * Element var mı kontrol et "passwordFailure"
 * Elementine tıkla "popupOkayButton"
