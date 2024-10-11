@@ -164,7 +164,7 @@ tags:Gratis_IOS_UrunDetayAltBarlar
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
-* Alt kategorilerden biri "Yüz Makyajı", "Kontür" seçilir
+* Alt kategorilerden biri "Yüz Makyajı", "Kapatıcı" seçilir
 * Urun detay sayfasına geçilir
 * Alt bar alanları kontrol edilir
 * Ürün bilgileri kontrol edilir
@@ -176,7 +176,7 @@ tags:Gratis_IOS_UrunDetayAltBarYorum
 * Uygulama baslatilir
 * Search ikonuna tiklanir
 * Arama sayfasinin acildigi gorulur
-* Urun adi "29000058" yazilir, arama yapilir
+* Urun adi "10202014" yazilir, arama yapilir
 * Ürün detay yorumlar alanina gecilir
 * Yeni yorum yap ikonu ile Gratis0 login olunur
 * Yorum penceresi kapatilir ve anasayfaya gecilir

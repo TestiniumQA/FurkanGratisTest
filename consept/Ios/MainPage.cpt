@@ -460,10 +460,10 @@
 * "1" kere aşağıya kaydır
 * Elementin yüklenmesini bekle "VisitedAddBtn"
 * Elementin yüklenmesini bekle "VisitedTitle"
-* Elementin yüklenmesini bekle "VisitedText"
+//* Elementin yüklenmesini bekle "VisitedText"
 
 # En Son Gezdiklerim alanından bir ürünün favori butonuna tıklanır
-* "VisitedText" li elementi bul ve değerini "ürün adı" olarak sakla
+//* "VisitedText" li elementi bul ve değerini "ürün adı" olarak sakla
 * Elementin yüklenmesini bekle "FavBtn"
 * Elementine tıkla "FavBtn"
 * "2" saniye bekle
