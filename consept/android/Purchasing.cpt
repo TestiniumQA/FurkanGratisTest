@@ -137,6 +137,7 @@ This is a concept file with following syntax for each concept.
 * "storeBilCitySpinner" elementinin koordinatlarına x="0" y="-100" degerlerini ekleyerek tıkla
 
 # Fatura bilgileri guncel şehir ismi secilir.
+* "newAddressCustomerAddressTitle"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * "storeBilTownSpinner"li elementi bulana kadar "1" kere swipe yap ve elementi bul
 * Elementine tıkla "storeBilCitySpinner"
 * "2" saniye bekle
