@@ -165,9 +165,7 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 * Ana sayfa sepet ikonuna tiklanir.
 * Yeni sepet ikonu ile Gratis1 login olunur.
 * Sepet temizlenir, adres ve yeni ürün "10021661" eklenir.
-* "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
-* Elementine tıkla "continueBtn"
-//* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+* Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Adrese Teslim butonuna tıklanır.
 * Adrese Teslim teslimat Bilgileri alanı kontrol edilir.
 * Yeni fatura adresi alanına gidilir.
@@ -176,7 +174,7 @@ tags:Gratis_Android_YeniFaturaAdresiEkleme
 * Satın alma alanında devam et butonuna tıklanır.
 * Teslimat alanı kontrol edilir.
 * Sipariş Özeti alanı kontrol edilir.
-//* Iyzico alanı fiyat kontrol edilir.
+* Iyzico alanı fiyat kontrol edilir.
 
 //EN AZ 2 ADRES EKLİ OLMALI
 //Choosing Another Address
@@ -277,9 +275,7 @@ tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Ana sayfa sepet ikonuna tiklanir.
 * Yeni sepet ikonu ile Gratis4 login olunur.
 * Sepet ve adres temizlenir, yeni ürün "10021661" eklenir.
-* "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
-* Elementine tıkla "continueBtn"
-//* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+* Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
 * Mağazadan Teslim Ilce ismi secilir.
@@ -289,7 +285,7 @@ tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Kendim Teslim alacağım seçeneği seçilir.
 * Satın alma alanında devam et butonuna tıklanır.
 * Sipariş Özeti alanı kontrol edilir.
-//* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
+* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 
 //SADECE 1 ADRES EKLİ OLMALI
 Purchasing with Store Deliver Someone and Adding Bil Address
@@ -299,9 +295,7 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Ana sayfa sepet ikonuna tiklanir.
 * Yeni sepet ikonu ile Gratis0 login olunur.
 * Sepet ve adres temizlenir, yeni ürün "10021661" eklenir.
-* "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
-* Elementine tıkla "continueBtn"
-//* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+* Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
 * Mağazadan Teslim Ilce ismi secilir.
