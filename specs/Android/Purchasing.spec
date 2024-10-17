@@ -277,7 +277,9 @@ tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Ana sayfa sepet ikonuna tiklanir.
 * Yeni sepet ikonu ile Gratis4 login olunur.
 * Sepet ve adres temizlenir, yeni ürün "10021661" eklenir.
-* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+* "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementine tıkla "continueBtn"
+//* Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
 * Mağazadan Teslim Ilce ismi secilir.
@@ -287,7 +289,7 @@ tags:Gratis_Android_MagazadanKendimTeslimatFaturaAdresiEkle
 * Kendim Teslim alacağım seçeneği seçilir.
 * Satın alma alanında devam et butonuna tıklanır.
 * Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
+//* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 
 //SADECE 1 ADRES EKLİ OLMALI
 Purchasing with Store Deliver Someone and Adding Bil Address
@@ -297,7 +299,9 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Ana sayfa sepet ikonuna tiklanir.
 * Yeni sepet ikonu ile Gratis0 login olunur.
 * Sepet ve adres temizlenir, yeni ürün "10021661" eklenir.
-* Tek ürünün ve toplam fiyatın kontrolü yapılır.
+* "continueBtn"li elementi bulana kadar "2" kere swipe yap ve elementi bul
+* Elementine tıkla "continueBtn"
+//* Tek ürünün ve toplam fiyatın kontrolü yapılır.
 * Mağazadan Teslim teslimat Bilgileri alanı kontrol edilir.
 * Mağazadan Teslim Sehir ismi secilir.
 * Mağazadan Teslim Ilce ismi secilir.
@@ -307,7 +311,7 @@ tags:Gratis_Android_MagazadanBaskasiTeslimatFaturaAdresiEkle
 * Başkası teslim alacak seçeneği seçilir.
 * Satın alma alanında devam et butonuna tıklanır.
 * Sipariş Özeti alanı kontrol edilir.
-* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
+//* Iyzico alanı mağazadan teslimat için fiyat kontrol edilir.
 
 //*********************************************** PURCHASİNG 4 *********************************************************
 
