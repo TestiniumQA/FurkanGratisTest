@@ -2311,7 +2311,7 @@ public class StepImpl extends HookImpl {
         double countTwo = Double.parseDouble(secondPriceOnes) + (Double.parseDouble(secondPriceTwos)/100);
         logger.info("countTwo Value : "+countTwo);
         double count = 0;
-        double indirim = 300;
+        double indirim = 350;
 
         DecimalFormat decimalFormat = new DecimalFormat("#.00");
         String strcountOne = decimalFormat.format(countOne);

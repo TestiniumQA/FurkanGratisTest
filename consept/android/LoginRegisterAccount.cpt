@@ -740,7 +740,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "accountDelete"
 * "alertTitle2" elementinin "Hesabınızı Silmek İstediğinizden Emin Misiniz?" textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "alertSuccessfulPopup"
-* "alertSuccessfulPopup" elementinin "Hesabınızı silmeniz verdiğiniz siparişleri görüntülemenizi ve alışveriş sırasında daha iyi bir kullanıcı deneyimi yaratmanızı engelleyecektir." textini içerdiği kontrol edilir
+* "alertSuccessfulPopup" elementinin "Onay vermeniz durumunda mevcut ve geçmiş dönemdeki tüm sipariş bilgileriniz tekrar erişilemeyecek şekilde silinecektir." textini içerdiği kontrol edilir
 * Elementin yüklenmesini bekle "popupBtn2"
 * Elementine tıkla "popupBtn2"
 * "1" saniye bekle
@@ -760,6 +760,7 @@ This is a concept file with following syntax for each concept.
 # Gratis Card baglama islemi yapilir.
 * Elementin yüklenmesini bekle "gratisCardConnectBtn"
 * "Gratis Kartınızı henüz bağlamadınız!" text degerine sahip elementin sayfada gorundugu kontrol edilir
+//* "Gratis Kart’ınızı Henüz Bağlamadınız." text degerine sahip elementin sayfada gorundugu kontrol edilir
 * Elementin yüklenmesini bekle "gratisCardConnectBtn"
 * "Gratis Kartın Avantajları:" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * "- Size özel puanlar" text degerine sahip elementin sayfada gorundugu kontrol edilir
