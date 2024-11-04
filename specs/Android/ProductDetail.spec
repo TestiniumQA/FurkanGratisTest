@@ -11,7 +11,7 @@ tags:Gratis_Android_UrunDetayPaylasZoomNonLoginGratisKart
 * Uygulama baslatilir.
 * Kategoriler sayfasina gecilir.
 * "Makyaj" isimli kategori seçilir.
-* Alt kategorilerden biri "Dudak Makyajı", "Ruj" seçilir.
+* Alt kategorilerden biri "Göz Makyajı", "Maskara" seçilir.
 * Gratis kart indirimli ürün detay sayfasına geçilir.
 * Ürün detayda ürün fotosu swipe yapılır.
 * Ürünün paylaş ikonuna tıklanır.
@@ -24,7 +24,7 @@ tags:Gratis_Android_UrunDetayRenkVeAdetSecimiNonLoginSepeteEkleme
 * Uygulama baslatilir.
 //* Urun kodu "10011726" yazilir, arama yapilir.
 //* Urun kodu "10039453" yazilir, arama yapilir.
-* Urun kodu "10063742" yazilir, arama yapilir.
+* Urun kodu "10032700" yazilir, arama yapilir.
 * Ürünün renk tonu değiştirilir.
 * Ürün detayda "3" kadar ürün adedi seçilir.
 * Non-Login ürün detay sayfasinda urun sepete eklenir.

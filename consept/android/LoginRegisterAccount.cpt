@@ -513,11 +513,13 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "favBtn2"
 
 # Yeni favori listesi olusturulur ve secilen urun favori eklenir.
+* Elementin yüklenmesini bekle "addListButton"
 * Elementine tıkla "addListButton"
 * Element var mı kontrol et "addListPopupTitle"
+* "1" saniye bekle
 * Elementin yüklenmesini bekle "1"
 * "yeni liste adı" textini "addListTextbox" elemente yaz
-* Elementin yüklenmesini bekle "1"
+* "1" saniye bekle
 * Elementine tıkla "popupOkayButton"
 * "1" saniye bekle
 * "popupOkayButton" li element varsa tıkla
