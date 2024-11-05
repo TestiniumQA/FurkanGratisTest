@@ -18,7 +18,7 @@ This is a concept file with following syntax for each concept.
 * "Burhan" textini "newAddressCustomerName" elemente yaz
 * "Aydın" textini "newAddressCustomerSurname" elemente yaz
 * "gratis.testinium18@gmail.com" textini "registerMail" elemente yaz
-* "5555217475" textini "registerPhone" elemente yaz
+* "5309153523" textini "registerPhone" elemente yaz
 * Elementine tıkla "registerBirth"
 * Element var mı kontrol et "popupOkayButton"
 * "30","40" oranlarından "30","65" oranlarına "2" kere swipe et
@@ -48,7 +48,7 @@ This is a concept file with following syntax for each concept.
 * "Burhan" textini "newAddressCustomerName" elemente yaz
 * "Aydın" textini "newAddressCustomerSurname" elemente yaz
 * "gratis.testinium18@gmail.com" textini "registerMail" elemente yaz
-//* "5555217475" textini "registerPhone" elemente yaz
+//* "5309153523" textini "registerPhone" elemente yaz
 * Elementine tıkla "registerBirth"
 * Element var mı kontrol et "popupOkayButton"
 * "30","40" oranlarından "30","65" oranlarına "2" kere swipe et

@@ -297,7 +297,7 @@
 * Elementin yüklenmesini bekle "RegisterMailFull"
 * "RegisterMailFull" li elementi bul, temizle ve "javatesttautomation@gmail.com" değerini yaz
 * Elementin yüklenmesini bekle "RegisterPhoneFull"
-* "RegisterPhoneFull" li elementi bul, temizle ve "555217475" değerini yaz
+* "RegisterPhoneFull" li elementi bul, temizle ve "309153523" değerini yaz
 * "KeyboardDismisserIcon" li element varsa tıkla
 * "RegisterBirth" elementi bulunana kadar en fazla "15" saniye kadar bekle
 * "RegisterBirth" li  elementin x ekseninde yukaridan %"1" deger, y ekseninde yukaridan %"1" deger kadar asagisina tikla
