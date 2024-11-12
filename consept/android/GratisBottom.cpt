@@ -486,3 +486,14 @@ This is a concept file with following syntax for each concept.
 * Element var mı kontrol et "filterResetBtn"
 * Elementine tıkla "filterResetBtn"
 * "1" saniye bekle
+
+# Puanlarım sayfasına gecilir.
+* Elementin yüklenmesini bekle "gratisPuanlarimBtn"
+* "gratisPuanlarimBtn" li element varsa tıkla
+
+# Aktif ve Geçmiş Puanlar kontrol edilir.
+* "Alışverişlerinizde Harcayabileceğiniz Gratis Puanınız" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Aktif Puanlarınız" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Geçmiş Puanlarınız" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Elementine tıkla "gecmisPuanlarinizTab"
+* Elementine tıkla "aktifPuanlarinizTab"

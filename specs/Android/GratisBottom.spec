@@ -34,6 +34,18 @@ tags:Gratis_Android_GratisCard
 //* Gratis Kartim sayfasina gecilir.
 * Login durumda Gratis Kart sayfasi kontrol edilir.
 
+Puanlarim
+-----------
+tags:Gratis_Android_Puanlarim
+* Uygulama baslatilir.
+* Yeni login sayfasina gecilir.
+* Yeni Gratis4 ile login olunur.
+* Diger tabina tiklanir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
+* Puanlarım sayfasına gecilir.
+* Aktif ve Geçmiş Puanlar kontrol edilir.
+
+
 Diger
 -----
 tags:Gratis_Android_DigerTab

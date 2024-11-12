@@ -3353,24 +3353,24 @@
     "iosType": "classChain"
   },
   {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "classChain"
+    "key": "gratisPuanlarimBtn",
+    "androidValue": "com.gratis.android:id/item_my_points_root",
+    "androidType": "id",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\"Puanlarım\"]",
+    "iosType": "xpath"
   },
   {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "classChain"
+    "key": "aktifPuanlarinizTab",
+    "androidValue": "//android.widget.LinearLayout[@content-desc=\"Aktif Puanlarınız\"]",
+    "androidType": "xpath",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\"Aktif Puanlarınız\"]",
+    "iosType": "xpath"
   },
   {
-    "key": "xxxx",
-    "androidValue": "",
-    "androidType": "",
-    "iosValue": "xxxx",
-    "iosType": "classChain"
+    "key": "gecmisPuanlarinizTab",
+    "androidValue": "//android.widget.LinearLayout[@content-desc=\"Geçmiş Puanlarınız\"]",
+    "androidType": "xpath",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\"Geçmiş Puanlarınız\"]",
+    "iosType": "xpath"
   }
 ]

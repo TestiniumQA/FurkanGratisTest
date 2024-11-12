@@ -95,6 +95,9 @@
 # Non login Gratis Kartim sayfasina gecilir
 * Elementin yüklenmesini bekle "GratisCardBtn"
 * Elementine tıkla "GratisCardBtn"
+# Profilim sayfasina gecilir
+* Elementin yüklenmesini bekle "gratisPuanlarimBtn"
+* Elementine tıkla "gratisPuanlarimBtn"
 
 # Non login durumda Gratis Kart sayfasi kontrol edilir
 * Elementin yüklenmesini bekle "PageToolbarTitle"
@@ -127,6 +130,19 @@
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "profilim"
+
+# Profilim sayfasi kontrol edilir
+//* Elementin yüklenmesini bekle "GratisCardBackGround"
+* "Alışverişlerinizde Harcayabileceğiniz Gratis Puanınız" text degerine sahip elementin goruntulendigi kontrol edilir
+* "0," text degerine sahip elementin goruntulendigi kontrol edilir
+* "(*) Kazanılan puanlar kampanyaya özel parçalı olarak kullanılmaktadır." text degerine sahip elementin goruntulendigi kontrol edilir
+* "Puan Detaylarınız" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Aktif Puanlarınız" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Geçmiş Puanlarınız" text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementine tıkla "gecmisPuanlarinizTab"
+* "1" saniye bekle
+* Elementine tıkla "aktifPuanlarinizTab"
+
 
 # Yakinlardaki magazalar'a tiklanir
 * Elementin yüklenmesini bekle "NearbyStore"

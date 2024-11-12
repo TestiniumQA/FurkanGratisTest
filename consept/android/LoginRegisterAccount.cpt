@@ -780,6 +780,73 @@ This is a concept file with following syntax for each concept.
 //* "pageToolbarTitle" elementinin "Gratis Kart" textini içerdiği kontrol edilir
 //* Elementin yüklenmesini bekle "gratisCardView"
 
+# Profilim Gratis Card baglama islemi yapilir.
+* Elementin yüklenmesini bekle "gratisCardConnectBtn"
+//* "Gratis Kartınızı henüz bağlamadınız!" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Gratis Kart’ınızı Henüz Bağlamadınız." text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Elementin yüklenmesini bekle "gratisCardConnectBtn"
+* "Gratis Kart size ne gibi faydalar sağlar?" text degerine sahip elementin sayfada gorundugu kontrol edilir
+
+//* "Gratis Mağazaları ve Online Alışveriş'te Size Özel İndirimler" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Marka işbirliklerine özel kampanyalardan yararlanma" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "1" kere aşağıya kaydır
+* "Süpriz Avantajlar" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Gratis Kart Sadakat Programlarımız" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Nasıl Gratis Kart üyesi olurum?" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "2" kere aşağıya kaydır
+* "Gratis Kart Sadakat Programlarımız" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Nasıl Gratis Kart üyesi olurum?" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Nasıl puan kazanırım? " text degerine sahip elementin goruntulendigi kontrol edilir
+* "Ne kadar baz puan kazanabilirim?" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Ne kadar baz puan harcayabilirim?" text degerine sahip elementin goruntulendigi kontrol edilir
+* "Kazandığım puanlarımı nasıl kullanırım? " text degerine sahip elementin goruntulendigi kontrol edilir
+
+* İçeriği "Nasıl Gratis Kart üyesi olurum?" e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* İçeriği "Nasıl Gratis Kart üyesi olurum?" e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* İçeriği "Nasıl puan kazanırım? " e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* İçeriği "Nasıl puan kazanırım? " e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* İçeriği "Ne kadar baz puan kazanabilirim?" e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* İçeriği "Ne kadar baz puan kazanabilirim?" e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* İçeriği "Ne kadar baz puan harcayabilirim?" e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* İçeriği "Ne kadar baz puan harcayabilirim?" e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* İçeriği "Kazandığım puanlarımı nasıl kullanırım? " e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* İçeriği "Kazandığım puanlarımı nasıl kullanırım? " e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+
+
+* "2" kere aşağıya kaydır
+
+* "Puan kazanım ve harcamalarımı nasıl görebilirim? " text degerine sahip elementin goruntulendigi kontrol edilir
+* "Puanlarım yüklenmezse nasıl destek alırım?  " text degerine sahip elementin goruntulendigi kontrol edilir
+* İçeriği "Puan kazanım ve harcamalarımı nasıl görebilirim? " e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* İçeriği "Puan kazanım ve harcamalarımı nasıl görebilirim? " e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* İçeriği "Puanlarım yüklenmezse nasıl destek alırım?  " e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* İçeriği "Puanlarım yüklenmezse nasıl destek alırım?  " e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+
+* "gratisCardConnectBtn"li elementi bulana kadar "4" kere yukarı swipe yap ve elementi bul
+* Elementine tıkla "gratisCardConnectBtn"
+* "1" saniye bekle
+* "SMS ONAYI" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Elementin yüklenmesini bekle "editListTextbox"
+* "1" saniye bekle
+* "141414" textini "editListTextbox" elemente yaz
+* Elementin yüklenmesini bekle "popupOkayButton"
+* Elementine tıkla "popupOkayButton"
+* "5" saniye bekle
+
 # Gratis Card baglama islemi uyarı mesajları görülür.
 * Elementin yüklenmesini bekle "gratisCardConnectBtn"
 * "Gratis Kartınızı henüz bağlamadınız!" text degerine sahip elementin sayfada gorundugu kontrol edilir

@@ -42,11 +42,26 @@ IOS Scenario Gratis Card
 ------------------------
 tags:Gratis_IOS_GratisCard
 * Uygulama baslatilir
-* Diger'e tiklanir diger sayfasinin acildigi gorulur
-* Non login Gratis Kartim sayfasina gecilir
-* Non login durumda Gratis Kart sayfasi kontrol edilir
+* Yeni login sayfasina gecilir
 * Yeni login olup Gratis Kartim sayfasina gecilir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Non login Gratis Kartim sayfasina gecilir
 * Login durumda Gratis Kart sayfasi kontrol edilir
+//* Non login durumda Gratis Kart sayfasi kontrol edilir silecez
+
+IOS Scenario Puanlarim
+------------------------
+tags:Gratis_IOS_Puanlarim
+* Uygulama baslatilir
+* Yeni login sayfasina gecilir
+* Yeni login olup Gratis Kartim sayfasina gecilir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Profilim sayfasina gecilir
+* Profilim sayfasi kontrol edilir
+//* Non login durumda Gratis Kart sayfasi kontrol edilir silecez
+
 
 IOS Scenario Diger
 ------------------

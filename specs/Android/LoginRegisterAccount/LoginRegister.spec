@@ -119,10 +119,12 @@ Gratis Card Connect
 tags:Gratis_Android_GratisCardBagla
 * Uygulama baslatilir.
 * Yeni login sayfasina gecilir.
-* Yeni Gratis5 ile login olunur.
+* Yeni Gratis2 ile login olunur.
 * Diger tabina tiklanir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Gratis Kartim sayfasina gecilir.
-* Gratis Card baglama islemi yapilir.
+* Profilim Gratis Card baglama islemi yapilir.
+//* Gratis Card baglama islemi yapilir.
 
 Gratis Card Connect Warning Messages
 ------------------------------------

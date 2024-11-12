@@ -125,8 +125,12 @@ IOS Scenario Gratis Card Connect
 tags:Gratis_IOS_GratisCardBagla
 * Uygulama baslatilir
 * Yeni login sayfasina gecilir
-* Yeni Gratis5 ile login olunur
-* Gratis Card baglama islemi yapilir
+* Yeni login olup Gratis Kartim sayfasina gecilir
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
+* Profilim Gratis Card baglama islemi yapilir
+
+//* Gratis Card baglama islemi yapilir
 
 IOS Scenario Gratis Card Connect Warning Messages
 -------------------------------------------------

@@ -2214,28 +2214,13 @@
     "androidType": "id"
   },
   {
-    "key": "xxxx",
-    "androidValue": "xxxx",
+    "key": "gratisPuanlarimBtn",
+    "androidValue": "com.gratis.android:id/item_my_points_root",
     "androidType": "id"
   },
   {
-    "key": "xxxx",
-    "androidValue": "xxxx",
-    "androidType": "id"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "xxxx",
-    "androidType": "id"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "xxxx",
-    "androidType": "id"
-  },
-  {
-    "key": "xxxx",
-    "androidValue": "xxxx",
+    "key": "gratisPuanlarimPriceOne",
+    "androidValue": "com.gratis.android:id/sale_price_one_txt",
     "androidType": "id"
   },
   {
