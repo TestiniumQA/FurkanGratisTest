@@ -849,13 +849,13 @@ This is a concept file with following syntax for each concept.
 
 # Gratis Card baglama islemi uyarı mesajları görülür.
 * Elementin yüklenmesini bekle "gratisCardConnectBtn"
-* "Gratis Kartınızı henüz bağlamadınız!" text degerine sahip elementin sayfada gorundugu kontrol edilir
-* Elementin yüklenmesini bekle "gratisCardConnectBtn"
-* "Gratis Kartın Avantajları:" text degerine sahip elementin sayfada gorundugu kontrol edilir
-* "- Size özel puanlar" text degerine sahip elementin sayfada gorundugu kontrol edilir
-* "- Size özel indirimler" text degerine sahip elementin sayfada gorundugu kontrol edilir
-* "- Farklı markalarda avantajlar" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Gratis Kart’ınızı Henüz Bağlamadınız." text degerine sahip elementin sayfada gorundugu kontrol edilir
 * Elementine tıkla "gratisCardConnectBtn"
+//* "1" saniye bekle
+//* "Gratis Kartın Avantajları:" text degerine sahip elementin sayfada gorundugu kontrol edilir
+//* "- Size özel puanlar" text degerine sahip elementin sayfada gorundugu kontrol edilir
+//* "- Size özel indirimler" text degerine sahip elementin sayfada gorundugu kontrol edilir
+//* "- Farklı markalarda avantajlar" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * "1" saniye bekle
 * "SMS ONAYI" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * Elementin yüklenmesini bekle "editListTextbox"

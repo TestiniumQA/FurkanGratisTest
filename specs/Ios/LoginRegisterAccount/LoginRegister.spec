@@ -138,6 +138,8 @@ tags:Gratis_IOS_GratisCardBaglaUyari
 * Uygulama baslatilir
 * Yeni login sayfasina gecilir
 * Yeni Gratis0 ile login olunur
+* Diger'e tiklanir diger sayfasinin acildigi gorulur
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur
 * Non login Gratis Kartim sayfasina gecilir
 * Gratis Card baglama islemi uyarı mesajları görülür
 

@@ -131,8 +131,9 @@ Gratis Card Connect Warning Messages
 tags:Gratis_Android_GratisCardBaglaUyari
 * Uygulama baslatilir.
 * Yeni login sayfasina gecilir.
-* Yeni Gratis0 ile login olunur.
+* Yeni Gratis1 ile login olunur.
 * Diger tabina tiklanir.
+* Profil'e tiklanir profilim sayfasinin acildigi gorulur.
 * Gratis Kartim sayfasina gecilir.
 * Gratis Card baglama islemi uyarı mesajları görülür.
 
