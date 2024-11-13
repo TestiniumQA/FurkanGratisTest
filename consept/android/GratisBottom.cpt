@@ -82,7 +82,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "gratisCardBtn"
 
 # Login durumda Gratis Kart sayfasi kontrol edilir.
-* "pageToolbarTitle" elementinin "Gratis Kart" textini içerdiği kontrol edilir
+* "pageToolbarTitle" elementinin "Gratis Kartım" textini içerdiği kontrol edilir
 * Elementine tıkla "geriBtn"
 * "1" saniye bekle
 

@@ -793,47 +793,45 @@ This is a concept file with following syntax for each concept.
 * "Süpriz Avantajlar" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * "Gratis Kart Sadakat Programlarımız" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * "Nasıl Gratis Kart üyesi olurum?" text degerine sahip elementin sayfada gorundugu kontrol edilir
-* "2" kere aşağıya kaydır
-* "Gratis Kart Sadakat Programlarımız" text degerine sahip elementin goruntulendigi kontrol edilir
-* "Nasıl Gratis Kart üyesi olurum?" text degerine sahip elementin goruntulendigi kontrol edilir
-* "Nasıl puan kazanırım? " text degerine sahip elementin goruntulendigi kontrol edilir
-* "Ne kadar baz puan kazanabilirim?" text degerine sahip elementin goruntulendigi kontrol edilir
-* "Ne kadar baz puan harcayabilirim?" text degerine sahip elementin goruntulendigi kontrol edilir
-* "Kazandığım puanlarımı nasıl kullanırım? " text degerine sahip elementin goruntulendigi kontrol edilir
 
-* İçeriği "Nasıl Gratis Kart üyesi olurum?" e eşit olan elementli bul ve tıkla
+* "Nasıl puan kazanırım? " text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Ne kadar baz puan kazanabilirim?" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Ne kadar baz puan harcayabilirim?" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Kazandığım puanlarımı nasıl kullanırım? " text degerine sahip elementin sayfada gorundugu kontrol edilir
+
+* Değeri "Nasıl Gratis Kart üyesi olurum?" e eşit olan elementi bul ve tıkla
 * "1" saniye bekle
-* İçeriği "Nasıl Gratis Kart üyesi olurum?" e eşit olan elementli bul ve tıkla
+* Değeri "Nasıl Gratis Kart üyesi olurum?" e eşit olan elementi bul ve tıkla
 * "1" saniye bekle
-* İçeriği "Nasıl puan kazanırım? " e eşit olan elementli bul ve tıkla
+* Değeri "Nasıl puan kazanırım? " e eşit olan elementi bul ve tıkla
 * "1" saniye bekle
-* İçeriği "Nasıl puan kazanırım? " e eşit olan elementli bul ve tıkla
+* Değeri "Nasıl puan kazanırım? " e eşit olan elementi bul ve tıkla
 * "1" saniye bekle
-* İçeriği "Ne kadar baz puan kazanabilirim?" e eşit olan elementli bul ve tıkla
+* Değeri "Ne kadar baz puan kazanabilirim?" e eşit olan elementi bul ve tıkla
 * "1" saniye bekle
-* İçeriği "Ne kadar baz puan kazanabilirim?" e eşit olan elementli bul ve tıkla
+* Değeri "Ne kadar baz puan kazanabilirim?" e eşit olan elementi bul ve tıkla
 * "1" saniye bekle
-* İçeriği "Ne kadar baz puan harcayabilirim?" e eşit olan elementli bul ve tıkla
+* Değeri "Ne kadar baz puan harcayabilirim?" e eşit olan elementi bul ve tıkla
 * "1" saniye bekle
-* İçeriği "Ne kadar baz puan harcayabilirim?" e eşit olan elementli bul ve tıkla
+* Değeri "Ne kadar baz puan harcayabilirim?" e eşit olan elementi bul ve tıkla
 * "1" saniye bekle
-* İçeriği "Kazandığım puanlarımı nasıl kullanırım? " e eşit olan elementli bul ve tıkla
+* Değeri "Kazandığım puanlarımı nasıl kullanırım? " e eşit olan elementi bul ve tıkla
 * "1" saniye bekle
-* İçeriği "Kazandığım puanlarımı nasıl kullanırım? " e eşit olan elementli bul ve tıkla
+* Değeri "Kazandığım puanlarımı nasıl kullanırım? " e eşit olan elementi bul ve tıkla
 * "1" saniye bekle
 
 
-* "2" kere aşağıya kaydır
+* "1" kere aşağıya kaydır
 
-* "Puan kazanım ve harcamalarımı nasıl görebilirim? " text degerine sahip elementin goruntulendigi kontrol edilir
-* "Puanlarım yüklenmezse nasıl destek alırım?  " text degerine sahip elementin goruntulendigi kontrol edilir
-* İçeriği "Puan kazanım ve harcamalarımı nasıl görebilirim? " e eşit olan elementli bul ve tıkla
+* "Puan kazanım ve harcamalarımı nasıl görebilirim? " text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Puanlarım yüklenmezse nasıl destek alırım?  " text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Değeri "Puan kazanım ve harcamalarımı nasıl görebilirim? " e eşit olan elementi bul ve tıkla
 * "1" saniye bekle
-* İçeriği "Puan kazanım ve harcamalarımı nasıl görebilirim? " e eşit olan elementli bul ve tıkla
+* Değeri "Puan kazanım ve harcamalarımı nasıl görebilirim? " e eşit olan elementi bul ve tıkla
 * "1" saniye bekle
-* İçeriği "Puanlarım yüklenmezse nasıl destek alırım?  " e eşit olan elementli bul ve tıkla
+* Değeri "Puanlarım yüklenmezse nasıl destek alırım?  " e eşit olan elementi bul ve tıkla
 * "1" saniye bekle
-* İçeriği "Puanlarım yüklenmezse nasıl destek alırım?  " e eşit olan elementli bul ve tıkla
+* Değeri "Puanlarım yüklenmezse nasıl destek alırım?  " e eşit olan elementi bul ve tıkla
 * "1" saniye bekle
 
 * "gratisCardConnectBtn"li elementi bulana kadar "4" kere yukarı swipe yap ve elementi bul
