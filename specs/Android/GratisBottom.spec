@@ -240,3 +240,22 @@ tags:Gratis_Android_FiltrelerTiklamaylaKaldirmaVeStok
 * Ürünlerin filtrelendiği ismi ile kontrol edilir.
 * Filtreleme butonuna tıklanır.
 * Marka filtresine tıklanır.
+
+Check for Gift Card, Promo Code and Gratis Point Warnings in Store
+----------------------------------------
+tags:Gratis_Android_HediyeKarti_PromosyonKodu_Ve_GratisPuan_Uyari_Kontrolu
+* Uygulama baslatilir.
+* Ana sayfa sepet ikonuna tiklanir.
+* Yeni sepet ikonu ile Gratis3 login olunur.
+* Sepet kontrol edilerek temizlenir.
+* Ana sayfaya geçilir.
+* Anasayfa urun kodu "10039453" yazilir, arama yapilir.
+* Ürün detay sayfasinda urun sepete eklenir.
+* Sepete git'e tıklanır.
+* Sepet kasa arkasi popup'i varsa kapatilir.
+* Promosyon Kodu ekle alani acilir ve Promosyon Kodu ekle  alaninin bos geldigi goruntulenir.
+* Promosyon Kodu ekle   bos iken Uygula butonuna tıklanır ve bu alaninin bos olduguna dair uyari goruntulenir.
+* Hediye karti alani acilir ve hediye karti alaninin bos geldigi goruntulenir.
+* Hediye karti alani  bos iken Uygula butonuna tıklanır ve bu alaninin bos olduguna dair uyari goruntulenir.
+* Gratis Puan kullanacagim ekle alani acilir ve Gratis Puan kullanacagim alaninin bos geldigi goruntulenir.
+* Gratis Puan kullanacagim bos iken Uygula butonuna tıklanır ve bu alaninin bos olduguna dair uyari goruntulenir.

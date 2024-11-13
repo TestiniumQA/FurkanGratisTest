@@ -497,3 +497,43 @@ This is a concept file with following syntax for each concept.
 * "Geçmiş Puanlarınız" text degerine sahip elementin sayfada gorundugu kontrol edilir
 * Elementine tıkla "gecmisPuanlarinizTab"
 * Elementine tıkla "aktifPuanlarinizTab"
+
+# Promosyon Kodu ekle alani acilir ve Promosyon Kodu ekle  alaninin bos geldigi goruntulenir.
+* "Promosyon Kodu Ekle" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Elementin yüklenmesini bekle "gratisPromoCodeOpenBtn"
+* Elementine tıkla "gratisPromoCodeOpenBtn"
+* "Promosyon Kodu" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Uygula" text degerine sahip elementin sayfada gorundugu kontrol edilir
+# Promosyon Kodu ekle   bos iken Uygula butonuna tıklanır ve bu alaninin bos olduguna dair uyari goruntulenir.
+* Değeri "Uygula" e eşit olan elementi bul ve tıkla
+* "Lütfen kupon kodu giriniz" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Elementine tıkla "gratisPromoCodeCloseBtn"
+
+# Hediye karti alani acilir ve hediye karti alaninin bos geldigi goruntulenir.
+* "Hediye Kartım Var" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Elementin yüklenmesini bekle "gratisGiftCardOpenBtn"
+* Elementine tıkla "gratisGiftCardOpenBtn"
+* "Kart No" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Uygula" text degerine sahip elementin sayfada gorundugu kontrol edilir
+# Hediye karti alani  bos iken Uygula butonuna tıklanır ve bu alaninin bos olduguna dair uyari goruntulenir.
+* Değeri "Uygula" e eşit olan elementi bul ve tıkla
+* "Lütfen kart numarası giriniz" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Elementine tıkla "gratisGiftCardCloseBtn"
+
+# Gratis Puan kullanacagim ekle alani acilir ve Gratis Puan kullanacagim alaninin bos geldigi goruntulenir.
+* "Gratis Puan Kullanacağım" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Elementin yüklenmesini bekle "gratisGratisPointOpenBtn"
+* Elementine tıkla "gratisGratisPointOpenBtn"
+* "Bu Alışverişinizde Kullanılabilir Puanınız" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Kullan" text degerine sahip elementin sayfada gorundugu kontrol edilir
+# Gratis Puan kullanacagim bos iken Uygula butonuna tıklanır ve bu alaninin bos olduguna dair uyari goruntulenir.
+*Elementine tıkla "gratisGratisPointAddBtn"
+* "1" saniye bekle
+* "Hata" text degerine sahip elementin sayfada gorundugu kontrol edilir
+* "Kullanılabilir puanınız bulunmamaktadır." text degerine sahip elementin sayfada gorundugu kontrol edilir
+* Değeri "TAMAM" e eşit olan elementi bul ve tıkla
+* Elementine tıkla "gratisGratisPointCloseBtn"
+
+
+
+

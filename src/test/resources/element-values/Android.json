@@ -2224,18 +2224,38 @@
     "androidType": "id"
   },
   {
-    "key": "xxxx",
-    "androidValue": "xxxx",
+    "key": "gratisGiftCardOpenBtn",
+    "androidValue": "com.gratis.android:id/imgGiftCardOpen",
     "androidType": "id"
   },
   {
-    "key": "xxxx",
-    "androidValue": "xxxx",
+    "key": "gratisGiftCardCloseBtn",
+    "androidValue": "com.gratis.android:id/imgGiftCardClose",
     "androidType": "id"
   },
   {
-    "key": "xxxx",
-    "androidValue": "xxxx",
+    "key": "gratisPromoCodeOpenBtn",
+    "androidValue": "com.gratis.android:id/imgPromotionOpen",
+    "androidType": "id"
+  },
+  {
+    "key": "gratisPromoCodeCloseBtn",
+    "androidValue": "com.gratis.android:id/imgPromotionClose",
+    "androidType": "id"
+  },
+  {
+    "key": "gratisGratisPointOpenBtn",
+    "androidValue": "com.gratis.android:id/imgGratisPointOpen",
+    "androidType": "id"
+  },
+  {
+    "key": "gratisGratisPointCloseBtn",
+    "androidValue": "com.gratis.android:id/imgGratisPointClose",
+    "androidType": "id"
+  },
+  {
+    "key": "gratisGratisPointAddBtn",
+    "androidValue": "com.gratis.android:id/addGratisPointBtn",
     "androidType": "id"
   },
   {
