@@ -340,7 +340,8 @@ tags:Gratis_IOS_HediyeKartiPromosyonKoduVeGratisPuanUyariKontrolu
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasinda urun sepete eklenir
 * Sepete git'e tıklanır
-* "sepetiKapatmaBtn" li element varsa tıkla
+* "1" saniye bekle
+* "sepetPopUpKapatBtn" li element varsa tıkla
 * Promosyon Kodu ekle alani acilir ve Promosyon Kodu ekle alaninin bos geldigi goruntulenir
 * Promosyon Kodu ekle bos iken Uygula butonuna tıklanır ve bu alaninin bos olduguna dair uyari goruntulenir
 * Hediye kartım var alani acilir ve Hediye kartım var alaninin bos geldigi goruntulenir
