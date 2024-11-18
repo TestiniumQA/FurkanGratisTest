@@ -322,6 +322,11 @@ public class StepImpl extends HookImpl {
     public void clickByValue(String value) {
         findElementWithAssertion(MobileBy.xpath(".//*[contains(@value,'" + value + "')]")).click();
     }
+    @Step("İçeriği <value> value iceren text degerinin goruntulendigi kontrol edilir")
+    public void checkByValue(String value) {
+        appiumDriver.findElement(MobileBy.xpath(".//*[contains(@value,'" + value + "')]"));
+        System.out.println(value+ " "+ " degeri goruntulendi");
+    }
 
     @Step("<key> csv dosyasindan rastgele kullanici sec")
     public void csvReader(String value) {

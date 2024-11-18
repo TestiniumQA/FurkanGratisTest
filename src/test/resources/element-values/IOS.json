@@ -3372,5 +3372,19 @@
     "androidType": "xpath",
     "iosValue": "//XCUIElementTypeStaticText[@name=\"Geçmiş Puanlarınız\"]",
     "iosType": "xpath"
+  },
+  {
+    "key": "gratisPointAddBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name=\"Kullan\"]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "gratisPointCloseBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeImage[@name=\"removeCircle\"]",
+    "iosType": "xpath"
   }
 ]

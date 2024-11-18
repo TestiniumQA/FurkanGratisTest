@@ -327,3 +327,25 @@ tags:Gratis_IOS_KategoriSecilmisFiltreKaldirmaVeStoktaVar
 * Stok filtresi kaldırılır
 
 
+IOS Check for Gift Card, Promo Code and Gratis Point Warnings in Store
+----------------------------------------------------------------------
+tags:Gratis_IOS_HediyeKarti_PromosyonKodu_Ve_GratisPuan_Uyari_Kontrolu
+* Uygulama baslatilir
+* Ana sayfa sepet ikonuna tiklanir
+* Yeni sepet ikonu ile Gratis0 login olunur
+* Sepet temizlenir, adres silinir ve yeni adres eklenir
+* Kategoriler sayfasina gecilir
+* "Makyaj" isimli kategori seçilir
+* Alt kategorilerden biri "Göz Makyajı", "Maskara" seçilir
+* Urun detay sayfasına geçilir
+* Ürün detay sayfasinda urun sepete eklenir
+* Sepete git'e tıklanır
+* Sepet kasa arkasi popup'i kapatilir
+* Promosyon Kodu ekle alani acilir ve Promosyon Kodu ekle alaninin bos geldigi goruntulenir
+* Promosyon Kodu ekle bos iken Uygula butonuna tıklanır ve bu alaninin bos olduguna dair uyari goruntulenir
+* Hediye kartım var alani acilir ve Hediye kartım var alaninin bos geldigi goruntulenir
+* Hediye kartım var bos iken Uygula butonuna tıklanır ve bu alaninin bos olduguna dair uyari goruntulenir
+* Gratis Puan Kullanacagim alani acilir ve Gratis Puan Kullanacagim alaninin bos geldigi goruntulenir
+* Gratis Puan Kullanacagim bos iken Uygula butonuna tıklanır ve bu alaninin bos olduguna dair uyari goruntulenir
+
+

@@ -513,13 +513,14 @@
 * "PageToolbarTitleText" elementinin <alt2> textini içerdiği kontrol edilir
 * "1" saniye bekle
 * "1" kere aşağıya kaydır
-* "ProductsName" elementi bulunana kadar en fazla "30" saniye kadar bekle
+//* "ProductsName" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * "UrunDetay" elementi bulunana kadar en fazla "30" saniye kadar bekle
 
 # Urun detay sayfasına geçilir
 * Elementin yüklenmesini bekle "PageToolbarTitleText"
-* Elementin yüklenmesini bekle "ProductsName"
-* Elementine tıkla "ProductsName"
+//* Elementin yüklenmesini bekle "ProductsName"
+* Elementin yüklenmesini bekle "UrunDetay"
+* Elementine tıkla "UrunDetay"
 * "PageToolbarTitleText" elementinin "Ürün Detay" textini içerdiği kontrol edilir
 * "ProductSubDetailTitle" li elementi bul ve değerini "ürün adı" olarak sakla
 
@@ -615,3 +616,40 @@
 * Elementine tıkla "FilterOkayBtn"
 * "1" saniye bekle
 * "ProductsName" li elementin text degerini hafizada "marka adı" olarak saklanan text ayni olmadigini kontrol et
+
+# Promosyon Kodu ekle alani acilir ve Promosyon Kodu ekle alaninin bos geldigi goruntulenir
+* "Promosyon Kodu Ekle" text degerine sahip elementin goruntulendigi kontrol edilir
+* İçeriği "Promosyon Kodu Ekle" e eşit olan elementli bul ve tıkla 
+* "1" saniye bekle
+* İçeriği "Promosyon Kodu" value iceren text degerinin goruntulendigi kontrol edilir
+
+# Promosyon Kodu ekle bos iken Uygula butonuna tıklanır ve bu alaninin bos olduguna dair uyari goruntulenir
+* İçeriği "Uygula" e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* "Lütfen kodu giriniz." text degerine sahip elementin goruntulendigi kontrol edilir
+* İçeriği "Promosyon Kodu Ekle" e eşit olan elementli bul ve tıkla
+
+# Hediye kartım var alani acilir ve Hediye kartım var alaninin bos geldigi goruntulenir
+* "Hediye Kartım Var" text degerine sahip elementin goruntulendigi kontrol edilir
+* İçeriği "Hediye Kartım Var" e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* İçeriği "Kart No" value iceren text degerinin goruntulendigi kontrol edilir
+
+# Hediye kartım var bos iken Uygula butonuna tıklanır ve bu alaninin bos olduguna dair uyari goruntulenir
+* İçeriği "Uygula" e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* "Lütfen kart numarası giriniz." text degerine sahip elementin goruntulendigi kontrol edilir
+* İçeriği "Hediye Kartım Var" e eşit olan elementli bul ve tıkla
+
+# Gratis Puan Kullanacagim alani acilir ve Gratis Puan Kullanacagim alaninin bos geldigi goruntulenir
+* "Gratis Puan Kullanacağım" text degerine sahip elementin goruntulendigi kontrol edilir
+* İçeriği "Gratis Puan Kullanacağım" e eşit olan elementli bul ve tıkla
+* "1" saniye bekle
+* İçeriği "Bu Alışverişinizde Kullanılabilir Puanınız" value iceren text degerinin goruntulendigi kontrol edilir
+
+# Gratis Puan Kullanacagim bos iken Uygula butonuna tıklanır ve bu alaninin bos olduguna dair uyari goruntulenir
+* "1" saniye bekle
+* Elementine tıkla "gratisPointAddBtn"
+* "Kullanılabilir puanınız bulunmamaktadır." text degerine sahip elementin goruntulendigi kontrol edilir
+* Elementine tıkla "PopupOkayBtnIos"
+* Elementine tıkla "gratisPointCloseBtn"
