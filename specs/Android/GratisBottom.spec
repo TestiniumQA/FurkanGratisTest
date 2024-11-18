@@ -243,7 +243,7 @@ tags:Gratis_Android_FiltrelerTiklamaylaKaldirmaVeStok
 
 Check for Gift Card, Promo Code and Gratis Point Warnings in Store
 ----------------------------------------
-tags:Gratis_Android_HediyeKarti_PromosyonKodu_Ve_GratisPuan_Uyari_Kontrolu
+tags:Gratis_Android_HediyeKartiPromosyonKoduVeGratisPuanUyariKontrolu
 * Uygulama baslatilir.
 * Ana sayfa sepet ikonuna tiklanir.
 * Yeni sepet ikonu ile Gratis3 login olunur.

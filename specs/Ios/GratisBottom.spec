@@ -333,7 +333,7 @@ tags:Gratis_IOS_HediyeKartiPromosyonKoduVeGratisPuanUyariKontrolu
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Yeni sepet ikonu ile Gratis0 login olunur
-* Sepet temizlenir, adres silinir ve yeni adres eklenir
+* Sepet kontrol edilerek temizlenir
 * Kategoriler sayfasina gecilir
 * "Makyaj" isimli kategori seçilir
 * Alt kategorilerden biri "Göz Makyajı", "Maskara" seçilir
