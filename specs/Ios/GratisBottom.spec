@@ -329,7 +329,7 @@ tags:Gratis_IOS_KategoriSecilmisFiltreKaldirmaVeStoktaVar
 
 IOS Check for Gift Card, Promo Code and Gratis Point Warnings in Store
 ----------------------------------------------------------------------
-tags:Gratis_IOS_HediyeKarti_PromosyonKodu_Ve_GratisPuan_Uyari_Kontrolu
+tags:Gratis_IOS_HediyeKartiPromosyonKoduVeGratisPuanUyariKontrolu
 * Uygulama baslatilir
 * Ana sayfa sepet ikonuna tiklanir
 * Yeni sepet ikonu ile Gratis0 login olunur
