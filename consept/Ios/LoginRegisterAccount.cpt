@@ -616,9 +616,9 @@
 //* Elementin yüklenmesini bekle "KampanyaSec"
 //* Elementin yüklenmesini bekle "EnCokSatanlarProduct"
 * "1" kere aşağıya kaydır
-* "ProductName" li elementi bul ve değerini "ürün adı" olarak sakla
-* "FavBtn" elementi bulunana kadar en fazla "15" saniye kadar bekle
-* Elementine tıkla "FavBtn"
+* "ProductNameTwo" li elementi bul ve değerini "ürün adı" olarak sakla
+* "FavBtnTwo" elementi bulunana kadar en fazla "15" saniye kadar bekle
+* Elementine tıkla "FavBtnTwo"
 * "2" saniye bekle
 //* Element var mı kontrol et "AddFavoritePopup"
 

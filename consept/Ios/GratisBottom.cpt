@@ -529,7 +529,7 @@
 * Elementine tıkla "ProductAddButton"
 
 # Listeleme alanından bir ürünün favori butonuna tıklanır
-* "ProductsName" li elementi bul ve değerini "ürün adı" olarak sakla
+* "ListProductsName" li elementi bul ve değerini "ürün adı" olarak sakla
 * Element var mı kontrol et "PageToolbarTitleText"
 * Elementin yüklenmesini bekle "UrunDetay"
 * Elementin yüklenmesini bekle "FavBtn"

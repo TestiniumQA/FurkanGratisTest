@@ -248,9 +248,9 @@
 * Elementin yüklenmesini bekle "anasayfa"
 * Elementin yüklenmesini bekle "KampanyaSec"
 * "1" kere aşağıya kaydır
-* "ProductAddButton"li elementi bulana kadar "1" kere swipe yap ve elementi bul
-* Elementin yüklenmesini bekle "ProductAddButton"
-* Elementine tıkla "ProductAddButton"
+* "ProductAddButtonTwo"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "ProductAddButtonTwo"
+* Elementine tıkla "ProductAddButtonTwo"
 
 # Sepete Ekle butonu ile rastgele login olunur
 * "IOSmail" csv dosyasindan rastgele kullanici sec
@@ -443,9 +443,9 @@
 * "2" saniye bekle
 
 # En Çok Satanlar ürünlerine tıklanır
-* "ProductName"li elementi bulana kadar "1" kere swipe yap ve elementi bul
-* Elementin yüklenmesini bekle "ProductName"
-* Elementine tıkla "ProductName"
+* "ProductNameTwo"li elementi bulana kadar "1" kere swipe yap ve elementi bul
+* Elementin yüklenmesini bekle "ProductNameTwo"
+* Elementine tıkla "ProductNameTwo"
 * "2" saniye bekle
 * Element var mı kontrol et "ProductDetailTitle"
 * Element var mı kontrol et "ProductAddButton"
