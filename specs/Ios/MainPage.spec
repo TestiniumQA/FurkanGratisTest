@@ -132,3 +132,11 @@ tags:Gratis_IOS_EnSonGezdiklerimNonLoginSepeteGit
 * Sepete git'e tıklanır
 * Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
+
+
+
+Open Appppp
+---------
+tags: OpenApp
+
+* Uygulama baslatilir
